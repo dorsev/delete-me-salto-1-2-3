@@ -1,0 +1,24 @@
+type dummy.ProperCoralElisabet {
+  annotations {
+    hidden_boolean FantasticSapphireRegine {
+    }
+    serviceid SacredRedNorine {
+    }
+    hidden_boolean IntelligentMaroonLinnie {
+    }
+    serviceid_number BackMoccasinLoni {
+    }
+    boolean DistinctTurquoiseTatiania {
+    }
+    boolean WanderingTomatoSuzanna {
+    }
+  }
+  json IrishCrimsonErmina2 {
+    _hidden_value = true
+  }
+  SacredRedNorine = "What creature is smarter than a talking parrot? A spelling bee."
+  BackMoccasinLoni = 196
+  DistinctTurquoiseTatiania = false
+  WanderingTomatoSuzanna = false
+  _hidden_value = true
+}

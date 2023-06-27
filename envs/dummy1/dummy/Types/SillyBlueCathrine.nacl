@@ -1,0 +1,22 @@
+type dummy.SillyBlueCathrine {
+  annotations {
+    hidden_boolean EthnicLavenderKay {
+    }
+    boolean ReligiousCoralElene {
+    }
+    string OkSapphireRhodia3 {
+    }
+    serviceid_number MathematicalRoseOtha {
+    }
+    json IslamicRoseOlympie2 {
+    }
+  }
+  serviceid AcceptedTanSerene {
+    _hidden_value = true
+  }
+  ReligiousCoralElene = true
+  OkSapphireRhodia3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MathematicalRoseOtha = 261
+  IslamicRoseOlympie2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,80 @@
+type dummy.SurvivingSapphireRickie2 {
+  annotations {
+    boolean NarrowCyanFara2 {
+    }
+    dummy.MistyTurquoiseThea OfficialCopperDorise {
+    }
+    number RaspyApricotAnnora3 {
+    }
+    serviceid EvolutionarySilverRuby2 {
+    }
+    string DreadfulPinkMerrilee2 {
+    }
+  }
+  boolean ReducedPinkMeryl3 {
+    _hidden_value = true
+  }
+  boolean MightyTanShandie {
+    _hidden_value = true
+  }
+  hidden_boolean AnnoyedAquamarineBenni4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<string>" FlakyAmberAlfy4 {
+    _hidden_value = true
+  }
+  boolean JapaneseEmeraldFidelity2 {
+    _hidden_value = true
+  }
+  dummy.PhilosophicalRedNoell SkinnyAmberAlvera3 {
+    ExcitedBlackCarita = "Im only familiar with 25 letters in the English language. I dont know why."
+    SignificantBrownDanni = "What do you call two barracuda fish?  A Pairacuda!"
+    HilariousBlackCarolyn = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    WonderfulBlueCeleste = "Why is Peter Pan always flying? Because he Neverlands."
+    OutrageousAzureBreanne = 655
+    SoftCoralElayne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  boolean AggregateScarletRobby {
+    _hidden_value = true
+  }
+  string BlankPinkMelodie4 {
+    _hidden_value = true
+  }
+  boolean AverageAmaranthAarika4 {
+    _hidden_value = true
+  }
+  json ExcitingGreenIssy3 {
+    _hidden_value = true
+  }
+  string ConfusedMaroonLilah3 {
+    _hidden_value = true
+  }
+  number StrangeCoralEdithe2 {
+    _hidden_value = true
+  }
+  boolean ResultingPurpleNada2 {
+    _hidden_value = true
+  }
+  hidden_boolean FitHarlequinJaclyn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT CreepyAquamarineBess2 {
+    _hidden_value = true
+  }
+  serviceid BroadAmberAlie3 {
+    _hidden_value = true
+  }
+  NarrowCyanFara2 = false
+  OfficialCopperDorise = "A steak pun is a rare medium well done."
+  RaspyApricotAnnora3 = 548
+  EvolutionarySilverRuby2 = "What creature is smarter than a talking parrot? A spelling bee."
+  DreadfulPinkMerrilee2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

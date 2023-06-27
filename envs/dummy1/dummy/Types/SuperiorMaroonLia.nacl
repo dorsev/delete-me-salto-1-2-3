@@ -1,0 +1,168 @@
+type dummy.SuperiorMaroonLia {
+  annotations {
+    number FantasticBlackCarlita2 {
+    }
+    boolean MeltedAquaAurel {
+    }
+    hidden_boolean ConstitutionalHarlequinJayme3 {
+    }
+    number SunnyTanSharity5 {
+    }
+    number ElectronicGreenInga2 {
+    }
+    serviceid NaughtyAzureBonni {
+    }
+    serviceid_number HilariousBlackCarolynn {
+    }
+  }
+  dummy.PowerfulCopperDruci InternationalBlushClaudette3 {
+    WorryingSilverRozalin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RelevantCoffeeDoralia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SecretGrayHetty = 470
+    VulnerableJadeKarole = true
+    ElectoralLimeKristina = "A steak pun is a rare medium well done."
+    ChristianCoralElva = true
+    SmallBlueCharla = 564
+    WorryingSilverRozamond = false
+    VerticalOliveLynsey = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RespectiveSalmonPersis = 757
+    GladGoldGlyn = 521
+    _hidden_value = true
+  }
+  dummy.BusyCyanFayre BadBlushCicely2 {
+    OpenBronzeClerissa = true
+    FlakyAmberAli = "Did you know that protons have mass? I didn't even know they were catholic."
+    NovelScarletRosina = 87
+    RoundAmberAlmeria = 930
+    CuteTomatoTara = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    OralLimeKylynn2 = "Why is Peter Pan always flying? Because he Neverlands."
+    DailyCyanEveleen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AbundantAmethystAndeee = 939
+    InlandSalmonPrue = "Did you know that protons have mass? I didn't even know they were catholic."
+    StatisticalMagentaLanie = 510
+    _hidden_value = true
+  }
+  "List<string>" ThunderingApricotArabela {
+    _hidden_value = true
+  }
+  serviceid_number VictorianJadeKalli4 {
+    _hidden_value = true
+  }
+  string DoubtfulRosePansie2 {
+    _hidden_value = true
+  }
+  serviceid_number ResidentialIndigoJessi2 {
+    _hidden_value = true
+  }
+  serviceid_number GothicSapphireRamonda5 {
+    _hidden_value = true
+  }
+  hidden_boolean ProgressiveOliveMadeline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MagnificentMagentaLeena3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RegisteredPurpleNalani3 {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitrarySilverRowena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json GreyEmeraldFranky3 {
+    _hidden_value = true
+  }
+  number RudeTanShaylyn4 {
+    _hidden_value = true
+  }
+  json SensitiveGrayHenka5 {
+    _hidden_value = true
+  }
+  json FranticAzureBirdie {
+    _hidden_value = true
+  }
+  serviceid_number ArrogantAquamarineBernadene3 {
+    _hidden_value = true
+  }
+  serviceid_number GentleBlackCarmelle3 {
+    _hidden_value = true
+  }
+  serviceid_number ReligiousCoralElene3 {
+    _hidden_value = true
+  }
+  serviceid_number CruelPlumMichaela {
+    _hidden_value = true
+  }
+  serviceid SilkyAquaBabs3 {
+    _hidden_value = true
+  }
+  string TerribleBeigeBrina3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RespectableRosePearla {
+    _hidden_value = true
+  }
+  "List<string>" FunnyEmeraldGabbie {
+    _hidden_value = true
+  }
+  string ThinCyanEvania {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricGreenIngeborg3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean TurkishPurpleMoyna2 {
+    _hidden_value = true
+  }
+  serviceid_number ZanyYellowZsazsa2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntactRosePatricia2 {
+    _hidden_value = true
+  }
+  hidden_boolean LightCopperDulcia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BigVioletTonie4 {
+    _hidden_value = true
+  }
+  serviceid_number PreferredTanScarlet3 {
+    _hidden_value = true
+  }
+  boolean UncertainMagentaLela {
+    _hidden_value = true
+  }
+  serviceid ChosenSilverSarette2 {
+    _hidden_value = true
+  }
+  number ShallowAmberAloise5 {
+    _hidden_value = true
+  }
+  boolean QuietWhiteViviene2 {
+    _hidden_value = true
+  }
+  serviceid SuccessfulChocolateDaryl {
+    _hidden_value = true
+  }
+  serviceid_number FortunateRoseOllie3 {
+    _hidden_value = true
+  }
+  string FlakyAmberAlfy5 {
+    _hidden_value = true
+  }
+  FantasticBlackCarlita2 = 313
+  MeltedAquaAurel = false
+  SunnyTanSharity5 = 860
+  ElectronicGreenInga2 = 146
+  NaughtyAzureBonni = "Why didnt the skeleton cross the road? Because he had no guts."
+  HilariousBlackCarolynn = 947
+  _hidden_value = true
+}

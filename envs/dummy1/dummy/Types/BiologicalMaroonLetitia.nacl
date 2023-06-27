@@ -1,0 +1,76 @@
+type dummy.BiologicalMaroonLetitia {
+  annotations {
+    string HealthyBlackCarole {
+    }
+    serviceid_number AdequateGrayHilde {
+    }
+    serviceid RainyWhiteWalliw {
+    }
+    serviceid SemanticRedNissa {
+    }
+    number BlindIvoryJudi {
+    }
+    hidden_boolean PersistentRosePam3 {
+    }
+  }
+  dummy.MaximumGreenIlyssa InterimOrangeMalory {
+    _hidden_value = true
+  }
+  number QuickAmethystAmil2 {
+    _hidden_value = true
+  }
+  serviceid ManyWhiteVera2 {
+    _hidden_value = true
+  }
+  serviceid_number YellowGoldGiulia2 {
+    _hidden_value = true
+  }
+  serviceid ParentalRedNichole {
+    _hidden_value = true
+  }
+  string UniqueFuchsiaGerta {
+    _hidden_value = true
+  }
+  number DeafIvoryJoya2 {
+    _hidden_value = true
+  }
+  json PurpleWhiteVivian4 {
+    _hidden_value = true
+  }
+  number ConfidentHarlequinJaime {
+    _hidden_value = true
+  }
+  boolean KindVioletVally {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TartYellowWynny {
+    _hidden_value = true
+  }
+  number IsolatedPeachMarla {
+    _hidden_value = true
+  }
+  number TotalBrownDanice {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NationalBlushCherida {
+    _hidden_value = true
+  }
+  json CharmingPlumMorena {
+    _hidden_value = true
+  }
+  "List<boolean>" FiscalRedNiki3 {
+    _hidden_value = true
+  }
+  json FellowIvoryJustina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BloodyTomatoTallou {
+    _hidden_value = true
+  }
+  HealthyBlackCarole = "What do you call two barracuda fish?  A Pairacuda!"
+  AdequateGrayHilde = 106
+  RainyWhiteWalliw = "A steak pun is a rare medium well done."
+  SemanticRedNissa = "Slept like a log last night  woke up in the fireplace."
+  BlindIvoryJudi = 265
+  _hidden_value = true
+}

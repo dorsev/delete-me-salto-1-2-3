@@ -1,0 +1,22 @@
+type dummy.ShortYellowWilow4 {
+  annotations {
+    number StormyTurquoiseTilly {
+    }
+    number SocialistHarlequinJacquenette {
+    }
+    hidden_boolean HelpfulHarlequinJanetta {
+    }
+    serviceid_number EnergeticBlackCarie {
+    }
+    dummy.ColdChocolateDebby LonelyAzureBobette {
+    }
+  }
+  serviceid_number ConvenientMagentaLeesa2 {
+    _hidden_value = true
+  }
+  StormyTurquoiseTilly = 555
+  SocialistHarlequinJacquenette = 743
+  EnergeticBlackCarie = 652
+  LonelyAzureBobette = 791
+  _hidden_value = true
+}

@@ -1,0 +1,36 @@
+type dummy.AlrightGoldGoldina {
+  annotations {
+    string CorrespondingPlumMinta {
+    }
+    boolean SpontaneousTanSharyl {
+    }
+    number SouthernCyanEvey {
+    }
+  }
+  dummy.ToughYellowYsabel PreferredTanSavina {
+    GrubbyAquaAubry = 183
+    _hidden_value = true
+  }
+  serviceid_number OlympicRedNessa3 {
+    _hidden_value = true
+  }
+  hidden_boolean ImaginativeTanSeline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SmallAmaranthAgatha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NutritiousWhiteVilhelmina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CorrespondingPlumMinta = "Why did the kid cross the playground? To get to the other slide."
+  SpontaneousTanSharyl = false
+  SouthernCyanEvey = 197
+  _hidden_value = true
+}

@@ -1,0 +1,70 @@
+type dummy.SocialistHarlequinJacquenette2 {
+  annotations {
+    serviceid_number SharedPinkMelba {
+    }
+    serviceid_number DisastrousScarletRochell {
+    }
+    dummy.DelightedIvoryJulianne DirectChocolateDdene2 {
+    }
+    string SplendidBlueCatina {
+    }
+    number FamiliarCrimsonEthel {
+    }
+    serviceid_number PopularChocolateDavina {
+    }
+  }
+  hidden_boolean ChemicalGreenIseabal {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ObligedOrangeMarcelline2 {
+    _hidden_value = true
+  }
+  "List<boolean>" TameTomatoSusanna {
+    _hidden_value = true
+  }
+  serviceid_number CompactPurpleNannette {
+    _hidden_value = true
+  }
+  serviceid TheoreticalIndigoJenilee {
+    _hidden_value = true
+  }
+  boolean SlightGoldGwenora2 {
+    _hidden_value = true
+  }
+  serviceid_number InfluentialMoccasinLorenza {
+    _hidden_value = true
+  }
+  number OddWhiteVinita2 {
+    _hidden_value = true
+  }
+  number EnchantingBlackCaresa2 {
+    _hidden_value = true
+  }
+  serviceid FoolishSapphireRemy {
+    _hidden_value = true
+  }
+  string ClumsyVioletTraci2 {
+    _hidden_value = true
+  }
+  serviceid LivelyPeachMarylinda2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RollingSilverRubie {
+    _hidden_value = true
+  }
+  serviceid SpecificBrownDarb {
+    _hidden_value = true
+  }
+  serviceid PositiveCoffeeDona {
+    _hidden_value = true
+  }
+  SharedPinkMelba = 716
+  DisastrousScarletRochell = 882
+  DirectChocolateDdene2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SplendidBlueCatina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FamiliarCrimsonEthel = 484
+  PopularChocolateDavina = 345
+  _hidden_value = true
+}

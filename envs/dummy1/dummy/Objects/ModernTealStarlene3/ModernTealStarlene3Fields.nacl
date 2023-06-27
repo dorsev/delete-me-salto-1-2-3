@@ -1,0 +1,25 @@
+type dummy.ModernTealStarlene3 {
+  string FantasticSapphireRegina2 {
+  }
+  json FoolishAzureBinni3 {
+  }
+  hidden_boolean CharmingPlumMorgan {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid InfluentialMoccasinLorenza4 {
+  }
+  hidden_boolean GoodBlackCaro3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DutchLavenderKendre3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid StormyTurquoiseTim5 {
+  }
+}

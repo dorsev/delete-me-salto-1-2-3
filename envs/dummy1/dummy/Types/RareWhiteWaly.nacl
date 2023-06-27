@@ -1,0 +1,23 @@
+type dummy.RareWhiteWaly {
+  annotations {
+    dummy.OkSapphireRhoda JoyousBlackCarrie2 {
+    }
+    dummy.AdjacentSilverRoxi ThunderingApricotArabelle {
+    }
+    number PaleGrayHarriett2 {
+    }
+    string DyingScarletRoby3 {
+    }
+    number DullMoccasinLori {
+    }
+  }
+  number CoolGreenInna {
+    _hidden_value = true
+  }
+  JoyousBlackCarrie2 = "Why was it called the dark ages? Because of all the knights. "
+  ThunderingApricotArabelle = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PaleGrayHarriett2 = 856
+  DyingScarletRoby3 = "Slept like a log last night  woke up in the fireplace."
+  DullMoccasinLori = 621
+  _hidden_value = true
+}

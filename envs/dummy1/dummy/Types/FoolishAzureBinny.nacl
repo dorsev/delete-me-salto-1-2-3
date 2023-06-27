@@ -1,0 +1,22 @@
+type dummy.FoolishAzureBinny {
+  annotations {
+    serviceid_number AdministrativeGreenHollyanne {
+    }
+    serviceid DeliberateRedNoella {
+    }
+    boolean NervousHarlequinJany {
+    }
+    hidden_boolean UpperCyanFaunie {
+    }
+    string PrimitiveOrangeMargalit2 {
+    }
+  }
+  boolean ZanyYellowZsazsa {
+    _hidden_value = true
+  }
+  AdministrativeGreenHollyanne = 928
+  DeliberateRedNoella = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NervousHarlequinJany = false
+  PrimitiveOrangeMargalit2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

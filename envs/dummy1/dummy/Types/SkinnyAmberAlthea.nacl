@@ -1,0 +1,24 @@
+type dummy.SkinnyAmberAlthea {
+  annotations {
+    serviceid ExplicitMaroonLise {
+    }
+    string UnevenAquamarineBeitris {
+    }
+    number PopularChocolateDaveta2 {
+    }
+    string FoolishAzureBinni2 {
+    }
+    json MarxistSapphireRaine {
+    }
+  }
+  dummy.ToughYellowYsabel EquivalentJadeKaleena2 {
+    GrubbyAquaAubry = 493
+    _hidden_value = true
+  }
+  ExplicitMaroonLise = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UnevenAquamarineBeitris = "Why do birds fly south for the winter? Because it's too far to walk."
+  PopularChocolateDaveta2 = 316
+  FoolishAzureBinni2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MarxistSapphireRaine = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

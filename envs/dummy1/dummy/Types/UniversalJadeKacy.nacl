@@ -1,0 +1,33 @@
+type dummy.UniversalJadeKacy {
+  annotations {
+    serviceid TypicalEmeraldFrancesca2 {
+    }
+    json EnglishBrownCris {
+    }
+    hidden_boolean RaspyApricotAnnmarie {
+    }
+    serviceid StatutoryGrayHatti {
+    }
+    number FavouriteHarlequinJacqueline {
+    }
+  }
+  hidden_boolean DeafeningAmethystAngie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SacredRedNorma {
+    _hidden_value = true
+  }
+  number RareWhiteWanda {
+    _hidden_value = true
+  }
+  serviceid_number OrangePurpleMufi2 {
+    _hidden_value = true
+  }
+  TypicalEmeraldFrancesca2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EnglishBrownCris = "Dad Im hungry  Hi hungry Im dad"
+  StatutoryGrayHatti = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FavouriteHarlequinJacqueline = 563
+  _hidden_value = true
+}

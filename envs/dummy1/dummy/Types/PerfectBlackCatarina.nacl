@@ -1,0 +1,26 @@
+type dummy.PerfectBlackCatarina {
+  annotations {
+    hidden_boolean BroadAmberAlika {
+    }
+    string AwakeRedNoemi {
+    }
+    boolean ProvincialPeachMariya2 {
+    }
+    boolean DeafeningAmethystAngil2 {
+    }
+    hidden_boolean HumanBronzeConstancy {
+    }
+    serviceid VulnerableJadeKarola {
+    }
+    hidden_boolean CrazyTealSibylla {
+    }
+  }
+  boolean SillyYellowWinna2 {
+    _hidden_value = true
+  }
+  AwakeRedNoemi = "How come the stadium got hot after the game? Because all of the fans left."
+  ProvincialPeachMariya2 = false
+  DeafeningAmethystAngil2 = true
+  VulnerableJadeKarola = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

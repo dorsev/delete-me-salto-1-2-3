@@ -1,0 +1,68 @@
+type dummy.RomanticMagentaLeah3 {
+  annotations {
+    boolean PoliticalBlushChloette3 {
+    }
+    boolean ElectricGreenIngeborg4 {
+    }
+    string FormidableSilverSabrina2 {
+    }
+    boolean NeighbouringPurpleNancee {
+    }
+    boolean FlyingMoccasinLoralyn3 {
+    }
+  }
+  "List<hidden_boolean>" FilthyTurquoiseTeirtza {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json HistoricalCyanEvangelia2 {
+    _hidden_value = true
+  }
+  hidden_boolean ReadyChocolateDebee4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number RegularCopperDorris5 {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRasia3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json LegitimatePinkMay4 {
+    _hidden_value = true
+  }
+  json HighAmberAllissa5 {
+    _hidden_value = true
+  }
+  number CriminalFuchsiaGeorgette3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeeklyLavenderKeslie3 {
+    _hidden_value = true
+  }
+  serviceid_number SurroundingOrangeMargette3 {
+    _hidden_value = true
+  }
+  json HelplessTealSonny2 {
+    _hidden_value = true
+  }
+  string HappyBrownDaisie2 {
+    _hidden_value = true
+  }
+  boolean VaguePinkMei5 {
+    _hidden_value = true
+  }
+  json RoundYellowWilie2 {
+    _hidden_value = true
+  }
+  PoliticalBlushChloette3 = true
+  ElectricGreenIngeborg4 = true
+  FormidableSilverSabrina2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NeighbouringPurpleNancee = true
+  FlyingMoccasinLoralyn3 = true
+  _hidden_value = true
+}

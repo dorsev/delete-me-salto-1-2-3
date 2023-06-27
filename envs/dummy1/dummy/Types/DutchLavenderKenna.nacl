@@ -1,0 +1,26 @@
+type dummy.DutchLavenderKenna {
+  annotations {
+    json RegisteredPurpleNalani {
+    }
+    serviceid ShortYellowWilow {
+    }
+    serviceid ElectricGreenIngrid {
+    }
+    serviceid_number UncertainMagentaLelia {
+    }
+    number FierceOliveMaisey {
+    }
+    json CrazyVioletTresa {
+    }
+  }
+  boolean BlankPinkMelody {
+    _hidden_value = true
+  }
+  RegisteredPurpleNalani = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ShortYellowWilow = "Why didnt the skeleton cross the road? Because he had no guts."
+  ElectricGreenIngrid = "A steak pun is a rare medium well done."
+  UncertainMagentaLelia = 433
+  FierceOliveMaisey = 465
+  CrazyVioletTresa = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

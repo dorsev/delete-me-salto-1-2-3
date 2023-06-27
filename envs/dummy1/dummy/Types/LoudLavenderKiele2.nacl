@@ -1,0 +1,18 @@
+type dummy.LoudLavenderKiele2 {
+  annotations {
+    hidden_boolean AdjacentSilverRoxanna {
+    }
+    number CommonBronzeConsuela2 {
+    }
+    string EldestTanSharline3 {
+    }
+    hidden_boolean FantasticSapphireRegine2 {
+    }
+  }
+  number CapitalistMagentaLayne {
+    _hidden_value = true
+  }
+  CommonBronzeConsuela2 = 231
+  EldestTanSharline3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

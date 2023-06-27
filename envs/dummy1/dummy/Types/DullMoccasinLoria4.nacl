@@ -1,0 +1,72 @@
+type dummy.DullMoccasinLoria4 {
+  annotations {
+    number IndirectPeachMarty {
+    }
+    string PresentBrownCristen {
+    }
+    number AbsentPinkMelosa {
+    }
+    string FlatGrayHannis2 {
+    }
+    json NervousHarlequinJaquelin {
+    }
+    boolean ProperCoralElisa3 {
+    }
+    serviceid_number ComplicatedIndigoJoanie5 {
+    }
+  }
+  serviceid ComplicatedIndigoJoanne2 {
+    _hidden_value = true
+  }
+  dummy.LightCopperDulciana AustralianJadeKata2 {
+    _hidden_value = true
+  }
+  boolean ClearTomatoTammi {
+    _hidden_value = true
+  }
+  serviceid DryAmberAlexandra3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CompleteCoffeeDevina {
+    _hidden_value = true
+  }
+  string InternalCoralEdyth3 {
+    _hidden_value = true
+  }
+  serviceid_number ValuableGoldGwynne2 {
+    _hidden_value = true
+  }
+  serviceid_number SorryBrownDanyette5 {
+    _hidden_value = true
+  }
+  hidden_boolean StructuralIvoryJosephine3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number FlyingMoccasinLoree {
+    _hidden_value = true
+  }
+  hidden_boolean CurvedAmberAlisun5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ColossalAmaranthAbigael2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EthicalScarletRobena2 {
+    _hidden_value = true
+  }
+  serviceid_number GreenVioletUlrica3 {
+    _hidden_value = true
+  }
+  IndirectPeachMarty = 308
+  PresentBrownCristen = "Why did the kid cross the playground? To get to the other slide."
+  AbsentPinkMelosa = 181
+  FlatGrayHannis2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NervousHarlequinJaquelin = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProperCoralElisa3 = false
+  ComplicatedIndigoJoanie5 = 372
+  _hidden_value = true
+}

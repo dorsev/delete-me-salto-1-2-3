@@ -1,0 +1,28 @@
+type dummy.ResidentSalmonRachelle4 {
+  annotations {
+    boolean LegitimatePinkMay3 {
+    }
+    number EmptyAmethystAndra2 {
+    }
+    boolean SuperbMagentaLaurena3 {
+    }
+    number TartYellowXaviera2 {
+    }
+    serviceid BrokenAmaranthAile4 {
+    }
+    hidden_boolean LoyalPurpleNatala2 {
+    }
+    number AcademicEmeraldFulvia3 {
+    }
+  }
+  serviceid ReadyChocolateDebera2 {
+    _hidden_value = true
+  }
+  LegitimatePinkMay3 = true
+  EmptyAmethystAndra2 = 847
+  SuperbMagentaLaurena3 = false
+  TartYellowXaviera2 = 937
+  BrokenAmaranthAile4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AcademicEmeraldFulvia3 = 224
+  _hidden_value = true
+}

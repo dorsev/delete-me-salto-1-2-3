@@ -1,0 +1,82 @@
+type dummy.WellFuchsiaGisele {
+  annotations {
+    string FriendlyVioletTrudy2 {
+    }
+    hidden_boolean BadAquamarineBernetta {
+    }
+    string ShortAmethystAnabal3 {
+    }
+    number RealisticMoccasinLona3 {
+    }
+    serviceid NearbyLimeKora {
+    }
+  }
+  dummy.CorrespondingPlumMiquela ProminentLavenderKeely4 {
+    DelightedIvoryJulianna = 461
+    FrightenedMagentaLaverne = false
+    VariousBrownCorry = false
+    MolecularRedNertie = true
+    ExtensiveGoldGloriane = 830
+    _hidden_value = true
+  }
+  dummy.CompactPurpleNanny SmoothAquamarineBarbette2 {
+    ControlledTanSheilakathryn = "Whoever invented the knock-knock joke should get a no bell prize."
+    CleanCyanFernande = 768
+    JoyousBlackCarry = 225
+    ColorfulTomatoTandie = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    SophisticatedJadeKarlene = 191
+    CuriousLimeKira = 686
+    MentalCrimsonEsme = 570
+    MeltedAquaAura = "Im only familiar with 25 letters in the English language. I dont know why."
+    ShiveringAquaBabbie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ProgressiveOliveMadelin = 287
+    WillingGoldGustie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FrontCopperEadith = 275
+    CreepyAquamarineBeryle = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  serviceid CharmingPlumMorgana3 {
+    _hidden_value = true
+  }
+  hidden_boolean CourageousBeigeCammi3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" LeadingCrimsonEma {
+    _hidden_value = true
+  }
+  number LatinLimeKonstance3 {
+    _hidden_value = true
+  }
+  json TraditionalChocolateDeidre2 {
+    _hidden_value = true
+  }
+  hidden_boolean JuniorIvoryJoni {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OptimisticRosePearle {
+    _hidden_value = true
+  }
+  boolean RelativeGoldGuillema3 {
+    _hidden_value = true
+  }
+  serviceid_number ElatedBeigeCaralie {
+    _hidden_value = true
+  }
+  boolean WellFuchsiaGipsy3 {
+    _hidden_value = true
+  }
+  string AsleepJadeKarlyn2 {
+    _hidden_value = true
+  }
+  FriendlyVioletTrudy2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ShortAmethystAnabal3 = "A steak pun is a rare medium well done."
+  RealisticMoccasinLona3 = 606
+  NearbyLimeKora = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

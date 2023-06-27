@@ -1,0 +1,40 @@
+type dummy.ComprehensiveGreenHyacinthia {
+  annotations {
+    serviceid_number SorryBrownDanyette2 {
+    }
+    string RelievedSalmonPetronia {
+    }
+    json StrangeYellowWinnie {
+    }
+    hidden_boolean DisturbingTealSheri {
+    }
+    hidden_boolean AppropriateChocolateDarcie {
+    }
+    hidden_boolean GenerousLavenderKayley {
+    }
+  }
+  serviceid VictoriousBlueCecil {
+    _hidden_value = true
+  }
+  json PregnantLimeKlara {
+    _hidden_value = true
+  }
+  serviceid LateBlushChristabella {
+    _hidden_value = true
+  }
+  serviceid WesternChocolateDeeyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CharacteristicOliveMalia {
+    _hidden_value = true
+  }
+  hidden_boolean SubsequentFuchsiaGilemette3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SorryBrownDanyette2 = 507
+  RelievedSalmonPetronia = "Why is Peter Pan always flying? Because he Neverlands."
+  StrangeYellowWinnie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

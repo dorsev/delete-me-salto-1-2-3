@@ -1,0 +1,35 @@
+type dummy.AnonymousSapphireRayna3 {
+  annotations {
+    string ShinyTurquoiseTiffani2 {
+    }
+    string ComplexCopperDrusi {
+    }
+    dummy.SupremeGreenIsabella PerfectCyanEudora {
+    }
+    number BigAmaranthAbagail {
+    }
+    serviceid_number BoredPlumMora3 {
+    }
+  }
+  string RottenApricotAriela {
+    _hidden_value = true
+  }
+  number NuttyWhiteVikky2 {
+    _hidden_value = true
+  }
+  serviceid_number SystematicOrangeMarcelia2 {
+    _hidden_value = true
+  }
+  number MagicOrangeMara {
+    _hidden_value = true
+  }
+  string ExceptionalOliveMadlin2 {
+    _hidden_value = true
+  }
+  ShinyTurquoiseTiffani2 = "What do you call two barracuda fish?  A Pairacuda!"
+  ComplexCopperDrusi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PerfectCyanEudora = 468
+  BigAmaranthAbagail = 70
+  BoredPlumMora3 = 560
+  _hidden_value = true
+}

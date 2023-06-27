@@ -1,0 +1,69 @@
+type dummy.SwissPlumMignonne {
+  annotations {
+    serviceid_number HurtAzureBlondy {
+    }
+    boolean GrandEmeraldFrances3 {
+    }
+    serviceid DualSapphireRhiamon2 {
+    }
+    number DevelopedPinkMerissa {
+    }
+    serviceid_number LiveIndigoJodi3 {
+    }
+    serviceid_number ContentPeachMatilda {
+    }
+  }
+  hidden_boolean BrightVioletTory {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ConfidentHarlequinJade4 {
+    _hidden_value = true
+  }
+  serviceid_number TightIvoryJoelynn2 {
+    _hidden_value = true
+  }
+  serviceid KeenGrayHana2 {
+    _hidden_value = true
+  }
+  serviceid EssentialCoffeeDione2 {
+    _hidden_value = true
+  }
+  string UnlikelyCrimsonEthelind2 {
+    _hidden_value = true
+  }
+  json LiquidRosePage3 {
+    _hidden_value = true
+  }
+  string VariableRedNolie {
+    _hidden_value = true
+  }
+  serviceid QualifiedPinkMelli3 {
+    _hidden_value = true
+  }
+  "List<json>" OutstandingTealStefanie {
+    _hidden_value = true
+  }
+  boolean JealousAzureBobbye {
+    _hidden_value = true
+  }
+  hidden_boolean DeepAmberAllene {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string HardAquaAudie4 {
+    _hidden_value = true
+  }
+  number WorkingCrimsonEmmalee3 {
+    _hidden_value = true
+  }
+  HurtAzureBlondy = 978
+  GrandEmeraldFrances3 = false
+  DualSapphireRhiamon2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  DevelopedPinkMerissa = 296
+  LiveIndigoJodi3 = 211
+  ContentPeachMatilda = 422
+  _hidden_value = true
+}

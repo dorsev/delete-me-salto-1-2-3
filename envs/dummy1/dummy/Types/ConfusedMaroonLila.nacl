@@ -1,0 +1,6 @@
+type dummy.ConfusedMaroonLila is string {
+  annotations {
+    hidden_boolean DevotedRosePaulette {
+    }
+  }
+}

@@ -1,0 +1,28 @@
+type dummy.ElegantTurquoiseTeddie2 {
+  annotations {
+    serviceid HardBronzeCordie3 {
+    }
+    hidden_boolean EthicalScarletRobenia2 {
+    }
+    string MobilePurpleMorissa3 {
+    }
+    json ScaryBeigeBrenna3 {
+    }
+    number ScreechingApricotAnthea3 {
+    }
+    serviceid ShortAmethystAnabella5 {
+    }
+    string SoundRoseOlga3 {
+    }
+  }
+  "List<serviceid>" BlueVioletTori3 {
+    _hidden_value = true
+  }
+  HardBronzeCordie3 = "Dad Im hungry  Hi hungry Im dad"
+  MobilePurpleMorissa3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ScaryBeigeBrenna3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ScreechingApricotAnthea3 = 239
+  ShortAmethystAnabella5 = "Dad Im hungry  Hi hungry Im dad"
+  SoundRoseOlga3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

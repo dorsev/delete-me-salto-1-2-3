@@ -1,0 +1,68 @@
+type dummy.CleanTomatoTamiko {
+  annotations {
+    serviceid ProperCoralElisa {
+    }
+    number LongVioletVanessa {
+    }
+    serviceid_number RespectiveSalmonPerry2 {
+    }
+    dummy.DEFAULT ProfoundPinkMerla2 {
+    }
+    dummy.OddFuchsiaGenna AdorableTomatoSybyl {
+    }
+  }
+  json ChosenSilverSarina {
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticPinkMead2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NosyWhiteVicky4 {
+    _hidden_value = true
+  }
+  hidden_boolean IraqiOliveMadelle3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT BasicChocolateDarice {
+    _hidden_value = true
+  }
+  number ShyTomatoStormie2 {
+    _hidden_value = true
+  }
+  json GlamorousTurquoiseTerese {
+    _hidden_value = true
+  }
+  serviceid InquisitiveTealStacy {
+    _hidden_value = true
+  }
+  boolean SubstantialCoralElsinore2 {
+    _hidden_value = true
+  }
+  string PoliteSalmonRafa {
+    _hidden_value = true
+  }
+  string SubjectiveSapphireRiannon {
+    _hidden_value = true
+  }
+  serviceid InnocentTealStacee2 {
+    _hidden_value = true
+  }
+  boolean PreliminaryOliveLyndsey2 {
+    _hidden_value = true
+  }
+  boolean ViolentIvoryJoli {
+    _hidden_value = true
+  }
+  ProperCoralElisa = "What creature is smarter than a talking parrot? A spelling bee."
+  LongVioletVanessa = 618
+  RespectiveSalmonPerry2 = 705
+  ProfoundPinkMerla2 = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  AdorableTomatoSybyl = 479
+  _hidden_value = true
+}

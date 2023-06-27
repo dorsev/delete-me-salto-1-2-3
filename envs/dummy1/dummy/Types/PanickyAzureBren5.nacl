@@ -1,0 +1,57 @@
+type dummy.PanickyAzureBren5 {
+  annotations {
+    number UrgentLimeKristyn {
+    }
+    json ExternalEmeraldFlorie {
+    }
+    number HighAmberAllissa3 {
+    }
+    serviceid PuzzledTanShandy {
+    }
+    boolean StupidTomatoSusan {
+    }
+    hidden_boolean CommonBronzeConsuelo3 {
+    }
+    string ReadyChocolateDebor2 {
+    }
+  }
+  serviceid NaturalBrownCristy3 {
+    _hidden_value = true
+  }
+  json GermanChocolateDelila {
+    _hidden_value = true
+  }
+  serviceid_number ClassicJadeKaitlynn {
+    _hidden_value = true
+  }
+  serviceid StupidTomatoSusan2 {
+    _hidden_value = true
+  }
+  boolean RidiculousMoccasinLiza {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TechnologicalOrangeMaribel {
+    _hidden_value = true
+  }
+  json ItalianGoldGray {
+    _hidden_value = true
+  }
+  json RedundantSalmonPhilippe3 {
+    _hidden_value = true
+  }
+  number WorryingSilverRozalie {
+    _hidden_value = true
+  }
+  hidden_boolean LittleBlushChloe2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  UrgentLimeKristyn = 90
+  ExternalEmeraldFlorie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HighAmberAllissa3 = 354
+  PuzzledTanShandy = "Im only familiar with 25 letters in the English language. I dont know why."
+  StupidTomatoSusan = false
+  ReadyChocolateDebor2 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

@@ -1,0 +1,32 @@
+type dummy.JitteryVioletValeria {
+  annotations {
+    number BindingSalmonPet {
+    }
+    serviceid_number InsufficientPurpleNedi2 {
+    }
+    boolean OrganisationalTanShari {
+    }
+    serviceid AnnoyedAquamarineBenni {
+    }
+    number MiddleCopperDusty {
+    }
+  }
+  serviceid_number GoldenGrayHaleigh2 {
+    _hidden_value = true
+  }
+  serviceid_number WelshGrayHatty {
+    _hidden_value = true
+  }
+  string BlushingTomatoTalya {
+    _hidden_value = true
+  }
+  number LiquidRosePaige {
+    _hidden_value = true
+  }
+  BindingSalmonPet = 227
+  InsufficientPurpleNedi2 = 750
+  OrganisationalTanShari = false
+  AnnoyedAquamarineBenni = "A steak pun is a rare medium well done."
+  MiddleCopperDusty = 755
+  _hidden_value = true
+}

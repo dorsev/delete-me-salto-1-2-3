@@ -1,0 +1,43 @@
+type dummy.PersonalBronzeCordelie {
+  annotations {
+    boolean NotablePeachMartita {
+    }
+    number CircularRoseOriana {
+    }
+    json LateBlushChristalle2 {
+    }
+  }
+  hidden_boolean FewAmethystAndria2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FrailVioletTrude3 {
+    _hidden_value = true
+  }
+  string DeafIvoryJoy2 {
+    _hidden_value = true
+  }
+  string SlipperyAquamarineBarbaraanne4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CorrectCrimsonErin5 {
+    _hidden_value = true
+  }
+  serviceid_number OperationalOrangeMarian3 {
+    _hidden_value = true
+  }
+  json TerribleBeigeBriney5 {
+    _hidden_value = true
+  }
+  string ActiveCopperDre {
+    _hidden_value = true
+  }
+  serviceid SubtleMoccasinLuciana2 {
+    _hidden_value = true
+  }
+  NotablePeachMartita = false
+  CircularRoseOriana = 859
+  LateBlushChristalle2 = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

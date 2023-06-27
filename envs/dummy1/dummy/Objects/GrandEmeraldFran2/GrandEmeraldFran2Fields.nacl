@@ -1,0 +1,41 @@
+type dummy.GrandEmeraldFran2 {
+  dummy.WonderfulEmeraldFlossy DefiantAzureBetteann2 {
+    SoundRoseOlenka = 868
+    HorizontalSalmonPrudi = "Whoever invented the knock-knock joke should get a no bell prize."
+    SlipperyAquamarineBarbaraanne = 600
+    AgriculturalGoldGoldia = 825
+    ClumsyVioletTracie = 20
+    MixedMaroonLesly = true
+    RigidPinkMerrill = 393
+    PureGrayHenryetta = 78
+    UnemployedIvoryJolie = "Why didnt the skeleton cross the road? Because he had no guts."
+    GratefulIvoryJorrie = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  boolean WellFuchsiaGipsy5 {
+  }
+  serviceid ShockedPinkMelisenda2 {
+  }
+  string WeirdSilverRozanne3 {
+  }
+  serviceid_number DarkTomatoTarra3 {
+  }
+  serviceid LoudApricotAnnadiane3 {
+  }
+  json OutsideGrayHelenka6 {
+  }
+  dummy.LiveIndigoJodi2 MaleCoffeeDiannne6 {
+    UpperCyanFaunie2 = 608
+    ScaryYellowWilli = 157
+    UpsetOliveMabel2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PoorTealSteffie = 363
+  }
+  hidden_boolean AverageTomatoTabbi3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  number FlatAmberAllie {
+  }
+  string RoughGreenIdell2 {
+  }
+}

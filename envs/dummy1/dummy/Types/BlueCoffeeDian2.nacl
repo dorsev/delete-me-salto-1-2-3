@@ -1,0 +1,73 @@
+type dummy.BlueCoffeeDian2 {
+  annotations {
+    number CasualOliveLurlene {
+    }
+    boolean PreviousBrownDania4 {
+    }
+    number PrettyWhiteVirgie3 {
+    }
+    boolean SovietChocolateDaria {
+    }
+    string DeepChocolateDeloria {
+    }
+    boolean VoicelessApricotArdeen {
+    }
+  }
+  json FrontCopperEadith3 {
+    _hidden_value = true
+  }
+  json RegionalCopperDorie {
+    _hidden_value = true
+  }
+  json ElaborateRedNicolea {
+    _hidden_value = true
+  }
+  string AllegedOliveLynna3 {
+    _hidden_value = true
+  }
+  hidden_boolean SignificantBrownDanit {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ArabLimeKirsteni {
+    _hidden_value = true
+  }
+  json SocialistHarlequinJacquenette4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TiredGoldGrete2 {
+    _hidden_value = true
+  }
+  string EnglishBrownCris2 {
+    _hidden_value = true
+  }
+  json SharpFuchsiaGeorgine2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MedievalJadeKarel {
+    _hidden_value = true
+  }
+  serviceid_number LongBlueChelsy3 {
+    _hidden_value = true
+  }
+  number DisappointedMagentaLaurie {
+    _hidden_value = true
+  }
+  string TechnologicalOrangeMarianne2 {
+    _hidden_value = true
+  }
+  string FilthyTurquoiseTeodora3 {
+    _hidden_value = true
+  }
+  string FantasticSapphireRegine3 {
+    _hidden_value = true
+  }
+  CasualOliveLurlene = 986
+  PreviousBrownDania4 = false
+  PrettyWhiteVirgie3 = 138
+  SovietChocolateDaria = false
+  DeepChocolateDeloria = "Slept like a log last night  woke up in the fireplace."
+  VoicelessApricotArdeen = false
+  _hidden_value = true
+}

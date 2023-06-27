@@ -1,0 +1,75 @@
+type dummy.BizarreTanSeana {
+  annotations {
+    hidden_boolean UniformScarletRosalynd {
+    }
+    number BoredPlumMonique {
+    }
+    string IsolatedPeachMarjy {
+    }
+    hidden_boolean IndirectPeachMartynne {
+    }
+    dummy.DEFAULT DifferentBlueCharlene {
+    }
+    number RemainingGoldGolda {
+    }
+  }
+  number DistinguishedPurpleNathalia {
+    _hidden_value = true
+  }
+  string DiverseRedNicol {
+    _hidden_value = true
+  }
+  number ScreechingApricotAnthea {
+    _hidden_value = true
+  }
+  serviceid_number LargeBlueCharmain {
+    _hidden_value = true
+  }
+  boolean ConfidentHarlequinJada {
+    _hidden_value = true
+  }
+  string DramaticGoldHaily {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RenewedSilverSandye {
+    _hidden_value = true
+  }
+  hidden_boolean SacredRedNorina3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FreeBronzeCody {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TraditionalChocolateDeirdre {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EquivalentJadeKaleena {
+    _hidden_value = true
+  }
+  serviceid DevelopingHarlequinJeanine2 {
+    _hidden_value = true
+  }
+  serviceid RegisteredPurpleNadya {
+    _hidden_value = true
+  }
+  number ColdChocolateDebbi {
+    _hidden_value = true
+  }
+  serviceid ZealousBlueCelestine {
+    _hidden_value = true
+  }
+  serviceid IcyAquaAudy {
+    _hidden_value = true
+  }
+  BoredPlumMonique = 314
+  IsolatedPeachMarjy = "Why do birds fly south for the winter? Because it's too far to walk."
+  DifferentBlueCharlene = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  RemainingGoldGolda = 909
+  _hidden_value = true
+}

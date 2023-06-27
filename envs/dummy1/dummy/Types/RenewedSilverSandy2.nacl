@@ -1,0 +1,122 @@
+type dummy.RenewedSilverSandy2 {
+  annotations {
+    json InteriorPurpleNatty {
+    }
+    string OppositeHarlequinJanean {
+    }
+    serviceid ObedientBlackCassie3 {
+    }
+    boolean IncreasingCyanEvonne {
+    }
+    number EerieAzureBevvy2 {
+    }
+    serviceid VividTanShay {
+    }
+  }
+  dummy.GoodBlackCarmita PeacefulOrangeMargret {
+    TastelessAquaAshlee2 = "Did you know that protons have mass? I didn't even know they were catholic."
+    RequiredMaroonLeticia = false
+    ObjectiveOrangeMamie = 944
+    InappropriateRoseOttilie = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  number OrangePurpleMufinella2 {
+    _hidden_value = true
+  }
+  hidden_boolean RisingScarletRosemary2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ElaborateRedNicolette2 {
+    _hidden_value = true
+  }
+  serviceid NiceWhiteVevay {
+    _hidden_value = true
+  }
+  json PhilosophicalRedNoell2 {
+    _hidden_value = true
+  }
+  string PainfulMaroonLily2 {
+    _hidden_value = true
+  }
+  number DisabledHarlequinJanie {
+    _hidden_value = true
+  }
+  json GradualSilverSallee2 {
+    _hidden_value = true
+  }
+  string ExceptionalOliveMadlen {
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassandra {
+    _hidden_value = true
+  }
+  serviceid_number SquareJadeKai {
+    _hidden_value = true
+  }
+  boolean GreatBlueCharin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrikingOliveMagdaia {
+    _hidden_value = true
+  }
+  number BlueVioletTory {
+    _hidden_value = true
+  }
+  string DisciplinarySilverRycca {
+    _hidden_value = true
+  }
+  serviceid WittyBlueCeil {
+    _hidden_value = true
+  }
+  hidden_boolean UnderlyingLimeKori {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ImmenseAmaranthAdelaide2 {
+    _hidden_value = true
+  }
+  hidden_boolean MisleadingRoseOriana2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnusualGoldGladi {
+    _hidden_value = true
+  }
+  hidden_boolean OpenTealStarr2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OuterJadeKarrah {
+    _hidden_value = true
+  }
+  string YoungAmethystAndee {
+    _hidden_value = true
+  }
+  string AggressiveMaroonLilias {
+    _hidden_value = true
+  }
+  serviceid ManyWhiteVeradis3 {
+    _hidden_value = true
+  }
+  boolean DeliciousScarletRochette2 {
+    _hidden_value = true
+  }
+  string AbleBlushChrista2 {
+    _hidden_value = true
+  }
+  boolean TallCyanFaydra3 {
+    _hidden_value = true
+  }
+  InteriorPurpleNatty = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OppositeHarlequinJanean = "Why did the kid cross the playground? To get to the other slide."
+  ObedientBlackCassie3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IncreasingCyanEvonne = false
+  EerieAzureBevvy2 = 678
+  VividTanShay = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

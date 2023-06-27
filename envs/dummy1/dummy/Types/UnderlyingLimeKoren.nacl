@@ -1,0 +1,22 @@
+type dummy.UnderlyingLimeKoren {
+  annotations {
+    hidden_boolean HistoricLavenderKellsie2 {
+    }
+    serviceid_number BoringPeachMarni7 {
+    }
+    serviceid GeneralBlushChristean3 {
+    }
+    serviceid StableHarlequinJasmine {
+    }
+    number ShiveringAquaBabbie3 {
+    }
+  }
+  serviceid_number HandsomeOliveMaitilde3 {
+    _hidden_value = true
+  }
+  BoringPeachMarni7 = 48
+  GeneralBlushChristean3 = "Why was it called the dark ages? Because of all the knights. "
+  StableHarlequinJasmine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ShiveringAquaBabbie3 = 87
+  _hidden_value = true
+}

@@ -1,0 +1,68 @@
+type dummy.AdverseSapphireRaphaela {
+  annotations {
+    hidden_boolean MetropolitanOrangeMargaux {
+    }
+    number UglyYellowZahara6 {
+    }
+    serviceid AboveIvoryJoyan {
+    }
+    json EmbarrassedAzureBianka3 {
+    }
+    serviceid_number AlrightGoldGoldy2 {
+    }
+    boolean BritishBlushCherilynn2 {
+    }
+  }
+  number PatientPurpleNanice3 {
+    _hidden_value = true
+  }
+  hidden_boolean ParliamentaryFuchsiaGerty {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string NoisySilverSal4 {
+    _hidden_value = true
+  }
+  serviceid SquealingApricotAprilette {
+    _hidden_value = true
+  }
+  number InstantSapphireRanee2 {
+    _hidden_value = true
+  }
+  string DeepChocolateDeloria2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT KoreanSapphireRasia2 {
+    _hidden_value = true
+  }
+  dummy.ModernTealStar AliveFuchsiaGillie2 {
+    _hidden_value = true
+  }
+  string CivicTanShelley2 {
+    _hidden_value = true
+  }
+  json CalmBeigeCalida3 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaredSalmonRafaelita2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ComparableMoccasinLizzie2 {
+    _hidden_value = true
+  }
+  json EmbarrassingTanSavina {
+    _hidden_value = true
+  }
+  string RottenApricotArielle {
+    _hidden_value = true
+  }
+  UglyYellowZahara6 = 655
+  AboveIvoryJoyan = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EmbarrassedAzureBianka3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AlrightGoldGoldy2 = 124
+  BritishBlushCherilynn2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,40 @@
+type dummy.TotalBrownDaniella {
+  annotations {
+    boolean IncreasedCrimsonEster {
+    }
+    string StormyTurquoiseTim2 {
+    }
+    json ShockedPinkMelisa {
+    }
+    json PaleGrayHarriette2 {
+    }
+    boolean InquisitiveTealStafani3 {
+    }
+  }
+  serviceid_number EncouragingLimeLacy2 {
+    _hidden_value = true
+  }
+  serviceid SecondaryFuchsiaGertruda {
+    _hidden_value = true
+  }
+  hidden_boolean MereGreenIleane2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string MoaningApricotAnnamarie {
+    _hidden_value = true
+  }
+  number ThenSalmonPhoebe {
+    _hidden_value = true
+  }
+  json CharmingPlumMorgana2 {
+    _hidden_value = true
+  }
+  IncreasedCrimsonEster = false
+  StormyTurquoiseTim2 = "Dad Im hungry  Hi hungry Im dad"
+  ShockedPinkMelisa = "How come the stadium got hot after the game? Because all of the fans left."
+  PaleGrayHarriette2 = "Dad Im hungry  Hi hungry Im dad"
+  InquisitiveTealStafani3 = false
+  _hidden_value = true
+}

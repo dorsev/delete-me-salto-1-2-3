@@ -1,0 +1,72 @@
+type dummy.StrategicHarlequinJeannie {
+  annotations {
+    boolean IndependentChocolateDelinda {
+    }
+    string UnconsciousSapphireRay {
+    }
+    serviceid ArabLimeKirsten {
+    }
+    boolean EagerPlumMillisent {
+    }
+    serviceid_number NumerousHarlequinJanean3 {
+    }
+    json SillyYellowWinna {
+    }
+    json ExtraCoffeeDiane2 {
+    }
+    boolean HomelyTurquoiseTessi {
+    }
+  }
+  hidden_boolean HostileOrangeMarieann2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SteepAmethystAlys {
+    _hidden_value = true
+  }
+  json ConfidentHarlequinJada2 {
+    _hidden_value = true
+  }
+  string AnnoyedAquamarineBennie {
+    _hidden_value = true
+  }
+  string WanderingTomatoSuzanna5 {
+    _hidden_value = true
+  }
+  serviceid_number EagerBeigeCandy {
+    _hidden_value = true
+  }
+  string JitteryVioletValerye {
+    _hidden_value = true
+  }
+  number EmbarrassingSilverSaudra {
+    _hidden_value = true
+  }
+  hidden_boolean FrenchBrownCyndi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid IntelligentMaroonLinzy {
+    _hidden_value = true
+  }
+  serviceid ContentPeachMathilde {
+    _hidden_value = true
+  }
+  string GothicSapphireRana2 {
+    _hidden_value = true
+  }
+  json LuckyFuchsiaGinnie {
+    _hidden_value = true
+  }
+  IndependentChocolateDelinda = false
+  UnconsciousSapphireRay = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ArabLimeKirsten = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EagerPlumMillisent = true
+  NumerousHarlequinJanean3 = 896
+  SillyYellowWinna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExtraCoffeeDiane2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HomelyTurquoiseTessi = true
+  _hidden_value = true
+}

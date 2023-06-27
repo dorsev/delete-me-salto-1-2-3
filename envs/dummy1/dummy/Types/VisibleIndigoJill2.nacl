@@ -1,0 +1,129 @@
+type dummy.VisibleIndigoJill2 {
+  annotations {
+    serviceid UltimateJadeKandy {
+    }
+    serviceid_number VariedRedNoreen3 {
+    }
+    string FlakyAmberAli2 {
+    }
+    json StatisticalMagentaLanie2 {
+    }
+    string OuterJadeKaroly {
+    }
+    serviceid_number GrumpyVioletUrsulina {
+    }
+    json ConcernedTealSibelle3 {
+    }
+  }
+  dummy.MaximumGreenIlyssa RichCoffeeDoreen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PaleGrayHarrietta2 {
+    _hidden_value = true
+  }
+  number ValidLavenderKerrin3 {
+    _hidden_value = true
+  }
+  string PurringApricotAnni3 {
+    _hidden_value = true
+  }
+  boolean SimpleBronzeCorliss2 {
+    _hidden_value = true
+  }
+  hidden_boolean OrangeWhiteViolante2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean JuniorIvoryJonie {
+    _hidden_value = true
+  }
+  number HonChocolateDasya {
+    _hidden_value = true
+  }
+  number FormalCoralElizabeth {
+    _hidden_value = true
+  }
+  boolean CleanCyanFernandina {
+    _hidden_value = true
+  }
+  string SweetGreenHollie {
+    _hidden_value = true
+  }
+  boolean BroadAmberAlie {
+    _hidden_value = true
+  }
+  hidden_boolean CrudePlumMil2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UnacceptableSalmonPenelopa {
+    _hidden_value = true
+  }
+  json JoyousBlackCarroll3 {
+    _hidden_value = true
+  }
+  serviceid_number CriminalFuchsiaGeorgia {
+    _hidden_value = true
+  }
+  json AddedPinkMelina {
+    _hidden_value = true
+  }
+  number MarxistSapphireRalina {
+    _hidden_value = true
+  }
+  number AssociatedMaroonLindsy {
+    _hidden_value = true
+  }
+  boolean LinearRedNesta3 {
+    _hidden_value = true
+  }
+  number GrumpyVioletUrsulina2 {
+    _hidden_value = true
+  }
+  json DrivingRoseOralia {
+    _hidden_value = true
+  }
+  serviceid_number FunnyEmeraldGabbey {
+    _hidden_value = true
+  }
+  hidden_boolean RoyalBrownCristin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ConfidentialScarletRois2 {
+    _hidden_value = true
+  }
+  hidden_boolean HuskyApricotAnnabela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FantasticSapphireReiko3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RemarkableGreenHortensia4 {
+    _hidden_value = true
+  }
+  number WeakFuchsiaGayleen {
+    _hidden_value = true
+  }
+  serviceid FancyTurquoiseTedra3 {
+    _hidden_value = true
+  }
+  "List<serviceid>" GrubbyAquaAubrie3 {
+    _hidden_value = true
+  }
+  UltimateJadeKandy = "Why was it called the dark ages? Because of all the knights. "
+  VariedRedNoreen3 = 790
+  FlakyAmberAli2 = "Why is Peter Pan always flying? Because he Neverlands."
+  StatisticalMagentaLanie2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OuterJadeKaroly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GrumpyVioletUrsulina = 81
+  ConcernedTealSibelle3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

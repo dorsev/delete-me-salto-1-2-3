@@ -1,0 +1,50 @@
+type dummy.BrightCoralElyn {
+  annotations {
+    string SupposedCyanFaun4 {
+    }
+    dummy.EmbarrassedAzureBibbie3 RespectableRosePavla5 {
+    }
+    number DullVioletTrix {
+    }
+    json RoastedWhiteWendye3 {
+    }
+    string GivenHarlequinJaneva {
+    }
+    number UniqueFuchsiaGerry2 {
+    }
+    boolean SuccessfulBlueCatrina {
+    }
+    dummy.CivilCoffeeDodi TenderRedOdelinda4 {
+    }
+    boolean FlakyAmberAlfie {
+    }
+    dummy.CompleteCoffeeDevon2 UnemployedIvoryJoly5 {
+    }
+    serviceid_number CheapCoralEdithe3 {
+    }
+    serviceid_number ZealousBlueCelestina2 {
+    }
+    json FragileTealSondra3 {
+    }
+    serviceid_number WonderfulEmeraldFlossi3 {
+    }
+    hidden_boolean FrailVioletTrudey2 {
+    }
+    dummy.OccupationalOliveMaddy FairCoffeeDinny5 {
+    }
+    serviceid_number EmbarrassingSilverSashenka4 {
+    }
+  }
+  SupposedCyanFaun4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DullVioletTrix = 484
+  RoastedWhiteWendye3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GivenHarlequinJaneva = "Did you know that protons have mass? I didn't even know they were catholic."
+  UniqueFuchsiaGerry2 = 771
+  SuccessfulBlueCatrina = true
+  FlakyAmberAlfie = true
+  CheapCoralEdithe3 = 589
+  ZealousBlueCelestina2 = 280
+  FragileTealSondra3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WonderfulEmeraldFlossi3 = 773
+  EmbarrassingSilverSashenka4 = 948
+}

@@ -1,0 +1,80 @@
+type dummy.ConfidentHarlequinJacquie {
+  annotations {
+    serviceid SplendidOrangeMandy {
+    }
+    serviceid DelightfulSilverRow2 {
+    }
+    string DominantIndigoJena5 {
+    }
+    json GleamingTurquoiseTeri4 {
+    }
+    serviceid GivenHarlequinJanice5 {
+    }
+    serviceid_number BoilingAmaranthAgnesse2 {
+    }
+  }
+  dummy.AdjacentSilverRoxi FairBlackCarlen2 {
+    AdjacentSilverRoxi2 = "Dad Im hungry  Hi hungry Im dad"
+    KeenGrayHana = "A steak pun is a rare medium well done."
+    PinkIndigoJenni = 26
+    AfraidCrimsonEmogene = "How come the stadium got hot after the game? Because all of the fans left."
+    SatisfactoryLimeKrissie = 473
+    NumerousHarlequinJanean = true
+    SkinnyAmberAlvera = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GivenHarlequinJania = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FastEmeraldFleurette = "Why do birds fly south for the winter? Because it's too far to walk."
+    NoisySilverSadye = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DirectChocolateDeana = "What creature is smarter than a talking parrot? A spelling bee."
+    DelightfulBeigeCammy = "I'll tell you what often gets over looked... garden fences."
+    HelplessTealSonya = 599
+    PayableOrangeMarcia = 186
+    StupidHarlequinJacenta = 572
+    ImprovedMagentaLark = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  number NeighbouringPurpleNance {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalRosePatience4 {
+    _hidden_value = true
+  }
+  string SilentApricotAntonia5 {
+    _hidden_value = true
+  }
+  hidden_boolean AngryAquamarineBenetta3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OptimisticRosePearline {
+    _hidden_value = true
+  }
+  number StickyAquaArlyne2 {
+    _hidden_value = true
+  }
+  dummy.LightCopperDulciana AsianMaroonLindie3 {
+    _hidden_value = true
+  }
+  serviceid EvolutionarySilverRuby3 {
+    _hidden_value = true
+  }
+  boolean SheerMagentaLauretta2 {
+    _hidden_value = true
+  }
+  string InstantSapphireRandy3 {
+    _hidden_value = true
+  }
+  serviceid NoisyApricotAnnelise2 {
+    _hidden_value = true
+  }
+  boolean UniqueFuchsiaGerta3 {
+    _hidden_value = true
+  }
+  SplendidOrangeMandy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DelightfulSilverRow2 = "How come the stadium got hot after the game? Because all of the fans left."
+  DominantIndigoJena5 = "Dad Im hungry  Hi hungry Im dad"
+  GleamingTurquoiseTeri4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GivenHarlequinJanice5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  BoilingAmaranthAgnesse2 = 721
+  _hidden_value = true
+}

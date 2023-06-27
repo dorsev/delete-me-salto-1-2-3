@@ -1,0 +1,73 @@
+type dummy.HollowAmberAllsun {
+  annotations {
+    boolean GeographicalPeachMarley2 {
+    }
+    serviceid UsefulChocolateDee {
+    }
+    serviceid_number PurpleWhiteVivia {
+    }
+    string WeakAquamarineBelia {
+    }
+    serviceid_number CoastalPlumMichaeline {
+    }
+  }
+  dummy.ColdChocolateDebby WelcomeIvoryJosie2 {
+    IntegratedOliveMadonna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AbsoluteGreenImogen = 50
+    SoreBeigeBrietta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EasyBronzeCollen = "Whoever invented the knock-knock joke should get a no bell prize."
+    LivelyPeachMarylinda = "Why did the kid cross the playground? To get to the other slide."
+    PreferredTanSayre = 64
+    MarvellousMoccasinLorna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ReadyChocolateDebee = "I'll tell you what often gets over looked... garden fences."
+    GleamingTurquoiseTerra = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PanickyAzureBren = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MushyWhiteVerile = 126
+    FavouriteHarlequinJacquelyn = false
+    InnovativeTanSheelah = false
+    RearPurpleMuriel = "What do you call two barracuda fish?  A Pairacuda!"
+    OpenTealStefa = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  json DamagedAmberAleda {
+    _hidden_value = true
+  }
+  string PositiveCoffeeDonella {
+    _hidden_value = true
+  }
+  boolean AestheticSapphireRebbecca {
+    _hidden_value = true
+  }
+  dummy.ObedientBlackCassy GrumpyVioletUrsuline {
+    _hidden_value = true
+  }
+  boolean SmoothAquamarineBarbi2 {
+    _hidden_value = true
+  }
+  serviceid_number IndianGrayHarli {
+    _hidden_value = true
+  }
+  hidden_boolean CivicTanShelli {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AgreedTanSelia {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" HostileOrangeMariejeanne {
+    _hidden_value = true
+  }
+  number AttractiveCyanFey {
+    _hidden_value = true
+  }
+  json OddFuchsiaGenia2 {
+    _hidden_value = true
+  }
+  GeographicalPeachMarley2 = true
+  UsefulChocolateDee = "What creature is smarter than a talking parrot? A spelling bee."
+  PurpleWhiteVivia = 375
+  WeakAquamarineBelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CoastalPlumMichaeline = 106
+  _hidden_value = true
+}

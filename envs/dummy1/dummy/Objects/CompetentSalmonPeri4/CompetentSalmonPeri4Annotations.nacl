@@ -1,0 +1,54 @@
+type dummy.CompetentSalmonPeri4 {
+  annotations {
+    dummy.BusyCyanFayre RainyWhiteWallis {
+    }
+    serviceid OperationalOrangeMaria {
+    }
+    json LoudApricotAnnadiane4 {
+    }
+    json AlrightGoldGoldina2 {
+    }
+    hidden_boolean LongVioletVanda7 {
+    }
+    boolean FineBrownCourtenay4 {
+    }
+    serviceid FastAmethystAmandy3 {
+    }
+    dummy.LightCopperDulciana ArtisticPeachMasha2 {
+    }
+    number FamiliarCrimsonEthel5 {
+    }
+    serviceid ProspectiveRedNetti2 {
+    }
+    serviceid QuietApricotAnnissa2 {
+    }
+    string OriginalChocolateDaron {
+    }
+    string OnlyBlushClaretta4 {
+    }
+    serviceid_number FaithfulTanShea3 {
+    }
+    boolean BoldPlumMinna2 {
+    }
+    number VivaciousBlueCecilia {
+    }
+    number ConsistentHarlequinJanis2 {
+    }
+  }
+  RainyWhiteWallis = false
+  OperationalOrangeMaria = "To be Frank, I'd have to change my name."
+  LoudApricotAnnadiane4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  AlrightGoldGoldina2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  FineBrownCourtenay4 = false
+  FastAmethystAmandy3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ArtisticPeachMasha2 = 537
+  FamiliarCrimsonEthel5 = 75
+  ProspectiveRedNetti2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  QuietApricotAnnissa2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OriginalChocolateDaron = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OnlyBlushClaretta4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  FaithfulTanShea3 = 909
+  BoldPlumMinna2 = false
+  VivaciousBlueCecilia = 188
+  ConsistentHarlequinJanis2 = 566
+}

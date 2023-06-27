@@ -1,0 +1,20 @@
+type dummy.ModernAmethystAmelie is boolean {
+  annotations {
+    boolean MinisterialTanSheela {
+    }
+    hidden_boolean CulturalCoralElianore {
+    }
+    string WelcomeIvoryJosie {
+    }
+    string WarmCopperDulcinea {
+    }
+    serviceid_number QualifiedPinkMelli {
+    }
+    hidden_boolean WildTomatoSuzy {
+    }
+  }
+  MinisterialTanSheela = false
+  WelcomeIvoryJosie = "What creature is smarter than a talking parrot? A spelling bee."
+  WarmCopperDulcinea = "What do you do on a remote island? Try and find the TV island it belongs to."
+  QualifiedPinkMelli = 8
+}

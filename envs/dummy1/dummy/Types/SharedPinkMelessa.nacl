@@ -1,0 +1,25 @@
+type dummy.SharedPinkMelessa {
+  annotations {
+    dummy.DEFAULT PayableOrangeMarchelle {
+    }
+    json ColossalAmaranthAbigael {
+    }
+    serviceid SquareJadeKaela {
+    }
+    number HonestIndigoJerrine2 {
+    }
+    json TallAmaranthAggie5 {
+    }
+  }
+  boolean EnthusiasticPinkMerralee {
+    _hidden_value = true
+  }
+  PayableOrangeMarchelle = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  ColossalAmaranthAbigael = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SquareJadeKaela = "How come the stadium got hot after the game? Because all of the fans left."
+  HonestIndigoJerrine2 = 140
+  TallAmaranthAggie5 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

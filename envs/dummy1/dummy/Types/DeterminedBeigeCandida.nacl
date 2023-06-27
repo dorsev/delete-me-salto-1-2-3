@@ -1,0 +1,40 @@
+type dummy.DeterminedBeigeCandida {
+  annotations {
+    hidden_boolean WonderfulBlueCeleste2 {
+    }
+    serviceid DesirableMagentaLanni {
+    }
+    boolean SuitableCrimsonEmilee {
+    }
+    boolean BraveMoccasinLucinda {
+    }
+    string DeepAmberAllegra {
+    }
+  }
+  string DisastrousScarletRochella {
+    _hidden_value = true
+  }
+  serviceid ManyAmethystAnette2 {
+    _hidden_value = true
+  }
+  number ObligedOrangeMarcelle {
+    _hidden_value = true
+  }
+  number ImprovedMagentaLarisa {
+    _hidden_value = true
+  }
+  json ObjectiveOrangeMalynda {
+    _hidden_value = true
+  }
+  boolean BumpyAmaranthAilina {
+    _hidden_value = true
+  }
+  boolean SolarRosePammie {
+    _hidden_value = true
+  }
+  DesirableMagentaLanni = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SuitableCrimsonEmilee = true
+  BraveMoccasinLucinda = true
+  DeepAmberAllegra = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

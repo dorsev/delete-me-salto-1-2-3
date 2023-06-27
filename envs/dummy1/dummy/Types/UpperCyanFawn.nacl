@@ -1,0 +1,27 @@
+type dummy.UpperCyanFawn {
+  annotations {
+    hidden_boolean IllegalJadeKarolina2 {
+    }
+    json SecondaryFuchsiaGertrud3 {
+    }
+    boolean PartialOliveLyndsay {
+    }
+    serviceid_number SpontaneousTanSharyl2 {
+    }
+    boolean PremierOrangeMaria4 {
+    }
+  }
+  number ConceptualTanShelagh {
+    _hidden_value = true
+  }
+  hidden_boolean EmpiricalPinkMeara3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SecondaryFuchsiaGertrud3 = "Why was it called the dark ages? Because of all the knights. "
+  PartialOliveLyndsay = true
+  SpontaneousTanSharyl2 = 375
+  PremierOrangeMaria4 = true
+  _hidden_value = true
+}

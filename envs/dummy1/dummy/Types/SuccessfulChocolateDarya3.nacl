@@ -1,0 +1,68 @@
+type dummy.SuccessfulChocolateDarya3 {
+  annotations {
+    dummy.NoisyApricotAnnetta FellowIvoryJustina5 {
+    }
+    serviceid BeautifulVioletTommie2 {
+    }
+    dummy.ElectricalLavenderKerrill PowerfulTomatoStephannie2 {
+    }
+    boolean HollowAmberAllsun4 {
+    }
+    number WideAmethystAmabel2 {
+    }
+    dummy.LightCopperDulciana SexualCopperEachelle4 {
+    }
+  }
+  dummy.BusyCyanFayre StiffPeachMaryanne2 {
+    OpenBronzeClerissa = true
+    FlakyAmberAli = "Dad Im hungry  Hi hungry Im dad"
+    NovelScarletRosina = 468
+    RoundAmberAlmeria = 441
+    CuteTomatoTara = "What creature is smarter than a talking parrot? A spelling bee."
+    OralLimeKylynn2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DailyCyanEveleen = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AbundantAmethystAndeee = 506
+    InlandSalmonPrue = "How come the stadium got hot after the game? Because all of the fans left."
+    StatisticalMagentaLanie = 370
+    _hidden_value = true
+  }
+  json ToryGreenInes3 {
+    _hidden_value = true
+  }
+  serviceid FairBlackCarley4 {
+    _hidden_value = true
+  }
+  serviceid MajorBlushClair {
+    _hidden_value = true
+  }
+  serviceid PreferredTanScarlett3 {
+    _hidden_value = true
+  }
+  number NaturalBrownCristionna4 {
+    _hidden_value = true
+  }
+  number ScornfulBeigeBrianne4 {
+    _hidden_value = true
+  }
+  hidden_boolean SteepMoccasinLulu {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarrie2 {
+    _hidden_value = true
+  }
+  number FixedGreenHinda2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VaryingPurpleNelly {
+    _hidden_value = true
+  }
+  FellowIvoryJustina5 = true
+  BeautifulVioletTommie2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PowerfulTomatoStephannie2 = true
+  HollowAmberAllsun4 = true
+  WideAmethystAmabel2 = 374
+  SexualCopperEachelle4 = 318
+  _hidden_value = true
+}

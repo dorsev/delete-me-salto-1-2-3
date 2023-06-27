@@ -1,0 +1,129 @@
+type dummy.HolyIndigoJemie {
+  annotations {
+    number ComparativePlumMitzi {
+    }
+    boolean ExplicitMaroonLisbeth {
+    }
+    number FinancialBronzeCorey {
+    }
+    dummy.PhilosophicalRedNoell BoldPlumMinnaminnie {
+    }
+    hidden_boolean PurringApricotAnni {
+    }
+    dummy.DEFAULT AllegedOliveLynna2 {
+    }
+  }
+  dummy.DominantIndigoJena2 FrozenScarletRos2 {
+    ExtensiveGoldGloriana = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    OralLimeKylila = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EldestTanSharline = 525
+    EvilAzureBidget = "Why was it called the dark ages? Because of all the knights. "
+    SoreBeigeBrigid = 377
+    CreepyAmberAlameda = 824
+    HarshOliveMahalia = false
+    DirectChocolateDeane = true
+    WetGrayHedwig = "Why is Peter Pan always flying? Because he Neverlands."
+    DamagedAmberAleen = 54
+    BoringPeachMarni = "Why did the kid cross the playground? To get to the other slide."
+    DiverseRedNicky = 833
+    ModeratePurpleNatalya = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HarshOliveMaible = 652
+    ChemicalGreenIsadora = 409
+    _hidden_value = true
+  }
+  serviceid LivelyPeachMarylou {
+    _hidden_value = true
+  }
+  number ConsciousHarlequinJeanette {
+    _hidden_value = true
+  }
+  number RoastedWhiteWenona2 {
+    _hidden_value = true
+  }
+  serviceid SocialBlueCharmine2 {
+    _hidden_value = true
+  }
+  hidden_boolean NaughtyAzureBonnie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string HissingApricotAnnadiana {
+    _hidden_value = true
+  }
+  boolean MightyWhiteVeriee3 {
+    _hidden_value = true
+  }
+  string HistoricalCyanEvangelin {
+    _hidden_value = true
+  }
+  number SatisfiedHarlequinJeana {
+    _hidden_value = true
+  }
+  "Map<string>" ComparativePlumModestia {
+    _hidden_value = true
+  }
+  boolean ObedientBlackCassi {
+    _hidden_value = true
+  }
+  number TinyAmaranthAgnese {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PainfulMaroonLilly2 {
+    _hidden_value = true
+  }
+  serviceid FriendlyBlackCarlynn {
+    _hidden_value = true
+  }
+  json PurringApricotAnni2 {
+    _hidden_value = true
+  }
+  hidden_boolean FamousTealSofia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanny {
+    _hidden_value = true
+  }
+  json DefeatedAzureBetta {
+    _hidden_value = true
+  }
+  string EarlyBlushCherri {
+    _hidden_value = true
+  }
+  json DyingScarletRoch {
+    _hidden_value = true
+  }
+  string CostlySapphireRegan2 {
+    _hidden_value = true
+  }
+  serviceid_number TraditionalChocolateDeirdre2 {
+    _hidden_value = true
+  }
+  serviceid RaspyApricotAnnora2 {
+    _hidden_value = true
+  }
+  number AwareChocolateDasha3 {
+    _hidden_value = true
+  }
+  string ThoughtfulBlueCaty2 {
+    _hidden_value = true
+  }
+  serviceid KeyCopperDorothy2 {
+    _hidden_value = true
+  }
+  serviceid_number SoreBeigeBrier {
+    _hidden_value = true
+  }
+  ComparativePlumMitzi = 134
+  ExplicitMaroonLisbeth = false
+  FinancialBronzeCorey = 845
+  BoldPlumMinnaminnie = "Im only familiar with 25 letters in the English language. I dont know why."
+  AllegedOliveLynna2 = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  _hidden_value = true
+}

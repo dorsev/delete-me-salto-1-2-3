@@ -1,0 +1,29 @@
+type dummy.CondemnedAquamarineBerti {
+  annotations {
+    dummy.DEFAULT SmallBlueCharlean {
+    }
+    serviceid DampMoccasinLorrin {
+    }
+    dummy.DEFAULT DifficultBronzeClementia2 {
+    }
+    boolean AfricanFuchsiaGiana3 {
+    }
+    number FunnyBlackCarmelia4 {
+    }
+  }
+  hidden_boolean PleasantIvoryJoscelin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SmallBlueCharlean = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  DampMoccasinLorrin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DifficultBronzeClementia2 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  AfricanFuchsiaGiana3 = true
+  FunnyBlackCarmelia4 = 308
+  _hidden_value = true
+}

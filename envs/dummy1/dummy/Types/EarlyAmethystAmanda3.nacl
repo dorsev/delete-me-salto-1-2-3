@@ -1,0 +1,47 @@
+type dummy.EarlyAmethystAmanda3 {
+  annotations {
+    serviceid_number NuttyWhiteVikki3 {
+    }
+    boolean RisingScarletRoselle3 {
+    }
+    number SuccessfulBlueCatlin4 {
+    }
+    json FatalPurpleMyrtie2 {
+    }
+    serviceid GivenHarlequinJanice6 {
+    }
+  }
+  string UnsightlyTurquoiseTiphany2 {
+    _hidden_value = true
+  }
+  string DryAmberAlex3 {
+    _hidden_value = true
+  }
+  json PreciousOrangeMariellen4 {
+    _hidden_value = true
+  }
+  string DistinctHarlequinJanela3 {
+    _hidden_value = true
+  }
+  json MiddleCopperDusty2 {
+    _hidden_value = true
+  }
+  serviceid_number ZanyYellowZuzana5 {
+    _hidden_value = true
+  }
+  boolean CombativeAquamarineBerta5 {
+    _hidden_value = true
+  }
+  number RedBrownDalila3 {
+    _hidden_value = true
+  }
+  number BusyCyanFayth7 {
+    _hidden_value = true
+  }
+  NuttyWhiteVikki3 = 929
+  RisingScarletRoselle3 = false
+  SuccessfulBlueCatlin4 = 899
+  FatalPurpleMyrtie2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GivenHarlequinJanice6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

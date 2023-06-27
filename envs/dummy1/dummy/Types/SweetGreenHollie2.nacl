@@ -1,0 +1,41 @@
+type dummy.SweetGreenHollie2 {
+  annotations {
+    json DirtyAmberAleta3 {
+    }
+    number BlueCoffeeDiahann2 {
+    }
+    dummy.DEFAULT DeadBrownDara {
+    }
+    hidden_boolean LongAmaranthAdina {
+    }
+    serviceid UnconsciousSapphireRay5 {
+    }
+    number ImaginativeTanSelinda2 {
+    }
+    serviceid MammothAmaranthAdoree {
+    }
+  }
+  string EnchantingBlackCaren {
+    _hidden_value = true
+  }
+  hidden_boolean RainyAquaAurore2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DiplomaticMagentaLenna2 {
+    _hidden_value = true
+  }
+  serviceid DualSapphireRhianna {
+    _hidden_value = true
+  }
+  DirtyAmberAleta3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BlueCoffeeDiahann2 = 432
+  DeadBrownDara = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  UnconsciousSapphireRay5 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ImaginativeTanSelinda2 = 402
+  MammothAmaranthAdoree = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

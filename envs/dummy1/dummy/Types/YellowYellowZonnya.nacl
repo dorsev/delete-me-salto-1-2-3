@@ -1,0 +1,33 @@
+type dummy.YellowYellowZonnya {
+  annotations {
+    number ThickEmeraldFilippa {
+    }
+    hidden_boolean GiganticAmaranthAdda {
+    }
+    string RedWhiteWendie {
+    }
+    string BrokenIndigoJodee {
+    }
+    hidden_boolean ExcitedBlackCarita2 {
+    }
+  }
+  string CoastalPlumMichal2 {
+    _hidden_value = true
+  }
+  boolean NearFuchsiaGerladina3 {
+    _hidden_value = true
+  }
+  serviceid_number ScreechingApricotAnthiathia2 {
+    _hidden_value = true
+  }
+  serviceid_number QualifiedPinkMelli2 {
+    _hidden_value = true
+  }
+  json EffectiveChocolateDeedee {
+    _hidden_value = true
+  }
+  ThickEmeraldFilippa = 403
+  RedWhiteWendie = "Why did the kid cross the playground? To get to the other slide."
+  BrokenIndigoJodee = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

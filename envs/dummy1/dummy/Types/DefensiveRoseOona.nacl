@@ -1,0 +1,45 @@
+type dummy.DefensiveRoseOona {
+  annotations {
+    serviceid DistinctTurquoiseTatiana3 {
+    }
+    dummy.DEFAULT HarshOliveMahalia2 {
+    }
+    json ArchitecturalRosePatience3 {
+    }
+    hidden_boolean ExpectedLimeLanette {
+    }
+    serviceid WildCyanEydie {
+    }
+    serviceid_number FantasticBlackCarlita {
+    }
+  }
+  serviceid_number ShallowAmberAlmire {
+    _hidden_value = true
+  }
+  serviceid AestheticSapphireRea3 {
+    _hidden_value = true
+  }
+  serviceid_number RigidPinkMersey {
+    _hidden_value = true
+  }
+  json BrainyTealSherry {
+    _hidden_value = true
+  }
+  string SecondaryFuchsiaGertruda2 {
+    _hidden_value = true
+  }
+  string BrightVioletTova {
+    _hidden_value = true
+  }
+  json BrightTomatoTamara {
+    _hidden_value = true
+  }
+  DistinctTurquoiseTatiana3 = "Why was it called the dark ages? Because of all the knights. "
+  HarshOliveMahalia2 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  ArchitecturalRosePatience3 = "Why is Peter Pan always flying? Because he Neverlands."
+  WildCyanEydie = "To be Frank, I'd have to change my name."
+  FantasticBlackCarlita = 656
+  _hidden_value = true
+}

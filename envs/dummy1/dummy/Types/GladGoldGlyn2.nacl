@@ -1,0 +1,63 @@
+type dummy.GladGoldGlyn2 {
+  annotations {
+    serviceid_number HilariousBlackCarolynn2 {
+    }
+    boolean DangerousCrimsonEssy3 {
+    }
+    serviceid BriefAmethystAmaleta2 {
+    }
+    hidden_boolean HolyIndigoJelene2 {
+    }
+  }
+  serviceid BusyCyanFayina2 {
+    _hidden_value = true
+  }
+  serviceid_number MuteApricotAnnemarie {
+    _hidden_value = true
+  }
+  number FollowingBrownCyndie {
+    _hidden_value = true
+  }
+  json CuteTomatoTara3 {
+    _hidden_value = true
+  }
+  hidden_boolean DirtyAmberAlethea2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OpenTealStarlin3 {
+    _hidden_value = true
+  }
+  number ColouredMaroonLivvie3 {
+    _hidden_value = true
+  }
+  serviceid AlrightGoldGoldy3 {
+    _hidden_value = true
+  }
+  boolean AlertTomatoTabatha5 {
+    _hidden_value = true
+  }
+  serviceid_number UsefulChocolateDede {
+    _hidden_value = true
+  }
+  json SwissPlumMignonne2 {
+    _hidden_value = true
+  }
+  json MarvellousMoccasinLorna5 {
+    _hidden_value = true
+  }
+  boolean IndividualBrownCyb2 {
+    _hidden_value = true
+  }
+  serviceid CrazyVioletTresa5 {
+    _hidden_value = true
+  }
+  serviceid FavourablePinkMercedes2 {
+    _hidden_value = true
+  }
+  HilariousBlackCarolynn2 = 260
+  DangerousCrimsonEssy3 = false
+  BriefAmethystAmaleta2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

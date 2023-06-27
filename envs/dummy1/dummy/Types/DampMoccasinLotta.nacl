@@ -1,0 +1,84 @@
+type dummy.DampMoccasinLotta {
+  annotations {
+    json FunnyBlackCarmelina3 {
+    }
+    number TenderRedOdele {
+    }
+    serviceid_number CrudePlumMildrid2 {
+    }
+    string PartialOliveLyndel {
+    }
+    serviceid LazyWhiteVanni2 {
+    }
+  }
+  serviceid_number SpontaneousTanShauna {
+    _hidden_value = true
+  }
+  string PromisingRedNoni2 {
+    _hidden_value = true
+  }
+  number LexicalSilverSada3 {
+    _hidden_value = true
+  }
+  boolean GloriousScarletRosanna2 {
+    _hidden_value = true
+  }
+  hidden_boolean DarkTurquoiseTarrah2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ModestLavenderKelsey3 {
+    _hidden_value = true
+  }
+  string InsufficientPurpleNedda {
+    _hidden_value = true
+  }
+  string ElectoralLimeKristien3 {
+    _hidden_value = true
+  }
+  serviceid BigAmaranthAbbe2 {
+    _hidden_value = true
+  }
+  hidden_boolean GreatAmaranthAddia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json StupidTomatoSunshine2 {
+    _hidden_value = true
+  }
+  boolean CreepyAmberAlaine4 {
+    _hidden_value = true
+  }
+  number RepulsiveBeigeBrenn {
+    _hidden_value = true
+  }
+  serviceid RemoteIndigoJeni2 {
+    _hidden_value = true
+  }
+  string ExoticScarletRisa2 {
+    _hidden_value = true
+  }
+  dummy.DelightedIvoryJulianne NegativeFuchsiaGavra2 {
+    _hidden_value = true
+  }
+  serviceid HelpfulHarlequinJaneta {
+    _hidden_value = true
+  }
+  number CapableEmeraldFlorinda {
+    _hidden_value = true
+  }
+  json CorporateEmeraldGalina {
+    _hidden_value = true
+  }
+  number RawJadeKarlee {
+    _hidden_value = true
+  }
+  FunnyBlackCarmelina3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TenderRedOdele = 80
+  CrudePlumMildrid2 = 710
+  PartialOliveLyndel = "Im only familiar with 25 letters in the English language. I dont know why."
+  LazyWhiteVanni2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

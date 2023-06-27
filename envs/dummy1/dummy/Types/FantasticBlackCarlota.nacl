@@ -1,0 +1,31 @@
+type dummy.FantasticBlackCarlota {
+  annotations {
+    boolean NeighbouringPurpleNananne {
+    }
+    number RoastedWhiteWenona {
+    }
+    json PrimitiveOrangeMargalit {
+    }
+    dummy.SupremeGreenIsabella SmoothAquamarineBarbette {
+    }
+  }
+  hidden_boolean WiseLavenderKatherina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ChillyAmaranthAilina2 {
+    _hidden_value = true
+  }
+  string DualSapphireRhetta {
+    _hidden_value = true
+  }
+  serviceid FastAmethystAmandi {
+    _hidden_value = true
+  }
+  NeighbouringPurpleNananne = true
+  RoastedWhiteWenona = 387
+  PrimitiveOrangeMargalit = "What do you call two barracuda fish?  A Pairacuda!"
+  SmoothAquamarineBarbette = 708
+  _hidden_value = true
+}

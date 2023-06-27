@@ -1,0 +1,26 @@
+type dummy.RetailMagentaLeonore {
+  annotations {
+    json SoftApricotApril {
+    }
+    number GradualSilverSallee3 {
+    }
+    serviceid_number BoringPeachMarni5 {
+    }
+    serviceid_number CriticalCrimsonEstele {
+    }
+    serviceid_number SadYellowWillamina2 {
+    }
+    serviceid NastyWhiteVerna {
+    }
+  }
+  number UnnecessaryMoccasinLoralee {
+    _hidden_value = true
+  }
+  SoftApricotApril = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  GradualSilverSallee3 = 56
+  BoringPeachMarni5 = 108
+  CriticalCrimsonEstele = 706
+  SadYellowWillamina2 = 79
+  NastyWhiteVerna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

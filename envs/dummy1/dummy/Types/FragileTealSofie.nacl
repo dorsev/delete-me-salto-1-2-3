@@ -1,0 +1,96 @@
+type dummy.FragileTealSofie {
+  annotations {
+    hidden_boolean EvilPeachMaurita2 {
+    }
+    boolean StableHarlequinJayme {
+    }
+    boolean NoblePurpleNeala {
+    }
+    dummy.VerbalPinkMaxie WholeBronzeCloe {
+    }
+    dummy.DEFAULT GentleIndigoJoceline {
+    }
+    json HotCoffeeDesdemona2 {
+    }
+  }
+  dummy.ModernAmethystAmelie StingyYellowWinni {
+    MinisterialTanSheela = false
+    WelcomeIvoryJosie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WarmCopperDulcinea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    QualifiedPinkMelli = 281
+    _hidden_value = true
+  }
+  string CombativeAquamarineBerta {
+    _hidden_value = true
+  }
+  hidden_boolean BadAquamarineBerni2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CompactPurpleNannie {
+    _hidden_value = true
+  }
+  json SparklingTurquoiseTilda {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentCoralEilis3 {
+    _hidden_value = true
+  }
+  serviceid WanderingTomatoSuzanna2 {
+    _hidden_value = true
+  }
+  hidden_boolean SocialBlueCharmion {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number DepressedAzureBetty {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BriefEmeraldFlory {
+    _hidden_value = true
+  }
+  json ArtisticPeachMarysa {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLisette3 {
+    _hidden_value = true
+  }
+  serviceid_number PersistentRosePamelina {
+    _hidden_value = true
+  }
+  string ConfidentialScarletRodina {
+    _hidden_value = true
+  }
+  serviceid RemarkableGreenHortensia2 {
+    _hidden_value = true
+  }
+  hidden_boolean ProudHarlequinJan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DiverseRedNickie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HolyIndigoJehanna {
+    _hidden_value = true
+  }
+  string MightyWhiteVeriee2 {
+    _hidden_value = true
+  }
+  json UrgentLimeKristy {
+    _hidden_value = true
+  }
+  StableHarlequinJayme = true
+  NoblePurpleNeala = true
+  WholeBronzeCloe = false
+  GentleIndigoJoceline = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  HotCoffeeDesdemona2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

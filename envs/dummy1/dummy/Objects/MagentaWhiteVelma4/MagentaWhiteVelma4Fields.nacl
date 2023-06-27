@@ -1,0 +1,79 @@
+type dummy.MagentaWhiteVelma4 {
+  dummy.HungryMaroonLinzy PreferredTanSavina2 {
+    FranticAzureBird2 = 283
+    AdvancedHarlequinJacinta2 = false
+    SportingSilverRuthy2 = 318
+  }
+  dummy.UglyPlumMignon3 LongAmaranthAdina7 {
+    GothicSapphireRana3 = false
+    WittyBlueCele3 = 50
+    HorribleVioletValene2 = 481
+    MathematicalRoseOthelia2 = false
+  }
+  "Map<dummy.DeepChocolateDelores4>" DifferentBlueCharlena4 {
+    PermanentFuchsiaGaye2 = "To be Frank, I'd have to change my name."
+    EarlyAmethystAmanda2 = 579
+    BroadAmberAlie2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ChronicOliveMalissa = 734
+    GoodBlueCelle = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  number LongAmethystAmelia2 {
+  }
+  serviceid CompactPurpleNannette2 {
+  }
+  serviceid CruelPlumMichaeline2 {
+  }
+  number UglyPlumMicky3 {
+  }
+  hidden_boolean InteriorPurpleNatividad4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number GermanChocolateDelcine {
+  }
+  hidden_boolean SpanishGreenIona4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid HandicappedTanShanta2 {
+  }
+  number BrightTomatoTamarah2 {
+  }
+  serviceid_number UptightBeigeBrittni {
+  }
+  "List<serviceid>" CausalSapphireRenee4 {
+  }
+  serviceid_number ImportantTealSophie5 {
+  }
+  serviceid DisabledHarlequinJanina4 {
+  }
+  hidden_boolean BloodyCyanFederica5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RedBrownDallas7 {
+  }
+  boolean ExclusiveMagentaLatisha3 {
+  }
+  serviceid TameTomatoSusette3 {
+  }
+  dummy.SocialistHarlequinJacquenette2 PoorBronzeCorene3 {
+    SharedPinkMelba = 903
+    DisastrousScarletRochell = 603
+    DirectChocolateDdene2 = file("ArchitecturalRosePat.txt")
+    SplendidBlueCatina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FamiliarCrimsonEthel = 237
+    PopularChocolateDavina = 458
+  }
+  string BraveBeigeCairistiona {
+  }
+  serviceid_number ClinicalIndigoJenny7 {
+  }
+  json CuriousTealSidoney2 {
+  }
+  string MysteriousAzureBonni2 {
+  }
+}

@@ -1,0 +1,82 @@
+type dummy.SmallBlueCharlean2 {
+  annotations {
+    serviceid_number RacialPlumMichell2 {
+    }
+    serviceid_number EntitledIvoryJuliann {
+    }
+    serviceid_number MinimumIndigoJeri {
+    }
+    number OldBlueChandra {
+    }
+  }
+  dummy.DominantIndigoJena2 ClumsyVioletTraci3 {
+    ExtensiveGoldGloriana = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    OralLimeKylila = "What do you call two barracuda fish?  A Pairacuda!"
+    EldestTanSharline = 379
+    EvilAzureBidget = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SoreBeigeBrigid = 876
+    CreepyAmberAlameda = 770
+    HarshOliveMahalia = true
+    DirectChocolateDeane = true
+    WetGrayHedwig = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DamagedAmberAleen = 466
+    BoringPeachMarni = "Slept like a log last night  woke up in the fireplace."
+    DiverseRedNicky = 436
+    ModeratePurpleNatalya = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HarshOliveMaible = 151
+    ChemicalGreenIsadora = 265
+    _hidden_value = true
+  }
+  string ObviousCoffeeDolley3 {
+    _hidden_value = true
+  }
+  json MadHarlequinJanet2 {
+    _hidden_value = true
+  }
+  string EqualCrimsonEmiline3 {
+    _hidden_value = true
+  }
+  string EnglishBrownCrin {
+    _hidden_value = true
+  }
+  number OrganicLimeLaina2 {
+    _hidden_value = true
+  }
+  serviceid_number BloodyCyanFedora2 {
+    _hidden_value = true
+  }
+  json OutsideGrayHelenka5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CognitiveSalmonQuentin {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" AdorableTomatoSydel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PrettyWhiteVirgie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MajorBlushClaire3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FemaleCrimsonEmmey {
+    _hidden_value = true
+  }
+  json OkayOliveMaggee {
+    _hidden_value = true
+  }
+  RacialPlumMichell2 = 63
+  EntitledIvoryJuliann = 28
+  MinimumIndigoJeri = 142
+  OldBlueChandra = 814
+  _hidden_value = true
+}

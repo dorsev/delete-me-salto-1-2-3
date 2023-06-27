@@ -1,0 +1,31 @@
+type dummy.TerribleEmeraldFreida2 {
+  annotations {
+    serviceid_number EncouragingBlackCaresse {
+    }
+    json AvailableBlushChrystal {
+    }
+    number WrittenGreenIvette {
+    }
+    hidden_boolean UnpleasantRedNonna {
+    }
+  }
+  hidden_boolean LengthySapphireRania {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean StripedYellowWren {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AcademicEmeraldFrieda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  EncouragingBlackCaresse = 38
+  AvailableBlushChrystal = "Slept like a log last night  woke up in the fireplace."
+  WrittenGreenIvette = 967
+  _hidden_value = true
+}

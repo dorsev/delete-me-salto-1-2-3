@@ -1,0 +1,26 @@
+type dummy.EasyBronzeCollete4 {
+  annotations {
+    boolean SelectiveRedNorry {
+    }
+    string GreekIndigoJoan3 {
+    }
+    dummy.ConservationPlumMollee BalancedSilverRosmunda2 {
+    }
+    string PrimitiveOrangeMargalo3 {
+    }
+    boolean InquisitiveTealStacie2 {
+    }
+    number ComfortableBeigeCamellia {
+    }
+  }
+  serviceid_number NarrowCyanFara {
+    _hidden_value = true
+  }
+  SelectiveRedNorry = true
+  GreekIndigoJoan3 = "Why did the tomato blush? Because it saw the salad dressing."
+  BalancedSilverRosmunda2 = "Why is Peter Pan always flying? Because he Neverlands."
+  PrimitiveOrangeMargalo3 = "Why is Peter Pan always flying? Because he Neverlands."
+  InquisitiveTealStacie2 = false
+  ComfortableBeigeCamellia = 37
+  _hidden_value = true
+}

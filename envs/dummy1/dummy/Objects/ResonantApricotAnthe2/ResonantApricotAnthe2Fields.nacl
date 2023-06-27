@@ -1,0 +1,26 @@
+type dummy.ResonantApricotAnthe2 {
+  hidden_boolean TinyAmaranthAgnella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number TremendousMagentaLeoine4 {
+  }
+  number ChemicalGreenIsadora3 {
+  }
+  number LightAmethystAnetta2 {
+  }
+  hidden_boolean ChillyAmaranthAilis3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  "Map<serviceid_number>" InevitableIvoryJolyn2 {
+  }
+  boolean WorkingCrimsonEmmaline3 {
+  }
+  serviceid_number NiceBrownCymbre5 {
+  }
+  boolean GeneralBlushChristel5 {
+  }
+}

@@ -1,0 +1,26 @@
+type dummy.WorkingCrimsonEmmalee {
+  annotations {
+    boolean OrdinaryCopperEdin {
+    }
+    serviceid_number OutsideGrayHelenka {
+    }
+    number ModestLavenderKelsi {
+    }
+    serviceid_number ParticularBlushClary {
+    }
+    json ImprovedMagentaLark2 {
+    }
+    serviceid VastEmeraldFreddi {
+    }
+  }
+  boolean PrettyIndigoJennifer {
+    _hidden_value = true
+  }
+  OrdinaryCopperEdin = true
+  OutsideGrayHelenka = 821
+  ModestLavenderKelsi = 519
+  ParticularBlushClary = 366
+  ImprovedMagentaLark2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  VastEmeraldFreddi = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

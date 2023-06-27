@@ -1,0 +1,90 @@
+type dummy.CautiousScarletRoana {
+  annotations {
+    serviceid InterestedCoffeeDina {
+    }
+    hidden_boolean DrivingRoseOralia2 {
+    }
+    serviceid ResidentSalmonRaeann {
+    }
+    string ProtectiveRoseOlivette {
+    }
+    serviceid_number ThoughtlessBeigeBrita2 {
+    }
+  }
+  json OrganicLimeLadonna2 {
+    _hidden_value = true
+  }
+  serviceid KindVioletVally4 {
+    _hidden_value = true
+  }
+  serviceid_number GrimScarletRonna {
+    _hidden_value = true
+  }
+  number ComplicatedIndigoJoann4 {
+    _hidden_value = true
+  }
+  boolean FashionableSapphireRenate {
+    _hidden_value = true
+  }
+  boolean ConceptualTanShelba {
+    _hidden_value = true
+  }
+  serviceid MultipleLimeKimmy2 {
+    _hidden_value = true
+  }
+  hidden_boolean DigitalMaroonLib3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CreepyAmberAlameda2 {
+    _hidden_value = true
+  }
+  hidden_boolean HeadPinkMegan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CuriousLimeKirby2 {
+    _hidden_value = true
+  }
+  string NastyWhiteVeronica {
+    _hidden_value = true
+  }
+  hidden_boolean FancyTurquoiseTeena2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HarshApricotAnjela2 {
+    _hidden_value = true
+  }
+  boolean PreferredTanScarlet {
+    _hidden_value = true
+  }
+  json FinancialBronzeCori2 {
+    _hidden_value = true
+  }
+  string ScreechingApricotAnthia {
+    _hidden_value = true
+  }
+  boolean InterimOrangeMalva2 {
+    _hidden_value = true
+  }
+  serviceid GenuineGreenIsidora2 {
+    _hidden_value = true
+  }
+  string GermanChocolateDelilah {
+    _hidden_value = true
+  }
+  dummy.OkSapphireRhoda FemaleCrimsonEmmi {
+    MathematicalRoseOthelia = "What creature is smarter than a talking parrot? A spelling bee."
+    ShallowAmberAloise = 135
+    _hidden_value = true
+  }
+  InterestedCoffeeDina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ResidentSalmonRaeann = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProtectiveRoseOlivette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ThoughtlessBeigeBrita2 = 107
+  _hidden_value = true
+}

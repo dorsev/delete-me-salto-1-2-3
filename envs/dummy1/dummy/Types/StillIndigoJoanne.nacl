@@ -1,0 +1,32 @@
+type dummy.StillIndigoJoanne {
+  annotations {
+    boolean IntermediateRoseOfilia2 {
+    }
+    serviceid UpsetOliveMab {
+    }
+    serviceid_number FederalGrayHalli {
+    }
+    boolean BloodyCyanFaythe {
+    }
+  }
+  boolean CooperativeBeigeCami {
+    _hidden_value = true
+  }
+  boolean RemarkableGreenHortensia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WelcomeIvoryJosy {
+    _hidden_value = true
+  }
+  number MilitaryChocolateDarline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LegitimatePinkMaxy {
+    _hidden_value = true
+  }
+  IntermediateRoseOfilia2 = true
+  UpsetOliveMab = "Why didnt the skeleton cross the road? Because he had no guts."
+  FederalGrayHalli = 387
+  BloodyCyanFaythe = true
+  _hidden_value = true
+}

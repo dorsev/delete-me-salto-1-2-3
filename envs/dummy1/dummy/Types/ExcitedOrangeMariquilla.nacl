@@ -1,0 +1,23 @@
+type dummy.ExcitedOrangeMariquilla {
+  annotations {
+    string GlamorousTurquoiseTeresina {
+    }
+    json TenderRedOdelinda {
+    }
+    json LongAmethystAmbur {
+    }
+    number IsraeliPinkMeriel {
+    }
+  }
+  "Map<json>" NumerousAmethystAngela {
+    _hidden_value = true
+  }
+  boolean TallAmaranthAggy {
+    _hidden_value = true
+  }
+  GlamorousTurquoiseTeresina = "I'll tell you what often gets over looked... garden fences."
+  TenderRedOdelinda = "Did you know that protons have mass? I didn't even know they were catholic."
+  LongAmethystAmbur = "Dad Im hungry  Hi hungry Im dad"
+  IsraeliPinkMeriel = 727
+  _hidden_value = true
+}

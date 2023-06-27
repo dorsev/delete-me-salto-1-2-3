@@ -1,0 +1,73 @@
+type dummy.PoliticalBlushChris2 {
+  annotations {
+    serviceid SupremeGreenIsabella5 {
+    }
+    serviceid_number FriendlyGoldGunilla2 {
+    }
+    hidden_boolean SacredRedNorine4 {
+    }
+    json FamousTealSiusan3 {
+    }
+    boolean CruelAquamarineBessy3 {
+    }
+    boolean EnormousFuchsiaGinny {
+    }
+    json BlackVioletTootsie2 {
+    }
+    boolean TerribleEmeraldFredra {
+    }
+    boolean ModeratePurpleNataline {
+    }
+    number WrongTomatoSybila3 {
+    }
+    serviceid HappyBrownDaisie3 {
+    }
+    boolean EasternCrimsonErica2 {
+    }
+    json RespectiveSalmonPerry4 {
+    }
+    number OrganisationalTanSharai3 {
+    }
+    hidden_boolean RemarkableGreenHyacinth {
+    }
+    json FuriousRedNicolle {
+    }
+    hidden_boolean DefensiveRoseOona2 {
+    }
+    number NaturalBrownCristy5 {
+    }
+    hidden_boolean MassiveAmaranthAdrea4 {
+    }
+    string ShortYellowWilmette4 {
+    }
+    boolean CommonBronzeConsuelo4 {
+    }
+    serviceid_number CruelAquamarineBessy4 {
+    }
+    hidden_boolean WickedScarletRoselia3 {
+    }
+  }
+  SupremeGreenIsabella5 = '''
+Chances are if you' ve seen one shopping center, you've seen a mall.
+Chances are if you' ve seen one shopping center, you've seen a mall.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+What creature is smarter than a talking parrot? A spelling bee.
+'''
+  FriendlyGoldGunilla2 = 387
+  FamousTealSiusan3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  CruelAquamarineBessy3 = false
+  EnormousFuchsiaGinny = false
+  BlackVioletTootsie2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  TerribleEmeraldFredra = true
+  ModeratePurpleNataline = false
+  WrongTomatoSybila3 = 898
+  HappyBrownDaisie3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  EasternCrimsonErica2 = false
+  RespectiveSalmonPerry4 = "I'll tell you what often gets over looked... garden fences."
+  OrganisationalTanSharai3 = 803
+  FuriousRedNicolle = "What creature is smarter than a talking parrot? A spelling bee."
+  NaturalBrownCristy5 = 702
+  ShortYellowWilmette4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  CommonBronzeConsuelo4 = true
+  CruelAquamarineBessy4 = 931
+}

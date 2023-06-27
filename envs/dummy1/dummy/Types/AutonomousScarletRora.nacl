@@ -1,0 +1,24 @@
+type dummy.AutonomousScarletRora {
+  annotations {
+    boolean SickFuchsiaGerda {
+    }
+    string CheerfulBeigeCalypso {
+    }
+    dummy.DEFAULT BrokenAmaranthAila4 {
+    }
+    hidden_boolean UnchangedSilverRozelle {
+    }
+    serviceid FellowJadeJustine {
+    }
+  }
+  serviceid GoverningTanSelma {
+    _hidden_value = true
+  }
+  SickFuchsiaGerda = true
+  CheerfulBeigeCalypso = "Whoever invented the knock-knock joke should get a no bell prize."
+  BrokenAmaranthAila4 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  FellowJadeJustine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

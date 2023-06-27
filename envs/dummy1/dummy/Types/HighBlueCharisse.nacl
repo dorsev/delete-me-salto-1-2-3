@@ -1,0 +1,157 @@
+type dummy.HighBlueCharisse {
+  annotations {
+    dummy.DEFAULT EligiblePurpleNeille {
+    }
+    serviceid_number ShallowAmberAloise4 {
+    }
+    hidden_boolean GreyEmeraldFranni2 {
+    }
+    boolean DeepChocolateDelora {
+    }
+  }
+  dummy.CompactPurpleNanny ElectricalLavenderKerrie {
+    ControlledTanSheilakathryn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CleanCyanFernande = 412
+    JoyousBlackCarry = 735
+    ColorfulTomatoTandie = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    SophisticatedJadeKarlene = 497
+    CuriousLimeKira = 611
+    MentalCrimsonEsme = 41
+    MeltedAquaAura = "Im only familiar with 25 letters in the English language. I dont know why."
+    ShiveringAquaBabbie = "Why was it called the dark ages? Because of all the knights. "
+    ProgressiveOliveMadelin = 615
+    WillingGoldGustie = "Slept like a log last night  woke up in the fireplace."
+    FrontCopperEadith = 806
+    CreepyAquamarineBeryle = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  dummy.NoisyApricotAnnetta WeakAquamarineBelia2 {
+    InterimOrangeMalvina = 230
+    JudicialJadeKarla = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    WhisperingApricotArdelle = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    LabourBrownDaffi = 236
+    InjuredScarletRosalie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ThoughtfulBlueCaty = 860
+    ArmedGrayHelaina = false
+    DelightfulSilverRowe = false
+    ExperiencedMagentaLaural = false
+    ToryGreenIndira = false
+    ShortAmethystAnabella = 51
+    BrilliantGreenIlse = "Why didnt the skeleton cross the road? Because he had no guts."
+    ColossalAmaranthAbbie = true
+    ArtificialMagentaLena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ExtraCoffeeDiane = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    EconomicBlushClarabelle = 416
+    OrangePurpleMuire = "A steak pun is a rare medium well done."
+    SillyIvoryJoell = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ContinuousIvoryJoye = false
+    SuperiorMaroonLian = "How come the stadium got hot after the game? Because all of the fans left."
+    GeneralBlushChristen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AmusedBeigeCahra = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    _hidden_value = true
+  }
+  json VariousBronzeCorrine {
+    _hidden_value = true
+  }
+  serviceid_number SuspiciousPurpleMyrle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ForwardSapphireRianon {
+    _hidden_value = true
+  }
+  string BigAmaranthAbbi {
+    _hidden_value = true
+  }
+  string SatisfiedHarlequinJean {
+    _hidden_value = true
+  }
+  json HistoricLavenderKellsie {
+    _hidden_value = true
+  }
+  serviceid InadequateLavenderKaylyn4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpicyAquaArlie2 {
+    _hidden_value = true
+  }
+  json SuspiciousPurpleMyrle2 {
+    _hidden_value = true
+  }
+  boolean LevelJadeKally {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" OccasionalIvoryJuline2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number TheoreticalIndigoJenifer {
+    _hidden_value = true
+  }
+  boolean FlakyAmberAlfy2 {
+    _hidden_value = true
+  }
+  hidden_boolean SovietChocolateDari2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HungryAzureBlondelle {
+    _hidden_value = true
+  }
+  hidden_boolean CrowdedTomatoTani2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UsefulChocolateDee2 {
+    _hidden_value = true
+  }
+  json RoughAquaAva {
+    _hidden_value = true
+  }
+  hidden_boolean MushyWhiteVerina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ImmenseAmaranthAdelaide {
+    _hidden_value = true
+  }
+  string InvisibleRoseOrelee {
+    _hidden_value = true
+  }
+  hidden_boolean ImperialJadeKaterina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<string>" ColouredMoccasinLivvyy {
+    _hidden_value = true
+  }
+  serviceid_number HomelyTurquoiseTessa3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DoubtfulTealSindee4 {
+    _hidden_value = true
+  }
+  string CreepyAmberAlaine2 {
+    _hidden_value = true
+  }
+  EligiblePurpleNeille = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  ShallowAmberAloise4 = 79
+  DeepChocolateDelora = false
+  _hidden_value = true
+}

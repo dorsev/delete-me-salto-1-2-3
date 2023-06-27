@@ -1,0 +1,24 @@
+type dummy.UncomfortablePlumModestine {
+  annotations {
+    json FollowingBrownCynthea {
+    }
+    serviceid MereGreenIdette {
+    }
+    dummy.DEFAULT AngryAquamarineBenetta {
+    }
+    json GorgeousVioletUna {
+    }
+    hidden_boolean ComingSilverSande2 {
+    }
+  }
+  dummy.DEFAULT ExcellentCoralEimile {
+    _hidden_value = true
+  }
+  FollowingBrownCynthea = "Im only familiar with 25 letters in the English language. I dont know why."
+  MereGreenIdette = "What do you call two barracuda fish?  A Pairacuda!"
+  AngryAquamarineBenetta = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  GorgeousVioletUna = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

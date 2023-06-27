@@ -1,0 +1,140 @@
+type dummy.RapidGrayHildagarde {
+  annotations {
+    serviceid_number UglyTurquoiseTiphani3 {
+    }
+    boolean LovelyBlackCassandra3 {
+    }
+    number MainBlushCilka {
+    }
+    json JewishLimeKit2 {
+    }
+    json UnwillingTanShelia {
+    }
+    dummy.AliveTealSherilyn SatisfiedHarlequinJeana2 {
+    }
+    serviceid_number SoftCoralElana4 {
+    }
+  }
+  dummy.ToughYellowYsabel WiseLavenderKatharyn {
+    GrubbyAquaAubry = 716
+    _hidden_value = true
+  }
+  number ReluctantMagentaLeeann3 {
+    _hidden_value = true
+  }
+  string RudeTanShaylyn3 {
+    _hidden_value = true
+  }
+  boolean ResultingPurpleNada4 {
+    _hidden_value = true
+  }
+  serviceid SafeCopperDorey4 {
+    _hidden_value = true
+  }
+  serviceid FreeBronzeColene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ScrawnyYellowWilmette {
+    _hidden_value = true
+  }
+  boolean IntegralSalmonPhillida2 {
+    _hidden_value = true
+  }
+  serviceid_number InnocentTealStaci {
+    _hidden_value = true
+  }
+  json RoastedWhiteWendy {
+    _hidden_value = true
+  }
+  boolean NiceBrownCybill {
+    _hidden_value = true
+  }
+  hidden_boolean ObedientBlackCassi2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FullBlushChristian {
+    _hidden_value = true
+  }
+  number RetiredSilverSaraann2 {
+    _hidden_value = true
+  }
+  json HorizontalSalmonPru5 {
+    _hidden_value = true
+  }
+  number HomelyTurquoiseTessi3 {
+    _hidden_value = true
+  }
+  string ShinyTurquoiseTiffanie {
+    _hidden_value = true
+  }
+  boolean SystematicOrangeMarcelia3 {
+    _hidden_value = true
+  }
+  hidden_boolean GorgeousVioletUrsala4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string WiseLavenderKathe {
+    _hidden_value = true
+  }
+  serviceid DreadfulPinkMerrielle2 {
+    _hidden_value = true
+  }
+  serviceid NeutralPeachMarylynne4 {
+    _hidden_value = true
+  }
+  json SheerMagentaLaurette2 {
+    _hidden_value = true
+  }
+  hidden_boolean PresidentialLimeKrystalle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string NationalBlushCherie {
+    _hidden_value = true
+  }
+  hidden_boolean HarshOliveMaia5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AgriculturalGoldGoldi4 {
+    _hidden_value = true
+  }
+  dummy.StraightAmethystAlysia CentralBronzeConny2 {
+    _hidden_value = true
+  }
+  serviceid_number ManagingLimeKitty {
+    _hidden_value = true
+  }
+  string GermanChocolateDelila2 {
+    _hidden_value = true
+  }
+  serviceid HealthyGoldGracie {
+    _hidden_value = true
+  }
+  boolean BumpyAmaranthAili2 {
+    _hidden_value = true
+  }
+  serviceid_number SurvivingSapphireRicky4 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" EvilAzureBill {
+    _hidden_value = true
+  }
+  string PuzzledTomatoStephi {
+    _hidden_value = true
+  }
+  UglyTurquoiseTiphani3 = 552
+  LovelyBlackCassandra3 = false
+  MainBlushCilka = 812
+  JewishLimeKit2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UnwillingTanShelia = "Im only familiar with 25 letters in the English language. I dont know why."
+  SatisfiedHarlequinJeana2 = 384
+  SoftCoralElana4 = 814
+  _hidden_value = true
+}

@@ -1,0 +1,42 @@
+type dummy.SmallAmaranthAgatha2 {
+  annotations {
+    json BlueCoffeeDi2 {
+    }
+    dummy.GoodBlackCaro PreparedCyanFelicdad {
+    }
+    boolean TestyYellowYolanda3 {
+    }
+    serviceid_number ConvincedJadeKariotta {
+    }
+    boolean BlueCoffeeDi3 {
+    }
+  }
+  serviceid_number ComingSilverSammy {
+    _hidden_value = true
+  }
+  hidden_boolean ObligedOrangeMarcelle3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TameYellowYasmin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ValuableGoldGwynne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WidespreadHarlequinJacquetta {
+    _hidden_value = true
+  }
+  number IrishCrimsonErminie2 {
+    _hidden_value = true
+  }
+  BlueCoffeeDi2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PreparedCyanFelicdad = 701
+  TestyYellowYolanda3 = true
+  ConvincedJadeKariotta = 269
+  BlueCoffeeDi3 = false
+  _hidden_value = true
+}

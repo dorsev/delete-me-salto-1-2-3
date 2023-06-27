@@ -1,0 +1,36 @@
+type dummy.FriendlyBlackCarlynne is number {
+  annotations {
+    string OpenTealStefa2 {
+    }
+    hidden_boolean RainyAquaAustin {
+    }
+    hidden_boolean LegitimatePinkMaye {
+    }
+    json TechnicalCopperEdeline {
+    }
+    dummy.DEFAULT ForwardSapphireRici {
+    }
+    number NursingSalmonPhaedra {
+    }
+    number LiableLimeKimberlyn {
+    }
+    serviceid ClearTomatoTammara {
+    }
+    hidden_boolean SweetAquaAshla {
+    }
+    serviceid SympatheticPinkMead {
+    }
+    json StupidTomatoSunshine {
+    }
+  }
+  OpenTealStefa2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TechnicalCopperEdeline = "To be Frank, I'd have to change my name."
+  ForwardSapphireRici = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  NursingSalmonPhaedra = 998
+  LiableLimeKimberlyn = 212
+  ClearTomatoTammara = "Dad Im hungry  Hi hungry Im dad"
+  SympatheticPinkMead = "Whoever invented the knock-knock joke should get a no bell prize."
+  StupidTomatoSunshine = "Why is Peter Pan always flying? Because he Neverlands."
+}

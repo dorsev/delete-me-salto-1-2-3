@@ -1,0 +1,60 @@
+type dummy.ModernTealStarla2 {
+  dummy.DeepChocolateDelores4 DefensiveRoseOona4 {
+    PermanentFuchsiaGaye2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EarlyAmethystAmanda2 = 222
+    BroadAmberAlie2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ChronicOliveMalissa = 450
+    GoodBlueCelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  string UnpleasantRedNonna4 {
+  }
+  serviceid_number RightBlushCherin2 {
+  }
+  dummy.CurlyAmberAlbertina ComplicatedIndigoJoanna4 {
+    TanYellowYettie2 = 25
+    FierceOliveMaisie = 885
+    WickedBeigeBryana = 103
+    SadGrayHestia2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WeirdSilverRozele2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  serviceid_number DearGoldGlori4 {
+  }
+  serviceid_number DesirableMagentaLanny5 {
+  }
+  number IdealEmeraldFredi7 {
+  }
+  boolean SuddenGoldGwen2 {
+  }
+  serviceid IncreasedCrimsonEster2 {
+  }
+  string PuzzledTanShani6 {
+  }
+  serviceid_number EstablishedMagentaLeigh {
+  }
+  serviceid_number PotentialCoralElberta3 {
+  }
+  string BroadCoralElisabeth4 {
+  }
+  hidden_boolean MechanicalMagentaLeonie3 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean ComplexCopperDrucie {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  number AdorableTomatoSybyl5 {
+  }
+  string RidiculousMoccasinLivy2 {
+  }
+  dummy.SwissPlumMignonne DreadfulPinkMerrile5 {
+    HurtAzureBlondy = 174
+    GrandEmeraldFrances3 = true
+    DualSapphireRhiamon2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DevelopedPinkMerissa = 892
+    LiveIndigoJodi3 = 525
+    ContentPeachMatilda = 332
+  }
+}

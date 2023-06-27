@@ -1,0 +1,71 @@
+type dummy.MechanicalMagentaLeonelle3 {
+  annotations {
+    serviceid_number ControversialLimeKyla3 {
+    }
+    serviceid CrudePlumMildred2 {
+    }
+    boolean EqualCrimsonEmilie {
+    }
+    number ParliamentaryFuchsiaGerty2 {
+    }
+    dummy.AdjacentSilverRoxi OkSapphireRhoda3 {
+    }
+    json OkayOliveMaggi5 {
+    }
+    serviceid RadicalGrayHelenelizabeth2 {
+    }
+    dummy.TypicalEmeraldFrancesca3 ImperialLavenderKaterine5 {
+    }
+    hidden_boolean EmbarrassingSilverSaundra2 {
+    }
+    serviceid_number DeliciousScarletRochette3 {
+    }
+    string MoaningApricotAnnamarie3 {
+    }
+    serviceid_number MilitaryChocolateDarlene {
+    }
+    boolean ResponsibleCoffeeDevan3 {
+    }
+    string ShallowPinkMeggie {
+    }
+    json AsleepJadeKarmen5 {
+    }
+    string CurlyAmberAlbina5 {
+    }
+    serviceid WeakAquamarineBel2 {
+    }
+    serviceid AbsentPinkMelva2 {
+    }
+    dummy.ConfusedMaroonLila DirtyIvoryJosepha4 {
+    }
+    boolean GentleBlackCarmella3 {
+    }
+    boolean UnusualTurquoiseTobe3 {
+    }
+    number OfficialCopperDorita3 {
+    }
+    serviceid GloriousBlackCarmina2 {
+    }
+  }
+  ControversialLimeKyla3 = 345
+  CrudePlumMildred2 = "Slept like a log last night  woke up in the fireplace."
+  EqualCrimsonEmilie = false
+  ParliamentaryFuchsiaGerty2 = 38
+  OkSapphireRhoda3 = file("ClumsyVioletTraci6.txt")
+  OkayOliveMaggi5 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RadicalGrayHelenelizabeth2 = "Slept like a log last night  woke up in the fireplace."
+  DeliciousScarletRochette3 = 132
+  MoaningApricotAnnamarie3 = "How come the stadium got hot after the game? Because all of the fans left."
+  MilitaryChocolateDarlene = 263
+  ResponsibleCoffeeDevan3 = false
+  ShallowPinkMeggie = "Whoever invented the knock-knock joke should get a no bell prize."
+  AsleepJadeKarmen5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  CurlyAmberAlbina5 = "What do you call two barracuda fish?  A Pairacuda!"
+  WeakAquamarineBel2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AbsentPinkMelva2 = "Dad Im hungry  Hi hungry Im dad"
+  DirtyIvoryJosepha4 = file("GlobalGrayHermina.txt")
+  GentleBlackCarmella3 = true
+  UnusualTurquoiseTobe3 = true
+  OfficialCopperDorita3 = 300
+  GloriousBlackCarmina2 = "Why did the kid cross the playground? To get to the other slide."
+}

@@ -1,0 +1,53 @@
+type dummy.PoliteSalmonRafa2 {
+  dummy.ModernAmethystAmelie InternalCoralEdythe {
+    MinisterialTanSheela = true
+    WelcomeIvoryJosie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    WarmCopperDulcinea = "What do you do on a remote island? Try and find the TV island it belongs to."
+    QualifiedPinkMelli = 765
+  }
+  string VariousBronzeCorrine2 {
+  }
+  serviceid QuietWhiteVivienne2 {
+  }
+  hidden_boolean MiserableSalmonRachel2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FutureCoffeeDoloritas3 {
+  }
+  serviceid_number HonestIndigoJerry2 {
+  }
+  string FarBlushChristin3 {
+  }
+  number QuietWhiteViviene4 {
+  }
+  json DullMoccasinLorianna2 {
+  }
+  boolean ObviousCoffeeDolli {
+  }
+  number AfraidAquamarineBenedetta2 {
+  }
+  json BlankPinkMelodie5 {
+  }
+  string UnawareSapphireReeba5 {
+  }
+  serviceid_number FemaleCrimsonEmmi3 {
+  }
+  hidden_boolean LittleBlushChlo3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  dummy.RareWhiteWaly LowBlushChristine3 {
+    JoyousBlackCarrie2 = file("PurringApricotAnni7.txt")
+    ThunderingApricotArabelle = file("CausalSapphireRenate4.txt")
+    PaleGrayHarriett2 = 967
+    DyingScarletRoby3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DullMoccasinLori = 998
+  }
+  json TallCyanFayette3 {
+  }
+  serviceid_number RisingScarletRoselle4 {
+  }
+}

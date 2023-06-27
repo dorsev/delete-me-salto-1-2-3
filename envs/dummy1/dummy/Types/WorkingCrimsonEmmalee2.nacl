@@ -1,0 +1,22 @@
+type dummy.WorkingCrimsonEmmalee2 {
+  annotations {
+    json SignificantBrownDanni2 {
+    }
+    number AcceptedTanShae {
+    }
+    json ElaborateRedNicolette4 {
+    }
+    number ExactLimeKordula {
+    }
+    hidden_boolean BoredPlumMoreen {
+    }
+  }
+  boolean GreatBlueChantalle {
+    _hidden_value = true
+  }
+  SignificantBrownDanni2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AcceptedTanShae = 110
+  ElaborateRedNicolette4 = "Why was it called the dark ages? Because of all the knights. "
+  ExactLimeKordula = 21
+  _hidden_value = true
+}

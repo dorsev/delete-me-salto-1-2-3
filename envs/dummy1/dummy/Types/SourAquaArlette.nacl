@@ -1,0 +1,77 @@
+type dummy.SourAquaArlette {
+  annotations {
+    serviceid_number MarkedMagentaLatrina2 {
+    }
+    dummy.StraightAmethystAlysia SecretGrayHilary {
+    }
+    hidden_boolean TameTomatoSusette {
+    }
+    serviceid_number BigVioletTonia {
+    }
+  }
+  number ResultingPurpleMyrtle {
+    _hidden_value = true
+  }
+  "List<string>" VivaciousBlueCecilla2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MarkedMagentaLatrina3 {
+    _hidden_value = true
+  }
+  serviceid FrequentLavenderKati3 {
+    _hidden_value = true
+  }
+  string ConfusedMaroonLila3 {
+    _hidden_value = true
+  }
+  number BlushingTomatoTamar {
+    _hidden_value = true
+  }
+  number ExcitingGreenIvett {
+    _hidden_value = true
+  }
+  serviceid_number ManagerialPurpleNerita {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedAmberAlane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT FunctionalMaroonLexine {
+    _hidden_value = true
+  }
+  number SpicyAquaArliene {
+    _hidden_value = true
+  }
+  "List<boolean>" StingyYellowWinnah2 {
+    _hidden_value = true
+  }
+  serviceid OtherBlueCeline {
+    _hidden_value = true
+  }
+  serviceid GreekIndigoJoana {
+    _hidden_value = true
+  }
+  string InvisibleRoseOrelia2 {
+    _hidden_value = true
+  }
+  number JoyousBlackCarroll2 {
+    _hidden_value = true
+  }
+  json WidespreadHarlequinJacquie {
+    _hidden_value = true
+  }
+  serviceid GoodBlackCarmita3 {
+    _hidden_value = true
+  }
+  hidden_boolean HappyBlackCaroljean {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  MarkedMagentaLatrina2 = 142
+  SecretGrayHilary = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BigVioletTonia = 651
+  _hidden_value = true
+}

@@ -1,0 +1,111 @@
+type dummy.LongVioletVanda5 {
+  dummy.ComprehensiveGreenHyacinthia DiplomaticMagentaLenora4 {
+    SorryBrownDanyette2 = 725
+    RelievedSalmonPetronia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    StrangeYellowWinnie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  dummy.NorthernCoralElectra2 ConvincingSalmonPeggie {
+    CriticalCrimsonEstell3 = "What creature is smarter than a talking parrot? A spelling bee."
+    DisabledHarlequinJanina2 = 631
+    ConfidentialScarletRodina5 = true
+    BloodyTomatoTallou2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    NutritiousWhiteVilma5 = 186
+  }
+  dummy.PowerfulCopperDruci SpecificChocolateDarcee3 {
+    WorryingSilverRozalin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RelevantCoffeeDoralia = "Whoever invented the knock-knock joke should get a no bell prize."
+    SecretGrayHetty = 168
+    VulnerableJadeKarole = true
+    ElectoralLimeKristina = "A steak pun is a rare medium well done."
+    ChristianCoralElva = true
+    SmallBlueCharla = 373
+    WorryingSilverRozamond = false
+    VerticalOliveLynsey = "To be Frank, I'd have to change my name."
+    RespectiveSalmonPersis = 506
+    GladGoldGlyn = 817
+  }
+  dummy.AdjacentSilverRoxi SmilingBlueCathyleen2 {
+    AdjacentSilverRoxi2 = "What do you call two barracuda fish?  A Pairacuda!"
+    KeenGrayHana = "Slept like a log last night  woke up in the fireplace."
+    PinkIndigoJenni = 615
+    AfraidCrimsonEmogene = "What creature is smarter than a talking parrot? A spelling bee."
+    SatisfactoryLimeKrissie = 948
+    NumerousHarlequinJanean = false
+    SkinnyAmberAlvera = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    GivenHarlequinJania = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FastEmeraldFleurette = "Why is Peter Pan always flying? Because he Neverlands."
+    NoisySilverSadye = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DirectChocolateDeana = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DelightfulBeigeCammy = "What do you call two barracuda fish?  A Pairacuda!"
+    HelplessTealSonya = 906
+    PayableOrangeMarcia = 865
+    StupidHarlequinJacenta = 569
+    ImprovedMagentaLark = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  dummy.BlankPinkMelodie OutsideGrayHelga4 {
+    LivelyBlackCasie = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    JollyBlackCarri = 617
+    AllegedOliveLynn = "Why didnt the skeleton cross the road? Because he had no guts."
+    AccusedSilverSallyanne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WesternChocolateDehlia = "What do you call two barracuda fish?  A Pairacuda!"
+    LoudApricotAnnabella = 543
+  }
+  boolean BloodyTomatoTally4 {
+  }
+  hidden_boolean EvilPeachMaurise2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean TechnologicalOrangeMarianna4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RemoteIndigoJenica3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string RequiredMaroonLeta {
+  }
+  string ObnoxiousAzureBrandea {
+  }
+  dummy.ActiveCopperDre2 ConventionalGoldGus2 {
+    NotablePeachMartina = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    LargeAmaranthAdelind = "Why did the tomato blush? Because it saw the salad dressing."
+    RenewedSilverSandra2 = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    GratefulIvoryJorie = 113
+  }
+  dummy.PhilosophicalRedNoell ExtremeHarlequinJacinthe4 {
+    ExcitedBlackCarita = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SignificantBrownDanni = "Why is Peter Pan always flying? Because he Neverlands."
+    HilariousBlackCarolyn = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    WonderfulBlueCeleste = "A steak pun is a rare medium well done."
+    OutrageousAzureBreanne = 57
+    SoftCoralElayne = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  string UptightBeigeBrook3 {
+  }
+  hidden_boolean SpatialSalmonPerri {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid_number CivicTanShellie3 {
+  }
+  number UsedFuchsiaGeorgeanna3 {
+  }
+  string RainyAquaAurore7 {
+  }
+  boolean ShortBronzeColene3 {
+  }
+}

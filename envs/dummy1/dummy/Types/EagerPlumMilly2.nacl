@@ -1,0 +1,27 @@
+type dummy.EagerPlumMilly2 {
+  annotations {
+    string RealTomatoStevena2 {
+    }
+    string EagerBeigeCandie2 {
+    }
+    json ElatedBeigeCaralie2 {
+    }
+    dummy.DEFAULT SufficientCrimsonEolande3 {
+    }
+    boolean NeighbouringPurpleNan {
+    }
+    hidden_boolean RegulatorySalmonQuintana3 {
+    }
+  }
+  serviceid_number VivaciousBlueCecilla4 {
+    _hidden_value = true
+  }
+  RealTomatoStevena2 = "Why did the tomato blush? Because it saw the salad dressing."
+  EagerBeigeCandie2 = "To be Frank, I'd have to change my name."
+  ElatedBeigeCaralie2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SufficientCrimsonEolande3 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  NeighbouringPurpleNan = false
+  _hidden_value = true
+}

@@ -1,0 +1,66 @@
+type dummy.ElectricalLavenderKerrill is boolean {
+  annotations {
+    boolean FinalBrownDale {
+    }
+    string DirtyAmberAleta {
+    }
+    boolean UnchangedSilverRubetta {
+    }
+    boolean ElectronicGreenInga {
+    }
+    hidden_boolean BreezyAmaranthAigneis {
+    }
+    json GreenChocolateDebra {
+    }
+    dummy.DEFAULT WeirdSilverRozele {
+    }
+    boolean UglyTurquoiseTiphani {
+    }
+    string EuropeanBronzeConcettina {
+    }
+    number MaleCoffeeDianne {
+    }
+    string AverageAmaranthAaren {
+    }
+    hidden_boolean LittleBlushChiquia {
+    }
+    json FrailVioletTrixy {
+    }
+    number FineBlackCarlyn {
+    }
+    json ComplicatedIndigoJoanie {
+    }
+    boolean UpperCyanFaustine {
+    }
+    json WonderfulYellowZitella {
+    }
+    json ObligedOrangeMarcellina {
+    }
+    string JitteryVioletValerie {
+    }
+    string BreezyAmaranthAidan {
+    }
+    hidden_boolean StrangeYellowWinnifred {
+    }
+  }
+  FinalBrownDale = false
+  DirtyAmberAleta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnchangedSilverRubetta = false
+  ElectronicGreenInga = false
+  GreenChocolateDebra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WeirdSilverRozele = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  UglyTurquoiseTiphani = true
+  EuropeanBronzeConcettina = "Why is Peter Pan always flying? Because he Neverlands."
+  MaleCoffeeDianne = 260
+  AverageAmaranthAaren = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FrailVioletTrixy = "Whoever invented the knock-knock joke should get a no bell prize."
+  FineBlackCarlyn = 425
+  ComplicatedIndigoJoanie = "What do you call two barracuda fish?  A Pairacuda!"
+  UpperCyanFaustine = true
+  WonderfulYellowZitella = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ObligedOrangeMarcellina = "What creature is smarter than a talking parrot? A spelling bee."
+  JitteryVioletValerie = "Why is Peter Pan always flying? Because he Neverlands."
+  BreezyAmaranthAidan = "Slept like a log last night  woke up in the fireplace."
+}

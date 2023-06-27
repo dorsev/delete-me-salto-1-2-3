@@ -1,0 +1,26 @@
+type dummy.IndianGrayHarmonia {
+  annotations {
+    string ConvenientMagentaLeesa3 {
+    }
+    number YoungBlueCher2 {
+    }
+    boolean DecisiveSalmonPenni3 {
+    }
+    serviceid_number NuttyWhiteVikki {
+    }
+    number RudeTanShayla2 {
+    }
+    boolean RunningPlumMirabel {
+    }
+  }
+  serviceid UnsightlyTurquoiseTisha2 {
+    _hidden_value = true
+  }
+  ConvenientMagentaLeesa3 = "Why did the kid cross the playground? To get to the other slide."
+  YoungBlueCher2 = 481
+  DecisiveSalmonPenni3 = false
+  NuttyWhiteVikki = 869
+  RudeTanShayla2 = 994
+  RunningPlumMirabel = false
+  _hidden_value = true
+}

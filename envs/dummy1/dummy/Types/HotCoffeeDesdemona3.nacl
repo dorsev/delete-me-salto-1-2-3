@@ -1,0 +1,25 @@
+type dummy.HotCoffeeDesdemona3 {
+  annotations {
+    boolean HighBlueCharissa3 {
+    }
+    serviceid_number IsraeliPinkMeriel3 {
+    }
+    boolean NumerousHarlequinJane2 {
+    }
+    number InterestingChocolateDeloria {
+    }
+    serviceid EnchantingBlackCaressa2 {
+    }
+  }
+  hidden_boolean ProposedGoldGweneth3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  HighBlueCharissa3 = false
+  IsraeliPinkMeriel3 = 433
+  NumerousHarlequinJane2 = true
+  InterestingChocolateDeloria = 543
+  EnchantingBlackCaressa2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

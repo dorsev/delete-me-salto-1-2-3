@@ -1,0 +1,24 @@
+type dummy.ExcellentCoralEilis2 {
+  annotations {
+    json GreenVioletUla {
+    }
+    string QuaintTurquoiseTiena {
+    }
+    serviceid_number GladGoldGlynda2 {
+    }
+    hidden_boolean LiberalCyanFarica {
+    }
+    string SlipperyAquamarineBarbaraanne2 {
+    }
+    hidden_boolean PersonalBronzeCordelia {
+    }
+  }
+  number WrongTomatoSybilla2 {
+    _hidden_value = true
+  }
+  GreenVioletUla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  QuaintTurquoiseTiena = "Why is Peter Pan always flying? Because he Neverlands."
+  GladGoldGlynda2 = 229
+  SlipperyAquamarineBarbaraanne2 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

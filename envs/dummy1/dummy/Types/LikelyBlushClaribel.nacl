@@ -1,0 +1,57 @@
+type dummy.LikelyBlushClaribel {
+  annotations {
+    serviceid_number ShiveringAquaBabita2 {
+    }
+    serviceid_number ComingSilverSandie {
+    }
+    boolean DailyCyanEve {
+    }
+    serviceid SillyBlueCathleen {
+    }
+    string UnchangedSilverRozella3 {
+    }
+    serviceid_number ShortYellowWilmette {
+    }
+    hidden_boolean NaughtyAzureBonnibelle3 {
+    }
+    boolean ItalianGoldGratiana {
+    }
+  }
+  dummy.DEFAULT DyingScarletRoby {
+    _hidden_value = true
+  }
+  "List<boolean>" MarvellousMoccasinLorrayne {
+    _hidden_value = true
+  }
+  string RainyAquaAustin2 {
+    _hidden_value = true
+  }
+  string ProudHarlequinJana2 {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanya2 {
+    _hidden_value = true
+  }
+  number LateAmethystAmberly {
+    _hidden_value = true
+  }
+  number SelfishBeigeBridgette3 {
+    _hidden_value = true
+  }
+  number LinguisticJadeKaril2 {
+    _hidden_value = true
+  }
+  hidden_boolean LegislativeMaroonLindy2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ShiveringAquaBabita2 = 801
+  ComingSilverSandie = 1
+  DailyCyanEve = false
+  SillyBlueCathleen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnchangedSilverRozella3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ShortYellowWilmette = 146
+  ItalianGoldGratiana = true
+  _hidden_value = true
+}

@@ -1,0 +1,66 @@
+type dummy.HotAquaAudrey2 {
+  annotations {
+    number SelfishBeigeBridie {
+    }
+    number DepressedAzureBettine2 {
+    }
+    string SharpAquaBab {
+    }
+    number GrandEmeraldFrancene {
+    }
+    serviceid SafeCopperDori {
+    }
+    boolean SourApricotArlene2 {
+    }
+    string ElegantTurquoiseTeddi2 {
+    }
+    hidden_boolean CompetitiveGrayHeida2 {
+    }
+  }
+  number EverydayLimeKym4 {
+    _hidden_value = true
+  }
+  serviceid SkilledMoccasinLuce2 {
+    _hidden_value = true
+  }
+  hidden_boolean ImaginativeTanSelinda3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT FormalCoralElka3 {
+    _hidden_value = true
+  }
+  string ResidentialIndigoJessi {
+    _hidden_value = true
+  }
+  serviceid DelightfulSilverRowe2 {
+    _hidden_value = true
+  }
+  number SpicyAquaArlina {
+    _hidden_value = true
+  }
+  json HorizontalSalmonPru2 {
+    _hidden_value = true
+  }
+  serviceid ChiefCopperDorrie3 {
+    _hidden_value = true
+  }
+  string OldBlueChanna2 {
+    _hidden_value = true
+  }
+  serviceid_number NeutralPeachMarys2 {
+    _hidden_value = true
+  }
+  "List<number>" HeavyAmethystAndy5 {
+    _hidden_value = true
+  }
+  SelfishBeigeBridie = 171
+  DepressedAzureBettine2 = 941
+  SharpAquaBab = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GrandEmeraldFrancene = 637
+  SafeCopperDori = "How come the stadium got hot after the game? Because all of the fans left."
+  SourApricotArlene2 = false
+  ElegantTurquoiseTeddi2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,36 @@
+type dummy.PoliticalBlushChris2 {
+  json SensitiveGrayHenka8 {
+  }
+  serviceid NutritiousWhiteVilma6 {
+  }
+  number ApparentCyanFawnia4 {
+  }
+  serviceid WanderingTomatoSuzann3 {
+  }
+  hidden_boolean SpanishGreenIona2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.LargeAmaranthAdeline3 AmazingMoccasinLiza2 {
+    MultipleLimeKip2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EssentialCoffeeDione = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    UnitedCopperEddy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ActualCopperEbonee3 = "Slept like a log last night  woke up in the fireplace."
+  }
+  dummy.SuccessfulChocolateDarya3 CrudePlumMildrid5 {
+    FellowIvoryJustina5 = true
+    BeautifulVioletTommie2 = "How come the stadium got hot after the game? Because all of the fans left."
+    PowerfulTomatoStephannie2 = false
+    HollowAmberAllsun4 = false
+    WideAmethystAmabel2 = 112
+    SexualCopperEachelle4 = 436
+  }
+  hidden_boolean SoftApricotAnya {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+}

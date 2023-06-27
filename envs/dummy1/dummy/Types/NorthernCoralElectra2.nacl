@@ -1,0 +1,28 @@
+type dummy.NorthernCoralElectra2 {
+  annotations {
+    serviceid CriticalCrimsonEstell3 {
+    }
+    number DisabledHarlequinJanina2 {
+    }
+    hidden_boolean CoastalPlumMichel {
+    }
+    boolean ConfidentialScarletRodina5 {
+    }
+    json BloodyTomatoTallou2 {
+    }
+    number NutritiousWhiteVilma5 {
+    }
+  }
+  string MassiveAmaranthAdorne {
+    _hidden_value = true
+  }
+  json PetiteAmaranthAdriena {
+    _hidden_value = true
+  }
+  CriticalCrimsonEstell3 = "What creature is smarter than a talking parrot? A spelling bee."
+  DisabledHarlequinJanina2 = 717
+  ConfidentialScarletRodina5 = true
+  BloodyTomatoTallou2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  NutritiousWhiteVilma5 = 610
+  _hidden_value = true
+}

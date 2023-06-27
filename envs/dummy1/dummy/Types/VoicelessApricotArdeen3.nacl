@@ -1,0 +1,80 @@
+type dummy.VoicelessApricotArdeen3 {
+  annotations {
+    serviceid ArmedGrayHelaina2 {
+    }
+    boolean BeautifulCoffeeDix2 {
+    }
+    json ComplicatedIndigoJoanna2 {
+    }
+    hidden_boolean AcceptedTanSerene2 {
+    }
+    dummy.DEFAULT ActualCopperEbonee4 {
+    }
+  }
+  hidden_boolean OkSapphireRhianon2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid NativeJadeKate {
+    _hidden_value = true
+  }
+  string ComplexCopperDrucill2 {
+    _hidden_value = true
+  }
+  boolean DemocraticCrimsonEmyle2 {
+    _hidden_value = true
+  }
+  number VisualGreenInge3 {
+    _hidden_value = true
+  }
+  serviceid AccurateIndigoJillayne {
+    _hidden_value = true
+  }
+  number FairBlackCarleen2 {
+    _hidden_value = true
+  }
+  json HorizontalSalmonPrissie2 {
+    _hidden_value = true
+  }
+  json FilthyAmberAlexine {
+    _hidden_value = true
+  }
+  number BraveBeigeCaitrin3 {
+    _hidden_value = true
+  }
+  serviceid OkayOliveMaggi3 {
+    _hidden_value = true
+  }
+  boolean MinorEmeraldGabie3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpanishGreenIona {
+    _hidden_value = true
+  }
+  number GreasyAquaAubree {
+    _hidden_value = true
+  }
+  number AdverseSapphireRanna3 {
+    _hidden_value = true
+  }
+  serviceid_number CausalSapphireRenee2 {
+    _hidden_value = true
+  }
+  json NeutralPeachMarys3 {
+    _hidden_value = true
+  }
+  serviceid ControversialLimeKyla {
+    _hidden_value = true
+  }
+  serviceid BalancedSilverRoslyn2 {
+    _hidden_value = true
+  }
+  ArmedGrayHelaina2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BeautifulCoffeeDix2 = false
+  ComplicatedIndigoJoanna2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ActualCopperEbonee4 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,50 @@
+type dummy.JewishLimeKissie {
+  annotations {
+    hidden_boolean BrightCoralElvira {
+    }
+    string ConcernedBronzeCornie {
+    }
+    serviceid CheerfulBeigeCally {
+    }
+    hidden_boolean BeautifulVioletTommy2 {
+    }
+  }
+  hidden_boolean ElaborateRedNicolette5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean InterestingChocolateDelphinia5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AppropriateChocolateDarcey5 {
+    _hidden_value = true
+  }
+  hidden_boolean LtdCoralElnora2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AnnoyedAquamarineBenni3 {
+    _hidden_value = true
+  }
+  number GlamorousTurquoiseTeresita3 {
+    _hidden_value = true
+  }
+  hidden_boolean KnownMaroonLexi2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UnnecessaryMoccasinLoraine3 {
+    _hidden_value = true
+  }
+  json MechanicalMagentaLeonie {
+    _hidden_value = true
+  }
+  ConcernedBronzeCornie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CheerfulBeigeCally = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

@@ -1,0 +1,25 @@
+type dummy.TinyCyanEula {
+  annotations {
+    serviceid ObjectiveOrangeMamie3 {
+    }
+    json RealBlushClarine {
+    }
+    boolean SparklingTurquoiseTilda2 {
+    }
+    serviceid_number ObligedOrangeMarcelline3 {
+    }
+    hidden_boolean VaryingPurpleNerissa {
+    }
+    serviceid AverageCrimsonElysia2 {
+    }
+  }
+  "List<serviceid>" ModernBrownDacy2 {
+    _hidden_value = true
+  }
+  ObjectiveOrangeMamie3 = "What creature is smarter than a talking parrot? A spelling bee."
+  RealBlushClarine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SparklingTurquoiseTilda2 = false
+  ObligedOrangeMarcelline3 = 567
+  AverageCrimsonElysia2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

@@ -1,0 +1,95 @@
+type dummy.AngryAquamarineBenetta4 {
+  annotations {
+    hidden_boolean CorrespondingPlumMiquela5 {
+    }
+    boolean RattyWhiteWanids2 {
+    }
+    dummy.ModernAmethystAmelie GayOrangeMarigold3 {
+    }
+    dummy.DEFAULT VariableRedNona {
+    }
+    string ClumsyVioletTraci5 {
+    }
+  }
+  string DueCopperDorthy3 {
+    _hidden_value = true
+  }
+  boolean RainyAquaAurora3 {
+    _hidden_value = true
+  }
+  json SuccessiveMoccasinLoise {
+    _hidden_value = true
+  }
+  json EfficientGoldGretna4 {
+    _hidden_value = true
+  }
+  hidden_boolean ScrawnyYellowWillyt {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SocialBlueCharmion4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ExtendedPlumMilicent2 {
+    _hidden_value = true
+  }
+  serviceid_number DoubleCrimsonEtta2 {
+    _hidden_value = true
+  }
+  json DifferentTealSilvia2 {
+    _hidden_value = true
+  }
+  serviceid_number DirtyAmberAlessandra2 {
+    _hidden_value = true
+  }
+  string PetiteAmaranthAdrianna2 {
+    _hidden_value = true
+  }
+  serviceid_number NeutralPeachMaryrose3 {
+    _hidden_value = true
+  }
+  hidden_boolean ArrogantAquamarineBernadene5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TinyCyanEulalie2 {
+    _hidden_value = true
+  }
+  serviceid DrivingRoseOralla2 {
+    _hidden_value = true
+  }
+  string IntimateSilverRuthe3 {
+    _hidden_value = true
+  }
+  boolean InitialCoralElset2 {
+    _hidden_value = true
+  }
+  boolean VocationalTanShaina5 {
+    _hidden_value = true
+  }
+  serviceid_number StrangeYellowWinni {
+    _hidden_value = true
+  }
+  hidden_boolean StormyTurquoiseTimmi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean IntegralSalmonPhilly {
+    _hidden_value = true
+  }
+  string AsleepJadeKarmen {
+    _hidden_value = true
+  }
+  RattyWhiteWanids2 = true
+  GayOrangeMarigold3 = true
+  VariableRedNona = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  ClumsyVioletTraci5 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

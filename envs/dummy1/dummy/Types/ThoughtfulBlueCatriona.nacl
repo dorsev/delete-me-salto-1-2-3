@@ -1,0 +1,20 @@
+type dummy.ThoughtfulBlueCatriona {
+  annotations {
+    json UnknownFuchsiaGilberta2 {
+    }
+    serviceid ConfidentialScarletRodina4 {
+    }
+    string VastEmeraldFreddi2 {
+    }
+    serviceid BigVioletToni {
+    }
+  }
+  serviceid WonderfulBlueCelesta {
+    _hidden_value = true
+  }
+  UnknownFuchsiaGilberta2 = "Why was it called the dark ages? Because of all the knights. "
+  ConfidentialScarletRodina4 = "To be Frank, I'd have to change my name."
+  VastEmeraldFreddi2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  BigVioletToni = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

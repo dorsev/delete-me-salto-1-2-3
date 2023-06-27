@@ -1,0 +1,86 @@
+type dummy.EndlessPeachMarjorie2 {
+  annotations {
+    serviceid MagicOrangeMara2 {
+    }
+    string AccurateIndigoJilli2 {
+    }
+    serviceid_number IdealEmeraldFredi6 {
+    }
+    string ManyAmethystAnette4 {
+    }
+  }
+  json PeacefulOrangeMarguerite {
+    _hidden_value = true
+  }
+  hidden_boolean ConfusedAquamarineBerty2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DyingScarletRobinia {
+    _hidden_value = true
+  }
+  json IsolatedPeachMarjory {
+    _hidden_value = true
+  }
+  hidden_boolean OrganicLimeLadonna3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean InappropriateRoseOthilie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AnnualCoffeeDonni2 {
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulBeigeCammy4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DevelopedPinkMeris2 {
+    _hidden_value = true
+  }
+  json NiceWhiteVi2 {
+    _hidden_value = true
+  }
+  number SovietChocolateDarell2 {
+    _hidden_value = true
+  }
+  boolean EarlyAmethystAmalle3 {
+    _hidden_value = true
+  }
+  number UncertainMagentaLelia3 {
+    _hidden_value = true
+  }
+  serviceid UnsightlyTurquoiseTisha3 {
+    _hidden_value = true
+  }
+  number ChemicalGreenIseabal2 {
+    _hidden_value = true
+  }
+  hidden_boolean DeterminedOrangeMarillin3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LiberalCyanFarah2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AwakeRedNolana2 {
+    _hidden_value = true
+  }
+  serviceid CompetitiveGrayHedwiga2 {
+    _hidden_value = true
+  }
+  MagicOrangeMara2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AccurateIndigoJilli2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  IdealEmeraldFredi6 = 537
+  ManyAmethystAnette4 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

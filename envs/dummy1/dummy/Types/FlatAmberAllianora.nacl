@@ -1,0 +1,25 @@
+type dummy.FlatAmberAllianora {
+  annotations {
+    serviceid ConvincedJadeKarine {
+    }
+    string ModernBrownDacie {
+    }
+    dummy.DEFAULT SystematicOrangeMarcela4 {
+    }
+    number AnnualCoffeeDonny {
+    }
+    string HandicappedTanShanon {
+    }
+  }
+  string HumanBronzeConstanta {
+    _hidden_value = true
+  }
+  ConvincedJadeKarine = "Im only familiar with 25 letters in the English language. I dont know why."
+  ModernBrownDacie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SystematicOrangeMarcela4 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  AnnualCoffeeDonny = 160
+  HandicappedTanShanon = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

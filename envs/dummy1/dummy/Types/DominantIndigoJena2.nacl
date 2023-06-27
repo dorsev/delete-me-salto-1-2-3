@@ -1,0 +1,53 @@
+type dummy.DominantIndigoJena2 is string {
+  annotations {
+    dummy.DEFAULT ExtensiveGoldGloriana {
+    }
+    string OralLimeKylila {
+    }
+    number EldestTanSharline {
+    }
+    json EvilAzureBidget {
+    }
+    serviceid_number SoreBeigeBrigid {
+    }
+    number CreepyAmberAlameda {
+    }
+    boolean HarshOliveMahalia {
+    }
+    boolean DirectChocolateDeane {
+    }
+    json WetGrayHedwig {
+    }
+    serviceid_number DamagedAmberAleen {
+    }
+    serviceid BoringPeachMarni {
+    }
+    number DiverseRedNicky {
+    }
+    string ModeratePurpleNatalya {
+    }
+    serviceid_number HarshOliveMaible {
+    }
+    serviceid_number ChemicalGreenIsadora {
+    }
+    hidden_boolean PastCoffeeDianemarie {
+    }
+  }
+  ExtensiveGoldGloriana = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  OralLimeKylila = "What creature is smarter than a talking parrot? A spelling bee."
+  EldestTanSharline = 711
+  EvilAzureBidget = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SoreBeigeBrigid = 471
+  CreepyAmberAlameda = 400
+  HarshOliveMahalia = false
+  DirectChocolateDeane = true
+  WetGrayHedwig = "Did you know that protons have mass? I didn't even know they were catholic."
+  DamagedAmberAleen = 631
+  BoringPeachMarni = "Dad Im hungry  Hi hungry Im dad"
+  DiverseRedNicky = 878
+  ModeratePurpleNatalya = "Whoever invented the knock-knock joke should get a no bell prize."
+  HarshOliveMaible = 950
+  ChemicalGreenIsadora = 520
+}

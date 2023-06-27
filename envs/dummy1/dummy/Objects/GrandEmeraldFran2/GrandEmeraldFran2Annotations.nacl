@@ -1,0 +1,55 @@
+type dummy.GrandEmeraldFran2 {
+  annotations {
+    serviceid BrownFuchsiaGaynor3 {
+    }
+    string PlainIndigoJewell5 {
+    }
+    number InformalLavenderKatheryn2 {
+    }
+    hidden_boolean GivenHarlequinJanice7 {
+    }
+    hidden_boolean RulingLimeKippy3 {
+    }
+    json OkayOliveMaggy5 {
+    }
+    serviceid RichTomatoStevena {
+    }
+    json DesirableMagentaLanni2 {
+    }
+    serviceid_number LateAmethystAmber3 {
+    }
+    string QuietApricotAnnissa {
+    }
+    serviceid OccupationalOliveMadel3 {
+    }
+    hidden_boolean FierceAzureBillie {
+    }
+    string CrudePlumMildred3 {
+    }
+    serviceid_number ConsiderableChocolateDemetris2 {
+    }
+    json OtherBlueCelinka3 {
+    }
+    boolean ComfortableBeigeCamella4 {
+    }
+    string SlimRoseOlwen {
+    }
+    number SubsequentFuchsiaGilbertina2 {
+    }
+  }
+  BrownFuchsiaGaynor3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PlainIndigoJewell5 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  InformalLavenderKatheryn2 = 424
+  OkayOliveMaggy5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  RichTomatoStevena = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DesirableMagentaLanni2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LateAmethystAmber3 = 746
+  QuietApricotAnnissa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OccupationalOliveMadel3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  CrudePlumMildred3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ConsiderableChocolateDemetris2 = 352
+  OtherBlueCelinka3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ComfortableBeigeCamella4 = true
+  SlimRoseOlwen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SubsequentFuchsiaGilbertina2 = 672
+}

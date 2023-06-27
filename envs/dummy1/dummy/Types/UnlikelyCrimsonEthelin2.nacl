@@ -1,0 +1,55 @@
+type dummy.UnlikelyCrimsonEthelin2 {
+  annotations {
+    serviceid_number LevelJadeKameko2 {
+    }
+    boolean AdverseSapphireRaquel2 {
+    }
+    string LittleBlushChiquita3 {
+    }
+    serviceid HollowAmberAllx {
+    }
+    serviceid SuperTomatoSusanetta2 {
+    }
+    dummy.ModernAmethystAmelie MushyWhiteVerine2 {
+    }
+  }
+  dummy.ModernTealStar PuzzledTomatoStephenie {
+    _hidden_value = true
+  }
+  hidden_boolean KindVioletVally5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid VoluntaryGoldGwenni3 {
+    _hidden_value = true
+  }
+  string CombativeAquamarineBerte3 {
+    _hidden_value = true
+  }
+  number RemainingGoldGodiva2 {
+    _hidden_value = true
+  }
+  boolean ArabLimeKirsteni3 {
+    _hidden_value = true
+  }
+  string MeaningfulTanSher4 {
+    _hidden_value = true
+  }
+  string ImprovedMagentaLark4 {
+    _hidden_value = true
+  }
+  boolean ComfortableBeigeCamella {
+    _hidden_value = true
+  }
+  serviceid_number MagneticPeachMaurizia {
+    _hidden_value = true
+  }
+  LevelJadeKameko2 = 242
+  AdverseSapphireRaquel2 = true
+  LittleBlushChiquita3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HollowAmberAllx = "Why didnt the skeleton cross the road? Because he had no guts."
+  SuperTomatoSusanetta2 = "Dad Im hungry  Hi hungry Im dad"
+  MushyWhiteVerine2 = false
+  _hidden_value = true
+}

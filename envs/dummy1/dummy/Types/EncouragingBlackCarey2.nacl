@@ -1,0 +1,58 @@
+type dummy.EncouragingBlackCarey2 {
+  annotations {
+    serviceid FaithfulTanShayne4 {
+    }
+    json HeadPinkMeggi2 {
+    }
+    serviceid RapidAmethystAmye3 {
+    }
+    boolean LiquidRosePaloma3 {
+    }
+  }
+  serviceid_number KeyCopperDorothee {
+    _hidden_value = true
+  }
+  number MightyWhiteVerena {
+    _hidden_value = true
+  }
+  boolean TartYellowWynnie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ResidentialIndigoJessi3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number YellowYellowZora2 {
+    _hidden_value = true
+  }
+  serviceid_number HelplessAzureBlanche2 {
+    _hidden_value = true
+  }
+  string ImperialLavenderKaterine4 {
+    _hidden_value = true
+  }
+  boolean KeyCopperDorothea {
+    _hidden_value = true
+  }
+  boolean UniversalJadeKacy4 {
+    _hidden_value = true
+  }
+  string OpenBronzeClio {
+    _hidden_value = true
+  }
+  serviceid_number NuclearCoffeeDonica3 {
+    _hidden_value = true
+  }
+  string DisciplinarySilverSabina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WrongTomatoSybilla3 {
+    _hidden_value = true
+  }
+  FaithfulTanShayne4 = "Why did the tomato blush? Because it saw the salad dressing."
+  HeadPinkMeggi2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RapidAmethystAmye3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LiquidRosePaloma3 = true
+  _hidden_value = true
+}

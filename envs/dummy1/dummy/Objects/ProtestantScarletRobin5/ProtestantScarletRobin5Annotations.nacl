@@ -1,0 +1,59 @@
+type dummy.ProtestantScarletRobin5 {
+  annotations {
+    dummy.ConfusedMaroonLiesa5 MusicalIndigoJobey {
+    }
+    serviceid DramaticGoldHadria2 {
+    }
+    dummy.ImpressedPeachMarissa WhisperingApricotArdelia2 {
+    }
+    serviceid SadYellowWillabella2 {
+    }
+    boolean ResidentialIndigoJesselyn4 {
+    }
+    string PowerfulCopperDrucie {
+    }
+    number UnderlyingLimeKori2 {
+    }
+    serviceid TallYellowXylina4 {
+    }
+    dummy.HotAquaAudrey BloodyCyanFederica3 {
+    }
+    string OutrageousAzureBreanne2 {
+    }
+    json HelpfulTealSonnie3 {
+    }
+    hidden_boolean SorryBrownDanyelle5 {
+    }
+    hidden_boolean ChiefCopperDorri2 {
+    }
+    boolean StormyTurquoiseTim6 {
+    }
+    hidden_boolean OccupationalOliveMadel4 {
+    }
+    number TragicRosePavia {
+    }
+    serviceid MarginalLimeKristan {
+    }
+    boolean CrookedAmberAlanah3 {
+    }
+    serviceid_number ConcreteOliveLynette3 {
+    }
+    boolean SingleBronzeCorabella {
+    }
+  }
+  DramaticGoldHadria2 = "Why was it called the dark ages? Because of all the knights. "
+  SadYellowWillabella2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ResidentialIndigoJesselyn4 = false
+  PowerfulCopperDrucie = "Whoever invented the knock-knock joke should get a no bell prize."
+  UnderlyingLimeKori2 = 170
+  TallYellowXylina4 = "A steak pun is a rare medium well done."
+  BloodyCyanFederica3 = file("HistoricalCyanEvangelina3.txt")
+  OutrageousAzureBreanne2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  HelpfulTealSonnie3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  StormyTurquoiseTim6 = true
+  TragicRosePavia = 798
+  MarginalLimeKristan = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CrookedAmberAlanah3 = false
+  ConcreteOliveLynette3 = 163
+  SingleBronzeCorabella = false
+}

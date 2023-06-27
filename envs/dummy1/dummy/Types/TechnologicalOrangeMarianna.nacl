@@ -1,0 +1,66 @@
+type dummy.TechnologicalOrangeMarianna {
+  annotations {
+    dummy.MaximumGreenIlyssa TerribleBeigeBriney6 {
+    }
+    number DelightfulBeigeCandace3 {
+    }
+    json AllegedOliveLynna4 {
+    }
+    hidden_boolean WillingGoldGusti3 {
+    }
+    hidden_boolean SelectSalmonPhilippa4 {
+    }
+    boolean IntegratedOliveMae2 {
+    }
+  }
+  dummy.GoodBlackCaro TopChocolateDarda2 {
+    _hidden_value = true
+  }
+  hidden_boolean InnocentMagentaLarina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AttractiveCyanFianna {
+    _hidden_value = true
+  }
+  serviceid ExoticScarletRina2 {
+    _hidden_value = true
+  }
+  serviceid_number FaithfulBlackCarlina3 {
+    _hidden_value = true
+  }
+  serviceid QuietApricotAnnmaria4 {
+    _hidden_value = true
+  }
+  json PreliminaryOliveLyndy2 {
+    _hidden_value = true
+  }
+  hidden_boolean WetAquamarineBell3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PricklyAquaAurilia2 {
+    _hidden_value = true
+  }
+  string DifferentBlueCharlene3 {
+    _hidden_value = true
+  }
+  json FuriousRedNicoline2 {
+    _hidden_value = true
+  }
+  hidden_boolean DramaticGoldGypsy2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ShakyAquaBab2 {
+    _hidden_value = true
+  }
+  TerribleBeigeBriney6 = true
+  DelightfulBeigeCandace3 = 141
+  AllegedOliveLynna4 = "What creature is smarter than a talking parrot? A spelling bee."
+  IntegratedOliveMae2 = true
+  _hidden_value = true
+}

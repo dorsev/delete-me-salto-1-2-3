@@ -1,0 +1,15 @@
+type dummy.ElegantMoccasinLucina2 {
+  string RaspyApricotAnnnora2 {
+  }
+  json CalmPurpleNancey3 {
+  }
+  hidden_boolean LovelyCoralEllie3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  number UnwillingTanShelbi2 {
+  }
+  boolean EasyTealSisely {
+  }
+}

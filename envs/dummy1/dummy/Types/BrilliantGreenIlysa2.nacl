@@ -1,0 +1,21 @@
+type dummy.BrilliantGreenIlysa2 {
+  annotations {
+    string DeadBrownDaphne3 {
+    }
+    hidden_boolean SteepAmberAlyce5 {
+    }
+    hidden_boolean TheoreticalIndigoJeniece {
+    }
+    number AnnualCoffeeDonnie3 {
+    }
+    number ExclusiveMagentaLatia {
+    }
+  }
+  number RisingScarletRosemary3 {
+    _hidden_value = true
+  }
+  DeadBrownDaphne3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AnnualCoffeeDonnie3 = 556
+  ExclusiveMagentaLatia = 337
+  _hidden_value = true
+}

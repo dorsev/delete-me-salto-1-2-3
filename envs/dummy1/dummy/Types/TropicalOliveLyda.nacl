@@ -1,0 +1,105 @@
+type dummy.TropicalOliveLyda {
+  annotations {
+    string DelicateOliveMadalena3 {
+    }
+    hidden_boolean EerieAzureBeverly {
+    }
+    serviceid HealthyGoldGrata3 {
+    }
+    number CasualOliveLurlene3 {
+    }
+    hidden_boolean IntenseLavenderKattie4 {
+    }
+    json MutualLavenderKimberlee {
+    }
+  }
+  string BoilingAmaranthAgnola {
+    _hidden_value = true
+  }
+  number ConfusedAquamarineBertina2 {
+    _hidden_value = true
+  }
+  json InterimOrangeMalory2 {
+    _hidden_value = true
+  }
+  number ProposedGoldGwendolin3 {
+    _hidden_value = true
+  }
+  json DangerousCrimsonEsta2 {
+    _hidden_value = true
+  }
+  hidden_boolean WeeSapphireReta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT AwfulAquamarineBernetta {
+    _hidden_value = true
+  }
+  hidden_boolean FantasticBlackCarline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PresentBrownCristal3 {
+    _hidden_value = true
+  }
+  serviceid FatalPurpleMyrtice {
+    _hidden_value = true
+  }
+  "List<number>" NovelScarletRoshelle {
+    _hidden_value = true
+  }
+  json WideAmethystAmabel {
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticPinkMeade {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SophisticatedJadeKarlotta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ScaryYellowWillie3 {
+    _hidden_value = true
+  }
+  hidden_boolean AnxiousHarlequinJanna3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number MidPinkMelisent2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DeliciousApricotArdisj {
+    _hidden_value = true
+  }
+  string BrokenIndigoJocelyne2 {
+    _hidden_value = true
+  }
+  string GentleBlackCarmen2 {
+    _hidden_value = true
+  }
+  serviceid_number PermanentFuchsiaGay2 {
+    _hidden_value = true
+  }
+  serviceid_number LonelyOliveLyn2 {
+    _hidden_value = true
+  }
+  hidden_boolean TallCyanFay {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string StormyTurquoiseTimi {
+    _hidden_value = true
+  }
+  DelicateOliveMadalena3 = "Why was it called the dark ages? Because of all the knights. "
+  HealthyGoldGrata3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CasualOliveLurlene3 = 391
+  MutualLavenderKimberlee = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

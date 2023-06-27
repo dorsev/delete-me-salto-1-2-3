@@ -1,0 +1,25 @@
+type dummy.ContentPeachMatilde2 {
+  annotations {
+    number ExoticSapphireRiki {
+    }
+    json CruelAquamarineBessy {
+    }
+    number MinimalPlumMorganne {
+    }
+    hidden_boolean CourageousBeigeCammi {
+    }
+    boolean RegionalCopperDorian {
+    }
+    serviceid_number InnerFuchsiaGeorge {
+    }
+  }
+  serviceid HiddenRedOdetta {
+    _hidden_value = true
+  }
+  ExoticSapphireRiki = 202
+  CruelAquamarineBessy = "What creature is smarter than a talking parrot? A spelling bee."
+  MinimalPlumMorganne = 201
+  RegionalCopperDorian = true
+  InnerFuchsiaGeorge = 914
+  _hidden_value = true
+}

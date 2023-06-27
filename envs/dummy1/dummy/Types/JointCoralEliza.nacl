@@ -1,0 +1,30 @@
+type dummy.JointCoralEliza {
+  annotations {
+    dummy.DEFAULT PrettyWhiteVirgina {
+    }
+    dummy.DelightedIvoryJulianne PermanentFuchsiaGayel {
+    }
+    serviceid_number DangerousAzureBethina2 {
+    }
+    string InstitutionalMaroonLesli {
+    }
+    string JustMaroonLissi {
+    }
+    number WarmCopperDulcy {
+    }
+  }
+  hidden_boolean DeliciousApricotArdith {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PrettyWhiteVirgina = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  PermanentFuchsiaGayel = "Im only familiar with 25 letters in the English language. I dont know why."
+  DangerousAzureBethina2 = 15
+  InstitutionalMaroonLesli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  JustMaroonLissi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WarmCopperDulcy = 333
+  _hidden_value = true
+}

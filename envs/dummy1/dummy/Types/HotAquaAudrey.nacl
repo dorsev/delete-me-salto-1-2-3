@@ -1,0 +1,20 @@
+type dummy.HotAquaAudrey is string {
+  annotations {
+    string ObedientBlackCassondra {
+    }
+    hidden_boolean AllegedOliveLynna {
+    }
+    serviceid_number MaleCoffeeDiannne2 {
+    }
+    hidden_boolean DeafeningAmethystAnia {
+    }
+    json FeministPlumMina {
+    }
+    serviceid_number HeavyAmethystAndy {
+    }
+  }
+  ObedientBlackCassondra = "Dad Im hungry  Hi hungry Im dad"
+  MaleCoffeeDiannne2 = 987
+  FeministPlumMina = "To be Frank, I'd have to change my name."
+  HeavyAmethystAndy = 55
+}

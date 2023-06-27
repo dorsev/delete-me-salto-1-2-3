@@ -1,0 +1,22 @@
+type dummy.LostJadeKaralynn {
+  annotations {
+    string GoldenGrayHaley {
+    }
+    boolean CurlyAmberAlbina {
+    }
+    serviceid_number LinearRedNesta {
+    }
+    hidden_boolean ImmediateCrimsonEmelyne {
+    }
+    number OkSapphireRhianna {
+    }
+  }
+  serviceid SuperTomatoSusanetta {
+    _hidden_value = true
+  }
+  GoldenGrayHaley = "Why did the tomato blush? Because it saw the salad dressing."
+  CurlyAmberAlbina = true
+  LinearRedNesta = 968
+  OkSapphireRhianna = 348
+  _hidden_value = true
+}

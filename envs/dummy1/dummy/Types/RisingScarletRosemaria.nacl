@@ -1,0 +1,39 @@
+type dummy.RisingScarletRosemaria {
+  annotations {
+    serviceid BrightVioletTove2 {
+    }
+    string CorporateEmeraldGarland {
+    }
+    hidden_boolean EagerBeigeCandy2 {
+    }
+    serviceid PlainTurquoiseTherine2 {
+    }
+  }
+  json CrazyMoccasinLorri {
+    _hidden_value = true
+  }
+  number LexicalSilverSacha3 {
+    _hidden_value = true
+  }
+  hidden_boolean RapidAmethystAmmamaria {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CloudyTomatoTamra {
+    _hidden_value = true
+  }
+  json SoreBeigeBrigida {
+    _hidden_value = true
+  }
+  serviceid_number DeepAmberAlla {
+    _hidden_value = true
+  }
+  serviceid_number SlightGoldGwenora3 {
+    _hidden_value = true
+  }
+  BrightVioletTove2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  CorporateEmeraldGarland = "What do you call two barracuda fish?  A Pairacuda!"
+  PlainTurquoiseTherine2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

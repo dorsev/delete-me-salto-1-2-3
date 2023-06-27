@@ -1,0 +1,160 @@
+type dummy.DiverseRedNicol4 {
+  annotations {
+    string IndianGrayHarmonie5 {
+    }
+    hidden_boolean AverageAmaranthAarika3 {
+    }
+    number RoundIvoryJohna2 {
+    }
+    dummy.DEFAULT RoastedWhiteWenonah2 {
+    }
+    string TerribleEmeraldFreida6 {
+    }
+    number QuickCoralEleonora3 {
+    }
+  }
+  dummy.AliveTealSherilyn DustyAmberAlexina3 {
+    GreekIndigoJoane = "What do you call two barracuda fish?  A Pairacuda!"
+    AppropriateChocolateDarcey = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    GradualSilverSallee = true
+    ScornfulBeigeBrianne = false
+    StingyYellowWinnah = 58
+    _hidden_value = true
+  }
+  dummy.OddFuchsiaGenna DistinctHarlequinJanelle2 {
+    OccasionalIvoryJulina = 890
+    MarxistSapphireRakel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RedBrownDallas = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    SacredRedNorina = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    NavalPinkMel = "How come the stadium got hot after the game? Because all of the fans left."
+    RelatedIndigoJessamyn = false
+    MinimalPlumMorganica = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    _hidden_value = true
+  }
+  dummy.VictorianJadeKalli LooseAquaAugustine3 {
+    SupportingSilverSamantha = "Why is Peter Pan always flying? Because he Neverlands."
+    StaticSapphireRebekah = "I'll tell you what often gets over looked... garden fences."
+    GleamingTurquoiseTeri = "Why did the kid cross the playground? To get to the other slide."
+    IndirectPeachMary = true
+    InevitableIvoryJonell = 530
+    ProfessionalChocolateDawna = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    AdditionalCopperDotty = "Im only familiar with 25 letters in the English language. I dont know why."
+    InherentRedNoami = "How come the stadium got hot after the game? Because all of the fans left."
+    AbleBlushChrissy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    JoyousBlackCarrie = 619
+    GayOrangeMariette = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    UpsetOliveMabel = "Im only familiar with 25 letters in the English language. I dont know why."
+    CurrentBrownDacey = 192
+    _hidden_value = true
+  }
+  string BackMoccasinLonee {
+    _hidden_value = true
+  }
+  boolean BoilingAmaranthAgneta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DualSapphireRhiamon {
+    _hidden_value = true
+  }
+  boolean LargeBlueCharlotta2 {
+    _hidden_value = true
+  }
+  serviceid_number EasternCrimsonErika {
+    _hidden_value = true
+  }
+  serviceid_number HelpfulBlackCaroline {
+    _hidden_value = true
+  }
+  serviceid FamousTealSissie4 {
+    _hidden_value = true
+  }
+  boolean QuaintWhiteVivianna {
+    _hidden_value = true
+  }
+  serviceid_number DistinctTurquoiseTawnya {
+    _hidden_value = true
+  }
+  serviceid_number StructuralIvoryJosephina3 {
+    _hidden_value = true
+  }
+  serviceid CrazyMoccasinLorrin {
+    _hidden_value = true
+  }
+  boolean SkilledMoccasinLucia {
+    _hidden_value = true
+  }
+  json OkayOliveMaggie {
+    _hidden_value = true
+  }
+  serviceid_number BetterVioletTomasine {
+    _hidden_value = true
+  }
+  string BoredAquamarineBerry5 {
+    _hidden_value = true
+  }
+  serviceid BrokenIndigoJocelyne {
+    _hidden_value = true
+  }
+  number PassivePurpleMyra {
+    _hidden_value = true
+  }
+  string PeacefulOrangeMargret2 {
+    _hidden_value = true
+  }
+  json EthicalScarletRobena4 {
+    _hidden_value = true
+  }
+  hidden_boolean LooseAquaAundrea {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HighAmberAllissa4 {
+    _hidden_value = true
+  }
+  boolean InnovativeTanSheila2 {
+    _hidden_value = true
+  }
+  hidden_boolean KeenGrayHanna2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DoubtfulRosePansy2 {
+    _hidden_value = true
+  }
+  number SpectacularMaroonLibby {
+    _hidden_value = true
+  }
+  json RationalLavenderKay2 {
+    _hidden_value = true
+  }
+  number DigitalMaroonLianne3 {
+    _hidden_value = true
+  }
+  hidden_boolean SeriousBrownDanette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  IndianGrayHarmonie5 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RoundIvoryJohna2 = 98
+  RoastedWhiteWenonah2 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  TerribleEmeraldFreida6 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  QuickCoralEleonora3 = 641
+  _hidden_value = true
+}

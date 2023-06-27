@@ -1,0 +1,25 @@
+type dummy.YellowYellowZonda {
+  annotations {
+    dummy.DisappointedMagentaLaurice PreciousOrangeMariele2 {
+    }
+    serviceid_number DoubleCrimsonEthelyn2 {
+    }
+    serviceid GrievingAzureBlakelee {
+    }
+    dummy.WonderfulEmeraldFlossy CheerfulBeigeCam2 {
+    }
+    boolean BoringPeachMarnie {
+    }
+    hidden_boolean SmilingBlueCathryn {
+    }
+  }
+  string BrightVioletTracee {
+    _hidden_value = true
+  }
+  PreciousOrangeMariele2 = 775
+  DoubleCrimsonEthelyn2 = 854
+  GrievingAzureBlakelee = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CheerfulBeigeCam2 = true
+  BoringPeachMarnie = true
+  _hidden_value = true
+}

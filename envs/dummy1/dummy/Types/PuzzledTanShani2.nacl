@@ -1,0 +1,79 @@
+type dummy.PuzzledTanShani2 {
+  annotations {
+    serviceid_number VisitingScarletRoanna {
+    }
+    json LevelJadeKally2 {
+    }
+    serviceid FatIvoryJoelle2 {
+    }
+    number ConstantEmeraldFrannie {
+    }
+    serviceid DigitalMaroonLianne2 {
+    }
+    json FondSalmonPietra {
+    }
+  }
+  number UndergroundScarletRomona {
+    _hidden_value = true
+  }
+  serviceid_number EquivalentJadeKaja {
+    _hidden_value = true
+  }
+  string DisciplinarySilverSabina {
+    _hidden_value = true
+  }
+  string BottomMoccasinLouisa {
+    _hidden_value = true
+  }
+  json FunnyVioletTrula2 {
+    _hidden_value = true
+  }
+  serviceid_number ElectronicGreenInez2 {
+    _hidden_value = true
+  }
+  json UsefulChocolateDedra2 {
+    _hidden_value = true
+  }
+  serviceid_number StormyTurquoiseTimmi {
+    _hidden_value = true
+  }
+  number BrownFuchsiaGena {
+    _hidden_value = true
+  }
+  hidden_boolean RichCoffeeDorelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string CreativeJadeKanya2 {
+    _hidden_value = true
+  }
+  boolean CleverJadeKaria {
+    _hidden_value = true
+  }
+  string DyingScarletRoby2 {
+    _hidden_value = true
+  }
+  json GenuineGreenIsidora {
+    _hidden_value = true
+  }
+  json AlternativeEmeraldFionna2 {
+    _hidden_value = true
+  }
+  string WeakAquamarineBelia3 {
+    _hidden_value = true
+  }
+  boolean AmazingMoccasinLizette2 {
+    _hidden_value = true
+  }
+  serviceid_number RedBrownDallas3 {
+    _hidden_value = true
+  }
+  VisitingScarletRoanna = 780
+  LevelJadeKally2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FatIvoryJoelle2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ConstantEmeraldFrannie = 767
+  DigitalMaroonLianne2 = "Why is Peter Pan always flying? Because he Neverlands."
+  FondSalmonPietra = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

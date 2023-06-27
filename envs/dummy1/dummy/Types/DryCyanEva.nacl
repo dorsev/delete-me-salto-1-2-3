@@ -1,0 +1,144 @@
+type dummy.DryCyanEva {
+  annotations {
+    json FaithfulTanShayne2 {
+    }
+    hidden_boolean VulnerableJadeKarna3 {
+    }
+    serviceid_number DisappointedMagentaLaurianne {
+    }
+    serviceid_number BadTurquoiseTobye {
+    }
+    dummy.DEFAULT ResidentSalmonRachelle3 {
+    }
+  }
+  dummy.ColdChocolateDebby SuspiciousPurpleMyriam {
+    IntegratedOliveMadonna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AbsoluteGreenImogen = 597
+    SoreBeigeBrietta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EasyBronzeCollen = "I'll tell you what often gets over looked... garden fences."
+    LivelyPeachMarylinda = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PreferredTanSayre = 403
+    MarvellousMoccasinLorna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ReadyChocolateDebee = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GleamingTurquoiseTerra = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PanickyAzureBren = "What creature is smarter than a talking parrot? A spelling bee."
+    MushyWhiteVerile = 389
+    FavouriteHarlequinJacquelyn = true
+    InnovativeTanSheelah = false
+    RearPurpleMuriel = "My first time using an elevator was an uplifting experience. The second time let me down."
+    OpenTealStefa = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  dummy.PowerfulCopperDruci SunnyTanSharl {
+    WorryingSilverRozalin = "Why didnt the skeleton cross the road? Because he had no guts."
+    RelevantCoffeeDoralia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SecretGrayHetty = 646
+    VulnerableJadeKarole = true
+    ElectoralLimeKristina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ChristianCoralElva = true
+    SmallBlueCharla = 357
+    WorryingSilverRozamond = true
+    VerticalOliveLynsey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RespectiveSalmonPersis = 189
+    GladGoldGlyn = 110
+    _hidden_value = true
+  }
+  serviceid MinorEmeraldGabie2 {
+    _hidden_value = true
+  }
+  serviceid ExtendedPlumMildrid {
+    _hidden_value = true
+  }
+  hidden_boolean PresidentialLimeKrystle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean JudicialJadeKarissa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json LivingGrayHenrie2 {
+    _hidden_value = true
+  }
+  serviceid SpareMaroonLilla {
+    _hidden_value = true
+  }
+  serviceid_number NervousHarlequinJanot2 {
+    _hidden_value = true
+  }
+  number AmateurSalmonPia {
+    _hidden_value = true
+  }
+  serviceid_number JollyVioletValina {
+    _hidden_value = true
+  }
+  string DelicateOliveMadalena {
+    _hidden_value = true
+  }
+  serviceid_number MeaningfulTanShelly2 {
+    _hidden_value = true
+  }
+  boolean UncomfortablePlumModesty {
+    _hidden_value = true
+  }
+  string FreshApricotArdith {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeeklyLavenderKeslie2 {
+    _hidden_value = true
+  }
+  json InherentRedNixie {
+    _hidden_value = true
+  }
+  serviceid_number ProposedGoldGweneth2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CloseBrownCortney {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number LiableLimeKimmie2 {
+    _hidden_value = true
+  }
+  boolean DepressedAzureBetty2 {
+    _hidden_value = true
+  }
+  number ManualRosePaola2 {
+    _hidden_value = true
+  }
+  serviceid WorriedGrayHarriet {
+    _hidden_value = true
+  }
+  serviceid_number RunningPlumMirabella {
+    _hidden_value = true
+  }
+  string AdverseSapphireRanna2 {
+    _hidden_value = true
+  }
+  hidden_boolean SophisticatedJadeKarlie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number UglyYellowZahara3 {
+    _hidden_value = true
+  }
+  hidden_boolean RelatedIndigoJessalyn3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  FaithfulTanShayne2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DisappointedMagentaLaurianne = 914
+  BadTurquoiseTobye = 662
+  ResidentSalmonRachelle3 = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  _hidden_value = true
+}

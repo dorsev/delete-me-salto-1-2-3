@@ -1,0 +1,7 @@
+type dummy.DiplomaticMagentaLenore3 {
+  hidden_boolean QualifiedPinkMellicent3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+}

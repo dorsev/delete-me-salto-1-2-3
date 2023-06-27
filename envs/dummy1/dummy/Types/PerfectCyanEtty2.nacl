@@ -1,0 +1,86 @@
+type dummy.PerfectCyanEtty2 {
+  annotations {
+    serviceid OrdinaryWhiteVirgie {
+    }
+    hidden_boolean PlainIndigoJewelle3 {
+    }
+    number BindingSalmonPetra2 {
+    }
+    serviceid HandsomeOliveMaitilde4 {
+    }
+    number FormidableSilverSabra {
+    }
+  }
+  serviceid_number EnglishBrownCrin4 {
+    _hidden_value = true
+  }
+  json CompleteCoffeeDevinne3 {
+    _hidden_value = true
+  }
+  "List<boolean>" ChubbyAmberAline2 {
+    _hidden_value = true
+  }
+  string CoolAmaranthAinslee4 {
+    _hidden_value = true
+  }
+  number ImperialLavenderKatey2 {
+    _hidden_value = true
+  }
+  string IndianGrayHarmonie7 {
+    _hidden_value = true
+  }
+  hidden_boolean ArchitecturalRosePatrice4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AboveIvoryJoyann2 {
+    _hidden_value = true
+  }
+  boolean DepressedAzureBetty4 {
+    _hidden_value = true
+  }
+  serviceid_number LegitimatePinkMaye3 {
+    _hidden_value = true
+  }
+  boolean MedicalCoffeeDevora4 {
+    _hidden_value = true
+  }
+  serviceid HistoricalCyanEvangelina {
+    _hidden_value = true
+  }
+  string SaltyApricotArleen4 {
+    _hidden_value = true
+  }
+  serviceid_number CompetitiveGrayHedwig {
+    _hidden_value = true
+  }
+  "List<number>" DarkChocolateDeb2 {
+    _hidden_value = true
+  }
+  number DangerousAzureBethena {
+    _hidden_value = true
+  }
+  hidden_boolean SpiritualLavenderKatlin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DoubleCrimsonEtta {
+    _hidden_value = true
+  }
+  json FascinatingOrangeMargareta3 {
+    _hidden_value = true
+  }
+  boolean PreliminaryOliveLyndsey4 {
+    _hidden_value = true
+  }
+  serviceid_number OppositeHarlequinJaneen2 {
+    _hidden_value = true
+  }
+  OrdinaryWhiteVirgie = "I'll tell you what often gets over looked... garden fences."
+  BindingSalmonPetra2 = 128
+  HandsomeOliveMaitilde4 = "Slept like a log last night  woke up in the fireplace."
+  FormidableSilverSabra = 617
+  _hidden_value = true
+}

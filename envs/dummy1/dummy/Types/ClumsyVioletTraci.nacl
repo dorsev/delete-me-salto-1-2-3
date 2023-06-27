@@ -1,0 +1,54 @@
+type dummy.ClumsyVioletTraci {
+  annotations {
+    serviceid GreasyAquaAubrette {
+    }
+    boolean CruelPlumMichaelina {
+    }
+    serviceid_number BoringPeachMarni3 {
+    }
+    dummy.DEFAULT SpareMaroonLillian3 {
+    }
+    string DigitalMaroonLib {
+    }
+    string SmallBlueCharla2 {
+    }
+  }
+  boolean StrangeCoralEdwina {
+    _hidden_value = true
+  }
+  hidden_boolean SlimRoseOlly2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConfidentialScarletRodina3 {
+    _hidden_value = true
+  }
+  string InnovativeTanSheila {
+    _hidden_value = true
+  }
+  json WellFuchsiaGipsy {
+    _hidden_value = true
+  }
+  boolean AcuteLavenderKerianne2 {
+    _hidden_value = true
+  }
+  json IraqiOliveMadelle {
+    _hidden_value = true
+  }
+  json ProbableSalmonPhylys2 {
+    _hidden_value = true
+  }
+  json SocialBlueCharo {
+    _hidden_value = true
+  }
+  GreasyAquaAubrette = "Dad Im hungry  Hi hungry Im dad"
+  CruelPlumMichaelina = false
+  BoringPeachMarni3 = 363
+  SpareMaroonLillian3 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  DigitalMaroonLib = "Slept like a log last night  woke up in the fireplace."
+  SmallBlueCharla2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

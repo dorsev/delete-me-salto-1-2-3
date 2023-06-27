@@ -1,0 +1,76 @@
+type dummy.SplendidBlueCati is boolean {
+  annotations {
+    boolean ObviousCoffeeDolley {
+    }
+    serviceid AestheticSapphireReba {
+    }
+    number DueCopperDot {
+    }
+    number AggressiveMaroonLilith {
+    }
+    string RelativeGoldGuillemette {
+    }
+    number SpecificChocolateDarcee {
+    }
+    dummy.DEFAULT QuickAmethystAmity {
+    }
+    boolean PsychologicalIvoryJojo {
+    }
+    dummy.DEFAULT DirtyAmberAleta2 {
+    }
+    json UglyTurquoiseTina {
+    }
+    hidden_boolean MagnificentMagentaLeeanne {
+    }
+    dummy.DEFAULT ChillyAmaranthAilina {
+    }
+    string RoastedWhiteWendye {
+    }
+    serviceid_number KnownMaroonLexi {
+    }
+    hidden_boolean KindBlackCaryl {
+    }
+    hidden_boolean QuaintWhiteVivie {
+    }
+    number LongBlueChelsey {
+    }
+    serviceid MightyWhiteVeriee {
+    }
+    number UncertainMagentaLeland {
+    }
+    boolean CooingAmethystAngeline {
+    }
+    number SupposedCyanFarra {
+    }
+    serviceid WetAquamarineBella {
+    }
+    string LoudApricotAnnadiana {
+    }
+  }
+  ObviousCoffeeDolley = false
+  AestheticSapphireReba = "Why did the kid cross the playground? To get to the other slide."
+  DueCopperDot = 886
+  AggressiveMaroonLilith = 535
+  RelativeGoldGuillemette = "Whoever invented the knock-knock joke should get a no bell prize."
+  SpecificChocolateDarcee = 756
+  QuickAmethystAmity = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  PsychologicalIvoryJojo = true
+  DirtyAmberAleta2 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  UglyTurquoiseTina = "Why do birds fly south for the winter? Because it's too far to walk."
+  ChillyAmaranthAilina = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  RoastedWhiteWendye = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  KnownMaroonLexi = 709
+  LongBlueChelsey = 614
+  MightyWhiteVeriee = "Slept like a log last night  woke up in the fireplace."
+  UncertainMagentaLeland = 130
+  CooingAmethystAngeline = true
+  SupposedCyanFarra = 525
+  WetAquamarineBella = "Dad Im hungry  Hi hungry Im dad"
+  LoudApricotAnnadiana = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

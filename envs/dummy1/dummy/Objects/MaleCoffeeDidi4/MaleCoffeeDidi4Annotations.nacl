@@ -1,0 +1,57 @@
+type dummy.MaleCoffeeDidi4 {
+  annotations {
+    string DangerousAzureBethina3 {
+    }
+    serviceid MissingPinkMelloney2 {
+    }
+    boolean SurprisingGreenHyacinthie {
+    }
+    boolean ImperialJadeKaterina4 {
+    }
+    serviceid SuperiorMaroonLia2 {
+    }
+    number ConstitutionalHarlequinJayne {
+    }
+    serviceid_number DailyCyanEvelina2 {
+    }
+    dummy.AdjacentSilverRoxi DelightedIvoryJulie3 {
+    }
+    hidden_boolean RareEmeraldFlorenza2 {
+    }
+    number SilentGrayHarlene {
+    }
+    hidden_boolean CourageousBeigeCammi4 {
+    }
+    serviceid RichCoffeeDorelia2 {
+    }
+    boolean BrightVioletTory2 {
+    }
+    json PowerfulCopperDrona {
+    }
+    serviceid EuropeanBronzeConcettina2 {
+    }
+    serviceid NativeJadeKatalin5 {
+    }
+    serviceid_number SillyIvoryJoelie2 {
+    }
+    dummy.SplendidOrangeMandie TenderAquamarineBebe2 {
+    }
+    hidden_boolean ShyScarletRosetta2 {
+    }
+  }
+  DangerousAzureBethina3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  MissingPinkMelloney2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SurprisingGreenHyacinthie = false
+  ImperialJadeKaterina4 = false
+  SuperiorMaroonLia2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConstitutionalHarlequinJayne = 412
+  DailyCyanEvelina2 = 597
+  DelightedIvoryJulie3 = file("FancyTurquoiseTeena3.txt")
+  SilentGrayHarlene = 343
+  RichCoffeeDorelia2 = "Why is Peter Pan always flying? Because he Neverlands."
+  BrightVioletTory2 = true
+  PowerfulCopperDrona = "Slept like a log last night  woke up in the fireplace."
+  EuropeanBronzeConcettina2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  NativeJadeKatalin5 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SillyIvoryJoelie2 = 940
+}

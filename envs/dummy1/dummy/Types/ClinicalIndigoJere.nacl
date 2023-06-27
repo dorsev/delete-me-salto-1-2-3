@@ -1,0 +1,116 @@
+type dummy.ClinicalIndigoJere {
+  annotations {
+    serviceid SuperbMagentaLaurene {
+    }
+    boolean HostileOrangeMarieann {
+    }
+    serviceid_number NutritiousWhiteVilhelmina2 {
+    }
+    json MeltedAquaAurea {
+    }
+    number AlternativeEmeraldFiorenze {
+    }
+  }
+  dummy.HotAquaAudrey CompatibleSapphireReta {
+    ObedientBlackCassondra = "To be Frank, I'd have to change my name."
+    MaleCoffeeDiannne2 = 919
+    FeministPlumMina = "A steak pun is a rare medium well done."
+    HeavyAmethystAndy = 88
+    _hidden_value = true
+  }
+  serviceid ContinuedLimeLanae {
+    _hidden_value = true
+  }
+  serviceid TestyYellowYoko {
+    _hidden_value = true
+  }
+  serviceid_number FuzzyAquaAtlanta {
+    _hidden_value = true
+  }
+  number PrivateBronzeCoreen {
+    _hidden_value = true
+  }
+  json LocalBlueCharmaine {
+    _hidden_value = true
+  }
+  json InadequateLavenderKaylyn {
+    _hidden_value = true
+  }
+  serviceid_number CreepyAquamarineBess {
+    _hidden_value = true
+  }
+  number RipeApricotAridatha {
+    _hidden_value = true
+  }
+  boolean CourageousBeigeCamilla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrangeTurquoiseTimmie {
+    _hidden_value = true
+  }
+  number RemarkableGreenHortense {
+    _hidden_value = true
+  }
+  number FavouriteHarlequinJaclyn {
+    _hidden_value = true
+  }
+  json CorrespondingPlumMinny {
+    _hidden_value = true
+  }
+  json HeadPinkMeg {
+    _hidden_value = true
+  }
+  "Map<dummy.StraightAmethystAlysia>" PsychologicalIvoryJojo2 {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyBlackCass {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string RemainingGoldGolda2 {
+    _hidden_value = true
+  }
+  number SheerMagentaLauri {
+    _hidden_value = true
+  }
+  hidden_boolean ValuableGoldGwyn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SoreBeigeBrietta2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SymbolicPurpleNadine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DoubtfulTealSimonne {
+    _hidden_value = true
+  }
+  serviceid_number GoverningTanSena2 {
+    _hidden_value = true
+  }
+  json ProvincialPeachMarita {
+    _hidden_value = true
+  }
+  boolean IdealEmeraldFredi2 {
+    _hidden_value = true
+  }
+  json PrivateBronzeCoreen2 {
+    _hidden_value = true
+  }
+  string SmoothAquamarineBarbi {
+    _hidden_value = true
+  }
+  SuperbMagentaLaurene = "Why did the kid cross the playground? To get to the other slide."
+  HostileOrangeMarieann = false
+  NutritiousWhiteVilhelmina2 = 425
+  MeltedAquaAurea = "Dad Im hungry  Hi hungry Im dad"
+  AlternativeEmeraldFiorenze = 38
+  _hidden_value = true
+}

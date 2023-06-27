@@ -1,0 +1,28 @@
+type dummy.ToxicSalmonPhelia is string {
+  annotations {
+    serviceid FilthyTurquoiseTera {
+    }
+    serviceid_number AnonymousSapphireRayshell {
+    }
+    serviceid BoredAquamarineBerrie {
+    }
+    json BlackVioletTorey {
+    }
+    json LuckyBlackCassey {
+    }
+    string ProductivePlumMollie {
+    }
+    string ContinuedLimeLana {
+    }
+    number SelectiveRedNorri {
+    }
+  }
+  FilthyTurquoiseTera = "How come the stadium got hot after the game? Because all of the fans left."
+  AnonymousSapphireRayshell = 700
+  BoredAquamarineBerrie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BlackVioletTorey = "Why is Peter Pan always flying? Because he Neverlands."
+  LuckyBlackCassey = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ProductivePlumMollie = "Why did the kid cross the playground? To get to the other slide."
+  ContinuedLimeLana = "A steak pun is a rare medium well done."
+  SelectiveRedNorri = 837
+}

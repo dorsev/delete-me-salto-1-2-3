@@ -1,0 +1,62 @@
+type dummy.SorryBrownDanyette3 {
+  annotations {
+    hidden_boolean GrubbyAquaAubrie2 {
+    }
+    hidden_boolean PositiveCoffeeDonella2 {
+    }
+    json SpotlessTurquoiseTillie2 {
+    }
+    hidden_boolean RemoteIndigoJeniece {
+    }
+    json DoubleCrimsonEthyl {
+    }
+  }
+  dummy.CorrespondingPlumMiquela ExistingCoffeeDesiri {
+    DelightedIvoryJulianna = 704
+    FrightenedMagentaLaverne = true
+    VariousBrownCorry = true
+    MolecularRedNertie = true
+    ExtensiveGoldGloriane = 84
+    _hidden_value = true
+  }
+  json HelplessTealSonya3 {
+    _hidden_value = true
+  }
+  serviceid_number ManagingLimeKizzee {
+    _hidden_value = true
+  }
+  boolean AsianMaroonLindie2 {
+    _hidden_value = true
+  }
+  serviceid ImmediateCrimsonEmelina {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" UglyYellowZabrina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ShortYellowWilow5 {
+    _hidden_value = true
+  }
+  json PopularChocolateDavida2 {
+    _hidden_value = true
+  }
+  boolean PleasantIvoryJorry {
+    _hidden_value = true
+  }
+  boolean RudeTanShaylyn {
+    _hidden_value = true
+  }
+  hidden_boolean CommonBronzeConsuela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number LonelyAzureBobinette {
+    _hidden_value = true
+  }
+  SpotlessTurquoiseTillie2 = "I'll tell you what often gets over looked... garden fences."
+  DoubleCrimsonEthyl = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

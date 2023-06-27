@@ -1,0 +1,65 @@
+type dummy.ObligedOrangeMarchelle2 {
+  annotations {
+    dummy.DEFAULT AlertTomatoTabatha3 {
+    }
+    serviceid RoughAquaAva2 {
+    }
+    dummy.CompactPurpleNanny MinimalPurpleMoria2 {
+    }
+    dummy.SplendidBlueCati RevolutionaryJadeKaryl {
+    }
+    serviceid DualSapphireRhianna2 {
+    }
+  }
+  string IntimateSilverRuthe2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoredAquamarineBerri3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string CrazyMoccasinLorrie3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AverageCrimsonElysia6 {
+    _hidden_value = true
+  }
+  serviceid_number IntimateSilverRuthann3 {
+    _hidden_value = true
+  }
+  hidden_boolean CharacteristicOliveMalena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json LivelyPeachMarylou2 {
+    _hidden_value = true
+  }
+  string VariableRedNomi5 {
+    _hidden_value = true
+  }
+  number IsraeliPinkMeridith2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HugeCoffeeDoralynn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WetAmberAlidia2 {
+    _hidden_value = true
+  }
+  string BlackBlushClarisse2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SteadyAquamarineBea2 {
+    _hidden_value = true
+  }
+  AlertTomatoTabatha3 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  RoughAquaAva2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MinimalPurpleMoria2 = 898
+  RevolutionaryJadeKaryl = true
+  DualSapphireRhianna2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

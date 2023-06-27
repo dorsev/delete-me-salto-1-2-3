@@ -1,0 +1,25 @@
+type dummy.UnpleasantRedNonnah2 {
+  annotations {
+    string SuddenGoldGusty2 {
+    }
+    string BlueVioletTorie3 {
+    }
+    boolean UnfortunatePeachMarta2 {
+    }
+    hidden_boolean BlindIvoryJudie2 {
+    }
+    string KindVioletVally3 {
+    }
+    dummy.AliveTealSherilyn ExceptionalOliveMadlin {
+    }
+  }
+  json FreeBronzeCodie4 {
+    _hidden_value = true
+  }
+  SuddenGoldGusty2 = "Why is Peter Pan always flying? Because he Neverlands."
+  BlueVioletTorie3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  UnfortunatePeachMarta2 = true
+  KindVioletVally3 = "Why was it called the dark ages? Because of all the knights. "
+  ExceptionalOliveMadlin = 678
+  _hidden_value = true
+}

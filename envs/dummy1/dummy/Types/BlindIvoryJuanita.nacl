@@ -1,0 +1,28 @@
+type dummy.BlindIvoryJuanita {
+  annotations {
+    hidden_boolean AmusedBeigeCahra2 {
+    }
+    serviceid DailyCyanEveleen2 {
+    }
+    number GreenVioletUla2 {
+    }
+    string InterimOrangeMalynda {
+    }
+    boolean AverageCoralElysha2 {
+    }
+    number CriminalFuchsiaGeorgia2 {
+    }
+  }
+  json TenderYellowYnez {
+    _hidden_value = true
+  }
+  number CharacteristicOliveMalia2 {
+    _hidden_value = true
+  }
+  DailyCyanEveleen2 = "Why was it called the dark ages? Because of all the knights. "
+  GreenVioletUla2 = 912
+  InterimOrangeMalynda = "To be Frank, I'd have to change my name."
+  AverageCoralElysha2 = false
+  CriminalFuchsiaGeorgia2 = 146
+  _hidden_value = true
+}

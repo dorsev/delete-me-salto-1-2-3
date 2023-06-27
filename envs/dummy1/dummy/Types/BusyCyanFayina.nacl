@@ -1,0 +1,45 @@
+type dummy.BusyCyanFayina {
+  annotations {
+    hidden_boolean PregnantLimeKizzie2 {
+    }
+    dummy.WonderfulEmeraldFlossie PracticalCopperDoris {
+    }
+    serviceid SquareJadeKaia2 {
+    }
+  }
+  hidden_boolean FilthyTurquoiseTera2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number StiffPeachMaryanna2 {
+    _hidden_value = true
+  }
+  number ImprovedMagentaLark3 {
+    _hidden_value = true
+  }
+  serviceid SpecialBronzeClea {
+    _hidden_value = true
+  }
+  serviceid OverwhelmingPurpleMyrlene2 {
+    _hidden_value = true
+  }
+  serviceid CuteTomatoTanya2 {
+    _hidden_value = true
+  }
+  json SuspiciousPurpleMyrilla {
+    _hidden_value = true
+  }
+  string WrongTomatoSybila2 {
+    _hidden_value = true
+  }
+  serviceid DiplomaticMagentaLenna {
+    _hidden_value = true
+  }
+  boolean ExtraordinaryIndigoJessica2 {
+    _hidden_value = true
+  }
+  PracticalCopperDoris = 885
+  SquareJadeKaia2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

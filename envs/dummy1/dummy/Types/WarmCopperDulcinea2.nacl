@@ -1,0 +1,22 @@
+type dummy.WarmCopperDulcinea2 {
+  annotations {
+    serviceid CourageousBeigeCamilla3 {
+    }
+    hidden_boolean EarlyBlushCherrita {
+    }
+    string BewilderedAquamarineBernie {
+    }
+    boolean CurvedAmberAlisun3 {
+    }
+    json ReliableLavenderKiley {
+    }
+  }
+  dummy.DEFAULT InformalLavenderKathi {
+    _hidden_value = true
+  }
+  CourageousBeigeCamilla3 = "Why did the tomato blush? Because it saw the salad dressing."
+  BewilderedAquamarineBernie = "Why do birds fly south for the winter? Because it's too far to walk."
+  CurvedAmberAlisun3 = true
+  ReliableLavenderKiley = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

@@ -1,0 +1,19 @@
+type dummy.AgreeableBeigeBunni6 {
+  annotations {
+    serviceid_number PainfulMaroonLilly4 {
+    }
+    string SolarRosePammie2 {
+    }
+    dummy.DEFAULT PrintedRedNevsa {
+    }
+  }
+  serviceid_number RelievedBlueCathleen {
+    _hidden_value = true
+  }
+  PainfulMaroonLilly4 = 144
+  SolarRosePammie2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  PrintedRedNevsa = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  _hidden_value = true
+}

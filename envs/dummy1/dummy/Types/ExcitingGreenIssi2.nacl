@@ -1,0 +1,37 @@
+type dummy.ExcitingGreenIssi2 {
+  annotations {
+    serviceid_number WhisperingApricotArdelle3 {
+    }
+    serviceid BetterVioletTomasine2 {
+    }
+    boolean CleanTomatoTamiko4 {
+    }
+    boolean GreenVioletUlla2 {
+    }
+  }
+  string PunyAmaranthAdrienne2 {
+    _hidden_value = true
+  }
+  serviceid_number StrictLavenderKatharina2 {
+    _hidden_value = true
+  }
+  serviceid_number BrightTomatoTamarra {
+    _hidden_value = true
+  }
+  boolean SharedPinkMelesa3 {
+    _hidden_value = true
+  }
+  hidden_boolean InevitableIvoryJonell5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json HomelessSilverSalomi3 {
+    _hidden_value = true
+  }
+  WhisperingApricotArdelle3 = 818
+  BetterVioletTomasine2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CleanTomatoTamiko4 = true
+  GreenVioletUlla2 = true
+  _hidden_value = true
+}

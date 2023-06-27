@@ -1,0 +1,24 @@
+type dummy.DustyAmberAlexi3 {
+  annotations {
+    number FollowingBrownCynthea3 {
+    }
+    hidden_boolean UpperCyanFaunie4 {
+    }
+    number MonthlyMaroonLinette {
+    }
+    boolean FrightenedMagentaLavena2 {
+    }
+    serviceid IndependentChocolateDelly {
+    }
+  }
+  "List<hidden_boolean>" PlainTurquoiseTheresita4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  FollowingBrownCynthea3 = 412
+  MonthlyMaroonLinette = 861
+  FrightenedMagentaLavena2 = false
+  IndependentChocolateDelly = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

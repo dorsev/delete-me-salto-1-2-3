@@ -1,0 +1,110 @@
+type dummy.LoyalPurpleNata {
+  annotations {
+    boolean InstantSapphireRandy {
+    }
+    boolean ReducedPinkMeryl2 {
+    }
+    boolean ColonialPeachMaudie2 {
+    }
+  }
+  dummy.SplendidBlueCati QuaintWhiteViviana {
+    ObviousCoffeeDolley = true
+    AestheticSapphireReba = "Why did the kid cross the playground? To get to the other slide."
+    DueCopperDot = 642
+    AggressiveMaroonLilith = 79
+    RelativeGoldGuillemette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SpecificChocolateDarcee = 151
+    QuickAmethystAmity = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    PsychologicalIvoryJojo = false
+    DirtyAmberAleta2 = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    UglyTurquoiseTina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ChillyAmaranthAilina = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    RoastedWhiteWendye = "My first time using an elevator was an uplifting experience. The second time let me down."
+    KnownMaroonLexi = 792
+    LongBlueChelsey = 162
+    MightyWhiteVeriee = "What do you call two barracuda fish?  A Pairacuda!"
+    UncertainMagentaLeland = 683
+    CooingAmethystAngeline = true
+    SupposedCyanFarra = 681
+    WetAquamarineBella = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    LoudApricotAnnadiana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  dummy.GoodBlackCarmita AlternativeEmeraldFiorenze2 {
+    TastelessAquaAshlee2 = "Why do birds fly south for the winter? Because it's too far to walk."
+    RequiredMaroonLeticia = false
+    ObjectiveOrangeMamie = 623
+    InappropriateRoseOttilie = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  boolean FrenchBrownCyndi2 {
+    _hidden_value = true
+  }
+  boolean VocationalTanShaina2 {
+    _hidden_value = true
+  }
+  json LonelyOliveLyn {
+    _hidden_value = true
+  }
+  number LoudLavenderKikelia {
+    _hidden_value = true
+  }
+  boolean GlobalGrayHerminia {
+    _hidden_value = true
+  }
+  serviceid_number UpsetBeigeBritteny2 {
+    _hidden_value = true
+  }
+  number TenseBeigeBrigit {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" EvidentIvoryJune2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StructuralIvoryJosi {
+    _hidden_value = true
+  }
+  boolean ImaginativeTanSelinda {
+    _hidden_value = true
+  }
+  hidden_boolean MassiveAmaranthAdria {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RidiculousMoccasinLiz {
+    _hidden_value = true
+  }
+  serviceid_number EnviousAzureBiddie3 {
+    _hidden_value = true
+  }
+  serviceid_number HollowAmberAllsun2 {
+    _hidden_value = true
+  }
+  boolean ArbitrarySilverRoxana2 {
+    _hidden_value = true
+  }
+  json FunnyBlackCarmelia3 {
+    _hidden_value = true
+  }
+  hidden_boolean OccasionalIvoryJulina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<number>" ElegantMoccasinLucila {
+    _hidden_value = true
+  }
+  InstantSapphireRandy = true
+  ReducedPinkMeryl2 = true
+  ColonialPeachMaudie2 = false
+  _hidden_value = true
+}

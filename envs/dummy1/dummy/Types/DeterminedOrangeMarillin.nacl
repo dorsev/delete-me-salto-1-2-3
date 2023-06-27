@@ -1,0 +1,63 @@
+type dummy.DeterminedOrangeMarillin {
+  annotations {
+    json WonderfulYellowZola {
+    }
+    serviceid JapaneseCyanFianna {
+    }
+    boolean WesternChocolateDeeyn2 {
+    }
+    number AssistantOliveLynnea {
+    }
+    serviceid ShinyTurquoiseTiffani {
+    }
+    json FlutteringAquaAthena2 {
+    }
+    boolean MidPinkMelisse {
+    }
+  }
+  dummy.WonderfulEmeraldFlossie StingyYellowWinna2 {
+    ConfusedMaroonLiesa = "To be Frank, I'd have to change my name."
+    PreciousOrangeMariellen = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    InteriorPurpleNatividad = "To be Frank, I'd have to change my name."
+    SeparateCopperDorolice = false
+    VulnerableJadeKarna = 551
+    MadHarlequinJanessa = false
+    WorriedBeigeBrynne = "I'll tell you what often gets over looked... garden fences."
+    DirectChocolateDdene = "Im only familiar with 25 letters in the English language. I dont know why."
+    DefensiveRoseOneida = false
+    BoredPlumMonika = true
+    ActualCopperEda = "What creature is smarter than a talking parrot? A spelling bee."
+    LatinLimeKonstance = 750
+    PerfectBlackCatha = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WrongTomatoSybilla = 829
+    AlrightGoldGoldy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  string TastelessAquaAshleigh3 {
+    _hidden_value = true
+  }
+  number SourAquaArlette2 {
+    _hidden_value = true
+  }
+  hidden_boolean HonChocolateDaune {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ManualRosePaola {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AnxiousHarlequinJanna {
+    _hidden_value = true
+  }
+  WonderfulYellowZola = "What do you do on a remote island? Try and find the TV island it belongs to."
+  JapaneseCyanFianna = "Why was it called the dark ages? Because of all the knights. "
+  WesternChocolateDeeyn2 = false
+  AssistantOliveLynnea = 890
+  ShinyTurquoiseTiffani = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FlutteringAquaAthena2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MidPinkMelisse = false
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.ValuableGoldGypsy2 {
+  annotations {
+    string DefensiveRoseOnida2 {
+    }
+    json StrictLavenderKatharina3 {
+    }
+    boolean AncientEmeraldFlora {
+    }
+    hidden_boolean DifficultTealSimone {
+    }
+  }
+  boolean RealTomatoStephine2 {
+    _hidden_value = true
+  }
+  string SpecifiedSalmonPooh2 {
+    _hidden_value = true
+  }
+  serviceid_number LoudLavenderKiele3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExperimentalLavenderKatleen4 {
+    _hidden_value = true
+  }
+  boolean WetAmberAlicia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbstractMaroonLin {
+    _hidden_value = true
+  }
+  serviceid_number BoringPeachMarni8 {
+    _hidden_value = true
+  }
+  boolean QualifiedPinkMellisa {
+    _hidden_value = true
+  }
+  string CircularRoseOrsa2 {
+    _hidden_value = true
+  }
+  serviceid_number SaltyApricotArlee2 {
+    _hidden_value = true
+  }
+  DefensiveRoseOnida2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  StrictLavenderKatharina3 = "A steak pun is a rare medium well done."
+  AncientEmeraldFlora = false
+  _hidden_value = true
+}

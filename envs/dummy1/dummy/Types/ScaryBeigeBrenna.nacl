@@ -1,0 +1,71 @@
+type dummy.ScaryBeigeBrenna {
+  annotations {
+    serviceid StiffPeachMaryanna {
+    }
+    hidden_boolean WideAmethystAlyssa {
+    }
+    hidden_boolean OpenTealStarr {
+    }
+    dummy.VerbalPinkMaxie OddFuchsiaGenia {
+    }
+    hidden_boolean DangerousCrimsonEssie {
+    }
+    string ConservativeCoralEllen {
+    }
+  }
+  string LooseIvoryJulienne {
+    _hidden_value = true
+  }
+  number PoorBronzeCorella2 {
+    _hidden_value = true
+  }
+  hidden_boolean EvidentIvoryJulita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AngryAquamarineBenedikta {
+    _hidden_value = true
+  }
+  dummy.SoundAmethystAngelina DeafeningAmethystAnia2 {
+    IslamicRoseOlympie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FlutteringAquaAthene = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PassivePurpleMyrah = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    _hidden_value = true
+  }
+  hidden_boolean EmbarrassedRedNisse {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SuperbMagentaLauren {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" InclinedRedNydia2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BusyCyanFayth2 {
+    _hidden_value = true
+  }
+  hidden_boolean GoodBlackCarmita2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number GastricMagentaLavina {
+    _hidden_value = true
+  }
+  string YummyYellowZorine {
+    _hidden_value = true
+  }
+  StiffPeachMaryanna = "Slept like a log last night  woke up in the fireplace."
+  OddFuchsiaGenia = true
+  ConservativeCoralEllen = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,24 @@
+type dummy.CatholicHarlequinJamima {
+  annotations {
+    dummy.DEFAULT SquareAmberAlverta {
+    }
+    string WetGrayHedvige {
+    }
+    serviceid OrganisationalTanShara {
+    }
+    hidden_boolean ThoroughScarletRona {
+    }
+    boolean MagnificentWhiteVeda {
+    }
+  }
+  serviceid_number RunningPlumMirabelle {
+    _hidden_value = true
+  }
+  SquareAmberAlverta = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  WetGrayHedvige = "How come the stadium got hot after the game? Because all of the fans left."
+  OrganisationalTanShara = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MagnificentWhiteVeda = false
+  _hidden_value = true
+}

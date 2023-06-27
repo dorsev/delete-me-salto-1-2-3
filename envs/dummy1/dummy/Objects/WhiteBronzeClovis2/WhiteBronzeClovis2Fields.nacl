@@ -1,0 +1,19 @@
+type dummy.WhiteBronzeClovis2 {
+  string NoisyApricotAnnette4 {
+  }
+  json InherentRedNoami4 {
+  }
+  string UniversalJadeKacie4 {
+  }
+  string RepresentativePinkMerline2 {
+  }
+  boolean WidespreadHarlequinJacquette {
+  }
+  boolean PsychologicalIvoryJoice2 {
+  }
+  hidden_boolean AmbitiousPeachMaureen5 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

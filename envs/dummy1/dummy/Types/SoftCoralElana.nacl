@@ -1,0 +1,38 @@
+type dummy.SoftCoralElana {
+  annotations {
+    json AboveIvoryJoyann {
+    }
+    hidden_boolean EasyBronzeCollete {
+    }
+    boolean TragicRosePaulita {
+    }
+    number SteepMoccasinLula {
+    }
+    hidden_boolean SupremeGreenIsabella2 {
+    }
+  }
+  boolean AustralianJadeKassia {
+    _hidden_value = true
+  }
+  hidden_boolean InappropriateRoseOthilie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ConvenientMagentaLeese {
+    _hidden_value = true
+  }
+  serviceid WorthwhilePinkMelitta {
+    _hidden_value = true
+  }
+  json StraightHarlequinJaine {
+    _hidden_value = true
+  }
+  string FreeBronzeCodie {
+    _hidden_value = true
+  }
+  AboveIvoryJoyann = "Slept like a log last night  woke up in the fireplace."
+  TragicRosePaulita = false
+  SteepMoccasinLula = 970
+  _hidden_value = true
+}

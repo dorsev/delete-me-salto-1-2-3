@@ -1,0 +1,64 @@
+type dummy.StripedYellowWinonah {
+  annotations {
+    string FairBlackCarlen {
+    }
+    json ClosedMagentaLeilah {
+    }
+    number DifferentBlueCharline {
+    }
+    number InnovativeTanSheelah2 {
+    }
+  }
+  json TenderAquamarineBecca {
+    _hidden_value = true
+  }
+  serviceid HonChocolateDatha {
+    _hidden_value = true
+  }
+  serviceid_number ColossalAmaranthAbbye {
+    _hidden_value = true
+  }
+  serviceid AestheticSapphireRebbecca2 {
+    _hidden_value = true
+  }
+  serviceid_number HeavyChocolateDawn {
+    _hidden_value = true
+  }
+  serviceid_number MightyTanShandra {
+    _hidden_value = true
+  }
+  serviceid OnlyBlushClarette {
+    _hidden_value = true
+  }
+  hidden_boolean StickyAquaArlyn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SeriousBrownDanell3 {
+    _hidden_value = true
+  }
+  string ExoticScarletRina {
+    _hidden_value = true
+  }
+  "List<string>" VariableRedNomi2 {
+    _hidden_value = true
+  }
+  serviceid_number InternationalBlushClaudie2 {
+    _hidden_value = true
+  }
+  number FirmGrayHeddie2 {
+    _hidden_value = true
+  }
+  serviceid_number GreyEmeraldFranky {
+    _hidden_value = true
+  }
+  serviceid ImmensePlumMiriam {
+    _hidden_value = true
+  }
+  FairBlackCarlen = "Why did the tomato blush? Because it saw the salad dressing."
+  ClosedMagentaLeilah = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DifferentBlueCharline = 120
+  InnovativeTanSheelah2 = 349
+  _hidden_value = true
+}

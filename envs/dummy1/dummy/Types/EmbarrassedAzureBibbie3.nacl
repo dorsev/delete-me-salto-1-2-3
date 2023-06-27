@@ -1,0 +1,53 @@
+type dummy.EmbarrassedAzureBibbie3 {
+  annotations {
+    number DeadTealSile2 {
+    }
+    hidden_boolean SickFuchsiaGerhardine2 {
+    }
+    json InternationalBlushClaudia3 {
+    }
+    hidden_boolean PetiteAmaranthAdrianne2 {
+    }
+  }
+  number AcceptedTanSerene3 {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPerry3 {
+    _hidden_value = true
+  }
+  string DueCopperDosi3 {
+    _hidden_value = true
+  }
+  hidden_boolean SafeCopperDorey3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid IntactRosePatricia {
+    _hidden_value = true
+  }
+  serviceid_number AcademicEmeraldGabbey3 {
+    _hidden_value = true
+  }
+  json KindOrangeMaribelle {
+    _hidden_value = true
+  }
+  number SunnyTanSharl2 {
+    _hidden_value = true
+  }
+  json SillyIndigoJoela2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CulturalCoralElicia2 {
+    _hidden_value = true
+  }
+  number JealousAzureBobby2 {
+    _hidden_value = true
+  }
+  serviceid_number SteadyJadeKaile {
+    _hidden_value = true
+  }
+  DeadTealSile2 = 558
+  InternationalBlushClaudia3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

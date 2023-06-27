@@ -1,0 +1,39 @@
+type dummy.DeadTealSigrid2 {
+  serviceid PolishPinkMeridel {
+  }
+  hidden_boolean EntitledIvoryJulia3 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid HistoricalCyanEvangelin3 {
+  }
+  hidden_boolean IndirectPeachMartynne3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ConfusedMaroonLil4 {
+  }
+  hidden_boolean ExcessiveOliveMadelin {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UnconsciousSapphireRaye {
+  }
+  string CleverTealSibel3 {
+  }
+  string ModernBrownDael2 {
+  }
+  "List<number>" DustyAmberAlexia3 {
+  }
+  string CautiousTealSiana {
+  }
+  string MereGreenIleane4 {
+  }
+  serviceid_number FunnyVioletTwyla2 {
+  }
+  string GeneralBlushChristel3 {
+  }
+}

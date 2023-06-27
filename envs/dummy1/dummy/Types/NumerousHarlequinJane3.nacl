@@ -1,0 +1,50 @@
+type dummy.NumerousHarlequinJane3 {
+  annotations {
+    dummy.DEFAULT SolidAquamarineBasia {
+    }
+    number HungryMaroonLisabeth4 {
+    }
+    number PrimeBrownDanielle {
+    }
+    json WorriedBeigeBrynn2 {
+    }
+    serviceid ScaryYellowWilli3 {
+    }
+  }
+  json JapaneseCyanFidela3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FriendlyBlackCarma {
+    _hidden_value = true
+  }
+  "List<boolean>" ActiveCopperDreddy2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StatisticalMagentaLanni4 {
+    _hidden_value = true
+  }
+  hidden_boolean NaturalBrownCristy4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.PhilosophicalRedNoell FuzzyAquaAuberta {
+    ExcitedBlackCarita = "Why did the kid cross the playground? To get to the other slide."
+    SignificantBrownDanni = "Why did the tomato blush? Because it saw the salad dressing."
+    HilariousBlackCarolyn = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    WonderfulBlueCeleste = "Why is Peter Pan always flying? Because he Neverlands."
+    OutrageousAzureBreanne = 35
+    SoftCoralElayne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  SolidAquamarineBasia = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  HungryMaroonLisabeth4 = 288
+  PrimeBrownDanielle = 928
+  WorriedBeigeBrynn2 = "Why did the tomato blush? Because it saw the salad dressing."
+  ScaryYellowWilli3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

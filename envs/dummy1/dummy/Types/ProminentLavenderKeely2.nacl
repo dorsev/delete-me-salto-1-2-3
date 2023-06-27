@@ -1,0 +1,91 @@
+type dummy.ProminentLavenderKeely2 {
+  annotations {
+    number ResonantApricotAnstice {
+    }
+    hidden_boolean WrittenGreenIvette3 {
+    }
+    json RemoteIndigoJeniece2 {
+    }
+    serviceid_number InnocentTealStacey {
+    }
+    serviceid_number IsolatedPeachMarjy3 {
+    }
+  }
+  json OrdinaryWhiteViolet2 {
+    _hidden_value = true
+  }
+  serviceid NiceBrownCymbre {
+    _hidden_value = true
+  }
+  boolean DutchLavenderKelsy {
+    _hidden_value = true
+  }
+  boolean ReasonableCrimsonEmelia2 {
+    _hidden_value = true
+  }
+  number RecentBronzeCornela {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WetGrayHedvig2 {
+    _hidden_value = true
+  }
+  boolean SevereEmeraldGaby2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BeautifulVioletTommy {
+    _hidden_value = true
+  }
+  serviceid_number PlainIndigoJewelle2 {
+    _hidden_value = true
+  }
+  boolean DreadfulPinkMerrile4 {
+    _hidden_value = true
+  }
+  number SoftApricotAppolonia2 {
+    _hidden_value = true
+  }
+  hidden_boolean CreepyAquamarineBessie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json TechnicalCopperEde {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedAzureBeverley2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean EuropeanBronzeConchita2 {
+    _hidden_value = true
+  }
+  serviceid_number DepressedAzureBettine {
+    _hidden_value = true
+  }
+  serviceid_number BrightCoralElwira {
+    _hidden_value = true
+  }
+  json ResidentSalmonRachelle {
+    _hidden_value = true
+  }
+  number UnfortunatePeachMarrissa {
+    _hidden_value = true
+  }
+  serviceid BrainyTealSherye2 {
+    _hidden_value = true
+  }
+  hidden_boolean BrokenIndigoJocelyn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DelicateOliveMable {
+    _hidden_value = true
+  }
+  ResonantApricotAnstice = 117
+  RemoteIndigoJeniece2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  InnocentTealStacey = 340
+  IsolatedPeachMarjy3 = 49
+  _hidden_value = true
+}

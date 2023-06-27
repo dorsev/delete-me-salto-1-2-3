@@ -1,0 +1,72 @@
+type dummy.MiddleCopperDyana {
+  annotations {
+    serviceid_number AssociatedMaroonLindsey3 {
+    }
+    number FrontCopperEadith2 {
+    }
+    serviceid HeavyAmethystAndy4 {
+    }
+    string LoudLavenderKiele {
+    }
+  }
+  boolean UnpleasantRedNora2 {
+    _hidden_value = true
+  }
+  json QuietApricotAnnmaria2 {
+    _hidden_value = true
+  }
+  serviceid_number ConvincedJadeKarine3 {
+    _hidden_value = true
+  }
+  hidden_boolean IllegalJadeKarolina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string SolidAquamarineBarry {
+    _hidden_value = true
+  }
+  boolean ProfoundPinkMerlina {
+    _hidden_value = true
+  }
+  number TopChocolateDareen {
+    _hidden_value = true
+  }
+  number PoorTealStella {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMargette2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.OkSapphireRhoda RepresentativePinkMerola2 {
+    MathematicalRoseOthelia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ShallowAmberAloise = 48
+    _hidden_value = true
+  }
+  serviceid_number WeeSapphireRevkah3 {
+    _hidden_value = true
+  }
+  serviceid PresidentialLimeKrystalle {
+    _hidden_value = true
+  }
+  json PleasantBlackCatharine2 {
+    _hidden_value = true
+  }
+  hidden_boolean RudeTanShaylyn2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NearFuchsiaGerladina4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AssociatedMaroonLindsey3 = 595
+  FrontCopperEadith2 = 275
+  HeavyAmethystAndy4 = "Why was it called the dark ages? Because of all the knights. "
+  LoudLavenderKiele = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

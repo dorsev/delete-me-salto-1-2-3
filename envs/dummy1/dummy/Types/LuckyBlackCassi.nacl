@@ -1,0 +1,108 @@
+type dummy.LuckyBlackCassi {
+  annotations {
+    serviceid SpicyAquaArleyne {
+    }
+    serviceid_number GeographicalPeachMarley {
+    }
+    serviceid_number ConsiderableChocolateDemetris {
+    }
+    serviceid PurpleWhiteVivian2 {
+    }
+    serviceid_number WildTomatoSuzie {
+    }
+    serviceid_number LegitimatePinkMaye2 {
+    }
+  }
+  hidden_boolean DelightfulSilverRosy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number IntensiveOliveLurette {
+    _hidden_value = true
+  }
+  string SteadyJadeKaitlin {
+    _hidden_value = true
+  }
+  hidden_boolean WetAquamarineBell {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string InternalCoralEdyth {
+    _hidden_value = true
+  }
+  boolean TeenageScarletRobinett2 {
+    _hidden_value = true
+  }
+  hidden_boolean ColdAmaranthAimil {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean InternalCoralEdyth2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CrazyVioletTracy {
+    _hidden_value = true
+  }
+  boolean PainfulMaroonLilllie {
+    _hidden_value = true
+  }
+  hidden_boolean IndianGrayHarmonie3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid InclinedRedOctavia {
+    _hidden_value = true
+  }
+  json PopularChocolateDavida {
+    _hidden_value = true
+  }
+  number MadHarlequinJanenna {
+    _hidden_value = true
+  }
+  hidden_boolean PriorRosePaulie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ConvenientMagentaLeesa {
+    _hidden_value = true
+  }
+  json VivaciousBlueCecilla {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" EagerPlumMilzie {
+    _hidden_value = true
+  }
+  boolean LittleBlushChiquita2 {
+    _hidden_value = true
+  }
+  hidden_boolean LiveIndigoJodie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ScaredSapphireRahal {
+    _hidden_value = true
+  }
+  boolean StrangeTurquoiseTimmy3 {
+    _hidden_value = true
+  }
+  hidden_boolean ApplicablePlumMireille2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  SpicyAquaArleyne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  GeographicalPeachMarley = 489
+  ConsiderableChocolateDemetris = 144
+  PurpleWhiteVivian2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WildTomatoSuzie = 893
+  LegitimatePinkMaye2 = 871
+  _hidden_value = true
+}

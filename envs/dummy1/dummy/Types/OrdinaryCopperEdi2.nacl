@@ -1,0 +1,54 @@
+type dummy.OrdinaryCopperEdi2 {
+  annotations {
+    hidden_boolean BrightVioletTove {
+    }
+    hidden_boolean KnownMaroonLetti {
+    }
+    json NoisySilverSaidee {
+    }
+    boolean WorriedBeigeBrynne2 {
+    }
+    json FreeBronzeColeen {
+    }
+    json BadAquamarineBernette {
+    }
+  }
+  dummy.AttractiveCyanFiann StrategicIndigoJeannine2 {
+    LargeAmaranthAdeline = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    TrickyYellowYolanthe = 74
+    LuckyBlackCassaundra = 462
+    OccasionalIvoryJuliette = true
+    FrailVioletTrude = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  serviceid_number StupidTomatoSunny {
+    _hidden_value = true
+  }
+  hidden_boolean SlimyAquamarineBarbabra2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PoorBronzeCorella3 {
+    _hidden_value = true
+  }
+  json BriefAmethystAmalie {
+    _hidden_value = true
+  }
+  boolean GrowingCrimsonEnrica {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MadHarlequinJanessa2 {
+    _hidden_value = true
+  }
+  serviceid WeirdSilverRozele3 {
+    _hidden_value = true
+  }
+  NoisySilverSaidee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WorriedBeigeBrynne2 = false
+  FreeBronzeColeen = "Why did the kid cross the playground? To get to the other slide."
+  BadAquamarineBernette = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}
