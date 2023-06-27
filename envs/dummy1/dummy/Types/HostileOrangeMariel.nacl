@@ -1,0 +1,127 @@
+type dummy.HostileOrangeMariel {
+  annotations {
+    boolean FinancialBronzeCorie {
+    }
+    string RubberSilverSarene {
+    }
+    serviceid_number SimilarBronzeConsolata {
+    }
+    boolean EuropeanBronzeConchita {
+    }
+    boolean CivicTanShelley {
+    }
+  }
+  dummy.ConfusedMaroonLila CrazyMoccasinLorrayne {
+    _hidden_value = true
+  }
+  dummy.SimilarBronzeConstancy2 MistyTurquoiseThea2 {
+    SillyIndigoJoeann = "Whoever invented the knock-knock joke should get a no bell prize."
+    GreenVioletUlrica = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FaithfulBlackCarlina = 284
+    FineBlackCarly = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AgriculturalGoldGoldie = false
+    TastelessAquaAshlee = "What creature is smarter than a talking parrot? A spelling bee."
+    EssentialCoffeeDionne = false
+    EvilPeachMaurita = false
+    GoldenGrayHaleigh = true
+    ElectronicGreenInez = 188
+    NastyMaroonLisette2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ClinicalIndigoJenny = 41
+    AmbitiousPeachMaureene = false
+    ResidentSalmonRaf = false
+    MaleCoffeeDiannne = true
+    BusyTealShirley = 752
+    _hidden_value = true
+  }
+  dummy.MistyTurquoiseThea ClumsyVioletTracee {
+    IntermediateRoseOfilia = "Why is Peter Pan always flying? Because he Neverlands."
+    GoverningTanSena = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    FaintAmethystAnica = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    WonderfulEmeraldFlossi = 7
+    _hidden_value = true
+  }
+  serviceid WrittenGreenIvette2 {
+    _hidden_value = true
+  }
+  hidden_boolean HomelessAzureBlisse {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SeriousBrownDanette {
+    _hidden_value = true
+  }
+  hidden_boolean BoldPlumMinette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number BalancedScarletRosina {
+    _hidden_value = true
+  }
+  serviceid AcuteLavenderKerianne {
+    _hidden_value = true
+  }
+  serviceid_number LiableLimeKimbra2 {
+    _hidden_value = true
+  }
+  boolean RespectableRosePearl2 {
+    _hidden_value = true
+  }
+  hidden_boolean TrickyYellowYoshiko {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ConcernedTealSibelle2 {
+    _hidden_value = true
+  }
+  hidden_boolean WetGrayHedvige3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid InfluentialMoccasinLoretta2 {
+    _hidden_value = true
+  }
+  serviceid InadequateLavenderKaylyn2 {
+    _hidden_value = true
+  }
+  serviceid_number InsufficientPurpleNedi {
+    _hidden_value = true
+  }
+  json ArbitrarySilverRoxanna2 {
+    _hidden_value = true
+  }
+  serviceid ManyAmethystAnette3 {
+    _hidden_value = true
+  }
+  string AshamedAquamarineBernadine2 {
+    _hidden_value = true
+  }
+  number HeavyAmethystAndriana {
+    _hidden_value = true
+  }
+  boolean CatholicHarlequinJamima2 {
+    _hidden_value = true
+  }
+  number CharacteristicOliveMalinde {
+    _hidden_value = true
+  }
+  serviceid_number ChubbyAmberAlisa {
+    _hidden_value = true
+  }
+  boolean PleasedEmeraldGabriell2 {
+    _hidden_value = true
+  }
+  FinancialBronzeCorie = false
+  RubberSilverSarene = "Slept like a log last night  woke up in the fireplace."
+  SimilarBronzeConsolata = 797
+  EuropeanBronzeConchita = true
+  CivicTanShelley = false
+  _hidden_value = true
+}

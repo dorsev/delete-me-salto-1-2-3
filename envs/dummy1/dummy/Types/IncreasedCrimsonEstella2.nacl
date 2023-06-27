@@ -1,0 +1,40 @@
+type dummy.IncreasedCrimsonEstella2 {
+  annotations {
+    serviceid NarrowCyanFara3 {
+    }
+    serviceid_number DominantIndigoJenelle {
+    }
+    serviceid_number FunnyBlackCarmelina6 {
+    }
+    hidden_boolean AdverseSapphireRaphaela2 {
+    }
+    hidden_boolean CleverJadeKaria2 {
+    }
+    boolean WastefulYellowZita2 {
+    }
+  }
+  hidden_boolean StuckRoseOphelie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MightyWhiteVerene {
+    _hidden_value = true
+  }
+  serviceid_number LateAmethystAmata {
+    _hidden_value = true
+  }
+  boolean StraightAmethystAlysia3 {
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableGreenHortensia7 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  NarrowCyanFara3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DominantIndigoJenelle = 78
+  FunnyBlackCarmelina6 = 651
+  WastefulYellowZita2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,58 @@
+type dummy.MoaningApricotAnnecorinne3 {
+  json BadVioletToinette6 {
+  }
+  boolean WickedScarletRoselia4 {
+  }
+  boolean PlasticAquaAurelia2 {
+  }
+  boolean FondSalmonPiper {
+  }
+  serviceid_number ThunderingApricotArabele3 {
+  }
+  json GrievingAzureBlanca5 {
+  }
+  string LongBlueChelsey3 {
+  }
+  boolean UnusualGoldGizela4 {
+  }
+  serviceid_number DisgustedAzureBettye2 {
+  }
+  dummy.MeltedAquaAurelea2 NastyMaroonLishe3 {
+    SourAquaArleta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AwakeRedNola2 = false
+    WorriedGrayHarri = "Why is Peter Pan always flying? Because he Neverlands."
+    BitterApricotArden = false
+    AtomicScarletRori = 960
+    EthicalScarletRobena = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+  }
+  boolean GiantAmaranthAda {
+  }
+  serviceid_number ImpressedPeachMarisa4 {
+  }
+  dummy.DisgustedAzureBeulah3 CurvedAmberAlisun8 {
+    JapaneseEmeraldFidelity = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    RetailMagentaLeonore2 = "Why did the tomato blush? Because it saw the salad dressing."
+    NaturalBrownCristy2 = 696
+    DecisiveSalmonPenni2 = 244
+  }
+  json SubstantialCoralElsy3 {
+  }
+  json EssentialCoffeeDione3 {
+  }
+  string ExcessSilverSandye2 {
+  }
+  hidden_boolean InterimOrangeMalvina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FullBlushChristen2 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

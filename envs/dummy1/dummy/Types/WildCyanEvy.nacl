@@ -1,0 +1,57 @@
+type dummy.WildCyanEvy {
+  annotations {
+    dummy.SoundAmethystAngelina ExperiencedMagentaLaure {
+    }
+    hidden_boolean BigAmaranthAbbi2 {
+    }
+    hidden_boolean TanYellowYettie3 {
+    }
+    hidden_boolean LikePeachMarlo {
+    }
+    boolean HappyBrownDaisey {
+    }
+    string ExpensiveCrimsonErna {
+    }
+    json RelatedIndigoJessalyn2 {
+    }
+    serviceid_number BusyTealShirlene {
+    }
+  }
+  serviceid_number ReluctantMagentaLee2 {
+    _hidden_value = true
+  }
+  string InnocentMagentaLarina {
+    _hidden_value = true
+  }
+  string LovelyBlackCassandra {
+    _hidden_value = true
+  }
+  serviceid_number CriminalFuchsiaGeorgette {
+    _hidden_value = true
+  }
+  hidden_boolean AdministrativeGreenHonor {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number BoredAquamarineBerrie2 {
+    _hidden_value = true
+  }
+  serviceid_number DistinctHarlequinJanene {
+    _hidden_value = true
+  }
+  json DrunkPeachMarlane2 {
+    _hidden_value = true
+  }
+  hidden_boolean DisappointedMagentaLaurice3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ExperiencedMagentaLaure = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HappyBrownDaisey = true
+  ExpensiveCrimsonErna = "Why didnt the skeleton cross the road? Because he had no guts."
+  RelatedIndigoJessalyn2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  BusyTealShirlene = 166
+  _hidden_value = true
+}

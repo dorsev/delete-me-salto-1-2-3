@@ -1,0 +1,25 @@
+type dummy.LargeBlueCharlotte {
+  annotations {
+    number JuicyApricotAriana {
+    }
+    serviceid FairCoffeeDinny3 {
+    }
+    boolean PrettyWhiteVirgie2 {
+    }
+    serviceid CloseBrownCory {
+    }
+    hidden_boolean CarefulCyanFerdinande2 {
+    }
+    serviceid_number DrivingRoseOralia3 {
+    }
+  }
+  serviceid_number OccupationalOliveMadelaine3 {
+    _hidden_value = true
+  }
+  JuicyApricotAriana = 48
+  FairCoffeeDinny3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PrettyWhiteVirgie2 = false
+  CloseBrownCory = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DrivingRoseOralia3 = 991
+  _hidden_value = true
+}

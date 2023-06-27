@@ -1,0 +1,29 @@
+type dummy.LiveIndigoJodie4 {
+  annotations {
+    dummy.AdjacentSilverRoxi FlexibleLavenderKathrine {
+    }
+    dummy.DEFAULT ResponsibleCoffeeDevin3 {
+    }
+    string DivineRoseOpal2 {
+    }
+    serviceid RoastedWhiteWenona3 {
+    }
+    hidden_boolean GracefulTurquoiseTerrie2 {
+    }
+    dummy.DEFAULT DrunkPeachMarleah {
+    }
+  }
+  number MisleadingRoseOriana3 {
+    _hidden_value = true
+  }
+  FlexibleLavenderKathrine = "A steak pun is a rare medium well done."
+  ResponsibleCoffeeDevin3 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  DivineRoseOpal2 = "I'll tell you what often gets over looked... garden fences."
+  RoastedWhiteWenona3 = "How come the stadium got hot after the game? Because all of the fans left."
+  DrunkPeachMarleah = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  _hidden_value = true
+}

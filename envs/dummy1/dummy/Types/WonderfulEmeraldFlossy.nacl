@@ -1,0 +1,36 @@
+type dummy.WonderfulEmeraldFlossy is boolean {
+  annotations {
+    serviceid_number SoundRoseOlenka {
+    }
+    json HorizontalSalmonPrudi {
+    }
+    number SlipperyAquamarineBarbaraanne {
+    }
+    hidden_boolean IrishCrimsonErmina {
+    }
+    serviceid_number AgriculturalGoldGoldia {
+    }
+    serviceid_number ClumsyVioletTracie {
+    }
+    boolean MixedMaroonLesly {
+    }
+    serviceid_number RigidPinkMerrill {
+    }
+    serviceid_number PureGrayHenryetta {
+    }
+    serviceid UnemployedIvoryJolie {
+    }
+    string GratefulIvoryJorrie {
+    }
+  }
+  SoundRoseOlenka = 31
+  HorizontalSalmonPrudi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SlipperyAquamarineBarbaraanne = 421
+  AgriculturalGoldGoldia = 68
+  ClumsyVioletTracie = 263
+  MixedMaroonLesly = true
+  RigidPinkMerrill = 128
+  PureGrayHenryetta = 24
+  UnemployedIvoryJolie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GratefulIvoryJorrie = "What do you call two barracuda fish?  A Pairacuda!"
+}

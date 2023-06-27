@@ -1,0 +1,25 @@
+type dummy.AgreeableBeigeBuffy {
+  annotations {
+    serviceid_number PreliminaryOliveLyndy {
+    }
+    serviceid ZealousBlueCelestine2 {
+    }
+    number TestyYellowYoko2 {
+    }
+    dummy.GoodBlackCaro AgriculturalGoldGoldi2 {
+    }
+    serviceid BalancedScarletRosina2 {
+    }
+  }
+  hidden_boolean SymbolicPurpleNadia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  PreliminaryOliveLyndy = 954
+  ZealousBlueCelestine2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  TestyYellowYoko2 = 17
+  AgriculturalGoldGoldi2 = 665
+  BalancedScarletRosina2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

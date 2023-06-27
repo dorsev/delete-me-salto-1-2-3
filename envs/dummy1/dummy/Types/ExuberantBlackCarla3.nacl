@@ -1,0 +1,52 @@
+type dummy.ExuberantBlackCarla3 {
+  annotations {
+    serviceid_number LuckyFuchsiaGinni {
+    }
+    hidden_boolean WateryYellowZelma3 {
+    }
+    serviceid HandicappedTanShannon2 {
+    }
+    serviceid FlatAmberAllianora2 {
+    }
+  }
+  boolean PolishPinkMeredithe2 {
+    _hidden_value = true
+  }
+  hidden_boolean DelicateOliveMable2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BlankPinkMelody2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LoudLavenderKiersten {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ResultingPurpleNadeen4 {
+    _hidden_value = true
+  }
+  json NakedMagentaLeanora {
+    _hidden_value = true
+  }
+  serviceid_number SimpleBronzeCorly {
+    _hidden_value = true
+  }
+  json OccasionalIvoryJuliette2 {
+    _hidden_value = true
+  }
+  json ModeratePurpleNatalie {
+    _hidden_value = true
+  }
+  boolean FunctionalMaroonLexie {
+    _hidden_value = true
+  }
+  LuckyFuchsiaGinni = 11
+  HandicappedTanShannon2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FlatAmberAllianora2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

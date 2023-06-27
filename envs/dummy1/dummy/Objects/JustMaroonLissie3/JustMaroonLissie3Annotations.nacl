@@ -1,0 +1,59 @@
+type dummy.JustMaroonLissie3 {
+  annotations {
+    dummy.SoundAmethystAngelina DirtyIvoryJosepha3 {
+    }
+    serviceid SpatialSalmonPerle3 {
+    }
+    serviceid EasyBronzeCollete5 {
+    }
+    boolean HushedApricotAnnamaria3 {
+    }
+    boolean TinyAmaranthAgnes3 {
+    }
+    boolean BizarreTanSeana3 {
+    }
+    hidden_boolean WelcomeIvoryJosselyn {
+    }
+    string FutureCoffeeDolly2 {
+    }
+    serviceid_number OverallCrimsonEmmalynn2 {
+    }
+    hidden_boolean GenuineGreenIsis4 {
+    }
+    json BeneficialPlumMona {
+    }
+    boolean BareLavenderKellia3 {
+    }
+    boolean SharpAquaBabbette3 {
+    }
+    boolean MysteriousPurpleNelie2 {
+    }
+    number RomanticMagentaLeann2 {
+    }
+    dummy.OrdinaryWhiteViolet NakedMagentaLeanora3 {
+    }
+    dummy.ConfidentHarlequinJacquie LikelyBlushClarey3 {
+    }
+    string SufficientCrimsonEolande4 {
+    }
+    number ElegantMoccasinLucina {
+    }
+    hidden_boolean IntactRosePatsy3 {
+    }
+  }
+  DirtyIvoryJosepha3 = file("MolecularRedNertie3.txt")
+  SpatialSalmonPerle3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EasyBronzeCollete5 = "Slept like a log last night  woke up in the fireplace."
+  HushedApricotAnnamaria3 = false
+  TinyAmaranthAgnes3 = true
+  BizarreTanSeana3 = false
+  FutureCoffeeDolly2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OverallCrimsonEmmalynn2 = 331
+  BeneficialPlumMona = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BareLavenderKellia3 = false
+  SharpAquaBabbette3 = false
+  MysteriousPurpleNelie2 = false
+  RomanticMagentaLeann2 = 930
+  SufficientCrimsonEolande4 = "Why did the kid cross the playground? To get to the other slide."
+  ElegantMoccasinLucina = 710
+}

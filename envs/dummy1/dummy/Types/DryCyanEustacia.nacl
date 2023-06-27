@@ -1,0 +1,37 @@
+type dummy.DryCyanEustacia {
+  annotations {
+    dummy.DominantIndigoJena2 AshamedScarletRosana {
+    }
+    serviceid ImportantTealSophie {
+    }
+    string AppropriateChocolateDarcey3 {
+    }
+    serviceid_number OldAmethystAmelita {
+    }
+    serviceid FortunateRoseOllie {
+    }
+  }
+  boolean IntelligentMaroonLinnie3 {
+    _hidden_value = true
+  }
+  boolean BriefAmethystAmalia {
+    _hidden_value = true
+  }
+  serviceid ReducedPinkMeryl {
+    _hidden_value = true
+  }
+  serviceid SimilarBronzeConstancy3 {
+    _hidden_value = true
+  }
+  hidden_boolean ShortAmaranthAg {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  AshamedScarletRosana = "Slept like a log last night  woke up in the fireplace."
+  ImportantTealSophie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AppropriateChocolateDarcey3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OldAmethystAmelita = 927
+  FortunateRoseOllie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

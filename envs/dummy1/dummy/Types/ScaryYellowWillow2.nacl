@@ -1,0 +1,25 @@
+type dummy.ScaryYellowWillow2 {
+  annotations {
+    json BottomMoccasinLouisette2 {
+    }
+    number CalmBeigeCalley2 {
+    }
+    boolean MassiveAmaranthAdrea2 {
+    }
+  }
+  dummy.DEFAULT BusyTealShirlee3 {
+    _hidden_value = true
+  }
+  number CivilCoffeeDode2 {
+    _hidden_value = true
+  }
+  hidden_boolean GenerousLavenderKayle3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  BottomMoccasinLouisette2 = "What do you call two barracuda fish?  A Pairacuda!"
+  CalmBeigeCalley2 = 144
+  MassiveAmaranthAdrea2 = false
+  _hidden_value = true
+}

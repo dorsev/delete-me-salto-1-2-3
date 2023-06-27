@@ -1,0 +1,72 @@
+type dummy.CurlyAmberAlbina2 {
+  annotations {
+    string CarefulTealShoshanna {
+    }
+    serviceid_number ConfidentHarlequinJade2 {
+    }
+    json ColonialPeachMaude2 {
+    }
+  }
+  string ValidLavenderKerrin {
+    _hidden_value = true
+  }
+  json OccasionalIvoryJuline {
+    _hidden_value = true
+  }
+  json SurvivingSapphireRiki {
+    _hidden_value = true
+  }
+  json AggregateScarletRobbyn {
+    _hidden_value = true
+  }
+  serviceid_number ColouredMaroonLivia {
+    _hidden_value = true
+  }
+  json VastYellowZarla2 {
+    _hidden_value = true
+  }
+  json SuperbMagentaLaurene2 {
+    _hidden_value = true
+  }
+  string ObedientBlackCassy2 {
+    _hidden_value = true
+  }
+  json PurringApricotAnnie {
+    _hidden_value = true
+  }
+  hidden_boolean ConsciousHarlequinJeane2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number BusyCyanFayth3 {
+    _hidden_value = true
+  }
+  serviceid_number AdorableTomatoSybille {
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentHarlequinJanine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number YoungBlueCherey2 {
+    _hidden_value = true
+  }
+  boolean FriendlyGoldGunilla {
+    _hidden_value = true
+  }
+  boolean PremierOrangeMaria {
+    _hidden_value = true
+  }
+  serviceid_number ShortAmethystAnabal2 {
+    _hidden_value = true
+  }
+  boolean ColonialPeachMaudie {
+    _hidden_value = true
+  }
+  CarefulTealShoshanna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ConfidentHarlequinJade2 = 500
+  ColonialPeachMaude2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

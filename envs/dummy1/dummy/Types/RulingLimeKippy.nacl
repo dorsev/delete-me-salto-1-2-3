@@ -1,0 +1,130 @@
+type dummy.RulingLimeKippy {
+  annotations {
+    boolean EstimatedOrangeMargit {
+    }
+    hidden_boolean PrintedRedNichol {
+    }
+    serviceid ScaryYellowWillette {
+    }
+    string BrainyTealSherye {
+    }
+    serviceid RegulatorySalmonQuintilla {
+    }
+    json IndustrialBrownDanny {
+    }
+  }
+  dummy.NoisyApricotAnnetta VocationalTanShalna {
+    InterimOrangeMalvina = 340
+    JudicialJadeKarla = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    WhisperingApricotArdelle = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    LabourBrownDaffi = 806
+    InjuredScarletRosalie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ThoughtfulBlueCaty = 104
+    ArmedGrayHelaina = true
+    DelightfulSilverRowe = false
+    ExperiencedMagentaLaural = true
+    ToryGreenIndira = false
+    ShortAmethystAnabella = 831
+    BrilliantGreenIlse = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ColossalAmaranthAbbie = true
+    ArtificialMagentaLena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ExtraCoffeeDiane = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    EconomicBlushClarabelle = 94
+    OrangePurpleMuire = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SillyIvoryJoell = "Did you know that protons have mass? I didn't even know they were catholic."
+    ContinuousIvoryJoye = true
+    SuperiorMaroonLian = "Whoever invented the knock-knock joke should get a no bell prize."
+    GeneralBlushChristen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AmusedBeigeCahra = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    _hidden_value = true
+  }
+  json AloneCyanFae {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrucialFuchsiaGennie2 {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeTurquoiseTimmy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FrightenedAzureBirgitta {
+    _hidden_value = true
+  }
+  dummy.GoodBlackCaro UnlikelyCrimsonEthelind {
+    _hidden_value = true
+  }
+  number PlasticAquaAuria {
+    _hidden_value = true
+  }
+  json TerribleEmeraldFreida4 {
+    _hidden_value = true
+  }
+  serviceid_number PerfectBlackCate {
+    _hidden_value = true
+  }
+  hidden_boolean FormalCoralEliza {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json NorthernCoralElectra {
+    _hidden_value = true
+  }
+  serviceid ModernTealStarlene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OutsideGrayHelene {
+    _hidden_value = true
+  }
+  string RetailMagentaLeontine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SystematicOrangeMarcela {
+    _hidden_value = true
+  }
+  hidden_boolean HarshOliveMaible2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ParticularBlushClaude {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YellowGoldGizela {
+    _hidden_value = true
+  }
+  serviceid BritishBlushCherilynn {
+    _hidden_value = true
+  }
+  string LegalBrownDaile {
+    _hidden_value = true
+  }
+  serviceid PinkIndigoJennette {
+    _hidden_value = true
+  }
+  "List<serviceid>" SmoothIndigoJemmie {
+    _hidden_value = true
+  }
+  string SkilledMoccasinLu {
+    _hidden_value = true
+  }
+  json AddedPinkMelinda {
+    _hidden_value = true
+  }
+  EstimatedOrangeMargit = false
+  ScaryYellowWillette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BrainyTealSherye = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RegulatorySalmonQuintilla = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  IndustrialBrownDanny = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

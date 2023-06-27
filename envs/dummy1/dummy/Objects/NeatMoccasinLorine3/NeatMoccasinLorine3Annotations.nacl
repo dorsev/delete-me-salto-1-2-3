@@ -1,0 +1,51 @@
+type dummy.NeatMoccasinLorine3 {
+  annotations {
+    serviceid_number CarefulTealShirley {
+    }
+    hidden_boolean OrthodoxSapphireRebecka2 {
+    }
+    dummy.PhilosophicalRedNoell ScornfulBeigeBrianne5 {
+    }
+    boolean TemporaryGrayHalley2 {
+    }
+    serviceid_number ManagerialPurpleNert {
+    }
+    boolean RightBlushCherlyn2 {
+    }
+    serviceid_number AngryFuchsiaGillan4 {
+    }
+    string CoastalPlumMichal5 {
+    }
+    dummy.ComfortableBeigeCamel CompleteCoffeeDevon5 {
+    }
+    boolean EasyBronzeCollete6 {
+    }
+    string FellowJadeJustine3 {
+    }
+    dummy.InternalCoralEdyth4 GreyEmeraldFranky5 {
+    }
+    json FaintMaroonLiv2 {
+    }
+    serviceid_number MidPinkMelisse2 {
+    }
+    serviceid_number DangerousCrimsonEsta4 {
+    }
+    hidden_boolean PreciousOrangeMarielle5 {
+    }
+    number RelievedSalmonPetronia2 {
+    }
+  }
+  CarefulTealShirley = 238
+  ScornfulBeigeBrianne5 = file("SharpAquaBabara2.txt")
+  TemporaryGrayHalley2 = false
+  ManagerialPurpleNert = 885
+  RightBlushCherlyn2 = false
+  AngryFuchsiaGillan4 = 337
+  CoastalPlumMichal5 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EasyBronzeCollete6 = true
+  FellowJadeJustine3 = "What do you call two barracuda fish?  A Pairacuda!"
+  FaintMaroonLiv2 = "What do you call two barracuda fish?  A Pairacuda!"
+  MidPinkMelisse2 = 652
+  DangerousCrimsonEsta4 = 505
+  RelievedSalmonPetronia2 = 551
+}

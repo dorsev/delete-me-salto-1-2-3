@@ -1,0 +1,26 @@
+type dummy.CorrectCrimsonErinna {
+  annotations {
+    dummy.VictorianJadeKalli WelcomeIvoryJosie4 {
+    }
+    serviceid MaximumGreenIlyse2 {
+    }
+    boolean EarlyAmethystAmalle {
+    }
+    boolean ImpossibleCopperDulcia {
+    }
+    boolean DevotedRosePaulette3 {
+    }
+    number CondemnedAquamarineBerti2 {
+    }
+  }
+  json ConfusedMaroonLil3 {
+    _hidden_value = true
+  }
+  WelcomeIvoryJosie4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MaximumGreenIlyse2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EarlyAmethystAmalle = false
+  ImpossibleCopperDulcia = true
+  DevotedRosePaulette3 = true
+  CondemnedAquamarineBerti2 = 20
+  _hidden_value = true
+}

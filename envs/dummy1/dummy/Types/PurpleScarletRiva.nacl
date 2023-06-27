@@ -1,0 +1,66 @@
+type dummy.PurpleScarletRiva {
+  annotations {
+    serviceid_number DualSapphireRheta {
+    }
+    json ExcessiveOliveMadelena {
+    }
+    serviceid_number ActualCopperEbonee2 {
+    }
+    number AdjacentSilverRoxi4 {
+    }
+    boolean ComparableMoccasinLizzie {
+    }
+    json GloriousBlackCarmina {
+    }
+  }
+  hidden_boolean EffectiveChocolateDeeanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json PremierOrangeMaria2 {
+    _hidden_value = true
+  }
+  json RedBrownDalila {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarquita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PreciseIndigoJoby {
+    _hidden_value = true
+  }
+  number BottomMoccasinLouise {
+    _hidden_value = true
+  }
+  json AdvancedHarlequinJacinthe {
+    _hidden_value = true
+  }
+  json LivelyBlackCasey {
+    _hidden_value = true
+  }
+  serviceid LoudApricotAnnabelle2 {
+    _hidden_value = true
+  }
+  boolean ExcessSilverSara {
+    _hidden_value = true
+  }
+  serviceid UnawareSapphireReena2 {
+    _hidden_value = true
+  }
+  number CivicTanShelli2 {
+    _hidden_value = true
+  }
+  number VaguePinkMeghann {
+    _hidden_value = true
+  }
+  DualSapphireRheta = 404
+  ExcessiveOliveMadelena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ActualCopperEbonee2 = 334
+  AdjacentSilverRoxi4 = 208
+  ComparableMoccasinLizzie = true
+  GloriousBlackCarmina = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

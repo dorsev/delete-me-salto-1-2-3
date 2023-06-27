@@ -1,0 +1,73 @@
+type dummy.EasyBronzeCollete2 {
+  annotations {
+    number ModestLavenderKellyann {
+    }
+    serviceid BigAmaranthAbbe {
+    }
+    hidden_boolean IllEmeraldGail {
+    }
+    dummy.FlutteringAquaAthena PresentBrownCristal {
+    }
+    serviceid DramaticGoldHaily3 {
+    }
+    string HonestIndigoJerrine {
+    }
+  }
+  "List<hidden_boolean>" HelplessAzureBlancha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MedicalCoffeeDevora2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PolishPinkMeredith2 {
+    _hidden_value = true
+  }
+  hidden_boolean IntactRosePatrizia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EfficientGoldGretna2 {
+    _hidden_value = true
+  }
+  json NearFuchsiaGerladina2 {
+    _hidden_value = true
+  }
+  serviceid RollingSilverRubie2 {
+    _hidden_value = true
+  }
+  string SteepAmberAlyce {
+    _hidden_value = true
+  }
+  serviceid_number PowerfulTomatoStephana {
+    _hidden_value = true
+  }
+  string FaithfulTanShea2 {
+    _hidden_value = true
+  }
+  hidden_boolean GreyEmeraldFranky2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json UsedFuchsiaGeorgena2 {
+    _hidden_value = true
+  }
+  number OverallCrimsonEmmalynne2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DullVioletTrista {
+    _hidden_value = true
+  }
+  serviceid InjuredScarletRosalie2 {
+    _hidden_value = true
+  }
+  ModestLavenderKellyann = 693
+  BigAmaranthAbbe = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PresentBrownCristal = true
+  DramaticGoldHaily3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HonestIndigoJerrine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

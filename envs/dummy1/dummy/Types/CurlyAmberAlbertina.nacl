@@ -1,0 +1,68 @@
+type dummy.CurlyAmberAlbertina {
+  annotations {
+    serviceid_number TanYellowYettie2 {
+    }
+    serviceid_number FierceOliveMaisie {
+    }
+    number WickedBeigeBryana {
+    }
+    json SadGrayHestia2 {
+    }
+    json WeirdSilverRozele2 {
+    }
+  }
+  dummy.ModernAmethystAmelie RaspyApricotAnnora {
+    MinisterialTanSheela = true
+    WelcomeIvoryJosie = "Slept like a log last night  woke up in the fireplace."
+    WarmCopperDulcinea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    QualifiedPinkMelli = 751
+    _hidden_value = true
+  }
+  dummy.DEFAULT RoundIvoryJohna {
+    _hidden_value = true
+  }
+  boolean OppositeHarlequinJaneen {
+    _hidden_value = true
+  }
+  "List<serviceid>" TerribleEmeraldFreida3 {
+    _hidden_value = true
+  }
+  boolean ColdAmaranthAime {
+    _hidden_value = true
+  }
+  boolean ScatteredAquaAveline2 {
+    _hidden_value = true
+  }
+  serviceid ScornfulBeigeBride {
+    _hidden_value = true
+  }
+  json BigVioletTony {
+    _hidden_value = true
+  }
+  hidden_boolean ThunderingApricotArabella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT RandomMoccasinLoren {
+    _hidden_value = true
+  }
+  serviceid_number AlertTomatoTabatha {
+    _hidden_value = true
+  }
+  boolean GreenVioletUlla {
+    _hidden_value = true
+  }
+  serviceid_number SteadyJadeKaila {
+    _hidden_value = true
+  }
+  string DigitalMaroonLianne {
+    _hidden_value = true
+  }
+  TanYellowYettie2 = 281
+  FierceOliveMaisie = 297
+  WickedBeigeBryana = 730
+  SadGrayHestia2 = "Slept like a log last night  woke up in the fireplace."
+  WeirdSilverRozele2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

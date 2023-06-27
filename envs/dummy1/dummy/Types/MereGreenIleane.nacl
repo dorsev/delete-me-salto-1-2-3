@@ -1,0 +1,28 @@
+type dummy.MereGreenIleane {
+  annotations {
+    boolean FastEmeraldFlo {
+    }
+    hidden_boolean CurvedAmberAlisun2 {
+    }
+    serviceid_number RegularCopperDorthea {
+    }
+    serviceid_number EqualCrimsonEmiline {
+    }
+    json EfficientGoldGretna {
+    }
+  }
+  number BroadAmberAlikee3 {
+    _hidden_value = true
+  }
+  boolean BasicChocolateDarleen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DisgustedAzureBeulah {
+    _hidden_value = true
+  }
+  FastEmeraldFlo = true
+  RegularCopperDorthea = 874
+  EqualCrimsonEmiline = 61
+  EfficientGoldGretna = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

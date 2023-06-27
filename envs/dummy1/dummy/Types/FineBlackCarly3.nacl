@@ -1,0 +1,22 @@
+type dummy.FineBlackCarly3 {
+  annotations {
+    hidden_boolean RequiredMaroonLethia4 {
+    }
+    string RussianCyanFelipa {
+    }
+    number ThinCyanEvangeline {
+    }
+    string LongBlueChelsy4 {
+    }
+    json AmusedBeigeBunny {
+    }
+  }
+  number SpotlessTurquoiseTildie {
+    _hidden_value = true
+  }
+  RussianCyanFelipa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ThinCyanEvangeline = 339
+  LongBlueChelsy4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  AmusedBeigeBunny = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

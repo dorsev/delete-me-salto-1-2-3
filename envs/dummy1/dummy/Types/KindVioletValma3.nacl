@@ -1,0 +1,82 @@
+type dummy.KindVioletValma3 {
+  annotations {
+    dummy.SoundAmethystAngelina GreasyAquaAubine3 {
+    }
+    json SovietChocolateDarell {
+    }
+    json PrettyIndigoJennifer5 {
+    }
+    boolean GrossLavenderKevina2 {
+    }
+    boolean PricklyAquaAurie2 {
+    }
+    boolean FreeBronzeCody8 {
+    }
+    dummy.DEFAULT ObedientBlackCassie6 {
+    }
+  }
+  json SupportingSilverSam2 {
+    _hidden_value = true
+  }
+  string ReliableLavenderKim3 {
+    _hidden_value = true
+  }
+  string EverydayLimeLacee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ScaryBeigeBria2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FunnyBlackCarmelina5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WarmCopperDulcinea3 {
+    _hidden_value = true
+  }
+  hidden_boolean TastyAquaAshley {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FutureCoffeeDolores2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TenderYellowYnes {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT EasternCrimsonEricka2 {
+    _hidden_value = true
+  }
+  boolean WelcomeIvoryJosie5 {
+    _hidden_value = true
+  }
+  serviceid BloodyCyanFedora3 {
+    _hidden_value = true
+  }
+  string DeterminedBeigeCandice {
+    _hidden_value = true
+  }
+  number TightAquamarineBeckie2 {
+    _hidden_value = true
+  }
+  number MaleCoffeeDiannne5 {
+    _hidden_value = true
+  }
+  json ManagerialPurpleNerissa3 {
+    _hidden_value = true
+  }
+  GreasyAquaAubine3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SovietChocolateDarell = "Why didnt the skeleton cross the road? Because he had no guts."
+  PrettyIndigoJennifer5 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GrossLavenderKevina2 = true
+  PricklyAquaAurie2 = true
+  FreeBronzeCody8 = false
+  ObedientBlackCassie6 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,40 @@
+type dummy.FamousTealSissie3 {
+  annotations {
+    hidden_boolean SpontaneousTanSharyl4 {
+    }
+    serviceid_number PhilosophicalRedNoell3 {
+    }
+    string SurprisingGreenIanthe2 {
+    }
+    string AcceptedTanSephira {
+    }
+    json FamiliarCrimsonEstrella {
+    }
+    json MagnificentWhiteVeda6 {
+    }
+  }
+  json BoredPlumMonika2 {
+    _hidden_value = true
+  }
+  serviceid_number RichCoffeeDoreen2 {
+    _hidden_value = true
+  }
+  boolean DistantIndigoJilly3 {
+    _hidden_value = true
+  }
+  serviceid AdverseSapphireRaquel {
+    _hidden_value = true
+  }
+  serviceid_number MereGreenIdette6 {
+    _hidden_value = true
+  }
+  boolean DigitalMaroonLib2 {
+    _hidden_value = true
+  }
+  PhilosophicalRedNoell3 = 493
+  SurprisingGreenIanthe2 = "A steak pun is a rare medium well done."
+  AcceptedTanSephira = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FamiliarCrimsonEstrella = "Im only familiar with 25 letters in the English language. I dont know why."
+  MagnificentWhiteVeda6 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

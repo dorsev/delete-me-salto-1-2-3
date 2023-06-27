@@ -1,0 +1,22 @@
+type dummy.MistyTurquoiseThea is string {
+  annotations {
+    serviceid IntermediateRoseOfilia {
+    }
+    dummy.DEFAULT GoverningTanSena {
+    }
+    hidden_boolean ConfusedMaroonLila2 {
+    }
+    dummy.DEFAULT FaintAmethystAnica {
+    }
+    serviceid_number WonderfulEmeraldFlossi {
+    }
+  }
+  IntermediateRoseOfilia = "Whoever invented the knock-knock joke should get a no bell prize."
+  GoverningTanSena = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  FaintAmethystAnica = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  WonderfulEmeraldFlossi = 938
+}

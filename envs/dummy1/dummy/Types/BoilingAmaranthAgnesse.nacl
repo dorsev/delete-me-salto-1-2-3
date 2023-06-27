@@ -1,0 +1,25 @@
+type dummy.BoilingAmaranthAgnesse {
+  annotations {
+    string SplendidOrangeMandi {
+    }
+    serviceid_number CollectiveLavenderKathryne {
+    }
+    serviceid StormyTurquoiseTim {
+    }
+    serviceid NoisySilverSadye2 {
+    }
+    serviceid_number LocalBlueCharmian {
+    }
+    hidden_boolean LazyWhiteVanni {
+    }
+  }
+  json SkilledMoccasinLuce {
+    _hidden_value = true
+  }
+  SplendidOrangeMandi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CollectiveLavenderKathryne = 631
+  StormyTurquoiseTim = "Why did the kid cross the playground? To get to the other slide."
+  NoisySilverSadye2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LocalBlueCharmian = 843
+  _hidden_value = true
+}

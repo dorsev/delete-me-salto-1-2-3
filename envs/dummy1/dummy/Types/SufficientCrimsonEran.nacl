@@ -1,0 +1,69 @@
+type dummy.SufficientCrimsonEran {
+  annotations {
+    dummy.DEFAULT PlainIndigoJewell3 {
+    }
+    serviceid PeacefulOrangeMargret3 {
+    }
+    json AbsentPinkMelosa2 {
+    }
+    string TiredBeigeBritni {
+    }
+    dummy.DEFAULT VastYellowZaria2 {
+    }
+  }
+  string NeighbouringPurpleNance2 {
+    _hidden_value = true
+  }
+  string CentralBronzeConni2 {
+    _hidden_value = true
+  }
+  serviceid UnacceptableSalmonPen {
+    _hidden_value = true
+  }
+  hidden_boolean RepulsiveBeigeBrena2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ProposedGoldGwendolin4 {
+    _hidden_value = true
+  }
+  boolean DeepAmberAlla3 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DearGoldGlori2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT WesternChocolateDeerdre4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SatisfactoryLimeKrissie4 {
+    _hidden_value = true
+  }
+  serviceid IdeologicalOrangeMargarethe2 {
+    _hidden_value = true
+  }
+  string FlakyAmberAli3 {
+    _hidden_value = true
+  }
+  number SilentApricotAntonie3 {
+    _hidden_value = true
+  }
+  hidden_boolean FirmGrayHedda3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PlainIndigoJewell3 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  PeacefulOrangeMargret3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AbsentPinkMelosa2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TiredBeigeBritni = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  VastYellowZaria2 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+}

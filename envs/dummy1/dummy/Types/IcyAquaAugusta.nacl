@@ -1,0 +1,75 @@
+type dummy.IcyAquaAugusta {
+  annotations {
+    serviceid CleanTomatoTamiko3 {
+    }
+    json MaleCoffeeDianne4 {
+    }
+    string FatVioletTrixi2 {
+    }
+    number PleasantIvoryJorrie2 {
+    }
+    serviceid BalancedSilverRosmunda3 {
+    }
+    boolean AfraidCrimsonEmogene2 {
+    }
+    boolean WideBronzeCorie3 {
+    }
+  }
+  hidden_boolean SuddenGoldGwendolen2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ConcernedTealSibelle4 {
+    _hidden_value = true
+  }
+  json AfricanFuchsiaGianna {
+    _hidden_value = true
+  }
+  number CreativeJadeKanya4 {
+    _hidden_value = true
+  }
+  dummy.StraightAmethystAlysia FaithfulTanShayna2 {
+    _hidden_value = true
+  }
+  boolean SensitiveGrayHenka6 {
+    _hidden_value = true
+  }
+  hidden_boolean ReasonableCrimsonEmelia4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number VulnerableJadeKarola2 {
+    _hidden_value = true
+  }
+  string WoodenGreenHortense {
+    _hidden_value = true
+  }
+  serviceid_number RoundIvoryJohnath2 {
+    _hidden_value = true
+  }
+  serviceid_number SystematicOrangeMarcella2 {
+    _hidden_value = true
+  }
+  number NationalBlueCheri {
+    _hidden_value = true
+  }
+  boolean GoodBlackCaro2 {
+    _hidden_value = true
+  }
+  serviceid InternationalBlushClaudie3 {
+    _hidden_value = true
+  }
+  json LtdCoralElnora3 {
+    _hidden_value = true
+  }
+  CleanTomatoTamiko3 = "Slept like a log last night  woke up in the fireplace."
+  MaleCoffeeDianne4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FatVioletTrixi2 = "Why was it called the dark ages? Because of all the knights. "
+  PleasantIvoryJorrie2 = 22
+  BalancedSilverRosmunda3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AfraidCrimsonEmogene2 = false
+  WideBronzeCorie3 = false
+  _hidden_value = true
+}

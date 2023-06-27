@@ -1,0 +1,52 @@
+type dummy.MonetaryIvoryJoete2 {
+  annotations {
+    hidden_boolean GrossLavenderKevina {
+    }
+    json TerribleBeigeBriney4 {
+    }
+    serviceid_number BeautifulTomatoTabina4 {
+    }
+    string OkayOliveMaggy3 {
+    }
+    serviceid_number ApplicablePlumMiriam {
+    }
+    serviceid_number SeniorCoffeeDonelle2 {
+    }
+  }
+  dummy.FlatGrayHannis GreatBlueCharin2 {
+    AverageTomatoTabbatha = false
+    BraveMoccasinLucine = "What do you do on a remote island? Try and find the TV island it belongs to."
+    StrongAquaAryn = "Im only familiar with 25 letters in the English language. I dont know why."
+    InvisibleRoseOrelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    HushedApricotAnnamaria = 714
+    SimilarBronzeConstancy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NastyMaroonLisette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    UninterestedTomatoSusy = "What creature is smarter than a talking parrot? A spelling bee."
+    RedBrownDaloris = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    KnownMaroonLettie = 196
+    NewWhiteVeronika = 702
+    InsufficientPurpleNeely = "Dad Im hungry  Hi hungry Im dad"
+    ThoroughScarletRonda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DelightfulSilverRow = 929
+    TerritorialSalmonPriscilla = true
+    _hidden_value = true
+  }
+  boolean ColdChocolateDebee {
+    _hidden_value = true
+  }
+  json SunnyTanSharity2 {
+    _hidden_value = true
+  }
+  serviceid DecentMoccasinLora {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" RedBrownDallas4 {
+    _hidden_value = true
+  }
+  TerribleBeigeBriney4 = "What do you call two barracuda fish?  A Pairacuda!"
+  BeautifulTomatoTabina4 = 124
+  OkayOliveMaggy3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ApplicablePlumMiriam = 817
+  SeniorCoffeeDonelle2 = 47
+  _hidden_value = true
+}

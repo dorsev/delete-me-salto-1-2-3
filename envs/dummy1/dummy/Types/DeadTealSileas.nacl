@@ -1,0 +1,31 @@
+type dummy.DeadTealSileas is string {
+  annotations {
+    dummy.DEFAULT StandardCopperDrusy {
+    }
+    number TypicalEmeraldFrancisca {
+    }
+    string PublicBlushChrysler {
+    }
+    string DominantIndigoJena {
+    }
+    boolean AssistantOliveLynnet {
+    }
+    number LoyalPurpleNatala {
+    }
+    number PaleGrayHarriet {
+    }
+    hidden_boolean RegulatorySalmonQuintana {
+    }
+    hidden_boolean DevelopingHarlequinJeanne {
+    }
+  }
+  StandardCopperDrusy = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  TypicalEmeraldFrancisca = 601
+  PublicBlushChrysler = "Why was it called the dark ages? Because of all the knights. "
+  DominantIndigoJena = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AssistantOliveLynnet = true
+  LoyalPurpleNatala = 612
+  PaleGrayHarriet = 487
+}

@@ -1,0 +1,108 @@
+type dummy.CompactPurpleNanni2 {
+  annotations {
+    json TiredBeigeBritta {
+    }
+    hidden_boolean BigBlushChicky2 {
+    }
+    boolean CourageousBeigeCammie {
+    }
+    boolean CorrectCrimsonErinn2 {
+    }
+    boolean SuccessiveMoccasinLoleta {
+    }
+    json PositiveCoffeeDominica2 {
+    }
+  }
+  dummy.ColdChocolateDebby InlandSalmonQueenie {
+    IntegratedOliveMadonna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AbsoluteGreenImogen = 420
+    SoreBeigeBrietta = "Slept like a log last night  woke up in the fireplace."
+    EasyBronzeCollen = "A steak pun is a rare medium well done."
+    LivelyPeachMarylinda = "To be Frank, I'd have to change my name."
+    PreferredTanSayre = 449
+    MarvellousMoccasinLorna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ReadyChocolateDebee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    GleamingTurquoiseTerra = "A steak pun is a rare medium well done."
+    PanickyAzureBren = "Did you know that protons have mass? I didn't even know they were catholic."
+    MushyWhiteVerile = 387
+    FavouriteHarlequinJacquelyn = false
+    InnovativeTanSheelah = false
+    RearPurpleMuriel = "Why did the tomato blush? Because it saw the salad dressing."
+    OpenTealStefa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  string NativeJadeKatalin {
+    _hidden_value = true
+  }
+  hidden_boolean HardAquaAudie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean QuietWhiteVivienne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ImpossibleCopperDulci {
+    _hidden_value = true
+  }
+  json GeographicalPeachMarley3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConstantEmeraldFrayda {
+    _hidden_value = true
+  }
+  serviceid_number EnviousAzureBibi {
+    _hidden_value = true
+  }
+  serviceid ThirstyAquaAstrid {
+    _hidden_value = true
+  }
+  serviceid AngryFuchsiaGilli {
+    _hidden_value = true
+  }
+  string DueCopperDosi {
+    _hidden_value = true
+  }
+  string OrganisationalTanSharai {
+    _hidden_value = true
+  }
+  string ItalianGoldGratia {
+    _hidden_value = true
+  }
+  serviceid VoluntaryGoldGwenni2 {
+    _hidden_value = true
+  }
+  hidden_boolean BewilderedAquamarineBernie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string RemoteIndigoJeni {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" DigitalMaroonLiane {
+    _hidden_value = true
+  }
+  number PublicBlushChrysler2 {
+    _hidden_value = true
+  }
+  serviceid SquareJadeKaia {
+    _hidden_value = true
+  }
+  hidden_boolean SelectSalmonPhilipa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" StraightAmethystAlyson2 {
+    _hidden_value = true
+  }
+  TiredBeigeBritta = "Why is Peter Pan always flying? Because he Neverlands."
+  CourageousBeigeCammie = true
+  CorrectCrimsonErinn2 = false
+  SuccessiveMoccasinLoleta = true
+  PositiveCoffeeDominica2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

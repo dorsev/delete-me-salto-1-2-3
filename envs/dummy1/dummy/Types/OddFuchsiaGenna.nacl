@@ -1,0 +1,33 @@
+type dummy.OddFuchsiaGenna is number {
+  annotations {
+    serviceid_number OccasionalIvoryJulina {
+    }
+    serviceid MarxistSapphireRakel {
+    }
+    dummy.DEFAULT RedBrownDallas {
+    }
+    dummy.DEFAULT SacredRedNorina {
+    }
+    json NavalPinkMel {
+    }
+    boolean RelatedIndigoJessamyn {
+    }
+    dummy.DEFAULT MinimalPlumMorganica {
+    }
+    hidden_boolean WrongTomatoSybil {
+    }
+  }
+  OccasionalIvoryJulina = 282
+  MarxistSapphireRakel = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RedBrownDallas = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  SacredRedNorina = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  NavalPinkMel = "Why didnt the skeleton cross the road? Because he had no guts."
+  RelatedIndigoJessamyn = true
+  MinimalPlumMorganica = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+}

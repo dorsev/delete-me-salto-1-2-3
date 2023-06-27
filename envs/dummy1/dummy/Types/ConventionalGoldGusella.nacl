@@ -1,0 +1,19 @@
+type dummy.ConventionalGoldGusella {
+  annotations {
+    number NormalBrownDamaris3 {
+    }
+    string ReluctantMagentaLeda {
+    }
+    number HelplessAzureBlanch {
+    }
+    hidden_boolean DeadBrownDaphne {
+    }
+  }
+  string TerribleEmeraldFredrika {
+    _hidden_value = true
+  }
+  NormalBrownDamaris3 = 488
+  ReluctantMagentaLeda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HelplessAzureBlanch = 423
+  _hidden_value = true
+}

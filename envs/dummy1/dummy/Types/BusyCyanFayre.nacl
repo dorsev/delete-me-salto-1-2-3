@@ -1,0 +1,40 @@
+type dummy.BusyCyanFayre is boolean {
+  annotations {
+    boolean OpenBronzeClerissa {
+    }
+    string FlakyAmberAli {
+    }
+    serviceid_number NovelScarletRosina {
+    }
+    number RoundAmberAlmeria {
+    }
+    serviceid CuteTomatoTara {
+    }
+    hidden_boolean CertainBronzeClemmie {
+    }
+    serviceid OralLimeKylynn2 {
+    }
+    json DailyCyanEveleen {
+    }
+    number AbundantAmethystAndeee {
+    }
+    hidden_boolean HiddenRedOdessa {
+    }
+    hidden_boolean NervousAzureBrandais {
+    }
+    string InlandSalmonPrue {
+    }
+    number StatisticalMagentaLanie {
+    }
+  }
+  OpenBronzeClerissa = true
+  FlakyAmberAli = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NovelScarletRosina = 743
+  RoundAmberAlmeria = 891
+  CuteTomatoTara = "To be Frank, I'd have to change my name."
+  OralLimeKylynn2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DailyCyanEveleen = "What do you call two barracuda fish?  A Pairacuda!"
+  AbundantAmethystAndeee = 808
+  InlandSalmonPrue = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StatisticalMagentaLanie = 116
+}

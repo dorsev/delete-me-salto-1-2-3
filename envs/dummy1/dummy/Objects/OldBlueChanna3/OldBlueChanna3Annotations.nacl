@@ -1,0 +1,66 @@
+type dummy.OldBlueChanna3 {
+  annotations {
+    hidden_boolean FlakyAmberAlfreda {
+    }
+    serviceid_number BlindIvoryJudie3 {
+    }
+    boolean NavalPinkMelamie3 {
+    }
+    boolean HandsomeOliveMalena3 {
+    }
+    string WhisperingApricotArdelle4 {
+    }
+    number ValidLavenderKerry4 {
+    }
+    hidden_boolean MajorBlushClaire5 {
+    }
+    number SpectacularMaroonLibbey3 {
+    }
+    hidden_boolean CombativeAquamarineBertha3 {
+    }
+    hidden_boolean WellFuchsiaGisela2 {
+    }
+    string SmoggyTurquoiseTiffie2 {
+    }
+    hidden_boolean NavalPinkMelamie4 {
+    }
+    json ExclusiveMagentaLatia6 {
+    }
+    boolean ElatedBeigeCaprice3 {
+    }
+    number StaleAquaArlinda {
+    }
+    hidden_boolean ProductivePlumMommy4 {
+    }
+    string CrookedAmberAlane4 {
+    }
+    serviceid_number BrokenIndigoJocelyne3 {
+    }
+    serviceid_number RichTomatoStormi3 {
+    }
+    json DistinctTurquoiseTatiana7 {
+    }
+    boolean ColonialPeachMaure {
+    }
+    dummy.ArtificialMagentaLenee ConvenientMagentaLeese3 {
+    }
+    serviceid RemoteIndigoJenelle {
+    }
+  }
+  BlindIvoryJudie3 = 175
+  NavalPinkMelamie3 = false
+  HandsomeOliveMalena3 = true
+  WhisperingApricotArdelle4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ValidLavenderKerry4 = 689
+  SpectacularMaroonLibbey3 = 873
+  SmoggyTurquoiseTiffie2 = "Why did the kid cross the playground? To get to the other slide."
+  ExclusiveMagentaLatia6 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ElatedBeigeCaprice3 = false
+  StaleAquaArlinda = 256
+  CrookedAmberAlane4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BrokenIndigoJocelyne3 = 28
+  RichTomatoStormi3 = 344
+  DistinctTurquoiseTatiana7 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ColonialPeachMaure = true
+  RemoteIndigoJenelle = "Dad Im hungry  Hi hungry Im dad"
+}

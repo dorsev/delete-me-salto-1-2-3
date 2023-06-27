@@ -1,0 +1,30 @@
+type dummy.IndependentChocolateDell {
+  annotations {
+    json IncCrimsonErmentrude2 {
+    }
+    string TechnicalCopperEde3 {
+    }
+    serviceid_number HilariousBlackCaroljean2 {
+    }
+    dummy.DelightedIvoryJulianne DirtyIvoryJosee {
+    }
+    dummy.DEFAULT ColonialPeachMaudie3 {
+    }
+  }
+  serviceid_number SeparateCopperDorotea2 {
+    _hidden_value = true
+  }
+  hidden_boolean RidiculousMoccasinLivvyy3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  IncCrimsonErmentrude2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TechnicalCopperEde3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HilariousBlackCaroljean2 = 883
+  DirtyIvoryJosee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ColonialPeachMaudie3 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  _hidden_value = true
+}

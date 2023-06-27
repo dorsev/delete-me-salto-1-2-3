@@ -1,0 +1,52 @@
+type dummy.RainyWhiteWally2 {
+  annotations {
+    serviceid TurkishPurpleMoyra3 {
+    }
+    serviceid_number OverwhelmingPurpleMyrta3 {
+    }
+    serviceid_number SlowCyanEugenie2 {
+    }
+    serviceid_number SoleLimeKirstin4 {
+    }
+    serviceid_number DisgustedAzureBev {
+    }
+    string SpanishGreenIona3 {
+    }
+    serviceid_number WorriedBeigeBrynn4 {
+    }
+    json RunningPlumMirabel3 {
+    }
+    serviceid PoorBronzeCorene2 {
+    }
+    serviceid UsedFuchsiaGeorgeta2 {
+    }
+    boolean PunyAmaranthAeriela4 {
+    }
+    hidden_boolean PotentialCoralElbertina2 {
+    }
+    string LightTurquoiseTessy {
+    }
+    hidden_boolean ConceptualTanShela {
+    }
+    boolean WetAquamarineBelita {
+    }
+    boolean NormalBrownDana2 {
+    }
+    dummy.TotalBrownDaniella NeatMoccasinLorita2 {
+    }
+  }
+  TurkishPurpleMoyra3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OverwhelmingPurpleMyrta3 = 744
+  SlowCyanEugenie2 = 893
+  SoleLimeKirstin4 = 111
+  DisgustedAzureBev = 418
+  SpanishGreenIona3 = "Why did the tomato blush? Because it saw the salad dressing."
+  WorriedBeigeBrynn4 = 522
+  RunningPlumMirabel3 = "A steak pun is a rare medium well done."
+  PoorBronzeCorene2 = "A steak pun is a rare medium well done."
+  UsedFuchsiaGeorgeta2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PunyAmaranthAeriela4 = false
+  LightTurquoiseTessy = "Did you know that protons have mass? I didn't even know they were catholic."
+  WetAquamarineBelita = true
+  NormalBrownDana2 = true
+}

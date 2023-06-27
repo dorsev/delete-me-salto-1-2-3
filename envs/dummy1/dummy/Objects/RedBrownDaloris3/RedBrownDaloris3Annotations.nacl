@@ -1,0 +1,45 @@
+type dummy.RedBrownDaloris3 {
+  annotations {
+    json RadicalGrayHelen2 {
+    }
+    serviceid_number IraqiOliveMadelon4 {
+    }
+    dummy.FantasticBlackCarlota3 FortunateRoseOliy {
+    }
+    json SpanishGreenIra3 {
+    }
+    hidden_boolean GorgeousVioletUrsala6 {
+    }
+    serviceid HandsomeVioletUta4 {
+    }
+    json AdvisoryOrangeMaridel5 {
+    }
+    dummy.OddFuchsiaGenna ExclusiveMagentaLatia7 {
+    }
+    number StupidGreenIzabel2 {
+    }
+    hidden_boolean AgreedTanSelie3 {
+    }
+    dummy.LengthySapphireRani2 OkSapphireRhianon5 {
+    }
+    serviceid_number AssociatedMaroonLindsy2 {
+    }
+    dummy.VictorianJadeKalli TightIvoryJoelynn3 {
+    }
+    string ArmedGrayHelaina5 {
+    }
+    serviceid_number InstitutionalMaroonLesli3 {
+    }
+  }
+  RadicalGrayHelen2 = "Why did the kid cross the playground? To get to the other slide."
+  IraqiOliveMadelon4 = 13
+  SpanishGreenIra3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HandsomeVioletUta4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AdvisoryOrangeMaridel5 = "To be Frank, I'd have to change my name."
+  ExclusiveMagentaLatia7 = 87
+  StupidGreenIzabel2 = 612
+  AssociatedMaroonLindsy2 = 148
+  TightIvoryJoelynn3 = file("YoungBlueCherey4.txt")
+  ArmedGrayHelaina5 = "Did you know that protons have mass? I didn't even know they were catholic."
+  InstitutionalMaroonLesli3 = 244
+}

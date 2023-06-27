@@ -1,0 +1,79 @@
+type dummy.PurpleWhiteVivian3 {
+  annotations {
+    string UpperCyanFaustina {
+    }
+    boolean DutchLavenderKendre2 {
+    }
+    boolean StraightAmethystAlysia2 {
+    }
+    json AutomaticLavenderKiah2 {
+    }
+  }
+  string FluffyAmberAlia {
+    _hidden_value = true
+  }
+  boolean ShrillApricotAntonella {
+    _hidden_value = true
+  }
+  boolean AbleBlushChrissy2 {
+    _hidden_value = true
+  }
+  serviceid AsleepJadeKarlyn {
+    _hidden_value = true
+  }
+  json OverseasIvoryJudith {
+    _hidden_value = true
+  }
+  boolean MedievalJadeKaree {
+    _hidden_value = true
+  }
+  json FlatGrayHanni2 {
+    _hidden_value = true
+  }
+  serviceid_number SecretGrayHetty2 {
+    _hidden_value = true
+  }
+  string EmpiricalPinkMeara {
+    _hidden_value = true
+  }
+  boolean StatisticalMagentaLanni {
+    _hidden_value = true
+  }
+  serviceid_number SatisfiedHarlequinJazmin {
+    _hidden_value = true
+  }
+  serviceid CorrectCrimsonErinn {
+    _hidden_value = true
+  }
+  number MajorBlushClaire2 {
+    _hidden_value = true
+  }
+  serviceid_number PolishPinkMercy {
+    _hidden_value = true
+  }
+  hidden_boolean StaleAquaArline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string RemoteIndigoJenica {
+    _hidden_value = true
+  }
+  string LateAmethystAmber {
+    _hidden_value = true
+  }
+  serviceid_number SensitiveGrayHendrika2 {
+    _hidden_value = true
+  }
+  number LiveIndigoJody {
+    _hidden_value = true
+  }
+  number DeliberateRedNoelyn {
+    _hidden_value = true
+  }
+  UpperCyanFaustina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DutchLavenderKendre2 = true
+  StraightAmethystAlysia2 = false
+  AutomaticLavenderKiah2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

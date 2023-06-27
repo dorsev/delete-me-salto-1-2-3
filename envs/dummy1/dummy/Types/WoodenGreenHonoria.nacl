@@ -1,0 +1,94 @@
+type dummy.WoodenGreenHonoria {
+  annotations {
+    boolean FierceAzureBilly {
+    }
+    dummy.DEFAULT EmotionalGrayHertha2 {
+    }
+    json DangerousCrimsonEssy2 {
+    }
+    serviceid_number OrdinaryCopperEdin2 {
+    }
+    string VerticalOliveLynnett {
+    }
+    dummy.DEFAULT RelatedIndigoJessalin {
+    }
+  }
+  dummy.DominantIndigoJena2 ConsistentHarlequinJanith {
+    ExtensiveGoldGloriana = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    OralLimeKylila = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EldestTanSharline = 678
+    EvilAzureBidget = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SoreBeigeBrigid = 84
+    CreepyAmberAlameda = 112
+    HarshOliveMahalia = true
+    DirectChocolateDeane = false
+    WetGrayHedwig = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DamagedAmberAleen = 231
+    BoringPeachMarni = "Why didnt the skeleton cross the road? Because he had no guts."
+    DiverseRedNicky = 897
+    ModeratePurpleNatalya = "Why did the tomato blush? Because it saw the salad dressing."
+    HarshOliveMaible = 661
+    ChemicalGreenIsadora = 644
+    _hidden_value = true
+  }
+  serviceid_number SafeCopperDoretta {
+    _hidden_value = true
+  }
+  serviceid_number PerfectCrimsonEttie2 {
+    _hidden_value = true
+  }
+  dummy.PhilosophicalRedNoell SuitableCrimsonEmelyne {
+    ExcitedBlackCarita = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SignificantBrownDanni = "What do you call two barracuda fish?  A Pairacuda!"
+    HilariousBlackCarolyn = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    WonderfulBlueCeleste = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    OutrageousAzureBreanne = 231
+    SoftCoralElayne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  "Map<serviceid>" InternationalBlushClaudia2 {
+    _hidden_value = true
+  }
+  serviceid IndirectPeachMary2 {
+    _hidden_value = true
+  }
+  number TenseBeigeBrigitte {
+    _hidden_value = true
+  }
+  dummy.SoundAmethystAngelina UnusualGoldGizela2 {
+    IslamicRoseOlympie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    FlutteringAquaAthene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PassivePurpleMyrah = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    _hidden_value = true
+  }
+  hidden_boolean HostileOrangeMariel2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ExtraordinaryIndigoJessica3 {
+    _hidden_value = true
+  }
+  hidden_boolean JuicyApricotAriadne2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  FierceAzureBilly = false
+  EmotionalGrayHertha2 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  DangerousCrimsonEssy2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OrdinaryCopperEdin2 = 643
+  VerticalOliveLynnett = "Im only familiar with 25 letters in the English language. I dont know why."
+  RelatedIndigoJessalin = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  _hidden_value = true
+}

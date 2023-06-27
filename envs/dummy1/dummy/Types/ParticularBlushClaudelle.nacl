@@ -1,0 +1,119 @@
+type dummy.ParticularBlushClaudelle {
+  annotations {
+    boolean MetropolitanOrangeMargeaux {
+    }
+    hidden_boolean SweetGreenHolli {
+    }
+    boolean StrongBronzeCon2 {
+    }
+  }
+  dummy.AttractiveCyanFiann FatVioletTrixy2 {
+    LargeAmaranthAdeline = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    TrickyYellowYolanthe = 148
+    LuckyBlackCassaundra = 449
+    OccasionalIvoryJuliette = false
+    FrailVioletTrude = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  dummy.ToughYellowYsabel PotentialCoralElberta {
+    GrubbyAquaAubry = 173
+    _hidden_value = true
+  }
+  hidden_boolean SmartPeachMarji {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LongVioletVanda2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json GayOrangeMarijo {
+    _hidden_value = true
+  }
+  json HorribleOrangeMarena {
+    _hidden_value = true
+  }
+  hidden_boolean UnawareSapphireReena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InterestingChocolateDemeter {
+    _hidden_value = true
+  }
+  number MadHarlequinJanet {
+    _hidden_value = true
+  }
+  string MysteriousAzureBonita2 {
+    _hidden_value = true
+  }
+  json DoubtfulRosePandora2 {
+    _hidden_value = true
+  }
+  serviceid ExpectedLimeLani {
+    _hidden_value = true
+  }
+  number KindBlackCaryl2 {
+    _hidden_value = true
+  }
+  dummy.DelightedIvoryJulianne PainfulMaroonLilly {
+    _hidden_value = true
+  }
+  "List<serviceid>" LonelyAzureBobina2 {
+    _hidden_value = true
+  }
+  serviceid_number FewAmethystAndrei {
+    _hidden_value = true
+  }
+  hidden_boolean SensitiveGrayHenka2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number HugeAmaranthAdel {
+    _hidden_value = true
+  }
+  number CourageousBeigeCammi2 {
+    _hidden_value = true
+  }
+  string AsianMaroonLindie {
+    _hidden_value = true
+  }
+  serviceid TallAmaranthAggie3 {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorCoffeeDonelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string QuietWhiteViviene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImperialLavenderKaterine {
+    _hidden_value = true
+  }
+  hidden_boolean CivilCoffeeDniren {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WhiteBronzeClotilda {
+    _hidden_value = true
+  }
+  string LevelJadeKamilah {
+    _hidden_value = true
+  }
+  hidden_boolean AustralianJadeKat {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  MetropolitanOrangeMargeaux = true
+  StrongBronzeCon2 = false
+  _hidden_value = true
+}

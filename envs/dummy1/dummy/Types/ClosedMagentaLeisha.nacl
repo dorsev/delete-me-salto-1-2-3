@@ -1,0 +1,22 @@
+type dummy.ClosedMagentaLeisha {
+  annotations {
+    json RareEmeraldFlorette2 {
+    }
+    json HeavyAmethystAndy2 {
+    }
+    json PossibleBlushCheryl {
+    }
+    string HushedApricotAnnamaria2 {
+    }
+  }
+  hidden_boolean OralLimeKylila2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  RareEmeraldFlorette2 = "Dad Im hungry  Hi hungry Im dad"
+  HeavyAmethystAndy2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PossibleBlushCheryl = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  HushedApricotAnnamaria2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

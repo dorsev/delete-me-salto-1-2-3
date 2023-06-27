@@ -1,0 +1,53 @@
+type dummy.WonderfulEmeraldFlossie is number {
+  annotations {
+    hidden_boolean ScatteredAquaAveline {
+    }
+    serviceid ConfusedMaroonLiesa {
+    }
+    string PreciousOrangeMariellen {
+    }
+    serviceid InteriorPurpleNatividad {
+    }
+    boolean SeparateCopperDorolice {
+    }
+    serviceid_number VulnerableJadeKarna {
+    }
+    boolean MadHarlequinJanessa {
+    }
+    json WorriedBeigeBrynne {
+    }
+    json DirectChocolateDdene {
+    }
+    boolean DefensiveRoseOneida {
+    }
+    boolean BoredPlumMonika {
+    }
+    hidden_boolean CostlySapphireRegan {
+    }
+    string ActualCopperEda {
+    }
+    number LatinLimeKonstance {
+    }
+    string PerfectBlackCatha {
+    }
+    serviceid_number WrongTomatoSybilla {
+    }
+    serviceid AlrightGoldGoldy {
+    }
+  }
+  ConfusedMaroonLiesa = "What creature is smarter than a talking parrot? A spelling bee."
+  PreciousOrangeMariellen = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InteriorPurpleNatividad = "What do you call two barracuda fish?  A Pairacuda!"
+  SeparateCopperDorolice = true
+  VulnerableJadeKarna = 722
+  MadHarlequinJanessa = false
+  WorriedBeigeBrynne = "How come the stadium got hot after the game? Because all of the fans left."
+  DirectChocolateDdene = "What creature is smarter than a talking parrot? A spelling bee."
+  DefensiveRoseOneida = true
+  BoredPlumMonika = false
+  ActualCopperEda = "Why didnt the skeleton cross the road? Because he had no guts."
+  LatinLimeKonstance = 748
+  PerfectBlackCatha = "A steak pun is a rare medium well done."
+  WrongTomatoSybilla = 204
+  AlrightGoldGoldy = "A steak pun is a rare medium well done."
+}

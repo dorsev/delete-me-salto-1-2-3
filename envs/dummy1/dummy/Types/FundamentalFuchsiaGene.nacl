@@ -1,0 +1,53 @@
+type dummy.FundamentalFuchsiaGene {
+  annotations {
+    serviceid_number WoodenGreenHoratia {
+    }
+    number HotCoffeeDenys {
+    }
+    number LooseIvoryJuliet {
+    }
+    dummy.ConfusedMaroonLila ToughGoldGlenine {
+    }
+    hidden_boolean DiplomaticMagentaLenora {
+    }
+    hidden_boolean MathematicalRoseOrtensia {
+    }
+  }
+  json VoluntaryGoldGwenni {
+    _hidden_value = true
+  }
+  string ShyTomatoSue {
+    _hidden_value = true
+  }
+  number QuietCoralEkaterina {
+    _hidden_value = true
+  }
+  serviceid WellFuchsiaGiralda {
+    _hidden_value = true
+  }
+  boolean ElatedBeigeCara {
+    _hidden_value = true
+  }
+  boolean MildOliveMaddalena2 {
+    _hidden_value = true
+  }
+  hidden_boolean DullTurquoiseTedda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number GiantMoccasinLotti2 {
+    _hidden_value = true
+  }
+  serviceid FunnyVioletTuesday {
+    _hidden_value = true
+  }
+  "List<string>" DesperateIvoryJunie {
+    _hidden_value = true
+  }
+  WoodenGreenHoratia = 992
+  HotCoffeeDenys = 190
+  LooseIvoryJuliet = 328
+  ToughGoldGlenine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

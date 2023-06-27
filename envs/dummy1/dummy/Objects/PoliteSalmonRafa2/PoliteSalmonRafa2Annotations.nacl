@@ -1,0 +1,75 @@
+type dummy.PoliteSalmonRafa2 {
+  annotations {
+    hidden_boolean AnnoyedAquamarineBenita {
+    }
+    json KindVioletVallie {
+    }
+    serviceid GrumpyVioletUrsula {
+    }
+    string FederalGrayHalli4 {
+    }
+    dummy.WonderfulEmeraldFlossie SuspiciousPurpleMyrilla3 {
+    }
+    number InadequateLavenderKaylyn5 {
+    }
+    number ContinuousIvoryJuana {
+    }
+    hidden_boolean SlimyAquamarineBarbara2 {
+    }
+    hidden_boolean MagneticPeachMavra2 {
+    }
+    dummy.FlutteringAquaAthena MonthlyMaroonLinnea5 {
+    }
+    string TameYellowYasmeen3 {
+    }
+    serviceid_number ExistingCoffeeDesiri3 {
+    }
+    json SlightGoldGwenora5 {
+    }
+    serviceid ThunderingApricotArabella4 {
+    }
+    string CleanTomatoTami {
+    }
+    boolean SunnyTanSharl4 {
+    }
+    json SpecificChocolateDarby2 {
+    }
+    json CheapCopperEdita2 {
+    }
+    json HelpfulHarlequinJaneva2 {
+    }
+    boolean SquareJadeKaela2 {
+    }
+    serviceid_number ImpressedOrangeMaris2 {
+    }
+    dummy.CuriousLimeKirbie2 WeakAquamarineBelicia3 {
+    }
+    boolean SaltyApricotArlee3 {
+    }
+    serviceid_number VisibleIndigoJillana {
+    }
+    serviceid VerbalPinkMaxie4 {
+    }
+  }
+  KindVioletVallie = "Whoever invented the knock-knock joke should get a no bell prize."
+  GrumpyVioletUrsula = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FederalGrayHalli4 = "Why was it called the dark ages? Because of all the knights. "
+  SuspiciousPurpleMyrilla3 = 138
+  InadequateLavenderKaylyn5 = 491
+  ContinuousIvoryJuana = 17
+  MonthlyMaroonLinnea5 = true
+  TameYellowYasmeen3 = "Why was it called the dark ages? Because of all the knights. "
+  ExistingCoffeeDesiri3 = 662
+  SlightGoldGwenora5 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ThunderingApricotArabella4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CleanTomatoTami = "Why didnt the skeleton cross the road? Because he had no guts."
+  SunnyTanSharl4 = false
+  SpecificChocolateDarby2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CheapCopperEdita2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  HelpfulHarlequinJaneva2 = "Why was it called the dark ages? Because of all the knights. "
+  SquareJadeKaela2 = false
+  ImpressedOrangeMaris2 = 38
+  SaltyApricotArlee3 = true
+  VisibleIndigoJillana = 53
+  VerbalPinkMaxie4 = "I'll tell you what often gets over looked... garden fences."
+}

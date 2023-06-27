@@ -1,0 +1,66 @@
+type dummy.CircularRoseOriana3 {
+  annotations {
+    dummy.DisappointedMagentaLaurice SurprisedEmeraldFreddy2 {
+    }
+    dummy.DelightedIvoryJulianne GreekIndigoJoana4 {
+    }
+    serviceid AwfulAquamarineBernelle {
+    }
+    hidden_boolean IntactRosePatrizia2 {
+    }
+    number CautiousTealSibbie {
+    }
+    dummy.WonderfulEmeraldFlossy RichCoffeeDorelia3 {
+    }
+    json ExcessSilverSara2 {
+    }
+    number SharedPinkMelba4 {
+    }
+    boolean AngryAquamarineBenedikta3 {
+    }
+    string BusyCyanFayina4 {
+    }
+    json HolyIndigoJehanna4 {
+    }
+    hidden_boolean RulingLimeKippie2 {
+    }
+    boolean HighBlueCharisse3 {
+    }
+    string RemoteIndigoJenica4 {
+    }
+    number RedundantSalmonPhilippe7 {
+    }
+    serviceid CertainBronzeClemmy2 {
+    }
+    string FavouriteHarlequinJaclyn3 {
+    }
+    dummy.EventualTanSharron OfficialCopperDorise5 {
+    }
+    boolean QuietWhiteViviene6 {
+    }
+    serviceid_number AmusedBeigeCacilie2 {
+    }
+    dummy.KindVioletValma3 NiceBrownCybil6 {
+    }
+    boolean CompetitiveGrayHeida3 {
+    }
+  }
+  SurprisedEmeraldFreddy2 = 584
+  GreekIndigoJoana4 = file("OpenTealStefania.txt")
+  AwfulAquamarineBernelle = "Why didnt the skeleton cross the road? Because he had no guts."
+  CautiousTealSibbie = 723
+  RichCoffeeDorelia3 = true
+  ExcessSilverSara2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  SharedPinkMelba4 = 843
+  AngryAquamarineBenedikta3 = true
+  BusyCyanFayina4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HolyIndigoJehanna4 = "Why did the kid cross the playground? To get to the other slide."
+  HighBlueCharisse3 = false
+  RemoteIndigoJenica4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RedundantSalmonPhilippe7 = 124
+  CertainBronzeClemmy2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FavouriteHarlequinJaclyn3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  QuietWhiteViviene6 = true
+  AmusedBeigeCacilie2 = 300
+  CompetitiveGrayHeida3 = false
+}

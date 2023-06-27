@@ -1,0 +1,125 @@
+type dummy.DependentGrayHeda {
+  annotations {
+    json ThoroughScarletRonda2 {
+    }
+    dummy.DEFAULT ConfidentialScarletRois {
+    }
+    json EconomicBlushClare {
+    }
+    dummy.DEFAULT TiredGoldGretel {
+    }
+    boolean MuddyTurquoiseTheresina {
+    }
+  }
+  hidden_boolean CombinedOliveMaighdiln2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number RattyWhiteWaneta2 {
+    _hidden_value = true
+  }
+  boolean HiddenRedOdessa2 {
+    _hidden_value = true
+  }
+  boolean DecisiveSalmonPenni {
+    _hidden_value = true
+  }
+  hidden_boolean SovietChocolateDari {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ClosedMagentaLeilah2 {
+    _hidden_value = true
+  }
+  boolean BusyTealShirleen {
+    _hidden_value = true
+  }
+  json EmotionalGrayHertha {
+    _hidden_value = true
+  }
+  hidden_boolean StrategicHarlequinJeanne2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PregnantLimeKlara2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number EverydayLimeKynthia2 {
+    _hidden_value = true
+  }
+  serviceid NosyWhiteVicky2 {
+    _hidden_value = true
+  }
+  json PotentialCoralElbertina {
+    _hidden_value = true
+  }
+  number BackMoccasinLonna {
+    _hidden_value = true
+  }
+  hidden_boolean ProvincialPeachMarita2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OutstandingIndigoJenine {
+    _hidden_value = true
+  }
+  number UnknownFuchsiaGigi2 {
+    _hidden_value = true
+  }
+  dummy.LightCopperDulciana CollectiveLavenderKathryne2 {
+    _hidden_value = true
+  }
+  serviceid_number AncientAmethystAmalee {
+    _hidden_value = true
+  }
+  json EnchantingBlackCaressa {
+    _hidden_value = true
+  }
+  serviceid_number UglyYellowZahara2 {
+    _hidden_value = true
+  }
+  json BitterApricotArdene2 {
+    _hidden_value = true
+  }
+  boolean AgreeableBeigeBunnie {
+    _hidden_value = true
+  }
+  json AestheticSapphireRea {
+    _hidden_value = true
+  }
+  hidden_boolean AustralianJadeKassia3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CrookedAmberAlane2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RedBrownDallas2 {
+    _hidden_value = true
+  }
+  serviceid InevitableIvoryJonell3 {
+    _hidden_value = true
+  }
+  json TenderRedOdelinda3 {
+    _hidden_value = true
+  }
+  ThoroughScarletRonda2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ConfidentialScarletRois = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  EconomicBlushClare = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  TiredGoldGretel = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  MuddyTurquoiseTheresina = true
+  _hidden_value = true
+}

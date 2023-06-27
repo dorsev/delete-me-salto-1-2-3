@@ -1,0 +1,21 @@
+type dummy.CorrespondingPlumMiquela is string {
+  annotations {
+    number DelightedIvoryJulianna {
+    }
+    boolean FrightenedMagentaLaverne {
+    }
+    boolean VariousBrownCorry {
+    }
+    boolean MolecularRedNertie {
+    }
+    hidden_boolean AcademicEmeraldFulvia {
+    }
+    serviceid_number ExtensiveGoldGloriane {
+    }
+  }
+  DelightedIvoryJulianna = 293
+  FrightenedMagentaLaverne = true
+  VariousBrownCorry = true
+  MolecularRedNertie = false
+  ExtensiveGoldGloriane = 112
+}

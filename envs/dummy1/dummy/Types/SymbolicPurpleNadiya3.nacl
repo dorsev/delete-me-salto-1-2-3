@@ -1,0 +1,69 @@
+type dummy.SymbolicPurpleNadiya3 {
+  annotations {
+    dummy.MildOliveMaddalena GayOrangeMarietta3 {
+    }
+    json ToughGoldGlenn2 {
+    }
+    serviceid SpicyAquaArliene4 {
+    }
+    string NetGoldGladys {
+    }
+    string NecessaryBronzeCora2 {
+    }
+    hidden_boolean HomelessSilverSalomi2 {
+    }
+    number SorryBrownDanya2 {
+    }
+  }
+  string GentleBlackCarmelle2 {
+    _hidden_value = true
+  }
+  json NearbyLimeKoo3 {
+    _hidden_value = true
+  }
+  number StupidTomatoSunshine3 {
+    _hidden_value = true
+  }
+  boolean ExtensiveGoldGloriana2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" OlympicRedNerty {
+    _hidden_value = true
+  }
+  string TastelessAquaAshlee3 {
+    _hidden_value = true
+  }
+  hidden_boolean RareEmeraldFlorette4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UnhappyMaroonLibby3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean TrickyYellowYolane {
+    _hidden_value = true
+  }
+  hidden_boolean SmoggyTurquoiseTiffanie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PermanentFuchsiaGayel4 {
+    _hidden_value = true
+  }
+  hidden_boolean BreezyAmaranthAila {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  GayOrangeMarietta3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ToughGoldGlenn2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SpicyAquaArliene4 = "To be Frank, I'd have to change my name."
+  NetGoldGladys = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NecessaryBronzeCora2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SorryBrownDanya2 = 559
+  _hidden_value = true
+}

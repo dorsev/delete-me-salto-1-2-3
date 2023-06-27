@@ -1,0 +1,60 @@
+type dummy.ItalianGoldGrayce4 {
+  annotations {
+    boolean IllAzureBobbe2 {
+    }
+    json InteriorPurpleNatka3 {
+    }
+    string MinorEmeraldGabie6 {
+    }
+    dummy.NumerousHarlequinJane3 ShyScarletRosemonde3 {
+    }
+    number ThirstyAquaAstra {
+    }
+    string InternalCoralEdythe3 {
+    }
+    boolean HandsomeOliveMalanie {
+    }
+    serviceid CommercialCopperDorena3 {
+    }
+    serviceid_number AlrightGoldGrace2 {
+    }
+    boolean StickyAquamarineBeatrix {
+    }
+    number LostJadeKaralynn5 {
+    }
+    dummy.RulingLimeKippy AvailableBlushChryste3 {
+    }
+    serviceid FunnyBlackCarmelina8 {
+    }
+    boolean TremendousMagentaLeoline {
+    }
+    serviceid ConsistentHarlequinJanka {
+    }
+    hidden_boolean FatIvoryJoella2 {
+    }
+    serviceid FluffyAmberAlice {
+    }
+    boolean ApparentCyanFawnia5 {
+    }
+    hidden_boolean MelodicApricotAnnalee4 {
+    }
+    string SecretGrayHilary4 {
+    }
+  }
+  IllAzureBobbe2 = true
+  InteriorPurpleNatka3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MinorEmeraldGabie6 = "To be Frank, I'd have to change my name."
+  ThirstyAquaAstra = 611
+  InternalCoralEdythe3 = "What do you call two barracuda fish?  A Pairacuda!"
+  HandsomeOliveMalanie = false
+  CommercialCopperDorena3 = "What do you call two barracuda fish?  A Pairacuda!"
+  AlrightGoldGrace2 = 764
+  StickyAquamarineBeatrix = true
+  LostJadeKaralynn5 = 197
+  FunnyBlackCarmelina8 = "Why did the tomato blush? Because it saw the salad dressing."
+  TremendousMagentaLeoline = false
+  ConsistentHarlequinJanka = "What creature is smarter than a talking parrot? A spelling bee."
+  FluffyAmberAlice = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ApparentCyanFawnia5 = false
+  SecretGrayHilary4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+}

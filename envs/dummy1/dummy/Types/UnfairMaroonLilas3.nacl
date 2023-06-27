@@ -1,0 +1,19 @@
+type dummy.UnfairMaroonLilas3 {
+  annotations {
+    boolean SteepAmethystAlys2 {
+    }
+    hidden_boolean SparklingTurquoiseTilda4 {
+    }
+    number IntellectualJadeKalila3 {
+    }
+    json ImperialJadeKaterina3 {
+    }
+  }
+  string QuickAmethystAmil4 {
+    _hidden_value = true
+  }
+  SteepAmethystAlys2 = false
+  IntellectualJadeKalila3 = 413
+  ImperialJadeKaterina3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,128 @@
+type dummy.SubstantialCoralElsinore {
+  annotations {
+    boolean PositiveCoffeeDonella3 {
+    }
+    serviceid UnableCoralEloise2 {
+    }
+    json ArchitecturalRosePatrice3 {
+    }
+    number ArtificialMagentaLenette2 {
+    }
+    serviceid DelightedIvoryJulie {
+    }
+  }
+  serviceid_number OldBlueChanna {
+    _hidden_value = true
+  }
+  number VariableRedNomi4 {
+    _hidden_value = true
+  }
+  boolean WorryingSilverRozanna {
+    _hidden_value = true
+  }
+  serviceid_number GeneralBlushChristel {
+    _hidden_value = true
+  }
+  json RareEmeraldFlori {
+    _hidden_value = true
+  }
+  serviceid_number HumanBronzeConstantina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DutchLavenderKelsy2 {
+    _hidden_value = true
+  }
+  string DistinctTurquoiseTatiana2 {
+    _hidden_value = true
+  }
+  "List<json>" GermanChocolateDelia {
+    _hidden_value = true
+  }
+  serviceid_number ChiefCopperDorri {
+    _hidden_value = true
+  }
+  hidden_boolean IncCrimsonErmentrude {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SharpFuchsiaGeorgina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LinearRedNessie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string NastyMaroonLisha {
+    _hidden_value = true
+  }
+  serviceid_number NeutralPeachMarys {
+    _hidden_value = true
+  }
+  json ComfortableGoldGriselda2 {
+    _hidden_value = true
+  }
+  serviceid_number OverwhelmingPurpleMyrlene {
+    _hidden_value = true
+  }
+  boolean SecretGrayHilary2 {
+    _hidden_value = true
+  }
+  boolean LonelyAzureBobette2 {
+    _hidden_value = true
+  }
+  serviceid GayOrangeMarigold2 {
+    _hidden_value = true
+  }
+  string SlightGoldGwenny {
+    _hidden_value = true
+  }
+  hidden_boolean ClinicalIndigoJenny2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CondemnedAquamarineBerthe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number BigAmaranthAbbey3 {
+    _hidden_value = true
+  }
+  boolean ManyAmethystAngel {
+    _hidden_value = true
+  }
+  string CuteTomatoTansy2 {
+    _hidden_value = true
+  }
+  string SmoothIndigoJemimah {
+    _hidden_value = true
+  }
+  serviceid OperationalOrangeMarian2 {
+    _hidden_value = true
+  }
+  json RareWhiteWanda2 {
+    _hidden_value = true
+  }
+  hidden_boolean LongAmaranthAdey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT NarrowAmberAlmeda {
+    _hidden_value = true
+  }
+  serviceid NervousHarlequinJany2 {
+    _hidden_value = true
+  }
+  PositiveCoffeeDonella3 = false
+  UnableCoralEloise2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ArchitecturalRosePatrice3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ArtificialMagentaLenette2 = 732
+  DelightedIvoryJulie = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

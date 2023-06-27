@@ -1,0 +1,103 @@
+type dummy.SacredRedNorina6 {
+  annotations {
+    boolean UnemployedIvoryJoly3 {
+    }
+    hidden_boolean ExclusiveMagentaLatashia {
+    }
+    boolean FrenchBrownCyndia {
+    }
+    serviceid PrincipalGoldGreta {
+    }
+    hidden_boolean SharedPinkMelba2 {
+    }
+    number ClosedMagentaLeisha2 {
+    }
+  }
+  serviceid IndependentChocolateDelinda2 {
+    _hidden_value = true
+  }
+  hidden_boolean AfraidAquamarineBelvia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SadGrayHester {
+    _hidden_value = true
+  }
+  string BlankPinkMelonie {
+    _hidden_value = true
+  }
+  string StrictLavenderKatha {
+    _hidden_value = true
+  }
+  number SoundRoseOlga {
+    _hidden_value = true
+  }
+  serviceid_number VaguePinkMei3 {
+    _hidden_value = true
+  }
+  number PartialOliveLyndell2 {
+    _hidden_value = true
+  }
+  number AverageCoralElysee {
+    _hidden_value = true
+  }
+  json MassGreenIlla {
+    _hidden_value = true
+  }
+  number ShiveringAquaBabita {
+    _hidden_value = true
+  }
+  boolean CostlySapphireRegan3 {
+    _hidden_value = true
+  }
+  string PalestinianTanShandee {
+    _hidden_value = true
+  }
+  serviceid_number DeafeningAmethystAngie {
+    _hidden_value = true
+  }
+  boolean FondSalmonPierrette {
+    _hidden_value = true
+  }
+  number AgreedTanSelia2 {
+    _hidden_value = true
+  }
+  hidden_boolean SoftCoralElana2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json HeavyAmethystAndriana2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GloriousBlackCarmen {
+    _hidden_value = true
+  }
+  number TestyYellowYolande3 {
+    _hidden_value = true
+  }
+  serviceid_number InterestingChocolateDelphinia3 {
+    _hidden_value = true
+  }
+  number InternationalBlushClaudette2 {
+    _hidden_value = true
+  }
+  serviceid NeatMoccasinLorine {
+    _hidden_value = true
+  }
+  number ExtraCoffeeDiane3 {
+    _hidden_value = true
+  }
+  string IraqiOliveMadelyn {
+    _hidden_value = true
+  }
+  json SparklingTurquoiseTiffy2 {
+    _hidden_value = true
+  }
+  UnemployedIvoryJoly3 = true
+  FrenchBrownCyndia = true
+  PrincipalGoldGreta = "Did you know that protons have mass? I didn't even know they were catholic."
+  ClosedMagentaLeisha2 = 895
+  _hidden_value = true
+}

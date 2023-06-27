@@ -1,0 +1,121 @@
+type dummy.AcuteLavenderKeriann {
+  annotations {
+    dummy.DEFAULT FancyTurquoiseTedra5 {
+    }
+    dummy.DEFAULT RedundantSalmonPhilis2 {
+    }
+    string TenderYellowYetty {
+    }
+    json YoungBlueCherey3 {
+    }
+    json MedievalJadeKaree3 {
+    }
+    string LinguisticJadeKarie {
+    }
+  }
+  dummy.CorrespondingPlumMiquela TremendousMagentaLeola {
+    DelightedIvoryJulianna = 748
+    FrightenedMagentaLaverne = false
+    VariousBrownCorry = true
+    MolecularRedNertie = false
+    ExtensiveGoldGloriane = 175
+    _hidden_value = true
+  }
+  boolean ProgressiveOliveMadelin2 {
+    _hidden_value = true
+  }
+  serviceid_number RemarkableGreenHulda {
+    _hidden_value = true
+  }
+  boolean ImportantTealSophie3 {
+    _hidden_value = true
+  }
+  serviceid_number RegularCopperDorthy2 {
+    _hidden_value = true
+  }
+  number LevelJadeKamila2 {
+    _hidden_value = true
+  }
+  string EstimatedOrangeMargit2 {
+    _hidden_value = true
+  }
+  string VastYellowZea4 {
+    _hidden_value = true
+  }
+  json EnthusiasticBlackCarina2 {
+    _hidden_value = true
+  }
+  serviceid PersistentRosePamela {
+    _hidden_value = true
+  }
+  boolean UglyPlumMickie2 {
+    _hidden_value = true
+  }
+  hidden_boolean WorriedBeigeBrynna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT BetterVioletTomasina {
+    _hidden_value = true
+  }
+  hidden_boolean AssociatedMaroonLindsay {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ChristianCoralElsy {
+    _hidden_value = true
+  }
+  hidden_boolean NativeJadeKatalin4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT CognitiveSalmonQuentin2 {
+    _hidden_value = true
+  }
+  string CharmingPlumMorena2 {
+    _hidden_value = true
+  }
+  boolean RunningPlumMirabel2 {
+    _hidden_value = true
+  }
+  serviceid SpareMaroonLilli {
+    _hidden_value = true
+  }
+  number GreenVioletUla4 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ChristianCoralElva5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImpressedOrangeMaris {
+    _hidden_value = true
+  }
+  json AmbitiousPeachMaureen3 {
+    _hidden_value = true
+  }
+  boolean BottomMoccasinLouisette {
+    _hidden_value = true
+  }
+  serviceid IdealEmeraldFredi5 {
+    _hidden_value = true
+  }
+  string WeakAquamarineBelicia2 {
+    _hidden_value = true
+  }
+  FancyTurquoiseTedra5 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  RedundantSalmonPhilis2 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  TenderYellowYetty = "What do you call two barracuda fish?  A Pairacuda!"
+  YoungBlueCherey3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  MedievalJadeKaree3 = "Why did the kid cross the playground? To get to the other slide."
+  LinguisticJadeKarie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

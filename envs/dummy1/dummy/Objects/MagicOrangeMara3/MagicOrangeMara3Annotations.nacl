@@ -1,0 +1,60 @@
+type dummy.MagicOrangeMara3 {
+  annotations {
+    boolean SevereEmeraldGaby4 {
+    }
+    serviceid BusyTealShirley2 {
+    }
+    number SickFuchsiaGeraldine4 {
+    }
+    hidden_boolean DullVioletTrish {
+    }
+    serviceid SwiftAmethystAnastasie3 {
+    }
+    dummy.ElectricalLavenderKerrill ChiefCopperDorrie6 {
+    }
+    serviceid BrilliantGreenIlsa3 {
+    }
+    hidden_boolean InherentRedNita {
+    }
+    serviceid PurpleScarletRivalee4 {
+    }
+    number AcademicEmeraldGabbey4 {
+    }
+    serviceid UnknownFuchsiaGilberta6 {
+    }
+    boolean ConcreteOliveLynette4 {
+    }
+    number DramaticGoldHailee2 {
+    }
+    boolean DullVioletTrista2 {
+    }
+    hidden_boolean LatinLimeKonstance4 {
+    }
+    serviceid_number LogicalLavenderKelila4 {
+    }
+    json DisappointedMagentaLaurie2 {
+    }
+    serviceid_number DryAmberAlex5 {
+    }
+    hidden_boolean DepressedAzureBetty5 {
+    }
+    number SmartPeachMarja3 {
+    }
+  }
+  SevereEmeraldGaby4 = true
+  BusyTealShirley2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SickFuchsiaGeraldine4 = 466
+  SwiftAmethystAnastasie3 = "To be Frank, I'd have to change my name."
+  ChiefCopperDorrie6 = false
+  BrilliantGreenIlsa3 = "Why did the tomato blush? Because it saw the salad dressing."
+  PurpleScarletRivalee4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AcademicEmeraldGabbey4 = 442
+  UnknownFuchsiaGilberta6 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ConcreteOliveLynette4 = false
+  DramaticGoldHailee2 = 38
+  DullVioletTrista2 = false
+  LogicalLavenderKelila4 = 103
+  DisappointedMagentaLaurie2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DryAmberAlex5 = 984
+  SmartPeachMarja3 = 321
+}

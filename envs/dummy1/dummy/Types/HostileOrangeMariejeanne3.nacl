@@ -1,0 +1,64 @@
+type dummy.HostileOrangeMariejeanne3 {
+  annotations {
+    string BlueVioletTorie2 {
+    }
+    hidden_boolean CruelAquamarineBessy2 {
+    }
+    dummy.DEFAULT HardBronzeCordie {
+    }
+    json SmilingBlueCathryn2 {
+    }
+    serviceid_number DailyCyanEveline {
+    }
+    serviceid AbsoluteGreenImogene2 {
+    }
+  }
+  hidden_boolean TrickyYellowYoshi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number IdenticalLimeKorney {
+    _hidden_value = true
+  }
+  serviceid_number WelcomeIvoryJosie3 {
+    _hidden_value = true
+  }
+  serviceid_number IrishCrimsonErminia {
+    _hidden_value = true
+  }
+  string ProperCoralElinore2 {
+    _hidden_value = true
+  }
+  serviceid_number EasternCrimsonEricha {
+    _hidden_value = true
+  }
+  string AgreedTanSelina {
+    _hidden_value = true
+  }
+  string MarriedCyanFanni {
+    _hidden_value = true
+  }
+  string AgreeableBeigeBunnie2 {
+    _hidden_value = true
+  }
+  boolean TheoreticalIndigoJenilee2 {
+    _hidden_value = true
+  }
+  hidden_boolean StrongAquaAryn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number WholeBronzeClo {
+    _hidden_value = true
+  }
+  BlueVioletTorie2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  HardBronzeCordie = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  SmilingBlueCathryn2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DailyCyanEveline = 412
+  AbsoluteGreenImogene2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

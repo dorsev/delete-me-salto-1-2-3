@@ -1,0 +1,94 @@
+type dummy.UglyTurquoiseTina2 {
+  annotations {
+    hidden_boolean DeafIvoryJourdan3 {
+    }
+    serviceid_number IntellectualJadeKalila {
+    }
+    hidden_boolean FierceOliveMaire {
+    }
+    hidden_boolean SeparateCopperDorotea {
+    }
+    serviceid AmazingMoccasinLizbeth {
+    }
+    json ResonantApricotAnny {
+    }
+  }
+  boolean PurpleWhiteViviana2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DrivingRoseOralie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubstantialCoralElsy {
+    _hidden_value = true
+  }
+  hidden_boolean SharpFuchsiaGeralda3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LightTurquoiseTessie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ResponsibleCoffeeDevi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number QuickestWhiteVonny {
+    _hidden_value = true
+  }
+  string AggregateScarletRobbie {
+    _hidden_value = true
+  }
+  string RetailMagentaLeonore3 {
+    _hidden_value = true
+  }
+  "List<number>" SlowAmethystAnaliese4 {
+    _hidden_value = true
+  }
+  serviceid_number ExcessiveOliveMadeleine {
+    _hidden_value = true
+  }
+  number PremierOrangeMarguerite {
+    _hidden_value = true
+  }
+  string AwfulAquamarineBernete {
+    _hidden_value = true
+  }
+  serviceid_number SlimyAquamarineBarbabra3 {
+    _hidden_value = true
+  }
+  string AccusedSilverSallyann2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ComparableMoccasinLoella2 {
+    _hidden_value = true
+  }
+  hidden_boolean AcademicEmeraldFrieda2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ContinentalOliveMagdalene2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CompatibleSapphireRennie3 {
+    _hidden_value = true
+  }
+  serviceid SpontaneousTanShauna2 {
+    _hidden_value = true
+  }
+  boolean HarshOliveMaia {
+    _hidden_value = true
+  }
+  boolean SillyBlueCathlene {
+    _hidden_value = true
+  }
+  IntellectualJadeKalila = 92
+  AmazingMoccasinLizbeth = "To be Frank, I'd have to change my name."
+  ResonantApricotAnny = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

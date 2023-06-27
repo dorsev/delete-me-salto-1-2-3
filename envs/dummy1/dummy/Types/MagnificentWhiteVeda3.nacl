@@ -1,0 +1,60 @@
+type dummy.MagnificentWhiteVeda3 {
+  annotations {
+    dummy.DEFAULT SuperTomatoSusann {
+    }
+    string AgreeableBeigeBunni5 {
+    }
+    json AcademicEmeraldGabbey {
+    }
+    boolean ObedientBlackCassie2 {
+    }
+    string OccupationalOliveMaddy2 {
+    }
+    boolean MysteriousPurpleNelie {
+    }
+    boolean SupposedCyanFaun2 {
+    }
+  }
+  string CrazyMoccasinLorri2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubsequentFuchsiaGilda2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DarkTurquoiseTarrah {
+    _hidden_value = true
+  }
+  serviceid RapidAmethystAmye {
+    _hidden_value = true
+  }
+  number HealthyBlackCarole2 {
+    _hidden_value = true
+  }
+  number UnfairMaroonLilah {
+    _hidden_value = true
+  }
+  boolean FoolishAzureBinny2 {
+    _hidden_value = true
+  }
+  hidden_boolean UglyPlumMickie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CrazyTealSibyl3 {
+    _hidden_value = true
+  }
+  number SymbolicPurpleNadiya {
+    _hidden_value = true
+  }
+  SuperTomatoSusann = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  AgreeableBeigeBunni5 = "Whoever invented the knock-knock joke should get a no bell prize."
+  AcademicEmeraldGabbey = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ObedientBlackCassie2 = true
+  OccupationalOliveMaddy2 = "Dad Im hungry  Hi hungry Im dad"
+  MysteriousPurpleNelie = true
+  SupposedCyanFaun2 = false
+  _hidden_value = true
+}

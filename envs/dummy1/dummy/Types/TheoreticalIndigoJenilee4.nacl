@@ -1,0 +1,69 @@
+type dummy.TheoreticalIndigoJenilee4 {
+  annotations {
+    serviceid_number PricklyAquaAuroora {
+    }
+    boolean ExceptionalOliveMadlen2 {
+    }
+    serviceid_number LivelyPeachMarylynne {
+    }
+    serviceid CrazyMoccasinLorri3 {
+    }
+    boolean StrategicHarlequinJeannie2 {
+    }
+    number AmateurSalmonPhylys {
+    }
+  }
+  serviceid ExuberantBlackCarlee {
+    _hidden_value = true
+  }
+  json ConfidentHarlequinJade3 {
+    _hidden_value = true
+  }
+  number SeriousBrownDanella {
+    _hidden_value = true
+  }
+  hidden_boolean DampMoccasinLorry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InstitutionalMaroonLesli2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReasonableCrimsonEmelia3 {
+    _hidden_value = true
+  }
+  hidden_boolean QualifiedPinkMellicent {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EvidentIvoryJune3 {
+    _hidden_value = true
+  }
+  string EducationalCrimsonEryn3 {
+    _hidden_value = true
+  }
+  number PremierOrangeMargy2 {
+    _hidden_value = true
+  }
+  boolean PrimitiveOrangeMargalo2 {
+    _hidden_value = true
+  }
+  serviceid PriorRosePauline3 {
+    _hidden_value = true
+  }
+  json WildTomatoSuzi2 {
+    _hidden_value = true
+  }
+  string CivilCoffeeDode {
+    _hidden_value = true
+  }
+  PricklyAquaAuroora = 883
+  ExceptionalOliveMadlen2 = false
+  LivelyPeachMarylynne = 469
+  CrazyMoccasinLorri3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  StrategicHarlequinJeannie2 = false
+  AmateurSalmonPhylys = 464
+  _hidden_value = true
+}

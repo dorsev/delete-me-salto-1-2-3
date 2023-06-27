@@ -1,0 +1,55 @@
+type dummy.JealousAzureBobbye4 {
+  annotations {
+    dummy.WildCyanEvy UrbanCyanFanchette5 {
+    }
+    hidden_boolean TestyYellowYoko4 {
+    }
+    hidden_boolean IntensiveMoccasinLura2 {
+    }
+    string ElectricalLavenderKerri2 {
+    }
+    serviceid TallCyanFaydra4 {
+    }
+    json HomelessAzureBlinny2 {
+    }
+    string InjuredScarletRosalinda {
+    }
+    dummy.ConservationPlumMollee PleasedEmeraldGabriela {
+    }
+    number CreepyAquamarineBeryle4 {
+    }
+    string SourAquaArleta2 {
+    }
+    boolean ConcernedBronzeCorrena3 {
+    }
+    string UpsetOliveMabel4 {
+    }
+    boolean FriendlyVioletTrudi2 {
+    }
+    serviceid ProspectiveRedNetty {
+    }
+    serviceid_number CheapCoralEdithe4 {
+    }
+    json AmericanBronzeCorrie3 {
+    }
+    boolean DeadBrownDara2 {
+    }
+    json PoliticalBlushChloris2 {
+    }
+  }
+  ElectricalLavenderKerri2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TallCyanFaydra4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HomelessAzureBlinny2 = "Dad Im hungry  Hi hungry Im dad"
+  InjuredScarletRosalinda = "Why did the kid cross the playground? To get to the other slide."
+  PleasedEmeraldGabriela = file("TypicalEmeraldFrancisca4.txt")
+  CreepyAquamarineBeryle4 = 337
+  SourAquaArleta2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConcernedBronzeCorrena3 = false
+  UpsetOliveMabel4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FriendlyVioletTrudi2 = false
+  ProspectiveRedNetty = "Why was it called the dark ages? Because of all the knights. "
+  CheapCoralEdithe4 = 33
+  AmericanBronzeCorrie3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DeadBrownDara2 = false
+  PoliticalBlushChloris2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

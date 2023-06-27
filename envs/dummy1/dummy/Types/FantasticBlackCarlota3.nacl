@@ -1,0 +1,39 @@
+type dummy.FantasticBlackCarlota3 {
+  annotations {
+    hidden_boolean LostJadeKaralynn3 {
+    }
+    boolean SemanticRedNinon {
+    }
+    boolean FamiliarCrimsonEstrella2 {
+    }
+    boolean StickyAquaArly2 {
+    }
+    dummy.DEFAULT RapidAmethystAna2 {
+    }
+  }
+  number MeaningfulTanShena {
+    _hidden_value = true
+  }
+  number DivineRoseOphelia2 {
+    _hidden_value = true
+  }
+  serviceid TechnicalCopperEden {
+    _hidden_value = true
+  }
+  serviceid DirtyAmberAlessandra {
+    _hidden_value = true
+  }
+  boolean WorkingCrimsonEmlynne4 {
+    _hidden_value = true
+  }
+  serviceid_number OpenTealStefa4 {
+    _hidden_value = true
+  }
+  SemanticRedNinon = true
+  FamiliarCrimsonEstrella2 = false
+  StickyAquaArly2 = false
+  RapidAmethystAna2 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  _hidden_value = true
+}

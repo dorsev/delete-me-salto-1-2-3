@@ -1,0 +1,38 @@
+type dummy.CurvedAmberAlisun {
+  annotations {
+    boolean ChristianCoralElva2 {
+    }
+    json DefensiveRoseOneida2 {
+    }
+    serviceid_number ComplicatedIndigoJoanne {
+    }
+    serviceid_number ArabLimeKirby {
+    }
+    hidden_boolean ShaggyAquaAviva {
+    }
+  }
+  serviceid_number OrganisationalTanShantee {
+    _hidden_value = true
+  }
+  string DamagedAmberAlejandra {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulTealSonnie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean IndianGrayHarmonie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EasternCrimsonErica {
+    _hidden_value = true
+  }
+  ChristianCoralElva2 = true
+  DefensiveRoseOneida2 = "Slept like a log last night  woke up in the fireplace."
+  ComplicatedIndigoJoanne = 663
+  ArabLimeKirby = 606
+  _hidden_value = true
+}

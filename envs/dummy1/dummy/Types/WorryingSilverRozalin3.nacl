@@ -1,0 +1,24 @@
+type dummy.WorryingSilverRozalin3 {
+  annotations {
+    dummy.DEFAULT PreciseIndigoJobye {
+    }
+    hidden_boolean ClearTomatoTammara2 {
+    }
+    string MarvellousMoccasinLorraine {
+    }
+    number FancyTurquoiseTedra4 {
+    }
+    boolean ProtestantScarletRobina2 {
+    }
+  }
+  "List<json>" PassingSalmonPippy2 {
+    _hidden_value = true
+  }
+  PreciseIndigoJobye = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  MarvellousMoccasinLorraine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FancyTurquoiseTedra4 = 25
+  ProtestantScarletRobina2 = true
+  _hidden_value = true
+}

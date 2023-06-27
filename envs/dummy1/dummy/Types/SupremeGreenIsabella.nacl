@@ -1,0 +1,12 @@
+type dummy.SupremeGreenIsabella is number {
+  annotations {
+    serviceid ExcellentCoralEilis {
+    }
+    hidden_boolean LightTurquoiseThalia {
+    }
+    serviceid_number UpsetBeigeBritte {
+    }
+  }
+  ExcellentCoralEilis = "Whoever invented the knock-knock joke should get a no bell prize."
+  UpsetBeigeBritte = 362
+}

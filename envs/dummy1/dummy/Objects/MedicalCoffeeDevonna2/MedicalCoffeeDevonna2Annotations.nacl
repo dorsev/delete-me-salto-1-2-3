@@ -1,0 +1,63 @@
+type dummy.MedicalCoffeeDevonna2 {
+  annotations {
+    dummy.ShallowAmberAloisia2 WideBronzeCorie4 {
+    }
+    boolean FunnyEmeraldGabbey2 {
+    }
+    json BeautifulVioletToni3 {
+    }
+    hidden_boolean HonestIndigoJerrine4 {
+    }
+    boolean PsychiatricSilverRoxy2 {
+    }
+    boolean ContemporaryFuchsiaGeorgiana3 {
+    }
+    boolean QuietCoralEkaterina4 {
+    }
+    string TerribleEmeraldFredrika2 {
+    }
+    serviceid_number FantasticSapphireRegina3 {
+    }
+    serviceid FellowJadeJustinn {
+    }
+    hidden_boolean SoftApricotAppolonia5 {
+    }
+    dummy.BottomMoccasinLouise3 ConvincedJadeKarina2 {
+    }
+    number ScientificCrimsonErda {
+    }
+    serviceid_number InitialCoralElset3 {
+    }
+    number MaximumGreenImogen {
+    }
+    json ShaggyAquaAvivah2 {
+    }
+    boolean MinorEmeraldGabie4 {
+    }
+    string FantasticBlackCarlita3 {
+    }
+    serviceid SophisticatedJadeKarlene5 {
+    }
+    serviceid_number VariableRedNollie2 {
+    }
+    boolean ImprovedMagentaLarissa2 {
+    }
+  }
+  FunnyEmeraldGabbey2 = true
+  BeautifulVioletToni3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PsychiatricSilverRoxy2 = true
+  ContemporaryFuchsiaGeorgiana3 = false
+  QuietCoralEkaterina4 = true
+  TerribleEmeraldFredrika2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  FantasticSapphireRegina3 = 457
+  FellowJadeJustinn = "Why do birds fly south for the winter? Because it's too far to walk."
+  ScientificCrimsonErda = 131
+  InitialCoralElset3 = 580
+  MaximumGreenImogen = 802
+  ShaggyAquaAvivah2 = "Dad Im hungry  Hi hungry Im dad"
+  MinorEmeraldGabie4 = true
+  FantasticBlackCarlita3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  SophisticatedJadeKarlene5 = "What do you call two barracuda fish?  A Pairacuda!"
+  VariableRedNollie2 = 183
+  ImprovedMagentaLarissa2 = false
+}

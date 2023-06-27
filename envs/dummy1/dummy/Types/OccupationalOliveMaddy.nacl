@@ -1,0 +1,17 @@
+type dummy.OccupationalOliveMaddy {
+  annotations {
+    boolean StandardCopperDrusilla {
+    }
+    boolean FancyTurquoiseTeirtza {
+    }
+    dummy.StraightAmethystAlysia RivalPurpleNari {
+    }
+  }
+  number ZanyBlueCelie {
+    _hidden_value = true
+  }
+  StandardCopperDrusilla = true
+  FancyTurquoiseTeirtza = false
+  RivalPurpleNari = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

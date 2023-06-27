@@ -1,0 +1,24 @@
+type dummy.VastYellowZea3 {
+  annotations {
+    serviceid VividTanShawn {
+    }
+    string ComplicatedIndigoJoanie3 {
+    }
+    hidden_boolean IcyAquaAudy2 {
+    }
+    serviceid_number CompetentSalmonPeria {
+    }
+    hidden_boolean HistoricLavenderKellie {
+    }
+    json HardBronzeCordi2 {
+    }
+  }
+  serviceid_number QuietWhiteVivien {
+    _hidden_value = true
+  }
+  VividTanShawn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ComplicatedIndigoJoanie3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CompetentSalmonPeria = 605
+  HardBronzeCordi2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

@@ -1,0 +1,101 @@
+type dummy.SpicyAquaArlette {
+  annotations {
+    serviceid_number GenuineGreenIsis3 {
+    }
+    serviceid_number JapaneseEmeraldFidelity4 {
+    }
+    serviceid_number CleverJadeKarena4 {
+    }
+    dummy.ModernAmethystAmelie PrivateBronzeCordy2 {
+    }
+  }
+  dummy.VerbalPinkMaxie SillyYellowWinifred {
+    EfficientGoldGretta = 515
+    VisualGreenIngeberg = false
+    JudicialJadeKarita = 978
+    SeriousBrownDanell = 314
+    FilthyAmberAlexis = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    EncouragingLimeLacy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WealthyPeachMarybeth = 261
+    BroadCoralElisabeth = "What creature is smarter than a talking parrot? A spelling bee."
+    SuperbMagentaLaurena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AbstractMaroonLilyan = "Whoever invented the knock-knock joke should get a no bell prize."
+    FriendlyGoldGuinna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  dummy.WonderfulEmeraldFlossie IntenseLavenderKattie5 {
+    ConfusedMaroonLiesa = "Why do birds fly south for the winter? Because it's too far to walk."
+    PreciousOrangeMariellen = "What did one nut say as he chased another nut?  I'm a cashew!"
+    InteriorPurpleNatividad = "Im only familiar with 25 letters in the English language. I dont know why."
+    SeparateCopperDorolice = true
+    VulnerableJadeKarna = 128
+    MadHarlequinJanessa = true
+    WorriedBeigeBrynne = "Whoever invented the knock-knock joke should get a no bell prize."
+    DirectChocolateDdene = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DefensiveRoseOneida = true
+    BoredPlumMonika = false
+    ActualCopperEda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    LatinLimeKonstance = 135
+    PerfectBlackCatha = "How come the stadium got hot after the game? Because all of the fans left."
+    WrongTomatoSybilla = 181
+    AlrightGoldGoldy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  string ToxicSalmonPhelia4 {
+    _hidden_value = true
+  }
+  hidden_boolean IndependentChocolateDell2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SoleLimeKirstin3 {
+    _hidden_value = true
+  }
+  hidden_boolean FinancialBronzeCorette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UnusualTurquoiseToby6 {
+    _hidden_value = true
+  }
+  boolean RepresentativePinkMerola3 {
+    _hidden_value = true
+  }
+  string HotAquaAudry3 {
+    _hidden_value = true
+  }
+  hidden_boolean SillyYellowWinifred2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json BusyCyanFayth6 {
+    _hidden_value = true
+  }
+  boolean SorryBrownDaphene {
+    _hidden_value = true
+  }
+  serviceid_number IndividualBrownCthrine4 {
+    _hidden_value = true
+  }
+  hidden_boolean CombativeAquamarineBerte2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string LiableLimeKimberlyn2 {
+    _hidden_value = true
+  }
+  serviceid_number FantasticBlackCarlota2 {
+    _hidden_value = true
+  }
+  GenuineGreenIsis3 = 977
+  JapaneseEmeraldFidelity4 = 24
+  CleverJadeKarena4 = 957
+  PrivateBronzeCordy2 = true
+  _hidden_value = true
+}

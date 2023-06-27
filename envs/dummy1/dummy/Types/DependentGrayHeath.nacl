@@ -1,0 +1,54 @@
+type dummy.DependentGrayHeath {
+  annotations {
+    string ImaginativeTanSelinda4 {
+    }
+    serviceid_number ContemporaryFuchsiaGeorgianne2 {
+    }
+    serviceid_number BriefAmethystAmalita {
+    }
+    serviceid_number ConservativeCoralEllene2 {
+    }
+    string FamiliarCrimsonEstrellita2 {
+    }
+  }
+  dummy.DEFAULT WickedScarletRoseanne2 {
+    _hidden_value = true
+  }
+  serviceid SportingSilverRuthi2 {
+    _hidden_value = true
+  }
+  hidden_boolean TurkishPurpleMoyra2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean HorizontalSalmonPrudence4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CrazyVioletTresa4 {
+    _hidden_value = true
+  }
+  json ElectronicGreenIngaberg2 {
+    _hidden_value = true
+  }
+  serviceid IllegalJadeKaroly2 {
+    _hidden_value = true
+  }
+  boolean DigitalMaroonLianne4 {
+    _hidden_value = true
+  }
+  serviceid BoilingAmaranthAgneta3 {
+    _hidden_value = true
+  }
+  serviceid_number NetGoldGlenda {
+    _hidden_value = true
+  }
+  ImaginativeTanSelinda4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ContemporaryFuchsiaGeorgianne2 = 977
+  BriefAmethystAmalita = 678
+  ConservativeCoralEllene2 = 481
+  FamiliarCrimsonEstrellita2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

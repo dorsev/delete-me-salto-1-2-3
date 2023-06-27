@@ -1,0 +1,37 @@
+type dummy.ChosenSilverSari2 {
+  annotations {
+    hidden_boolean ElegantTurquoiseTeddy2 {
+    }
+    serviceid EverydayLimeKym3 {
+    }
+    hidden_boolean OutsideGrayHelenka4 {
+    }
+    hidden_boolean ExcitedBlackCarita3 {
+    }
+    serviceid_number EnviousAzureBiddie4 {
+    }
+  }
+  serviceid_number LowBlushChristy {
+    _hidden_value = true
+  }
+  boolean EverydayLimeKynthia3 {
+    _hidden_value = true
+  }
+  string FormalCoralElka {
+    _hidden_value = true
+  }
+  string TheoreticalIndigoJeniffer2 {
+    _hidden_value = true
+  }
+  hidden_boolean ParallelMoccasinLuelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number NursingSalmonPetronille2 {
+    _hidden_value = true
+  }
+  EverydayLimeKym3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EnviousAzureBiddie4 = 16
+  _hidden_value = true
+}

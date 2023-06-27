@@ -1,0 +1,59 @@
+type dummy.CatholicHarlequinJammie {
+  annotations {
+    serviceid RollingSilverRubina {
+    }
+    dummy.AttractiveCyanFiann FellowIvoryJustina3 {
+    }
+    serviceid_number MolecularRedNertie2 {
+    }
+    dummy.MaximumGreenIlyssa CreepyAmberAjay2 {
+    }
+    string FamousTealSiusan2 {
+    }
+  }
+  serviceid_number AmbitiousPeachMaureen2 {
+    _hidden_value = true
+  }
+  boolean ExtensiveGoldGloria {
+    _hidden_value = true
+  }
+  string BlankPinkMelonie2 {
+    _hidden_value = true
+  }
+  "List<string>" InterimOrangeMalva {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" LiveIndigoJodie3 {
+    _hidden_value = true
+  }
+  string TeenageScarletRobinette {
+    _hidden_value = true
+  }
+  json InappropriateRoseOthella {
+    _hidden_value = true
+  }
+  boolean HappyBlackCarolan {
+    _hidden_value = true
+  }
+  number AverageAmaranthAaren2 {
+    _hidden_value = true
+  }
+  serviceid BareLavenderKellia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT QuickCoralEleonora2 {
+    _hidden_value = true
+  }
+  boolean DeterminedBeigeCandida4 {
+    _hidden_value = true
+  }
+  boolean SteepAmberAlyce3 {
+    _hidden_value = true
+  }
+  RollingSilverRubina = "Why did the tomato blush? Because it saw the salad dressing."
+  FellowIvoryJustina3 = false
+  MolecularRedNertie2 = 362
+  CreepyAmberAjay2 = true
+  FamousTealSiusan2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

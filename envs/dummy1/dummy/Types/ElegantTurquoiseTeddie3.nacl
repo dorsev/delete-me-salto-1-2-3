@@ -1,0 +1,44 @@
+type dummy.ElegantTurquoiseTeddie3 {
+  annotations {
+    hidden_boolean WeeklyLavenderKessiah2 {
+    }
+    number SecureMoccasinLouisa2 {
+    }
+    string VaguePinkMel {
+    }
+    string MelodicApricotAnnaliese3 {
+    }
+    json FlatGrayHanny {
+    }
+    hidden_boolean UnknownFuchsiaGigi4 {
+    }
+  }
+  "List<serviceid>" SuccessfulChocolateDaryl2 {
+    _hidden_value = true
+  }
+  serviceid DivineRoseOpaline3 {
+    _hidden_value = true
+  }
+  number LiableLimeKimmie3 {
+    _hidden_value = true
+  }
+  serviceid_number FitHarlequinJackqueline {
+    _hidden_value = true
+  }
+  "List<boolean>" FarBlushChristin2 {
+    _hidden_value = true
+  }
+  hidden_boolean CombativeAquamarineBertha2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SurprisingGreenIbbie3 {
+    _hidden_value = true
+  }
+  SecureMoccasinLouisa2 = 815
+  VaguePinkMel = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MelodicApricotAnnaliese3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FlatGrayHanny = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

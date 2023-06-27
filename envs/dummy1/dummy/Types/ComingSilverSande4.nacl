@@ -1,0 +1,131 @@
+type dummy.ComingSilverSande4 {
+  annotations {
+    json SleepyTomatoSuki {
+    }
+    number MuteApricotAnneliese2 {
+    }
+    hidden_boolean ContinuedLimeLanae3 {
+    }
+    serviceid OrangeWhiteViola2 {
+    }
+    serviceid_number AssociatedMaroonLindy {
+    }
+    hidden_boolean PersistentRosePamelina3 {
+    }
+  }
+  dummy.FlatGrayHannis GiantAmaranthAdah2 {
+    AverageTomatoTabbatha = false
+    BraveMoccasinLucine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    StrongAquaAryn = "A steak pun is a rare medium well done."
+    InvisibleRoseOrelia = "Why is Peter Pan always flying? Because he Neverlands."
+    HushedApricotAnnamaria = 600
+    SimilarBronzeConstancy = "Slept like a log last night  woke up in the fireplace."
+    NastyMaroonLisette = "Im only familiar with 25 letters in the English language. I dont know why."
+    UninterestedTomatoSusy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RedBrownDaloris = "Why did the kid cross the playground? To get to the other slide."
+    KnownMaroonLettie = 591
+    NewWhiteVeronika = 68
+    InsufficientPurpleNeely = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ThoroughScarletRonda = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DelightfulSilverRow = 212
+    TerritorialSalmonPriscilla = true
+    _hidden_value = true
+  }
+  dummy.HotAquaAudrey LargeBlueCharlot {
+    ObedientBlackCassondra = "Im only familiar with 25 letters in the English language. I dont know why."
+    MaleCoffeeDiannne2 = 885
+    FeministPlumMina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HeavyAmethystAndy = 259
+    _hidden_value = true
+  }
+  json BrilliantGreenIlse3 {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarrilee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PunyAmaranthAeriela2 {
+    _hidden_value = true
+  }
+  json UnableCoralElora2 {
+    _hidden_value = true
+  }
+  serviceid MobilePurpleMorissa2 {
+    _hidden_value = true
+  }
+  number SquareAmberAlvina2 {
+    _hidden_value = true
+  }
+  hidden_boolean OutrageousAzureBrandy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<string>" IdealEmeraldFredi4 {
+    _hidden_value = true
+  }
+  number DifficultTealSimona2 {
+    _hidden_value = true
+  }
+  serviceid_number TenderAquamarineBecka {
+    _hidden_value = true
+  }
+  number AwakeRedNolana {
+    _hidden_value = true
+  }
+  string ObligedOrangeMarchelle {
+    _hidden_value = true
+  }
+  boolean DueCopperDosi2 {
+    _hidden_value = true
+  }
+  number BrokenAmaranthAila5 {
+    _hidden_value = true
+  }
+  serviceid_number DeepChocolateDelora2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AnnoyedAquamarineBenni5 {
+    _hidden_value = true
+  }
+  serviceid_number CleanTomatoTamiko2 {
+    _hidden_value = true
+  }
+  number AliveTealSherline3 {
+    _hidden_value = true
+  }
+  boolean SeniorCoffeeDonetta2 {
+    _hidden_value = true
+  }
+  json PreliminaryOliveLyndsie3 {
+    _hidden_value = true
+  }
+  json SharedPinkMelicent3 {
+    _hidden_value = true
+  }
+  serviceid ScornfulBeigeBrianna3 {
+    _hidden_value = true
+  }
+  hidden_boolean IllEmeraldGae {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean GrossLavenderKetti2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DevelopingHarlequinJeanine7 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SleepyTomatoSuki = "What do you call two barracuda fish?  A Pairacuda!"
+  MuteApricotAnneliese2 = 995
+  OrangeWhiteViola2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AssociatedMaroonLindy = 549
+  _hidden_value = true
+}

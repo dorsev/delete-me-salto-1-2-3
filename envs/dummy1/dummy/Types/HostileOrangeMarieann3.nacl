@@ -1,0 +1,99 @@
+type dummy.HostileOrangeMarieann3 {
+  annotations {
+    serviceid LovelyCoralEllissa2 {
+    }
+    string HappyVioletValencia2 {
+    }
+    boolean AlertTomatoSylvia2 {
+    }
+    serviceid SlightGoldGwennie2 {
+    }
+  }
+  "List<dummy.FriendlyBlackCarlynne>" SharpAquaBabbie {
+    OpenTealStefa2 = "Why didnt the skeleton cross the road? Because he had no guts."
+    TechnicalCopperEdeline = "Why did the tomato blush? Because it saw the salad dressing."
+    ForwardSapphireRici = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    NursingSalmonPhaedra = 537
+    LiableLimeKimberlyn = 406
+    ClearTomatoTammara = "What creature is smarter than a talking parrot? A spelling bee."
+    SympatheticPinkMead = "What creature is smarter than a talking parrot? A spelling bee."
+    StupidTomatoSunshine = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  dummy.PowerfulCopperDruci WonderfulEmeraldFlossie2 {
+    WorryingSilverRozalin = "Why did the kid cross the playground? To get to the other slide."
+    RelevantCoffeeDoralia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SecretGrayHetty = 781
+    VulnerableJadeKarole = false
+    ElectoralLimeKristina = "Slept like a log last night  woke up in the fireplace."
+    ChristianCoralElva = false
+    SmallBlueCharla = 470
+    WorryingSilverRozamond = false
+    VerticalOliveLynsey = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RespectiveSalmonPersis = 763
+    GladGoldGlyn = 681
+    _hidden_value = true
+  }
+  number HonChocolateDaune2 {
+    _hidden_value = true
+  }
+  string JuicyApricotAriadne {
+    _hidden_value = true
+  }
+  string UglyYellowZahara5 {
+    _hidden_value = true
+  }
+  serviceid_number SufficientCrimsonEolanda2 {
+    _hidden_value = true
+  }
+  serviceid GreekIndigoJoane4 {
+    _hidden_value = true
+  }
+  number InterestingChocolateDelphinia4 {
+    _hidden_value = true
+  }
+  json ClosedMagentaLeilah3 {
+    _hidden_value = true
+  }
+  hidden_boolean OrthodoxSapphireRebe {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ShortYellowWilmette2 {
+    _hidden_value = true
+  }
+  string ExpectedLimeLani2 {
+    _hidden_value = true
+  }
+  hidden_boolean OpenBronzeCleo2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FamiliarCrimsonEthel2 {
+    _hidden_value = true
+  }
+  number RoyalBrownCristina {
+    _hidden_value = true
+  }
+  string SelfishBeigeBridgette4 {
+    _hidden_value = true
+  }
+  number UnableCoralElonore {
+    _hidden_value = true
+  }
+  "List<boolean>" GastricMagentaLavina2 {
+    _hidden_value = true
+  }
+  number LiquidRosePage {
+    _hidden_value = true
+  }
+  LovelyCoralEllissa2 = "Why was it called the dark ages? Because of all the knights. "
+  HappyVioletValencia2 = "Why did the kid cross the playground? To get to the other slide."
+  AlertTomatoSylvia2 = true
+  SlightGoldGwennie2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

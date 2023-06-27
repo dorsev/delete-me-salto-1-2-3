@@ -1,0 +1,52 @@
+type dummy.ExternalEmeraldFlori {
+  annotations {
+    dummy.DEFAULT DefiantAzureBetteann {
+    }
+    number RepulsiveBeigeBrenn2 {
+    }
+    number StandardCopperDrusilla2 {
+    }
+  }
+  serviceid_number DistinctHarlequinJanela2 {
+    _hidden_value = true
+  }
+  serviceid ImpressiveIndigoJess {
+    _hidden_value = true
+  }
+  string BoringPeachMarni6 {
+    _hidden_value = true
+  }
+  serviceid LocalBlueCharmane {
+    _hidden_value = true
+  }
+  serviceid FrequentLavenderKati4 {
+    _hidden_value = true
+  }
+  json SpicyAquaArlie3 {
+    _hidden_value = true
+  }
+  number CasualOliveLurlene2 {
+    _hidden_value = true
+  }
+  serviceid DeliciousScarletRodie5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealBlushClarie {
+    _hidden_value = true
+  }
+  string FaithfulBlackCarlina2 {
+    _hidden_value = true
+  }
+  boolean RealTomatoStephine {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" TallAmaranthAggie6 {
+    _hidden_value = true
+  }
+  DefiantAzureBetteann = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  RepulsiveBeigeBrenn2 = 74
+  StandardCopperDrusilla2 = 238
+  _hidden_value = true
+}

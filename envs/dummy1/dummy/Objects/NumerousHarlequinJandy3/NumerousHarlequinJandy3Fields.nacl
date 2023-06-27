@@ -1,0 +1,48 @@
+type dummy.NumerousHarlequinJandy3 {
+  json AcademicEmeraldFulvia5 {
+  }
+  serviceid_number GloriousBlackCarmine {
+  }
+  boolean FollowingBrownCyndy5 {
+  }
+  dummy.CleanTomatoTamiko FunnyEmeraldGabbi3 {
+    ProperCoralElisa = "What did one nut say as he chased another nut?  I'm a cashew!"
+    LongVioletVanessa = 80
+    RespectiveSalmonPerry2 = 222
+    ProfoundPinkMerla2 = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    AdorableTomatoSybyl = 622
+  }
+  hidden_boolean UnacceptableSalmonPenelope {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ModernAmethystAmeline {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  json UnconsciousSapphireRaychel5 {
+  }
+  string HungryMaroonLinzy2 {
+  }
+  serviceid SmoothIndigoJen {
+  }
+  hidden_boolean WorriedGrayHarriet2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AdditionalCopperDotti {
+  }
+  boolean AmbitiousPeachMaureen6 {
+  }
+  serviceid SpottyYellowWynn3 {
+  }
+  serviceid_number NuclearCoffeeDonnamarie2 {
+  }
+  boolean TerritorialSalmonPrisca3 {
+  }
+}

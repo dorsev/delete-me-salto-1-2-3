@@ -1,0 +1,55 @@
+type dummy.LiveIndigoJodi2 {
+  annotations {
+    dummy.CompactPurpleNanny UpperCyanFaunie2 {
+    }
+    number ScaryYellowWilli {
+    }
+    string UpsetOliveMabel2 {
+    }
+    serviceid_number PoorTealSteffie {
+    }
+  }
+  serviceid TenderAquamarineBecca2 {
+    _hidden_value = true
+  }
+  json RespectableRosePavla {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDion {
+    _hidden_value = true
+  }
+  boolean FortunateRoseOlivie {
+    _hidden_value = true
+  }
+  json ShrillApricotAntoinette {
+    _hidden_value = true
+  }
+  "List<boolean>" BusyTealShirlee {
+    _hidden_value = true
+  }
+  serviceid ComplicatedIndigoJoanie4 {
+    _hidden_value = true
+  }
+  string ImpressedPeachMariska3 {
+    _hidden_value = true
+  }
+  hidden_boolean EventualTanSharron2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ForeignBronzeCorinna2 {
+    _hidden_value = true
+  }
+  string ExpectedLimeLaney2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TartYellowXaviera {
+    _hidden_value = true
+  }
+  UpperCyanFaunie2 = 322
+  ScaryYellowWilli = 678
+  UpsetOliveMabel2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  PoorTealSteffie = 199
+  _hidden_value = true
+}

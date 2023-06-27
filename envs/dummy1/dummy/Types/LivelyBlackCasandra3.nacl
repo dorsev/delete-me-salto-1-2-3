@@ -1,0 +1,97 @@
+type dummy.LivelyBlackCasandra3 {
+  annotations {
+    boolean LittleBlushChloe {
+    }
+    json SelfishBeigeBrier {
+    }
+    json HappyVioletValencia {
+    }
+    number TallAmaranthAggie4 {
+    }
+    hidden_boolean ProposedGoldGwendolin {
+    }
+    dummy.DEFAULT HungryMaroonLisa {
+    }
+  }
+  dummy.PowerfulCopperDruci CorporateEmeraldGale {
+    WorryingSilverRozalin = "What creature is smarter than a talking parrot? A spelling bee."
+    RelevantCoffeeDoralia = "I'll tell you what often gets over looked... garden fences."
+    SecretGrayHetty = 266
+    VulnerableJadeKarole = false
+    ElectoralLimeKristina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ChristianCoralElva = false
+    SmallBlueCharla = 648
+    WorryingSilverRozamond = false
+    VerticalOliveLynsey = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RespectiveSalmonPersis = 493
+    GladGoldGlyn = 22
+    _hidden_value = true
+  }
+  dummy.CorrespondingPlumMiquela SpicyAquaArlie {
+    DelightedIvoryJulianna = 4
+    FrightenedMagentaLaverne = true
+    VariousBrownCorry = true
+    MolecularRedNertie = false
+    ExtensiveGoldGloriane = 163
+    _hidden_value = true
+  }
+  boolean DesperateIvoryJunia {
+    _hidden_value = true
+  }
+  serviceid_number KeenGrayHanna {
+    _hidden_value = true
+  }
+  json SpanishGreenIrena {
+    _hidden_value = true
+  }
+  boolean FriendlyBlackCarmel {
+    _hidden_value = true
+  }
+  boolean DullTurquoiseTawsha {
+    _hidden_value = true
+  }
+  string PlainIndigoJewelle {
+    _hidden_value = true
+  }
+  serviceid PerfectCrimsonEttie {
+    _hidden_value = true
+  }
+  json GreyEmeraldFranni {
+    _hidden_value = true
+  }
+  serviceid LikePeachMarline {
+    _hidden_value = true
+  }
+  "List<serviceid>" ExperimentalLavenderKatine {
+    _hidden_value = true
+  }
+  serviceid_number UsedFuchsiaGeorgeanna2 {
+    _hidden_value = true
+  }
+  string UnpleasantRedNonna2 {
+    _hidden_value = true
+  }
+  string ReadyChocolateDebi3 {
+    _hidden_value = true
+  }
+  string PersonalBronzeCoralyn {
+    _hidden_value = true
+  }
+  string NetGoldGleda2 {
+    _hidden_value = true
+  }
+  json QuickCoralEleni {
+    _hidden_value = true
+  }
+  boolean AliveTealSherilyn2 {
+    _hidden_value = true
+  }
+  LittleBlushChloe = false
+  SelfishBeigeBrier = "I'll tell you what often gets over looked... garden fences."
+  HappyVioletValencia = "Why did the kid cross the playground? To get to the other slide."
+  TallAmaranthAggie4 = 188
+  HungryMaroonLisa = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  _hidden_value = true
+}

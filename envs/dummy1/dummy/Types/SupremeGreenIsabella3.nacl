@@ -1,0 +1,71 @@
+type dummy.SupremeGreenIsabella3 {
+  annotations {
+    serviceid_number RichTomatoStormi {
+    }
+    number LivelyBlackCasandra4 {
+    }
+    string ResonantApricotAnselma {
+    }
+    serviceid RudeTanShaylynn {
+    }
+    hidden_boolean TallYellowXylina2 {
+    }
+  }
+  boolean HorizontalSalmonPrudence2 {
+    _hidden_value = true
+  }
+  number NursingSalmonPetronille {
+    _hidden_value = true
+  }
+  json ExtremeHarlequinJackelyn {
+    _hidden_value = true
+  }
+  serviceid_number PresidentialLimeKrystyna2 {
+    _hidden_value = true
+  }
+  json PowerfulTomatoStephanie {
+    _hidden_value = true
+  }
+  serviceid ExuberantBlackCarla2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SystematicOrangeMarcelia {
+    _hidden_value = true
+  }
+  serviceid_number LengthySapphireRania2 {
+    _hidden_value = true
+  }
+  string ExoticScarletRikki {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" InstitutionalMaroonLesley {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NumerousHarlequinJandy {
+    _hidden_value = true
+  }
+  string VastYellowZarla4 {
+    _hidden_value = true
+  }
+  string UnderlyingLimeKorie {
+    _hidden_value = true
+  }
+  hidden_boolean FamiliarCrimsonEstrellita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number CrazyVioletTracy2 {
+    _hidden_value = true
+  }
+  number HelpfulHarlequinJanette2 {
+    _hidden_value = true
+  }
+  RichTomatoStormi = 588
+  LivelyBlackCasandra4 = 369
+  ResonantApricotAnselma = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RudeTanShaylynn = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

@@ -1,0 +1,22 @@
+type dummy.LateBlushChristal {
+  annotations {
+    boolean ConfusedMaroonLilah {
+    }
+    hidden_boolean CoolGreenIngunna {
+    }
+    string AtomicScarletRory {
+    }
+    serviceid SilentApricotAntonia {
+    }
+    number MusicalIndigoJobi {
+    }
+  }
+  string CriticalCrimsonEstel {
+    _hidden_value = true
+  }
+  ConfusedMaroonLilah = false
+  AtomicScarletRory = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SilentApricotAntonia = "A steak pun is a rare medium well done."
+  MusicalIndigoJobi = 845
+  _hidden_value = true
+}

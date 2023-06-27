@@ -1,0 +1,24 @@
+type dummy.PhilosophicalRedNoell is string {
+  annotations {
+    json ExcitedBlackCarita {
+    }
+    string SignificantBrownDanni {
+    }
+    dummy.DEFAULT HilariousBlackCarolyn {
+    }
+    string WonderfulBlueCeleste {
+    }
+    number OutrageousAzureBreanne {
+    }
+    json SoftCoralElayne {
+    }
+  }
+  ExcitedBlackCarita = "Dad Im hungry  Hi hungry Im dad"
+  SignificantBrownDanni = "Whoever invented the knock-knock joke should get a no bell prize."
+  HilariousBlackCarolyn = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  WonderfulBlueCeleste = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OutrageousAzureBreanne = 971
+  SoftCoralElayne = "Why didnt the skeleton cross the road? Because he had no guts."
+}

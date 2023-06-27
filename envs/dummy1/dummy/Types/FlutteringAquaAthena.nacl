@@ -1,0 +1,33 @@
+type dummy.FlutteringAquaAthena is boolean {
+  annotations {
+    serviceid ManyAmethystAnette {
+    }
+    json StrongBronzeCollie {
+    }
+    dummy.DEFAULT LooseAquaAugustina {
+    }
+    boolean ContentPeachMatilde {
+    }
+    number MonetaryIvoryJohannah {
+    }
+    serviceid_number DiplomaticMagentaLenka {
+    }
+    json OkayOliveMaggy {
+    }
+    boolean ToxicSalmonPhaidra {
+    }
+    number StillIndigoJo {
+    }
+  }
+  ManyAmethystAnette = "A steak pun is a rare medium well done."
+  StrongBronzeCollie = "Why did the kid cross the playground? To get to the other slide."
+  LooseAquaAugustina = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  ContentPeachMatilde = false
+  MonetaryIvoryJohannah = 582
+  DiplomaticMagentaLenka = 378
+  OkayOliveMaggy = "Im only familiar with 25 letters in the English language. I dont know why."
+  ToxicSalmonPhaidra = true
+  StillIndigoJo = 48
+}

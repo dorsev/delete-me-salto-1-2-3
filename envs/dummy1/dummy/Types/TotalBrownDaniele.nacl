@@ -1,0 +1,29 @@
+type dummy.TotalBrownDaniele {
+  annotations {
+    serviceid EnthusiasticBlackCarine2 {
+    }
+    serviceid_number UnknownFuchsiaGilberta4 {
+    }
+    serviceid HappyBrownDaisy {
+    }
+    json ApplicablePlumMirelle {
+    }
+    serviceid_number PastCoffeeDianna {
+    }
+    number PeculiarPlumMichelina {
+    }
+    dummy.OddFuchsiaGenna FlatGrayHannis3 {
+    }
+  }
+  json WorriedGrayHarri2 {
+    _hidden_value = true
+  }
+  EnthusiasticBlackCarine2 = "Slept like a log last night  woke up in the fireplace."
+  UnknownFuchsiaGilberta4 = 6
+  HappyBrownDaisy = "Why is Peter Pan always flying? Because he Neverlands."
+  ApplicablePlumMirelle = "What do you call two barracuda fish?  A Pairacuda!"
+  PastCoffeeDianna = 2
+  PeculiarPlumMichelina = 886
+  FlatGrayHannis3 = 996
+  _hidden_value = true
+}

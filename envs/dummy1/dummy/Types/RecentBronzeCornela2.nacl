@@ -1,0 +1,79 @@
+type dummy.RecentBronzeCornela2 {
+  annotations {
+    boolean GrotesqueTurquoiseTerrye3 {
+    }
+    serviceid UniformScarletRosaline {
+    }
+    boolean StrategicHarlequinJeannette {
+    }
+    boolean PhysicalCoffeeDenise {
+    }
+  }
+  boolean BreakableTealShir2 {
+    _hidden_value = true
+  }
+  hidden_boolean UniformScarletRosalyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string CognitiveSalmonQuerida {
+    _hidden_value = true
+  }
+  serviceid BeautifulTomatoTabbitha2 {
+    _hidden_value = true
+  }
+  serviceid AccurateIndigoJilleen {
+    _hidden_value = true
+  }
+  string CoolGreenInna2 {
+    _hidden_value = true
+  }
+  serviceid_number GuiltyFuchsiaGinevra {
+    _hidden_value = true
+  }
+  serviceid_number FrightenedMagentaLaverne2 {
+    _hidden_value = true
+  }
+  boolean AbstractMaroonLina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AfraidCrimsonEmmye {
+    _hidden_value = true
+  }
+  serviceid_number SuperiorMaroonLiane {
+    _hidden_value = true
+  }
+  boolean SweetGreenHolli2 {
+    _hidden_value = true
+  }
+  serviceid UniversalJadeKacy3 {
+    _hidden_value = true
+  }
+  boolean ClinicalIndigoJenny3 {
+    _hidden_value = true
+  }
+  serviceid WetGrayHedvig3 {
+    _hidden_value = true
+  }
+  serviceid_number WeakFuchsiaGayla2 {
+    _hidden_value = true
+  }
+  string CapableEmeraldFloris {
+    _hidden_value = true
+  }
+  serviceid_number SharpFuchsiaGeorgie2 {
+    _hidden_value = true
+  }
+  boolean BoredPlumMora {
+    _hidden_value = true
+  }
+  boolean FunOrangeMareah {
+    _hidden_value = true
+  }
+  GrotesqueTurquoiseTerrye3 = true
+  UniformScarletRosaline = "What do you call two barracuda fish?  A Pairacuda!"
+  StrategicHarlequinJeannette = true
+  PhysicalCoffeeDenise = false
+  _hidden_value = true
+}

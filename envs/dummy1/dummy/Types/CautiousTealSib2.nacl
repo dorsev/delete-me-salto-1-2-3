@@ -1,0 +1,84 @@
+type dummy.CautiousTealSib2 {
+  annotations {
+    json VariedRedNorene {
+    }
+    hidden_boolean SecretGrayHetty4 {
+    }
+    number JealousAzureBobby4 {
+    }
+    number CoherentScarletRoseline {
+    }
+    serviceid FriendlyGoldGuinna2 {
+    }
+    hidden_boolean CollectiveLavenderKathy4 {
+    }
+    string RudeTanShaylyn5 {
+    }
+    string HeavyChocolateDavine {
+    }
+    number ObedientBlackCassi3 {
+    }
+  }
+  number VividTanShawna3 {
+    _hidden_value = true
+  }
+  string RoughAquaAustine3 {
+    _hidden_value = true
+  }
+  string SteadyAquamarineBatsheva4 {
+    _hidden_value = true
+  }
+  number UnacceptableSalmonPenni4 {
+    _hidden_value = true
+  }
+  serviceid QuickWhiteVivyanne {
+    _hidden_value = true
+  }
+  number CoastalPlumMichal3 {
+    _hidden_value = true
+  }
+  json ManagerialRedNerta3 {
+    _hidden_value = true
+  }
+  hidden_boolean InsufficientPurpleNeely2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MilitaryChocolateDarlleen3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CrazyTealSibley2 {
+    _hidden_value = true
+  }
+  number ExcitedOrangeMarinna2 {
+    _hidden_value = true
+  }
+  json MultipleLimeKip4 {
+    _hidden_value = true
+  }
+  json SystematicOrangeMarcela5 {
+    _hidden_value = true
+  }
+  string StraightAmethystAlyse {
+    _hidden_value = true
+  }
+  boolean AgreeableBeigeBunni7 {
+    _hidden_value = true
+  }
+  hidden_boolean DynamicPeachMarna2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  VariedRedNorene = "What creature is smarter than a talking parrot? A spelling bee."
+  JealousAzureBobby4 = 502
+  CoherentScarletRoseline = 494
+  FriendlyGoldGuinna2 = "What do you call two barracuda fish?  A Pairacuda!"
+  RudeTanShaylyn5 = "To be Frank, I'd have to change my name."
+  HeavyChocolateDavine = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ObedientBlackCassi3 = 993
+  _hidden_value = true
+}

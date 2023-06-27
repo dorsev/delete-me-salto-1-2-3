@@ -1,0 +1,56 @@
+type dummy.UnpleasantRedNorah {
+  annotations {
+    json WonderfulYellowZoe2 {
+    }
+    json ProtestantScarletRobin2 {
+    }
+    number MedievalJadeKaree2 {
+    }
+    serviceid_number InformalLavenderKathie {
+    }
+    serviceid IncredibleRosePatty2 {
+    }
+    string NumerousAmethystAngelia3 {
+    }
+  }
+  boolean UnitedCopperEddi2 {
+    _hidden_value = true
+  }
+  json PanickyAzureBren4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PassingSalmonPollyanna {
+    _hidden_value = true
+  }
+  string IraqiOliveMadelyn3 {
+    _hidden_value = true
+  }
+  hidden_boolean AnonymousSapphireRayna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string PreliminaryOliveLyndsie2 {
+    _hidden_value = true
+  }
+  hidden_boolean RidiculousMoccasinLiz4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean OpenTealStarlin2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CooingAmethystAngelle {
+    _hidden_value = true
+  }
+  WonderfulYellowZoe2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ProtestantScarletRobin2 = "How come the stadium got hot after the game? Because all of the fans left."
+  MedievalJadeKaree2 = 600
+  InformalLavenderKathie = 560
+  IncredibleRosePatty2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NumerousAmethystAngelia3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

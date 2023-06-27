@@ -1,0 +1,61 @@
+type dummy.DryCyanEva2 {
+  annotations {
+    dummy.AdjacentSilverRoxi FavouriteHarlequinJacquelin3 {
+    }
+    hidden_boolean ImperialLavenderKatey {
+    }
+    number WastefulYellowZita {
+    }
+    string MoralCyanFelisha {
+    }
+    boolean ContemporaryFuchsiaGeorgie3 {
+    }
+  }
+  serviceid_number ProductivePlumMommy3 {
+    _hidden_value = true
+  }
+  serviceid_number ColdAmaranthAimee2 {
+    _hidden_value = true
+  }
+  serviceid EvilAzureBidget3 {
+    _hidden_value = true
+  }
+  serviceid CoolGreenIolanthe {
+    _hidden_value = true
+  }
+  string InnocentMagentaLarine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ComparativePlumModestia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ProminentLavenderKelci2 {
+    _hidden_value = true
+  }
+  serviceid_number HighAmberAllissa2 {
+    _hidden_value = true
+  }
+  string DullVioletTrisha {
+    _hidden_value = true
+  }
+  serviceid_number ProtestantScarletRobin3 {
+    _hidden_value = true
+  }
+  dummy.GoodBlackCaro GloriousScarletRosanne {
+    _hidden_value = true
+  }
+  number WhisperingApricotArdella2 {
+    _hidden_value = true
+  }
+  number AdorableTomatoSydel3 {
+    _hidden_value = true
+  }
+  serviceid HolyIndigoJemie2 {
+    _hidden_value = true
+  }
+  FavouriteHarlequinJacquelin3 = "Why did the tomato blush? Because it saw the salad dressing."
+  WastefulYellowZita = 898
+  MoralCyanFelisha = "Why did the tomato blush? Because it saw the salad dressing."
+  ContemporaryFuchsiaGeorgie3 = false
+  _hidden_value = true
+}

@@ -1,0 +1,22 @@
+type dummy.ScatteredAquaAveryl {
+  annotations {
+    dummy.CompactPurpleNanny HeavyChocolateDawn3 {
+    }
+    hidden_boolean PoliticalBlushChris {
+    }
+    serviceid ExactLimeKordula3 {
+    }
+    serviceid_number BlackVioletTonya2 {
+    }
+    string RandomMoccasinLoren2 {
+    }
+  }
+  serviceid ProminentLavenderKelci3 {
+    _hidden_value = true
+  }
+  HeavyChocolateDawn3 = 589
+  ExactLimeKordula3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  BlackVioletTonya2 = 736
+  RandomMoccasinLoren2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

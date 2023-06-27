@@ -1,0 +1,121 @@
+type dummy.EnglishBrownCrin2 {
+  annotations {
+    boolean AfraidAquamarineBelva {
+    }
+    number SeparateCopperDorolisa2 {
+    }
+    json IndirectPeachMary3 {
+    }
+    string BrownFuchsiaGena2 {
+    }
+    number ReadyChocolateDebi4 {
+    }
+    boolean AverageCrimsonElysia4 {
+    }
+  }
+  hidden_boolean TotalBrownDaniella2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CausalSapphireRenee {
+    _hidden_value = true
+  }
+  serviceid ThickEmeraldFina {
+    _hidden_value = true
+  }
+  string PlainIndigoJewel {
+    _hidden_value = true
+  }
+  number ElderlyEmeraldFlorencia {
+    _hidden_value = true
+  }
+  boolean CapitalistMagentaLea3 {
+    _hidden_value = true
+  }
+  serviceid CalmBeigeCalley {
+    _hidden_value = true
+  }
+  serviceid_number CarefulCyanFern2 {
+    _hidden_value = true
+  }
+  string CommercialCopperDorelle2 {
+    _hidden_value = true
+  }
+  number SelectedPlumMilli3 {
+    _hidden_value = true
+  }
+  serviceid_number SurvivingSapphireRicky3 {
+    _hidden_value = true
+  }
+  serviceid LiquidRosePage2 {
+    _hidden_value = true
+  }
+  string NationalBlushCherida2 {
+    _hidden_value = true
+  }
+  hidden_boolean FairBlackCarlene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string CooingAmethystAngelique2 {
+    _hidden_value = true
+  }
+  hidden_boolean GreekIndigoJoane5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AwkwardPeachMaryl2 {
+    _hidden_value = true
+  }
+  json MissingPinkMellisa {
+    _hidden_value = true
+  }
+  hidden_boolean FitHarlequinJacky2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ContinuousIvoryJoycelin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlindIvoryJudith {
+    _hidden_value = true
+  }
+  serviceid_number SurprisingGreenHynda3 {
+    _hidden_value = true
+  }
+  number ConservationPlumMollee2 {
+    _hidden_value = true
+  }
+  serviceid_number UnawareSapphireReeba4 {
+    _hidden_value = true
+  }
+  serviceid SovietChocolateDarelle {
+    _hidden_value = true
+  }
+  boolean UnfortunatePeachMarrissa2 {
+    _hidden_value = true
+  }
+  json SacredRedNorene {
+    _hidden_value = true
+  }
+  string JollyBlackCarree4 {
+    _hidden_value = true
+  }
+  serviceid_number ActualCopperEda2 {
+    _hidden_value = true
+  }
+  "List<string>" UptightBeigeBrook {
+    _hidden_value = true
+  }
+  AfraidAquamarineBelva = false
+  SeparateCopperDorolisa2 = 581
+  IndirectPeachMary3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BrownFuchsiaGena2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ReadyChocolateDebi4 = 51
+  AverageCrimsonElysia4 = false
+  _hidden_value = true
+}

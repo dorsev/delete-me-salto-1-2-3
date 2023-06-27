@@ -1,0 +1,26 @@
+type dummy.IntelligentMaroonLinnet3 {
+  annotations {
+    boolean FuriousRedNicolina2 {
+    }
+    boolean ProminentLavenderKelcey {
+    }
+    boolean EmbarrassedAzureBianka2 {
+    }
+    boolean HollowAmberAllix {
+    }
+    dummy.FriendlyBlackCarlynne RipeApricotAriela2 {
+    }
+    number BiologicalMaroonLetitia2 {
+    }
+  }
+  json ShyTomatoStormie3 {
+    _hidden_value = true
+  }
+  FuriousRedNicolina2 = true
+  ProminentLavenderKelcey = false
+  EmbarrassedAzureBianka2 = true
+  HollowAmberAllix = true
+  RipeApricotAriela2 = 246
+  BiologicalMaroonLetitia2 = 877
+  _hidden_value = true
+}

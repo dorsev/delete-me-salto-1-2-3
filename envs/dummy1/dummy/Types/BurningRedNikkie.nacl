@@ -1,0 +1,72 @@
+type dummy.BurningRedNikkie {
+  annotations {
+    serviceid InformalLavenderKatheryn {
+    }
+    serviceid_number StrongAquaAshely {
+    }
+    json FairCoffeeDinah {
+    }
+    serviceid_number PanickyAzureBren2 {
+    }
+    serviceid_number WeeSapphireRetha {
+    }
+    dummy.DEFAULT SpatialSalmonPerl {
+    }
+  }
+  hidden_boolean AbleBlushChrista {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SmartPeachMarje {
+    _hidden_value = true
+  }
+  json ScrawnyYellowWilma {
+    _hidden_value = true
+  }
+  serviceid_number MolecularRedNerta {
+    _hidden_value = true
+  }
+  json ReadyChocolateDebee3 {
+    _hidden_value = true
+  }
+  number EducationalCrimsonEsma2 {
+    _hidden_value = true
+  }
+  number GeneralBlushChristan {
+    _hidden_value = true
+  }
+  dummy.ObedientBlackCassy FrozenScarletRosa {
+    _hidden_value = true
+  }
+  number GreekIndigoJoan {
+    _hidden_value = true
+  }
+  boolean GreekIndigoJoane3 {
+    _hidden_value = true
+  }
+  serviceid_number NastyWhiteVernice {
+    _hidden_value = true
+  }
+  serviceid LiveIndigoJodie {
+    _hidden_value = true
+  }
+  boolean IndianGrayHarmonie2 {
+    _hidden_value = true
+  }
+  serviceid_number DreadfulPinkMerrili {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ImpressedPeachMariska {
+    _hidden_value = true
+  }
+  InformalLavenderKatheryn = "A steak pun is a rare medium well done."
+  StrongAquaAshely = 482
+  FairCoffeeDinah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PanickyAzureBren2 = 367
+  WeeSapphireRetha = 150
+  SpatialSalmonPerl = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+}

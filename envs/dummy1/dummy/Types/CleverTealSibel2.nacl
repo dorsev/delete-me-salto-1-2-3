@@ -1,0 +1,22 @@
+type dummy.CleverTealSibel2 {
+  annotations {
+    serviceid_number SensitiveGrayHendrika4 {
+    }
+    serviceid DisappointedMagentaLaurice4 {
+    }
+    json ProposedGoldGwenette {
+    }
+    json ExperimentalLavenderKatine2 {
+    }
+    hidden_boolean SillyBlueCathrin3 {
+    }
+  }
+  boolean DarkTomatoTarra {
+    _hidden_value = true
+  }
+  SensitiveGrayHendrika4 = 48
+  DisappointedMagentaLaurice4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProposedGoldGwenette = "Why was it called the dark ages? Because of all the knights. "
+  ExperimentalLavenderKatine2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

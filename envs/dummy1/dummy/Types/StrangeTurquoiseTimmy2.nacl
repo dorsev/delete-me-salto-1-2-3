@@ -1,0 +1,87 @@
+type dummy.StrangeTurquoiseTimmy2 {
+  annotations {
+    dummy.DisappointedMagentaLaurice MoaningApricotAnne {
+    }
+    boolean InternalCoralEdy {
+    }
+    dummy.DEFAULT ProfoundPinkMerl {
+    }
+    string EnthusiasticBlackCarina {
+    }
+    string PoorBronzeCorene {
+    }
+  }
+  serviceid_number WickedScarletRoseanna {
+    _hidden_value = true
+  }
+  number OfficialCopperDoro {
+    _hidden_value = true
+  }
+  string UnacceptableSalmonPenni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CheerfulBeigeCam {
+    _hidden_value = true
+  }
+  number HarshAmethystAnjanette {
+    _hidden_value = true
+  }
+  serviceid GivenHarlequinJanice3 {
+    _hidden_value = true
+  }
+  boolean SpareMaroonLillian {
+    _hidden_value = true
+  }
+  serviceid_number ObjectiveOrangeMalynda2 {
+    _hidden_value = true
+  }
+  dummy.ModernTealStar ShortAmaranthAfton {
+    _hidden_value = true
+  }
+  serviceid_number InterestedCoffeeDiena {
+    _hidden_value = true
+  }
+  serviceid_number BlueVioletTorey {
+    _hidden_value = true
+  }
+  serviceid_number FrailVioletTrude2 {
+    _hidden_value = true
+  }
+  json InfluentialMoccasinLoretta {
+    _hidden_value = true
+  }
+  number UpsetBeigeBritteny {
+    _hidden_value = true
+  }
+  boolean ProbableSalmonPhylys {
+    _hidden_value = true
+  }
+  string AverageTomatoTabbie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ProvincialPeachMariya {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<serviceid>" BrilliantGreenIlyse {
+    _hidden_value = true
+  }
+  json LightAmethystAnestassia2 {
+    _hidden_value = true
+  }
+  string CuriousLimeKirby {
+    _hidden_value = true
+  }
+  serviceid_number ProtestantScarletRobina {
+    _hidden_value = true
+  }
+  MoaningApricotAnne = 313
+  InternalCoralEdy = false
+  ProfoundPinkMerl = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  EnthusiasticBlackCarina = "Dad Im hungry  Hi hungry Im dad"
+  PoorBronzeCorene = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

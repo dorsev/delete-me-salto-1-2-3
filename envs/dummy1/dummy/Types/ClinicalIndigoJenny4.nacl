@@ -1,0 +1,20 @@
+type dummy.ClinicalIndigoJenny4 {
+  annotations {
+    boolean ComfortableBeigeCamellia2 {
+    }
+    number DisgustedAzureBeulah5 {
+    }
+    json ExperiencedMagentaLaure2 {
+    }
+    number PassingSalmonPippa {
+    }
+  }
+  json GlobalGrayHerminia2 {
+    _hidden_value = true
+  }
+  ComfortableBeigeCamellia2 = true
+  DisgustedAzureBeulah5 = 675
+  ExperiencedMagentaLaure2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  PassingSalmonPippa = 460
+  _hidden_value = true
+}

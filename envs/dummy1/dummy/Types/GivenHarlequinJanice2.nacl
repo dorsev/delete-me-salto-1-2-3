@@ -1,0 +1,137 @@
+type dummy.GivenHarlequinJanice2 {
+  annotations {
+    serviceid_number EnchantingBlackCaresa {
+    }
+    boolean RightBlushCherish {
+    }
+    string RenewedSilverSandra {
+    }
+    string UnemployedIvoryJoly {
+    }
+    hidden_boolean MutualLimeKimberly {
+    }
+    json PurpleWhiteVivian {
+    }
+  }
+  dummy.AttractiveCyanFiann UnpleasantRedNora {
+    LargeAmaranthAdeline = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    TrickyYellowYolanthe = 240
+    LuckyBlackCassaundra = 553
+    OccasionalIvoryJuliette = false
+    FrailVioletTrude = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  hidden_boolean NosyWhiteVicky {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LonelyAzureBobina {
+    _hidden_value = true
+  }
+  dummy.OkSapphireRhoda BrokenAmaranthAila {
+    MathematicalRoseOthelia = "Why didnt the skeleton cross the road? Because he had no guts."
+    ShallowAmberAloise = 41
+    _hidden_value = true
+  }
+  string CleverJadeKarena {
+    _hidden_value = true
+  }
+  serviceid_number TinyAmaranthAgnes {
+    _hidden_value = true
+  }
+  serviceid_number ClosedMagentaLela {
+    _hidden_value = true
+  }
+  dummy.PureGrayHermia PureGrayHenryetta2 {
+    _hidden_value = true
+  }
+  json HotCoffeeDesdemona {
+    _hidden_value = true
+  }
+  number GenerousLavenderKaylee {
+    _hidden_value = true
+  }
+  hidden_boolean ScrawnyYellowWilma2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BigAmaranthAbbey {
+    _hidden_value = true
+  }
+  serviceid_number FrightenedAzureBlair {
+    _hidden_value = true
+  }
+  string MechanicalMagentaLeonora {
+    _hidden_value = true
+  }
+  serviceid_number StupidGreenIzabel {
+    _hidden_value = true
+  }
+  number ImaginativeTanSelina {
+    _hidden_value = true
+  }
+  json HomelessAzureBliss {
+    _hidden_value = true
+  }
+  number ReligiousCoralEleen {
+    _hidden_value = true
+  }
+  json BeautifulTomatoTabbitha {
+    _hidden_value = true
+  }
+  string DrunkPeachMarlane {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DepressedAzureBetti {
+    _hidden_value = true
+  }
+  boolean DiplomaticMagentaLenka2 {
+    _hidden_value = true
+  }
+  serviceid GiantMoccasinLottie2 {
+    _hidden_value = true
+  }
+  string YellowGoldGiulia {
+    _hidden_value = true
+  }
+  serviceid_number ShortYellowWilow2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ParliamentaryFuchsiaGertrude {
+    _hidden_value = true
+  }
+  number AbstractMaroonLilyan2 {
+    _hidden_value = true
+  }
+  json FriendlyVioletTrudi {
+    _hidden_value = true
+  }
+  string OfficialCopperDorita {
+    _hidden_value = true
+  }
+  json TastelessAquaAshleigh {
+    _hidden_value = true
+  }
+  json AwfulHarlequinJaquenetta {
+    _hidden_value = true
+  }
+  number BusyCyanFayth {
+    _hidden_value = true
+  }
+  json SympatheticPinkMaye {
+    _hidden_value = true
+  }
+  boolean DesirableMagentaLanny {
+    _hidden_value = true
+  }
+  EnchantingBlackCaresa = 847
+  RightBlushCherish = false
+  RenewedSilverSandra = "Dad Im hungry  Hi hungry Im dad"
+  UnemployedIvoryJoly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PurpleWhiteVivian = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

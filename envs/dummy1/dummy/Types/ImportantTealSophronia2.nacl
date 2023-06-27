@@ -1,0 +1,23 @@
+type dummy.ImportantTealSophronia2 {
+  annotations {
+    serviceid_number WidespreadHarlequinJacqui3 {
+    }
+    serviceid_number UnchangedSilverRubetta2 {
+    }
+    json RelativeGoldGuillemette3 {
+    }
+    serviceid_number SubtleMoccasinLucie3 {
+    }
+    serviceid ArtificialMagentaLena2 {
+    }
+  }
+  number ObjectiveOrangeManda2 {
+    _hidden_value = true
+  }
+  WidespreadHarlequinJacqui3 = 648
+  UnchangedSilverRubetta2 = 567
+  RelativeGoldGuillemette3 = "Why did the tomato blush? Because it saw the salad dressing."
+  SubtleMoccasinLucie3 = 666
+  ArtificialMagentaLena2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

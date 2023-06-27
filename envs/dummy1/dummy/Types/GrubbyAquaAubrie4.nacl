@@ -1,0 +1,60 @@
+type dummy.GrubbyAquaAubrie4 {
+  annotations {
+    dummy.DEFAULT GeographicalPeachMarlena2 {
+    }
+    json CriminalFuchsiaGeorgetta2 {
+    }
+    serviceid ZanyYellowZuzana3 {
+    }
+    boolean ToughGoldGlenn {
+    }
+    serviceid_number WildTomatoSuzy2 {
+    }
+  }
+  hidden_boolean SunnyTanSharity4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid MixedMaroonLesly2 {
+    _hidden_value = true
+  }
+  number BrightVioletTracee2 {
+    _hidden_value = true
+  }
+  serviceid KnownMaroonLetti3 {
+    _hidden_value = true
+  }
+  string UniqueFuchsiaGerti {
+    _hidden_value = true
+  }
+  json InteriorPurpleNatividad3 {
+    _hidden_value = true
+  }
+  json AfraidAquamarineBenedetta {
+    _hidden_value = true
+  }
+  dummy.PureGrayHermia AmateurSalmonPierrette2 {
+    _hidden_value = true
+  }
+  boolean PassingSalmonPippy {
+    _hidden_value = true
+  }
+  "List<boolean>" UsualCoralElmira2 {
+    _hidden_value = true
+  }
+  boolean DiplomaticMagentaLenora2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StaticSapphireRebekkah {
+    _hidden_value = true
+  }
+  GeographicalPeachMarlena2 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  CriminalFuchsiaGeorgetta2 = "Why did the tomato blush? Because it saw the salad dressing."
+  ZanyYellowZuzana3 = "I'll tell you what often gets over looked... garden fences."
+  ToughGoldGlenn = false
+  WildTomatoSuzy2 = 509
+  _hidden_value = true
+}

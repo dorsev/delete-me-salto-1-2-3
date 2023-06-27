@@ -1,0 +1,42 @@
+type dummy.MultipleLimeKinna2 {
+  serviceid TallCyanFayette4 {
+  }
+  dummy.PurpleScarletRiva ThickEmeraldFilippa3 {
+    DualSapphireRheta = 630
+    ExcessiveOliveMadelena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ActualCopperEbonee2 = 740
+    AdjacentSilverRoxi4 = 477
+    ComparableMoccasinLizzie = true
+    GloriousBlackCarmina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  "Map<hidden_boolean>" ExactLimeKordula4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json UnableCoralEloise3 {
+  }
+  json SharpFuchsiaGeorgine3 {
+  }
+  serviceid DizzyVioletTrina2 {
+  }
+  serviceid ColdAmaranthAimee5 {
+  }
+  serviceid_number HugeCoffeeDoralynne {
+  }
+  serviceid IllEmeraldGael2 {
+  }
+  json ModernAmethystAmelie3 {
+  }
+  string PsychiatricSilverRoz4 {
+  }
+  serviceid BrilliantGreenIlyse2 {
+  }
+  hidden_boolean SubsequentFuchsiaGilbertine3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  json SurroundingOrangeMargery {
+  }
+}

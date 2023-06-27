@@ -1,0 +1,58 @@
+type dummy.DizzyVioletTrina {
+  annotations {
+    number NewBlueChandal {
+    }
+    json WeakFuchsiaGayleen3 {
+    }
+    json WholeBronzeCloe2 {
+    }
+    json MisleadingRoseOrelle2 {
+    }
+    string JapaneseCyanFidela2 {
+    }
+    number HarshApricotAnn {
+    }
+  }
+  serviceid_number RisingScarletRoselle {
+    _hidden_value = true
+  }
+  serviceid KindBlackCary2 {
+    _hidden_value = true
+  }
+  serviceid TallYellowXena {
+    _hidden_value = true
+  }
+  boolean ScientificCrimsonErena {
+    _hidden_value = true
+  }
+  string SharedPinkMelba3 {
+    _hidden_value = true
+  }
+  string WonderfulEmeraldFlossi2 {
+    _hidden_value = true
+  }
+  boolean WorthwhilePinkMelita2 {
+    _hidden_value = true
+  }
+  hidden_boolean EvolutionarySilverRuperta2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number InvisibleRoseOrelee2 {
+    _hidden_value = true
+  }
+  string StrangeCoralEdithe {
+    _hidden_value = true
+  }
+  string UptightBeigeBrittney {
+    _hidden_value = true
+  }
+  NewBlueChandal = 633
+  WeakFuchsiaGayleen3 = "What do you call two barracuda fish?  A Pairacuda!"
+  WholeBronzeCloe2 = "Why did the kid cross the playground? To get to the other slide."
+  MisleadingRoseOrelle2 = "Why was it called the dark ages? Because of all the knights. "
+  JapaneseCyanFidela2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  HarshApricotAnn = 375
+  _hidden_value = true
+}

@@ -1,0 +1,40 @@
+type dummy.RadicalGrayHelena {
+  annotations {
+    hidden_boolean WhiteBronzeCodi {
+    }
+    json HealthyGoldGracia {
+    }
+    json CrowdedTomatoTani {
+    }
+    string PriorRosePauline {
+    }
+  }
+  number MusicalIndigoJoannes {
+    _hidden_value = true
+  }
+  boolean RoyalBrownCristie {
+    _hidden_value = true
+  }
+  serviceid_number ModestLavenderKelsey {
+    _hidden_value = true
+  }
+  "List<boolean>" RegularCopperDorris {
+    _hidden_value = true
+  }
+  number SubsequentFuchsiaGilemette {
+    _hidden_value = true
+  }
+  serviceid_number SunnyTanSharia {
+    _hidden_value = true
+  }
+  boolean JuicyApricotAretha2 {
+    _hidden_value = true
+  }
+  string PowerfulTomatoStephani2 {
+    _hidden_value = true
+  }
+  HealthyGoldGracia = "Why did the tomato blush? Because it saw the salad dressing."
+  CrowdedTomatoTani = "Why do birds fly south for the winter? Because it's too far to walk."
+  PriorRosePauline = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

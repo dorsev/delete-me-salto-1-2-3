@@ -1,0 +1,84 @@
+type dummy.AgriculturalGoldGoldarina {
+  annotations {
+    string GoldenGrayHaley2 {
+    }
+    dummy.DEFAULT UnusualTurquoiseToby2 {
+    }
+    number LabourBrownDaffy {
+    }
+    hidden_boolean AloneCyanFaith {
+    }
+    serviceid_number IntenseLavenderKattie2 {
+    }
+  }
+  boolean AmbitiousPeachMaureene2 {
+    _hidden_value = true
+  }
+  serviceid LegitimatePinkMay2 {
+    _hidden_value = true
+  }
+  serviceid DelightfulBeigeCammy2 {
+    _hidden_value = true
+  }
+  json DeliciousScarletRochette {
+    _hidden_value = true
+  }
+  serviceid AlliedPlumMissy2 {
+    _hidden_value = true
+  }
+  serviceid MildOliveMaddi2 {
+    _hidden_value = true
+  }
+  serviceid_number SmoothIndigoJemmie2 {
+    _hidden_value = true
+  }
+  serviceid SensitiveGrayHelyn {
+    _hidden_value = true
+  }
+  hidden_boolean ProgressiveOliveMadelina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ConcernedTealSibella {
+    _hidden_value = true
+  }
+  serviceid_number TestyYellowYolande {
+    _hidden_value = true
+  }
+  json ArchitecturalRosePatrice {
+    _hidden_value = true
+  }
+  hidden_boolean BitterApricotArdene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LinearRedNetta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CentralBronzeConsolata {
+    _hidden_value = true
+  }
+  number GrubbyAquaAubrie {
+    _hidden_value = true
+  }
+  json RepulsiveBeigeBrenda2 {
+    _hidden_value = true
+  }
+  serviceid_number OtherBlueCeline2 {
+    _hidden_value = true
+  }
+  serviceid HomelyTurquoiseTessa {
+    _hidden_value = true
+  }
+  GoldenGrayHaley2 = "Why was it called the dark ages? Because of all the knights. "
+  UnusualTurquoiseToby2 = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  LabourBrownDaffy = 505
+  IntenseLavenderKattie2 = 122
+  _hidden_value = true
+}

@@ -1,0 +1,126 @@
+type dummy.SoftApricotAppolonia3 {
+  annotations {
+    dummy.WonderfulEmeraldFlossy ElectricGreenIngunna3 {
+    }
+    string StripedYellowWrennie {
+    }
+    json NiceWhiteVickie {
+    }
+    serviceid_number CurlyAmberAlbertina2 {
+    }
+    serviceid_number AdjacentSilverRoxine2 {
+    }
+    hidden_boolean EstimatedOrangeMargit3 {
+    }
+  }
+  string LiableLimeKimmi3 {
+    _hidden_value = true
+  }
+  string DustyAmberAlexia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FascinatingOrangeMargarete2 {
+    _hidden_value = true
+  }
+  number AfraidCrimsonEmmy2 {
+    _hidden_value = true
+  }
+  string ExtraCoffeeDiane4 {
+    _hidden_value = true
+  }
+  number SleepyTomatoSuellen {
+    _hidden_value = true
+  }
+  serviceid_number NeighbouringPurpleNana2 {
+    _hidden_value = true
+  }
+  string EvidentIvoryJunette {
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJazmin5 {
+    _hidden_value = true
+  }
+  string DifficultBronzeClementina2 {
+    _hidden_value = true
+  }
+  string JollyBlackCaron {
+    _hidden_value = true
+  }
+  string HandsomeVioletUta2 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMinta3 {
+    _hidden_value = true
+  }
+  number TechnologicalOrangeMarianna3 {
+    _hidden_value = true
+  }
+  number VulnerableJadeKarole2 {
+    _hidden_value = true
+  }
+  json NeighbouringPurpleNance3 {
+    _hidden_value = true
+  }
+  number DivineRoseOphelia3 {
+    _hidden_value = true
+  }
+  string CarefulCyanFeodora {
+    _hidden_value = true
+  }
+  number WorthyRoseOdille2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RandomMoccasinLorelle2 {
+    _hidden_value = true
+  }
+  string MechanicalMagentaLeonie2 {
+    _hidden_value = true
+  }
+  serviceid BrightCoralElyse {
+    _hidden_value = true
+  }
+  boolean CuriousTealSidoney {
+    _hidden_value = true
+  }
+  number UnnecessaryMoccasinLoraine5 {
+    _hidden_value = true
+  }
+  "List<json>" ImmensePlumMirna2 {
+    _hidden_value = true
+  }
+  hidden_boolean TameTomatoSusannah3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FluffyAmberAlia2 {
+    _hidden_value = true
+  }
+  boolean ThunderingApricotArabele2 {
+    _hidden_value = true
+  }
+  number IntelligentMaroonLinzy2 {
+    _hidden_value = true
+  }
+  boolean InquisitiveTealStacie5 {
+    _hidden_value = true
+  }
+  boolean RegularCopperDorthea3 {
+    _hidden_value = true
+  }
+  boolean FrightenedMagentaLauryn {
+    _hidden_value = true
+  }
+  string OverwhelmingPurpleMyrta2 {
+    _hidden_value = true
+  }
+  boolean DailyCyanEvelina {
+    _hidden_value = true
+  }
+  ElectricGreenIngunna3 = true
+  StripedYellowWrennie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  NiceWhiteVickie = "What creature is smarter than a talking parrot? A spelling bee."
+  CurlyAmberAlbertina2 = 71
+  AdjacentSilverRoxine2 = 310
+  _hidden_value = true
+}

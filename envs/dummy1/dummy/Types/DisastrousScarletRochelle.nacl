@@ -1,0 +1,68 @@
+type dummy.DisastrousScarletRochelle {
+  annotations {
+    hidden_boolean EncouragingBlackCarey {
+    }
+    serviceid_number SignificantBrownDanita4 {
+    }
+    serviceid UsedFuchsiaGeorgena3 {
+    }
+    serviceid_number UninterestedTomatoSusi {
+    }
+    json DullMoccasinLoria5 {
+    }
+    number NeatMoccasinLorilyn2 {
+    }
+  }
+  serviceid_number CrazyMoccasinLorrie4 {
+    _hidden_value = true
+  }
+  boolean HelplessTealSonya5 {
+    _hidden_value = true
+  }
+  string DrunkPeachMarleah2 {
+    _hidden_value = true
+  }
+  serviceid KeenGrayHanna3 {
+    _hidden_value = true
+  }
+  json PurpleScarletRivalee2 {
+    _hidden_value = true
+  }
+  serviceid_number SecureMoccasinLouisa {
+    _hidden_value = true
+  }
+  json SmartPeachMarji3 {
+    _hidden_value = true
+  }
+  hidden_boolean NarrowCyanFannie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WillingGoldGusta4 {
+    _hidden_value = true
+  }
+  string FavouriteHarlequinJacqueline2 {
+    _hidden_value = true
+  }
+  hidden_boolean WildCyanEzmeralda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SquealingApricotArabel3 {
+    _hidden_value = true
+  }
+  serviceid ThoughtlessBeigeBrita3 {
+    _hidden_value = true
+  }
+  number LiquidRosePage4 {
+    _hidden_value = true
+  }
+  SignificantBrownDanita4 = 517
+  UsedFuchsiaGeorgena3 = "Why did the tomato blush? Because it saw the salad dressing."
+  UninterestedTomatoSusi = 441
+  DullMoccasinLoria5 = "Slept like a log last night  woke up in the fireplace."
+  NeatMoccasinLorilyn2 = 411
+  _hidden_value = true
+}

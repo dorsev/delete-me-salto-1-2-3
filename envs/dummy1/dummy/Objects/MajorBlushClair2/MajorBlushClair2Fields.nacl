@@ -1,0 +1,101 @@
+type dummy.MajorBlushClair2 {
+  dummy.CleverTealSibel2 TameTomatoSusanne3 {
+    SensitiveGrayHendrika4 = 471
+    DisappointedMagentaLaurice4 = "Dad Im hungry  Hi hungry Im dad"
+    ProposedGoldGwenette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ExperimentalLavenderKatine2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  dummy.FlatGrayHannis PromisingRedNona2 {
+    AverageTomatoTabbatha = true
+    BraveMoccasinLucine = "Im only familiar with 25 letters in the English language. I dont know why."
+    StrongAquaAryn = "What did one nut say as he chased another nut?  I'm a cashew!"
+    InvisibleRoseOrelia = "Why did the tomato blush? Because it saw the salad dressing."
+    HushedApricotAnnamaria = 629
+    SimilarBronzeConstancy = "How come the stadium got hot after the game? Because all of the fans left."
+    NastyMaroonLisette = "A steak pun is a rare medium well done."
+    UninterestedTomatoSusy = "A steak pun is a rare medium well done."
+    RedBrownDaloris = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    KnownMaroonLettie = 401
+    NewWhiteVeronika = 253
+    InsufficientPurpleNeely = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ThoroughScarletRonda = "Why didnt the skeleton cross the road? Because he had no guts."
+    DelightfulSilverRow = 2
+    TerritorialSalmonPriscilla = false
+  }
+  dummy.MistyTurquoiseThea BlindIvoryJudi2 {
+    IntermediateRoseOfilia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    GoverningTanSena = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    FaintAmethystAnica = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    WonderfulEmeraldFlossi = 984
+  }
+  hidden_boolean IcyAquaAudy5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.InappropriateRoseOttilie3 DifferentTealSilva {
+    RobustYellowWileen3 = "What creature is smarter than a talking parrot? A spelling bee."
+    DelightfulSilverRosy2 = 909
+    StrangeCoralEdithe3 = "Why is Peter Pan always flying? Because he Neverlands."
+    HiddenRedOdelle = 264
+    ScaryBeigeBrenna2 = 548
+    JapaneseEmeraldFidelity3 = "Why was it called the dark ages? Because of all the knights. "
+  }
+  dummy.CarefulCyanFerdinanda ContinuousIvoryJsandye5 {
+    EasyTealSiouxie = "Why do birds fly south for the winter? Because it's too far to walk."
+    ComprehensiveGreenHyacintha = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MaximumGreenIlyse = true
+    GayOrangeMarigold = "To be Frank, I'd have to change my name."
+    RelativeGoldGuillema = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    LooseAquaAugustina2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  number RedWhiteWendeline3 {
+  }
+  serviceid_number UnfortunatePeachMarsiella3 {
+  }
+  dummy.ToxicSalmonPhelia ScottishChocolateDela3 {
+    FilthyTurquoiseTera = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AnonymousSapphireRayshell = 43
+    BoredAquamarineBerrie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    BlackVioletTorey = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LuckyBlackCassey = "Why was it called the dark ages? Because of all the knights. "
+    ProductivePlumMollie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ContinuedLimeLana = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SelectiveRedNorri = 492
+  }
+  string RottenApricotAriella3 {
+  }
+  serviceid_number UniqueFuchsiaGerry3 {
+  }
+  string BrightVioletTove5 {
+  }
+  boolean OldAmethystAmii3 {
+  }
+  number PleasantIvoryJoscelin2 {
+  }
+  serviceid DearGoldGlori3 {
+  }
+  dummy.BriefEmeraldFlorrie2 CompatibleSapphireRenie {
+    SorryBrownDanyelle3 = 87
+    TroubledBeigeBrittani = 149
+    ElaborateRedNicolette3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RawJadeKarleen = 741
+  }
+  serviceid_number FunnyEmeraldGabey2 {
+  }
+  serviceid_number ForwardSapphireRici5 {
+  }
+  serviceid UgliestYellowZarah3 {
+  }
+  serviceid PlainIndigoJewel3 {
+  }
+  hidden_boolean PriorRosePaulina4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

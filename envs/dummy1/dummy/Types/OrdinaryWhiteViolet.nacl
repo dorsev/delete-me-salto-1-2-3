@@ -1,0 +1,20 @@
+type dummy.OrdinaryWhiteViolet {
+  annotations {
+    serviceid_number EverydayLimeKym {
+    }
+    json CompatibleSapphireRennie {
+    }
+    serviceid_number FixedGreenHolli {
+    }
+    boolean BreezyAmaranthAida {
+    }
+  }
+  json AdjacentSilverRoxanne {
+    _hidden_value = true
+  }
+  EverydayLimeKym = 293
+  CompatibleSapphireRennie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FixedGreenHolli = 283
+  BreezyAmaranthAida = false
+  _hidden_value = true
+}

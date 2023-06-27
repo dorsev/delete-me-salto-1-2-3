@@ -1,0 +1,71 @@
+type dummy.AnnualCoffeeDonny3 {
+  annotations {
+    serviceid HorribleOrangeMaren {
+    }
+    dummy.PowerfulCopperDruci BadBlushCilka {
+    }
+    string AverageCoralElysha4 {
+    }
+    serviceid_number CheerfulSapphireRhodie3 {
+    }
+    hidden_boolean StructuralIvoryJosephine4 {
+    }
+  }
+  boolean SlowAmethystAnaliese5 {
+    _hidden_value = true
+  }
+  hidden_boolean SensitiveGrayHenka7 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean EconomicBlushClara3 {
+    _hidden_value = true
+  }
+  string TerribleBeigeBrinn {
+    _hidden_value = true
+  }
+  string CivicTanShelli3 {
+    _hidden_value = true
+  }
+  boolean TotalBrownDaniela3 {
+    _hidden_value = true
+  }
+  json KindVioletVally6 {
+    _hidden_value = true
+  }
+  hidden_boolean OptimisticRosePearline2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DueCopperDorthy2 {
+    _hidden_value = true
+  }
+  string BoredAquamarineBerry6 {
+    _hidden_value = true
+  }
+  string DomesticCopperEartha2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpectacularMaroonLibbie {
+    _hidden_value = true
+  }
+  serviceid CloseBrownCosette {
+    _hidden_value = true
+  }
+  number CrookedAmberAlissa2 {
+    _hidden_value = true
+  }
+  boolean WealthyPeachMarybelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ComfortableBeigeCamella3 {
+    _hidden_value = true
+  }
+  HorribleOrangeMaren = "How come the stadium got hot after the game? Because all of the fans left."
+  BadBlushCilka = "How come the stadium got hot after the game? Because all of the fans left."
+  AverageCoralElysha4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  CheerfulSapphireRhodie3 = 797
+  _hidden_value = true
+}

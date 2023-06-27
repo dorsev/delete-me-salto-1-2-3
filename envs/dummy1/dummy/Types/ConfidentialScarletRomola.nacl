@@ -1,0 +1,73 @@
+type dummy.ConfidentialScarletRomola {
+  annotations {
+    string AwareChocolateDasi {
+    }
+    serviceid_number HungryMaroonLisabeth5 {
+    }
+    boolean DeafIvoryJoy3 {
+    }
+    string WrongTomatoSybilla4 {
+    }
+  }
+  dummy.SupremeGreenIsabella PreviousBrownDania5 {
+    ExcellentCoralEilis = "Im only familiar with 25 letters in the English language. I dont know why."
+    UpsetBeigeBritte = 795
+    _hidden_value = true
+  }
+  dummy.BusyCyanFayre FinalBrownDalia2 {
+    OpenBronzeClerissa = false
+    FlakyAmberAli = "To be Frank, I'd have to change my name."
+    NovelScarletRosina = 563
+    RoundAmberAlmeria = 822
+    CuteTomatoTara = "Dad Im hungry  Hi hungry Im dad"
+    OralLimeKylynn2 = "Why was it called the dark ages? Because of all the knights. "
+    DailyCyanEveleen = "Did you know that protons have mass? I didn't even know they were catholic."
+    AbundantAmethystAndeee = 15
+    InlandSalmonPrue = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    StatisticalMagentaLanie = 881
+    _hidden_value = true
+  }
+  serviceid GreatVioletTyne {
+    _hidden_value = true
+  }
+  serviceid_number StructuralIvoryJosephina4 {
+    _hidden_value = true
+  }
+  string PeacefulOrangeMargret4 {
+    _hidden_value = true
+  }
+  boolean ForeignBronzeCorinna4 {
+    _hidden_value = true
+  }
+  number HardAquaAudi {
+    _hidden_value = true
+  }
+  hidden_boolean ParliamentaryFuchsiaGertrude2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json LegislativeMaroonLindy3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntellectualJadeKali3 {
+    _hidden_value = true
+  }
+  number BalancedSilverRoslyn3 {
+    _hidden_value = true
+  }
+  serviceid ShaggyAquaAviva3 {
+    _hidden_value = true
+  }
+  number VastEmeraldFreddie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ValuableGoldGwynne3 {
+    _hidden_value = true
+  }
+  AwareChocolateDasi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HungryMaroonLisabeth5 = 696
+  DeafIvoryJoy3 = false
+  WrongTomatoSybilla4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.SuperbMagentaLauren2 {
+  annotations {
+    serviceid_number UnawareSapphireReeba2 {
+    }
+    string CompetentSalmonPepita {
+    }
+    serviceid MuddyTurquoiseTheresa {
+    }
+    boolean ComprehensiveGreenHyacinthe {
+    }
+    string SeriousBrownDanell4 {
+    }
+    serviceid_number PureGrayHephzibah {
+    }
+    hidden_boolean ValuableGoldGypsy {
+    }
+  }
+  string LivingGrayHenriette {
+    _hidden_value = true
+  }
+  UnawareSapphireReeba2 = 415
+  CompetentSalmonPepita = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MuddyTurquoiseTheresa = "Why was it called the dark ages? Because of all the knights. "
+  ComprehensiveGreenHyacinthe = true
+  SeriousBrownDanell4 = "Dad Im hungry  Hi hungry Im dad"
+  PureGrayHephzibah = 899
+  _hidden_value = true
+}

@@ -1,0 +1,74 @@
+type dummy.ExcitedBlackCarissa {
+  annotations {
+    number SuitableCrimsonEmilee2 {
+    }
+    string ChronicOliveMallissa {
+    }
+    json FaintAmethystAnica2 {
+    }
+    number AwareChocolateDasha {
+    }
+    string FoolishAzureBillye {
+    }
+  }
+  hidden_boolean ReadyChocolateDebee2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ChiefCopperDorrie {
+    _hidden_value = true
+  }
+  serviceid DeterminedBeigeCandida2 {
+    _hidden_value = true
+  }
+  serviceid TerribleBeigeBriney {
+    _hidden_value = true
+  }
+  string ToxicSalmonPhelia2 {
+    _hidden_value = true
+  }
+  serviceid LivelyBlackCasandra {
+    _hidden_value = true
+  }
+  json LegitimatePinkMay {
+    _hidden_value = true
+  }
+  number VisitingScarletRoanne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NearFuchsiaGerladina {
+    _hidden_value = true
+  }
+  hidden_boolean GiantMoccasinLotti3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean GothicSapphireRana {
+    _hidden_value = true
+  }
+  string DivineRoseOpaline {
+    _hidden_value = true
+  }
+  string GoodBlackCarmon {
+    _hidden_value = true
+  }
+  number OlympicRedNessa {
+    _hidden_value = true
+  }
+  serviceid_number RareEmeraldFlorette {
+    _hidden_value = true
+  }
+  hidden_boolean SureBlushCindra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SuitableCrimsonEmilee2 = 43
+  ChronicOliveMallissa = "What creature is smarter than a talking parrot? A spelling bee."
+  FaintAmethystAnica2 = "A steak pun is a rare medium well done."
+  AwareChocolateDasha = 218
+  FoolishAzureBillye = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

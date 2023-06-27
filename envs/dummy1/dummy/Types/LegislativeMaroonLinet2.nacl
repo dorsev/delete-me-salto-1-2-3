@@ -1,0 +1,112 @@
+type dummy.LegislativeMaroonLinet2 {
+  annotations {
+    boolean SadGrayHetti {
+    }
+    serviceid_number EmptyCyanFancy2 {
+    }
+    hidden_boolean WonderfulYellowZitella2 {
+    }
+    number DiplomaticMagentaLenora3 {
+    }
+    hidden_boolean WickedScarletRoselia {
+    }
+    boolean ShortYellowWilmette3 {
+    }
+  }
+  dummy.HotAquaAudrey HugeAmaranthAdelaida2 {
+    ObedientBlackCassondra = "How come the stadium got hot after the game? Because all of the fans left."
+    MaleCoffeeDiannne2 = 608
+    FeministPlumMina = "Slept like a log last night  woke up in the fireplace."
+    HeavyAmethystAndy = 782
+    _hidden_value = true
+  }
+  json DryCyanEvaleen {
+    _hidden_value = true
+  }
+  json HomelyTurquoiseTessa4 {
+    _hidden_value = true
+  }
+  json MaleCoffeeDianne2 {
+    _hidden_value = true
+  }
+  serviceid_number HollowAmberAllissa {
+    _hidden_value = true
+  }
+  serviceid KindVioletValma2 {
+    _hidden_value = true
+  }
+  serviceid_number ConsiderableChocolateDemetria2 {
+    _hidden_value = true
+  }
+  boolean SupposedCyanFarra2 {
+    _hidden_value = true
+  }
+  serviceid ComparativePlumModesta2 {
+    _hidden_value = true
+  }
+  serviceid_number MaleCoffeeDianne3 {
+    _hidden_value = true
+  }
+  hidden_boolean MildOliveMadalyn2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NeatMoccasinLorine2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PriorRosePauli {
+    _hidden_value = true
+  }
+  serviceid_number PurpleWhiteVivian5 {
+    _hidden_value = true
+  }
+  number ExtremeHarlequinJackelyn2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" GratefulIvoryJorey {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDinnie2 {
+    _hidden_value = true
+  }
+  json MusicalIndigoJoannes2 {
+    _hidden_value = true
+  }
+  boolean ConventionalGoldGussi {
+    _hidden_value = true
+  }
+  serviceid_number BadBlushCiel {
+    _hidden_value = true
+  }
+  hidden_boolean CoolGreenIolanthe2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number JewishLimeKissie2 {
+    _hidden_value = true
+  }
+  boolean ConceptualTanShelba3 {
+    _hidden_value = true
+  }
+  json IllEmeraldGael {
+    _hidden_value = true
+  }
+  serviceid MeaningfulTanShena2 {
+    _hidden_value = true
+  }
+  boolean DampMoccasinLotta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RationalLavenderKay3 {
+    _hidden_value = true
+  }
+  SadGrayHetti = true
+  EmptyCyanFancy2 = 496
+  DiplomaticMagentaLenora3 = 810
+  ShortYellowWilmette3 = false
+  _hidden_value = true
+}

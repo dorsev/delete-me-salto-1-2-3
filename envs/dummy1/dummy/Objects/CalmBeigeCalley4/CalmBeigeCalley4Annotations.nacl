@@ -1,0 +1,61 @@
+type dummy.CalmBeigeCalley4 {
+  annotations {
+    hidden_boolean MutualLimeKimberley {
+    }
+    string PastCoffeeDiann {
+    }
+    dummy.VictorianJadeKalli SoleLimeKirstin5 {
+    }
+    json ThinCyanEvangeline2 {
+    }
+    serviceid CreepyAquamarineBeryl {
+    }
+    number BritishBlushCherilyn5 {
+    }
+    hidden_boolean JollyBlackCarri4 {
+    }
+    json ProudBlueCathee3 {
+    }
+    serviceid GrimScarletRonnica4 {
+    }
+    number ExcessSilverSapphire2 {
+    }
+    string ConservationPlumMollee3 {
+    }
+    boolean ResonantApricotAnsley2 {
+    }
+    serviceid_number CrowdedTomatoTanitansy {
+    }
+    number WetAquamarineBelita2 {
+    }
+    serviceid_number DesirableMagentaLanny4 {
+    }
+    json AfricanFuchsiaGiacinta3 {
+    }
+    serviceid_number TiredGoldGretal {
+    }
+    string FullBlushChristiana {
+    }
+    json ToughYellowYsabel4 {
+    }
+    hidden_boolean RedWhiteWendi2 {
+    }
+  }
+  PastCoffeeDiann = "What creature is smarter than a talking parrot? A spelling bee."
+  SoleLimeKirstin5 = file("WeirdSilverRozanne4.txt")
+  ThinCyanEvangeline2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CreepyAquamarineBeryl = "Did you know that protons have mass? I didn't even know they were catholic."
+  BritishBlushCherilyn5 = 521
+  ProudBlueCathee3 = "To be Frank, I'd have to change my name."
+  GrimScarletRonnica4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ExcessSilverSapphire2 = 214
+  ConservationPlumMollee3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ResonantApricotAnsley2 = false
+  CrowdedTomatoTanitansy = 527
+  WetAquamarineBelita2 = 760
+  DesirableMagentaLanny4 = 716
+  AfricanFuchsiaGiacinta3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  TiredGoldGretal = 243
+  FullBlushChristiana = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ToughYellowYsabel4 = "What do you call two barracuda fish?  A Pairacuda!"
+}

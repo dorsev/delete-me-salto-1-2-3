@@ -1,0 +1,19 @@
+type dummy.HungryMaroonLinzy {
+  annotations {
+    number FranticAzureBird2 {
+    }
+    hidden_boolean RegionalCopperDorian2 {
+    }
+    boolean AdvancedHarlequinJacinta2 {
+    }
+    number SportingSilverRuthy2 {
+    }
+  }
+  number BetterVioletTomasina2 {
+    _hidden_value = true
+  }
+  FranticAzureBird2 = 936
+  AdvancedHarlequinJacinta2 = true
+  SportingSilverRuthy2 = 402
+  _hidden_value = true
+}

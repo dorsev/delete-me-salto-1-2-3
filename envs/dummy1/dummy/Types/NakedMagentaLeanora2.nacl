@@ -1,0 +1,83 @@
+type dummy.NakedMagentaLeanora2 {
+  annotations {
+    dummy.VerbalPinkMaxie InfluentialMoccasinLoretta4 {
+    }
+    string ElectricalLavenderKerrill3 {
+    }
+    serviceid_number HappyBlackCarola4 {
+    }
+    serviceid_number LogicalLavenderKelcy {
+    }
+    boolean OrangePurpleMufi3 {
+    }
+    dummy.DEFAULT SystematicOrangeMarcella {
+    }
+  }
+  "List<string>" HighBlueCharisse2 {
+    _hidden_value = true
+  }
+  boolean WonderfulBlueCeleste4 {
+    _hidden_value = true
+  }
+  boolean AgreedTanSelia3 {
+    _hidden_value = true
+  }
+  json SquareAmberAlverta2 {
+    _hidden_value = true
+  }
+  number PermanentFuchsiaGay3 {
+    _hidden_value = true
+  }
+  number ToryGreenInessa {
+    _hidden_value = true
+  }
+  string EntitledIvoryJulia {
+    _hidden_value = true
+  }
+  boolean VictorianJadeKalinda {
+    _hidden_value = true
+  }
+  hidden_boolean EffectiveChocolateDeedee3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NewBlueChandal2 {
+    _hidden_value = true
+  }
+  json FunOrangeMarcile3 {
+    _hidden_value = true
+  }
+  boolean EnglishBrownCris3 {
+    _hidden_value = true
+  }
+  boolean SubjectiveSapphireRiane2 {
+    _hidden_value = true
+  }
+  hidden_boolean FierceOliveMaire2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GloriousScarletRosanne2 {
+    _hidden_value = true
+  }
+  serviceid UrbanCyanFanchette4 {
+    _hidden_value = true
+  }
+  json PhilosophicalRedNoelani2 {
+    _hidden_value = true
+  }
+  number ShyScarletRosemonde {
+    _hidden_value = true
+  }
+  InfluentialMoccasinLoretta4 = true
+  ElectricalLavenderKerrill3 = "I'll tell you what often gets over looked... garden fences."
+  HappyBlackCarola4 = 713
+  LogicalLavenderKelcy = 915
+  OrangePurpleMufi3 = false
+  SystematicOrangeMarcella = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  _hidden_value = true
+}

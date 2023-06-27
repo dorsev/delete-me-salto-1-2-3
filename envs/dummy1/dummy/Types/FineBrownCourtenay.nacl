@@ -1,0 +1,141 @@
+type dummy.FineBrownCourtenay {
+  annotations {
+    json BlueCoffeeDiahann {
+    }
+    number SoftAquamarineBarbie2 {
+    }
+    serviceid_number PrimitiveOrangeMarga2 {
+    }
+    boolean JitteryVioletValerie3 {
+    }
+    serviceid VulnerableJadeKarna5 {
+    }
+  }
+  serviceid_number ContinuedLimeLane {
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBrett {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FarBlushChristiana {
+    _hidden_value = true
+  }
+  string SuperbMagentaLaurena2 {
+    _hidden_value = true
+  }
+  string AdministrativeGreenHoney {
+    _hidden_value = true
+  }
+  number BoredAquamarineBerri2 {
+    _hidden_value = true
+  }
+  json CrudePlumMil3 {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" UnexpectedMagentaLaurel {
+    _hidden_value = true
+  }
+  serviceid_number NarrowAmberAllyson {
+    _hidden_value = true
+  }
+  hidden_boolean PuzzledTanShani3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FatalPurpleMyrtie {
+    _hidden_value = true
+  }
+  json ControlledTanShela {
+    _hidden_value = true
+  }
+  string ConfusedMaroonLiesa4 {
+    _hidden_value = true
+  }
+  hidden_boolean UglyYellowZandra2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SmoothIndigoJemmy {
+    _hidden_value = true
+  }
+  number CorrespondingPlumMiquela4 {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn {
+    _hidden_value = true
+  }
+  serviceid InternationalBlushClaudina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OnlyBlushClaretta2 {
+    _hidden_value = true
+  }
+  number UnawareSapphireRee {
+    _hidden_value = true
+  }
+  json ThoughtlessBeigeBrita {
+    _hidden_value = true
+  }
+  json CollectiveLavenderKathye {
+    _hidden_value = true
+  }
+  hidden_boolean NeutralPeachMarylynne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number FaintMaroonLiv {
+    _hidden_value = true
+  }
+  boolean InstitutionalMaroonLesley2 {
+    _hidden_value = true
+  }
+  hidden_boolean HorribleVioletValentia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json RetailMaroonLeora2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AnnualCoffeeDonni {
+    _hidden_value = true
+  }
+  serviceid UsualCoralElmira {
+    _hidden_value = true
+  }
+  serviceid ConsiderableChocolateDemetria {
+    _hidden_value = true
+  }
+  json WildCyanEyde {
+    _hidden_value = true
+  }
+  dummy.ObedientBlackCassy RedundantSalmonPhilippe2 {
+    _hidden_value = true
+  }
+  json GiantAmaranthAdaline {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLisette4 {
+    _hidden_value = true
+  }
+  serviceid ForwardSapphireRianon2 {
+    _hidden_value = true
+  }
+  number SpecialBronzeClea2 {
+    _hidden_value = true
+  }
+  boolean LostJadeKaralee3 {
+    _hidden_value = true
+  }
+  BlueCoffeeDiahann = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SoftAquamarineBarbie2 = 5
+  PrimitiveOrangeMarga2 = 280
+  JitteryVioletValerie3 = false
+  VulnerableJadeKarna5 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

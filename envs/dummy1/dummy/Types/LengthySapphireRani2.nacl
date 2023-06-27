@@ -1,0 +1,62 @@
+type dummy.LengthySapphireRani2 {
+  annotations {
+    json UniqueFuchsiaGert {
+    }
+    serviceid ImplicitSapphireRhea {
+    }
+    dummy.SplendidBlueCati HardBronzeCordie2 {
+    }
+    boolean DiplomaticMagentaLenna4 {
+    }
+    number HonChocolateDasya2 {
+    }
+    boolean ComparableMoccasinLizette {
+    }
+    hidden_boolean MagicOrangeMarabel {
+    }
+    json PlainIndigoJewell {
+    }
+  }
+  dummy.DEFAULT WittyBlueCecily {
+    _hidden_value = true
+  }
+  "List<serviceid>" ThoughtlessBeigeBriny {
+    _hidden_value = true
+  }
+  boolean FortunateRoseOlivie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TenderAquamarineBebe {
+    _hidden_value = true
+  }
+  boolean MistyTurquoiseTheda2 {
+    _hidden_value = true
+  }
+  number BigVioletTonie3 {
+    _hidden_value = true
+  }
+  string VisibleIndigoJewelle {
+    _hidden_value = true
+  }
+  hidden_boolean EvilAzureBidget4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DepressedPinkMelantha {
+    _hidden_value = true
+  }
+  hidden_boolean AmazingMoccasinLizabeth {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UniqueFuchsiaGert = "To be Frank, I'd have to change my name."
+  ImplicitSapphireRhea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HardBronzeCordie2 = true
+  DiplomaticMagentaLenna4 = true
+  HonChocolateDasya2 = 954
+  ComparableMoccasinLizette = true
+  PlainIndigoJewell = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

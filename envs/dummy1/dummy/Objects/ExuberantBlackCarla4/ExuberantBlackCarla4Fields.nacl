@@ -1,0 +1,71 @@
+type dummy.ExuberantBlackCarla4 {
+  "List<dummy.SweetGreenHollie2>" DepressedAzureBettine3 {
+    DirtyAmberAleta3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+    BlueCoffeeDiahann2 = 794
+    DeadBrownDara = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    UnconsciousSapphireRay5 = "Why is Peter Pan always flying? Because he Neverlands."
+    ImaginativeTanSelinda2 = 881
+    MammothAmaranthAdoree = "Dad Im hungry  Hi hungry Im dad"
+  }
+  dummy.FundamentalFuchsiaGene BlueCoffeeDiahann5 {
+    WoodenGreenHoratia = 817
+    HotCoffeeDenys = 795
+    LooseIvoryJuliet = 175
+    ToughGoldGlenine = file("PremierOrangeMaria5.txt")
+  }
+  serviceid_number AutonomousScarletRora3 {
+  }
+  boolean PreliminaryOliveLyndsey7 {
+  }
+  serviceid LuckyFuchsiaGinnie3 {
+  }
+  number JollyBlackCarree5 {
+  }
+  string ElectronicGreenInessa {
+  }
+  number TotalBrownDaniella3 {
+  }
+  boolean LivingGrayHenriette2 {
+  }
+  serviceid_number MagentaWhiteVelma3 {
+  }
+  json StingyYellowWinna3 {
+  }
+  json AncientEmeraldFlorance2 {
+  }
+  hidden_boolean GenerousLavenderKaylee2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string TallYellowXenia2 {
+  }
+  "List<serviceid>" RipeApricotAriana {
+  }
+  serviceid_number AlternativeEmeraldFionnula2 {
+  }
+  hidden_boolean SmartPeachMarj {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ModeratePurpleNatalina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean SoftApricotAppolonia6 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean ComparableMoccasinLoella4 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string ValuableGoldGypsy3 {
+  }
+}

@@ -1,0 +1,25 @@
+type dummy.CompleteCoffeeDevon3 {
+  annotations {
+    boolean WanderingTomatoSuzanna6 {
+    }
+    dummy.AttractiveCyanFiann FranticAzureBirgit2 {
+    }
+    number UnnecessaryMoccasinLoraine {
+    }
+    hidden_boolean RelativeGoldGuillemette2 {
+    }
+    json EmbarrassingSilverSashenka2 {
+    }
+    json BlueVioletTori {
+    }
+  }
+  string ExtraordinaryIndigoJessy {
+    _hidden_value = true
+  }
+  WanderingTomatoSuzanna6 = false
+  FranticAzureBirgit2 = false
+  UnnecessaryMoccasinLoraine = 805
+  EmbarrassingSilverSashenka2 = "How come the stadium got hot after the game? Because all of the fans left."
+  BlueVioletTori = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

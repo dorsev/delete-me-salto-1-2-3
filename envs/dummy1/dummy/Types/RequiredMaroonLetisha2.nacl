@@ -1,0 +1,105 @@
+type dummy.RequiredMaroonLetisha2 {
+  annotations {
+    number LiteraryGreenIrene2 {
+    }
+    serviceid PsychiatricSilverRoxy {
+    }
+    json ComingSilverSandi {
+    }
+    number PreparedCyanFelice4 {
+    }
+  }
+  dummy.VerbalPinkMaxie CloseBrownCosette2 {
+    EfficientGoldGretta = 910
+    VisualGreenIngeberg = false
+    JudicialJadeKarita = 211
+    SeriousBrownDanell = 218
+    FilthyAmberAlexis = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    EncouragingLimeLacy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    WealthyPeachMarybeth = 427
+    BroadCoralElisabeth = "Whoever invented the knock-knock joke should get a no bell prize."
+    SuperbMagentaLaurena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AbstractMaroonLilyan = "Why do birds fly south for the winter? Because it's too far to walk."
+    FriendlyGoldGuinna = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  json InformalLavenderKathi2 {
+    _hidden_value = true
+  }
+  json NuttyWhiteVikki4 {
+    _hidden_value = true
+  }
+  serviceid CoolGreenInna3 {
+    _hidden_value = true
+  }
+  string RedundantSalmonPhilis3 {
+    _hidden_value = true
+  }
+  number PassivePurpleMurielle {
+    _hidden_value = true
+  }
+  serviceid ArabLimeKirsteni4 {
+    _hidden_value = true
+  }
+  serviceid_number IntenseLavenderKattie6 {
+    _hidden_value = true
+  }
+  string HolyIndigoJemima4 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightHarlequinJaimie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LimitedCoralElke2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SubtleMoccasinLucia2 {
+    _hidden_value = true
+  }
+  hidden_boolean IllEmeraldGae2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT StripedYellowWinona3 {
+    _hidden_value = true
+  }
+  number SuccessiveMoccasinLola3 {
+    _hidden_value = true
+  }
+  boolean UselessRedNina2 {
+    _hidden_value = true
+  }
+  string BitterApricotArdene3 {
+    _hidden_value = true
+  }
+  serviceid ElegantMoccasinLucille4 {
+    _hidden_value = true
+  }
+  number TremendousMagentaLeola2 {
+    _hidden_value = true
+  }
+  boolean QuietCoralEkaterina3 {
+    _hidden_value = true
+  }
+  number NearFuchsiaGerianna3 {
+    _hidden_value = true
+  }
+  string CheapCopperEditha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EndlessPeachMarjorie3 {
+    _hidden_value = true
+  }
+  LiteraryGreenIrene2 = 610
+  PsychiatricSilverRoxy = "Why did the kid cross the playground? To get to the other slide."
+  ComingSilverSandi = "Im only familiar with 25 letters in the English language. I dont know why."
+  PreparedCyanFelice4 = 892
+  _hidden_value = true
+}

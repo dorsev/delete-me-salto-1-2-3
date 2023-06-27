@@ -1,0 +1,82 @@
+type dummy.MagnificentMagentaLeela {
+  annotations {
+    hidden_boolean AtomicScarletRorie {
+    }
+    hidden_boolean ChiefCopperDorrie2 {
+    }
+    serviceid_number ApparentCyanFawne {
+    }
+    hidden_boolean CostlySapphireReggi {
+    }
+    serviceid_number OldBlueChantalle2 {
+    }
+    hidden_boolean NativeJadeKatalin2 {
+    }
+  }
+  dummy.SplendidBlueCati LongVioletVan {
+    ObviousCoffeeDolley = false
+    AestheticSapphireReba = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DueCopperDot = 131
+    AggressiveMaroonLilith = 610
+    RelativeGoldGuillemette = "Why didnt the skeleton cross the road? Because he had no guts."
+    SpecificChocolateDarcee = 583
+    QuickAmethystAmity = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    PsychologicalIvoryJojo = false
+    DirtyAmberAleta2 = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    UglyTurquoiseTina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ChillyAmaranthAilina = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    RoastedWhiteWendye = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    KnownMaroonLexi = 1
+    LongBlueChelsey = 907
+    MightyWhiteVeriee = "A steak pun is a rare medium well done."
+    UncertainMagentaLeland = 752
+    CooingAmethystAngeline = false
+    SupposedCyanFarra = 329
+    WetAquamarineBella = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LoudApricotAnnadiana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" PeculiarPlumMichell {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FairBlackCarley2 {
+    _hidden_value = true
+  }
+  hidden_boolean SupportingSilverSamantha3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcuteLavenderKenna2 {
+    _hidden_value = true
+  }
+  string GoodBlackCarmita4 {
+    _hidden_value = true
+  }
+  json SubstantialCoralElsie {
+    _hidden_value = true
+  }
+  serviceid ArtificialMagentaLenette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UgliestYellowZarah {
+    _hidden_value = true
+  }
+  number PaleGrayHarrietta {
+    _hidden_value = true
+  }
+  string WonderfulEmeraldFlss {
+    _hidden_value = true
+  }
+  ApparentCyanFawne = 736
+  OldBlueChantalle2 = 193
+  _hidden_value = true
+}

@@ -1,0 +1,32 @@
+type dummy.WonderfulYellowZonda {
+  boolean DistinctTurquoiseTatiana6 {
+  }
+  hidden_boolean CleverJadeKarena6 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AdditionalCopperDoti3 {
+  }
+  serviceid_number StructuralIvoryJosey {
+  }
+  string NormalBrownDamita2 {
+  }
+  serviceid_number InnovativeTanSheeree {
+  }
+  hidden_boolean BindingSalmonPeta {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean LongAmaranthAdina5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean EnthusiasticPinkMerridie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}

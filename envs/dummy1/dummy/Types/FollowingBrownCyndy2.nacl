@@ -1,0 +1,36 @@
+type dummy.FollowingBrownCyndy2 {
+  annotations {
+    string SpontaneousTanShaun {
+    }
+    serviceid MightyWhiteVerile {
+    }
+    string KoreanSapphireRasia {
+    }
+    serviceid StraightforwardMaroonLezlie2 {
+    }
+  }
+  dummy.SupremeGreenIsabella CircularRoseOrly {
+    ExcellentCoralEilis = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    UpsetBeigeBritte = 871
+    _hidden_value = true
+  }
+  string NaughtyAzureBonnibelle2 {
+    _hidden_value = true
+  }
+  number BrownFuchsiaGelya {
+    _hidden_value = true
+  }
+  string TroubledBeigeBrittaney {
+    _hidden_value = true
+  }
+  hidden_boolean OralLimeKylie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SpontaneousTanShaun = "A steak pun is a rare medium well done."
+  MightyWhiteVerile = "Did you know that protons have mass? I didn't even know they were catholic."
+  KoreanSapphireRasia = "What do you call two barracuda fish?  A Pairacuda!"
+  StraightforwardMaroonLezlie2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

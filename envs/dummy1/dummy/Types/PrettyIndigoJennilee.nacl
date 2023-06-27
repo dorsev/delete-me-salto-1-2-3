@@ -1,0 +1,48 @@
+type dummy.PrettyIndigoJennilee {
+  annotations {
+    boolean SillyBlueCathrin {
+    }
+    number SpecifiedSalmonPooh {
+    }
+    json SurprisedEmeraldFredelia2 {
+    }
+    string ManagerialPurpleNerissa {
+    }
+  }
+  string EnergeticBlackCaria {
+    _hidden_value = true
+  }
+  serviceid_number ShallowAmberAloise2 {
+    _hidden_value = true
+  }
+  json LiberalCyanFarah {
+    _hidden_value = true
+  }
+  serviceid FunnyBlackCarmelia2 {
+    _hidden_value = true
+  }
+  boolean PromisingRedNoni {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitrarySilverRoxanna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SoundAmethystAngelika {
+    _hidden_value = true
+  }
+  boolean ProperCoralElinor {
+    _hidden_value = true
+  }
+  hidden_boolean SeriousBrownDanell2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SillyBlueCathrin = true
+  SpecifiedSalmonPooh = 117
+  SurprisedEmeraldFredelia2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ManagerialPurpleNerissa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

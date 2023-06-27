@@ -1,0 +1,52 @@
+type dummy.GloriousScarletRosanne3 {
+  annotations {
+    string PeacefulOrangeMargo2 {
+    }
+    dummy.NoisyApricotAnnetta OlympicRedNessa6 {
+    }
+    serviceid_number HeadPinkMeggi3 {
+    }
+    serviceid_number TechnologicalOrangeMarianna5 {
+    }
+    dummy.HugeAmaranthAdela ExtensiveGoldGlory2 {
+    }
+    dummy.PuzzledTanShani2 RenewedSilverSandy3 {
+    }
+    number ConvenientMagentaLeena3 {
+    }
+    hidden_boolean ImplicitSapphireReyna3 {
+    }
+    number BareLavenderKelli {
+    }
+    boolean DeadTealSigrid3 {
+    }
+    serviceid FoolishAzureBinnie {
+    }
+    serviceid FilthyAmberAlfie {
+    }
+    string ZealousBlueCelestyna {
+    }
+    boolean PrimeBrownDanielle3 {
+    }
+    json ClearTomatoTammie3 {
+    }
+    serviceid_number VaguePinkMei6 {
+    }
+    serviceid CloseBrownCory3 {
+    }
+  }
+  PeacefulOrangeMargo2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  OlympicRedNessa6 = false
+  HeadPinkMeggi3 = 25
+  TechnologicalOrangeMarianna5 = 179
+  ConvenientMagentaLeena3 = 253
+  BareLavenderKelli = 732
+  DeadTealSigrid3 = true
+  FoolishAzureBinnie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FilthyAmberAlfie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ZealousBlueCelestyna = "Why didnt the skeleton cross the road? Because he had no guts."
+  PrimeBrownDanielle3 = false
+  ClearTomatoTammie3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  VaguePinkMei6 = 98
+  CloseBrownCory3 = "Im only familiar with 25 letters in the English language. I dont know why."
+}

@@ -1,0 +1,21 @@
+type dummy.StrikingOliveMagda {
+  annotations {
+    hidden_boolean WiseLavenderKatharyn2 {
+    }
+    number RightBlushCherise {
+    }
+    hidden_boolean FamousTealSofia2 {
+    }
+    serviceid_number SlipperyAquamarineBarbe {
+    }
+    boolean SpottyYellowWynn {
+    }
+  }
+  number NearbyLimeKoo4 {
+    _hidden_value = true
+  }
+  RightBlushCherise = 204
+  SlipperyAquamarineBarbe = 59
+  SpottyYellowWynn = false
+  _hidden_value = true
+}

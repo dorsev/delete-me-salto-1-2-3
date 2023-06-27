@@ -1,0 +1,29 @@
+type dummy.EntitledIvoryJuliana3 {
+  serviceid GreenVioletUlrica4 {
+  }
+  serviceid DrunkPeachMarlee2 {
+  }
+  json GreekIndigoJoana3 {
+  }
+  serviceid ComplexCopperDrucill3 {
+  }
+  number CruelPlumMicaela {
+  }
+  "List<json>" ElectricGreenInger {
+  }
+  dummy.LongBlueChelsey2 OpenTealStarr3 {
+    AlliedPlumMissie = file("DesirableMagentaLara.txt")
+    BrainyTealSheryl = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FrontCopperEadie = "What creature is smarter than a talking parrot? A spelling bee."
+    PurringApricotAnni5 = true
+    DailyCyanEveline2 = 710
+    TallAmaranthAggy3 = 501
+  }
+  boolean DrivingRoseOralle3 {
+  }
+  hidden_boolean GlamorousTurquoiseTeressa2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+}

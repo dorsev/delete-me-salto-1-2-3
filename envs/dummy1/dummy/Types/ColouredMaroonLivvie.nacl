@@ -1,0 +1,85 @@
+type dummy.ColouredMaroonLivvie {
+  annotations {
+    boolean AdvisoryOrangeMaridel {
+    }
+    serviceid_number EthnicLavenderKayla {
+    }
+    number OccupationalOliveMadel2 {
+    }
+    json NotablePeachMarty {
+    }
+    json CircularRoseOrsa {
+    }
+  }
+  dummy.PowerfulCopperDruci FrailVioletTrudey {
+    WorryingSilverRozalin = "Why did the kid cross the playground? To get to the other slide."
+    RelevantCoffeeDoralia = "To be Frank, I'd have to change my name."
+    SecretGrayHetty = 243
+    VulnerableJadeKarole = false
+    ElectoralLimeKristina = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ChristianCoralElva = true
+    SmallBlueCharla = 225
+    WorryingSilverRozamond = false
+    VerticalOliveLynsey = "A steak pun is a rare medium well done."
+    RespectiveSalmonPersis = 722
+    GladGoldGlyn = 270
+    _hidden_value = true
+  }
+  dummy.VerbalPinkMaxie InvisibleRoseOrelia3 {
+    EfficientGoldGretta = 420
+    VisualGreenIngeberg = false
+    JudicialJadeKarita = 291
+    SeriousBrownDanell = 296
+    FilthyAmberAlexis = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    EncouragingLimeLacy = "Dad Im hungry  Hi hungry Im dad"
+    WealthyPeachMarybeth = 976
+    BroadCoralElisabeth = "Im only familiar with 25 letters in the English language. I dont know why."
+    SuperbMagentaLaurena = "Whoever invented the knock-knock joke should get a no bell prize."
+    AbstractMaroonLilyan = "Why didnt the skeleton cross the road? Because he had no guts."
+    FriendlyGoldGuinna = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  hidden_boolean NoisyApricotAnnette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" BraveMoccasinLucinda2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AverageCrimsonElysia3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RareEmeraldFlorenza {
+    _hidden_value = true
+  }
+  hidden_boolean RequiredMaroonLethia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string OuterJadeKarrie {
+    _hidden_value = true
+  }
+  json WeeSapphireRetha2 {
+    _hidden_value = true
+  }
+  boolean CombativeAquamarineBertha {
+    _hidden_value = true
+  }
+  hidden_boolean MinimalPurpleMoria {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  AdvisoryOrangeMaridel = false
+  EthnicLavenderKayla = 909
+  OccupationalOliveMadel2 = 199
+  NotablePeachMarty = "How come the stadium got hot after the game? Because all of the fans left."
+  CircularRoseOrsa = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

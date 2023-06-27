@@ -1,0 +1,59 @@
+type dummy.HorribleVioletValenka {
+  annotations {
+    string UnknownFuchsiaGigi {
+    }
+    string AverageAmaranthAbagael {
+    }
+    boolean OkayOliveMaggi {
+    }
+    hidden_boolean WeakFuchsiaGayla {
+    }
+    string DifferentTealSilvie {
+    }
+  }
+  dummy.DEFAULT CoolAmaranthAinsley {
+    _hidden_value = true
+  }
+  json BewilderedAquamarineBerny {
+    _hidden_value = true
+  }
+  serviceid_number SignificantBrownDanita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RecentBronzeCornie {
+    _hidden_value = true
+  }
+  json ShinyTurquoiseTiertza {
+    _hidden_value = true
+  }
+  hidden_boolean UncertainMagentaLelah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MoaningApricotAnnamaria {
+    _hidden_value = true
+  }
+  dummy.PhilosophicalRedNoell AccessibleOrangeMarijo {
+    ExcitedBlackCarita = "A steak pun is a rare medium well done."
+    SignificantBrownDanni = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HilariousBlackCarolyn = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    WonderfulBlueCeleste = "Why didnt the skeleton cross the road? Because he had no guts."
+    OutrageousAzureBreanne = 276
+    SoftCoralElayne = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  serviceid_number CharmingBeigeCalley {
+    _hidden_value = true
+  }
+  string ModestLavenderKelly {
+    _hidden_value = true
+  }
+  UnknownFuchsiaGigi = "Why did the kid cross the playground? To get to the other slide."
+  AverageAmaranthAbagael = "Why didnt the skeleton cross the road? Because he had no guts."
+  OkayOliveMaggi = true
+  DifferentTealSilvie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

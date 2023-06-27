@@ -1,0 +1,19 @@
+type dummy.CuriousLimeKirbie2 {
+  annotations {
+    hidden_boolean CheerfulBeigeCally2 {
+    }
+    string CapableEmeraldFlorri2 {
+    }
+    string SubtleMoccasinLucia {
+    }
+    string NiceBrownCymbre3 {
+    }
+  }
+  json ProudBlueCathee2 {
+    _hidden_value = true
+  }
+  CapableEmeraldFlorri2 = "What creature is smarter than a talking parrot? A spelling bee."
+  SubtleMoccasinLucia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NiceBrownCymbre3 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,15 @@
+type dummy.DecisiveSalmonPepi {
+  annotations {
+    hidden_boolean AmbitiousPeachMaureen {
+    }
+    boolean ConfidentHarlequinJade {
+    }
+    hidden_boolean FreeBronzeCody3 {
+    }
+  }
+  number FuriousRedNicolina {
+    _hidden_value = true
+  }
+  ConfidentHarlequinJade = false
+  _hidden_value = true
+}

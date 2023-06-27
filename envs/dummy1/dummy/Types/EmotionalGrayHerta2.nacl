@@ -1,0 +1,58 @@
+type dummy.EmotionalGrayHerta2 {
+  annotations {
+    hidden_boolean DiverseRedNickie5 {
+    }
+    dummy.DEFAULT PunyAmaranthAeriela3 {
+    }
+    boolean ChillyAmaranthAilsun {
+    }
+    hidden_boolean FunOrangeMarcy3 {
+    }
+  }
+  json AmbitiousPeachMaureene4 {
+    _hidden_value = true
+  }
+  boolean SensitiveGrayHenka4 {
+    _hidden_value = true
+  }
+  serviceid DarkChocolateDeanna2 {
+    _hidden_value = true
+  }
+  json UpsetOliveLyssa {
+    _hidden_value = true
+  }
+  serviceid WastefulYellowZilvia {
+    _hidden_value = true
+  }
+  json TurkishPurpleMoyna {
+    _hidden_value = true
+  }
+  number PeculiarPlumMicheline {
+    _hidden_value = true
+  }
+  number ScaryBeigeBriana {
+    _hidden_value = true
+  }
+  json SteepMoccasinLulita5 {
+    _hidden_value = true
+  }
+  serviceid_number SaltyApricotArlen {
+    _hidden_value = true
+  }
+  hidden_boolean PatientPurpleNani {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string MightyWhiteVeriee4 {
+    _hidden_value = true
+  }
+  number BrightVioletTove3 {
+    _hidden_value = true
+  }
+  PunyAmaranthAeriela3 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  ChillyAmaranthAilsun = false
+  _hidden_value = true
+}

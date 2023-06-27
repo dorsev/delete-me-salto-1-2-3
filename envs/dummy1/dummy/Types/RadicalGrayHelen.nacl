@@ -1,0 +1,32 @@
+type dummy.RadicalGrayHelen {
+  annotations {
+    boolean InjuredScarletRosalind {
+    }
+    json AdequateGrayHildy {
+    }
+    json CommonBronzeConstantine {
+    }
+    hidden_boolean GiantMoccasinLotti4 {
+    }
+    number CharacteristicOliveMalina {
+    }
+  }
+  dummy.BusyCyanFayre OpenBronzeClerissa2 {
+    OpenBronzeClerissa = true
+    FlakyAmberAli = "Why did the tomato blush? Because it saw the salad dressing."
+    NovelScarletRosina = 579
+    RoundAmberAlmeria = 194
+    CuteTomatoTara = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OralLimeKylynn2 = "Whoever invented the knock-knock joke should get a no bell prize."
+    DailyCyanEveleen = "Whoever invented the knock-knock joke should get a no bell prize."
+    AbundantAmethystAndeee = 789
+    InlandSalmonPrue = "What did one nut say as he chased another nut?  I'm a cashew!"
+    StatisticalMagentaLanie = 538
+    _hidden_value = true
+  }
+  InjuredScarletRosalind = true
+  AdequateGrayHildy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CommonBronzeConstantine = "Whoever invented the knock-knock joke should get a no bell prize."
+  CharacteristicOliveMalina = 74
+  _hidden_value = true
+}

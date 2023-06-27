@@ -1,0 +1,93 @@
+type dummy.LivelyBlackCasi2 {
+  annotations {
+    string BoredPlumMonique3 {
+    }
+    serviceid ToxicSalmonPhebe {
+    }
+    serviceid_number SubtleMoccasinLucienne2 {
+    }
+    hidden_boolean MonthlyMaroonLinnea4 {
+    }
+    serviceid_number GentleBlackCarmen {
+    }
+    boolean PerfectBlackCatarina3 {
+    }
+  }
+  dummy.ConfusedMaroonLila FamousTealSiusan {
+    _hidden_value = true
+  }
+  hidden_boolean RegulatorySalmonQuintana2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MiniatureAmaranthAdriane {
+    _hidden_value = true
+  }
+  hidden_boolean KindBlackCary {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number BlackVioletTorey2 {
+    _hidden_value = true
+  }
+  json ModernTealStarla {
+    _hidden_value = true
+  }
+  boolean BloodyTomatoTally2 {
+    _hidden_value = true
+  }
+  serviceid WetAquamarineBella2 {
+    _hidden_value = true
+  }
+  number ModeratePurpleNatalya2 {
+    _hidden_value = true
+  }
+  serviceid_number UltimateJadeKandace {
+    _hidden_value = true
+  }
+  string DoubleCrimsonEthelyn4 {
+    _hidden_value = true
+  }
+  boolean DifficultTealSimona {
+    _hidden_value = true
+  }
+  json SpanishGreenIrena2 {
+    _hidden_value = true
+  }
+  string DiplomaticMagentaLenka3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmbarrassedRedNisse2 {
+    _hidden_value = true
+  }
+  serviceid EmbarrassingSilverSashenka3 {
+    _hidden_value = true
+  }
+  number DisastrousScarletRochell2 {
+    _hidden_value = true
+  }
+  serviceid_number FatVioletTrixy3 {
+    _hidden_value = true
+  }
+  boolean DiverseRedNickie3 {
+    _hidden_value = true
+  }
+  hidden_boolean CleverJadeKari {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MagentaWhiteVenita3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BoredPlumMonique3 = "To be Frank, I'd have to change my name."
+  ToxicSalmonPhebe = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SubtleMoccasinLucienne2 = 732
+  GentleBlackCarmen = 637
+  PerfectBlackCatarina3 = false
+  _hidden_value = true
+}

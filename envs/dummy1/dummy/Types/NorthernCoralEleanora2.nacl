@@ -1,0 +1,70 @@
+type dummy.NorthernCoralEleanora2 {
+  annotations {
+    json CommunistGoldGiselle {
+    }
+    boolean PsychologicalIvoryJolee {
+    }
+    number LooseAquaAugustina3 {
+    }
+    string PriorRosePauline2 {
+    }
+    serviceid CulturalCoralElie2 {
+    }
+    serviceid_number RobustYellowWhitney {
+    }
+  }
+  string BritishBlushCherin {
+    _hidden_value = true
+  }
+  boolean AlertTomatoTabatha2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConvenientMagentaLeena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CourageousBeigeCamille2 {
+    _hidden_value = true
+  }
+  json IraqiOliveMadelon2 {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessfulChocolateDarsie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid JustMaroonLissie2 {
+    _hidden_value = true
+  }
+  serviceid_number CurlyAmberAlecia {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentCoralEimile2 {
+    _hidden_value = true
+  }
+  json EvilPeachMaurise {
+    _hidden_value = true
+  }
+  hidden_boolean WanderingTomatoSuzann {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ToxicSalmonPhelia3 {
+    _hidden_value = true
+  }
+  hidden_boolean CreepyAquamarineBeryle2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CommunistGoldGiselle = "Why was it called the dark ages? Because of all the knights. "
+  PsychologicalIvoryJolee = false
+  LooseAquaAugustina3 = 13
+  PriorRosePauline2 = "What do you call two barracuda fish?  A Pairacuda!"
+  CulturalCoralElie2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RobustYellowWhitney = 464
+  _hidden_value = true
+}

@@ -1,0 +1,65 @@
+type dummy.ResonantApricotAnthe2 {
+  annotations {
+    boolean DistantIndigoJillian3 {
+    }
+    json MightyWhiteVeriee5 {
+    }
+    serviceid SecureMoccasinLouisa3 {
+    }
+    boolean DevotedRosePaulette4 {
+    }
+    json GradualSilverSalaidh3 {
+    }
+    dummy.StraightAmethystAlysia ExtraordinaryIndigoJessie3 {
+    }
+    number AdditionalCopperDotty2 {
+    }
+    dummy.PureGrayHenryetta4 UptightBeigeBrittney3 {
+    }
+    string DistinctHarlequinJanene2 {
+    }
+    dummy.DeadTealSileas HomelyTurquoiseTessi4 {
+    }
+    string WesternChocolateDehlia2 {
+    }
+    dummy.MistyTurquoiseThea MedicalCoffeeDevondra3 {
+    }
+    boolean SpontaneousTanShaun2 {
+    }
+    string WhiteBronzeClotilda3 {
+    }
+    hidden_boolean WidespreadHarlequinJacqui4 {
+    }
+    hidden_boolean PeculiarPlumMichele2 {
+    }
+    serviceid_number ProtectiveRoseOlivette2 {
+    }
+    serviceid_number ReligiousCoralElene4 {
+    }
+    serviceid ImperialLavenderKatey4 {
+    }
+    hidden_boolean SmallAmaranthAgathe {
+    }
+    hidden_boolean ProbableSalmonPhyllys2 {
+    }
+    json DistinguishedPurpleNatasha {
+    }
+  }
+  DistantIndigoJillian3 = true
+  MightyWhiteVeriee5 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SecureMoccasinLouisa3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DevotedRosePaulette4 = true
+  GradualSilverSalaidh3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ExtraordinaryIndigoJessie3 = file("PleasantIvoryJorrie3.txt")
+  AdditionalCopperDotty2 = 488
+  DistinctHarlequinJanene2 = "Why is Peter Pan always flying? Because he Neverlands."
+  HomelyTurquoiseTessi4 = file("LostJadeKaralynn7.txt")
+  WesternChocolateDehlia2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MedicalCoffeeDevondra3 = file("FrontCopperEada2.txt")
+  SpontaneousTanShaun2 = true
+  WhiteBronzeClotilda3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProtectiveRoseOlivette2 = 736
+  ReligiousCoralElene4 = 812
+  ImperialLavenderKatey4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DistinguishedPurpleNatasha = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

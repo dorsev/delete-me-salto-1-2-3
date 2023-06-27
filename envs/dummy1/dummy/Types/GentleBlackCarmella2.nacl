@@ -1,0 +1,49 @@
+type dummy.GentleBlackCarmella2 {
+  annotations {
+    serviceid CoolAmaranthAinslee3 {
+    }
+    number UnitedCopperEddie {
+    }
+    string JudicialJadeKarla3 {
+    }
+    serviceid CrookedAmberAlanah {
+    }
+    number TallCyanFayette2 {
+    }
+    json IcyAquaAudrye2 {
+    }
+    boolean MagnificentMagentaLeeanne5 {
+    }
+  }
+  serviceid FatAmaranthAbigale3 {
+    _hidden_value = true
+  }
+  string LiquidRosePaloma2 {
+    _hidden_value = true
+  }
+  serviceid_number ForthcomingPeachMarris2 {
+    _hidden_value = true
+  }
+  string CreepyAmberAjay4 {
+    _hidden_value = true
+  }
+  hidden_boolean ExcessSilverSandye {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AccessibleOrangeMarilee3 {
+    _hidden_value = true
+  }
+  string ComparativePlumModesta {
+    _hidden_value = true
+  }
+  CoolAmaranthAinslee3 = "Slept like a log last night  woke up in the fireplace."
+  UnitedCopperEddie = 815
+  JudicialJadeKarla3 = "Why was it called the dark ages? Because of all the knights. "
+  CrookedAmberAlanah = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TallCyanFayette2 = 259
+  IcyAquaAudrye2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  MagnificentMagentaLeeanne5 = false
+  _hidden_value = true
+}

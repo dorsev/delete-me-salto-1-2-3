@@ -1,0 +1,26 @@
+type dummy.BindingSalmonPet3 {
+  annotations {
+    boolean DeterminedOrangeMarillin2 {
+    }
+    string LesserMoccasinLucy {
+    }
+    string BlankPinkMelody4 {
+    }
+    hidden_boolean ProgressiveOliveMadelina2 {
+    }
+    hidden_boolean ContinentalOliveMagdalena2 {
+    }
+    dummy.DEFAULT AmbitiousPeachMaureen4 {
+    }
+  }
+  string RainyAquaAurora2 {
+    _hidden_value = true
+  }
+  DeterminedOrangeMarillin2 = true
+  LesserMoccasinLucy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BlankPinkMelody4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AmbitiousPeachMaureen4 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  _hidden_value = true
+}

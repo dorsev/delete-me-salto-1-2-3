@@ -1,0 +1,105 @@
+type dummy.ComfortableBeigeCamel {
+  annotations {
+    hidden_boolean ExcitedOrangeMarinna {
+    }
+    hidden_boolean InclinedRedNovelia {
+    }
+    json OperationalOrangeMariam {
+    }
+    hidden_boolean WrongBrownCristabel {
+    }
+    serviceid_number FutureCoffeeDolores {
+    }
+    serviceid ProductivePlumMommy2 {
+    }
+  }
+  serviceid LiableLimeKimmi {
+    _hidden_value = true
+  }
+  serviceid BetterVioletTommi2 {
+    _hidden_value = true
+  }
+  dummy.PhilosophicalRedNoell CuteTomatoTansy {
+    ExcitedBlackCarita = "To be Frank, I'd have to change my name."
+    SignificantBrownDanni = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HilariousBlackCarolyn = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    WonderfulBlueCeleste = "To be Frank, I'd have to change my name."
+    OutrageousAzureBreanne = 498
+    SoftCoralElayne = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  hidden_boolean GothicSapphireRamonda3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CorrectCrimsonErin3 {
+    _hidden_value = true
+  }
+  number SpicyAquaArliene2 {
+    _hidden_value = true
+  }
+  string PrintedRedNeysa {
+    _hidden_value = true
+  }
+  json BrokenAmaranthAila2 {
+    _hidden_value = true
+  }
+  serviceid RoughAquaAustina2 {
+    _hidden_value = true
+  }
+  serviceid_number OutdoorSilverSasha {
+    _hidden_value = true
+  }
+  serviceid_number AncientEmeraldFlorance {
+    _hidden_value = true
+  }
+  hidden_boolean EncouragingBlackCari2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT AutonomousScarletRoobbie {
+    _hidden_value = true
+  }
+  hidden_boolean BeneficialPlumMonica2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.VictorianJadeKalli VaguePinkMehetabel2 {
+    SupportingSilverSamantha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    StaticSapphireRebekah = "I'll tell you what often gets over looked... garden fences."
+    GleamingTurquoiseTeri = "Did you know that protons have mass? I didn't even know they were catholic."
+    IndirectPeachMary = true
+    InevitableIvoryJonell = 727
+    ProfessionalChocolateDawna = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    AdditionalCopperDotty = "Whoever invented the knock-knock joke should get a no bell prize."
+    InherentRedNoami = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AbleBlushChrissy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    JoyousBlackCarrie = 932
+    GayOrangeMariette = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    UpsetOliveMabel = "Im only familiar with 25 letters in the English language. I dont know why."
+    CurrentBrownDacey = 808
+    _hidden_value = true
+  }
+  json TameTomatoSusanne {
+    _hidden_value = true
+  }
+  serviceid_number ConstitutionalHarlequinJaymee2 {
+    _hidden_value = true
+  }
+  number SkinnyAmberAlvera2 {
+    _hidden_value = true
+  }
+  OperationalOrangeMariam = "Why didnt the skeleton cross the road? Because he had no guts."
+  FutureCoffeeDolores = 918
+  ProductivePlumMommy2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

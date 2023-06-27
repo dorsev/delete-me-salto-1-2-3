@@ -1,0 +1,54 @@
+type dummy.OrganisationalTanShantee3 {
+  annotations {
+    dummy.ConfidentialScarletRomola AvailableBlushChrystal2 {
+    }
+    boolean InsufficientPurpleNeely3 {
+    }
+    serviceid_number ContemporaryFuchsiaGeorgiana2 {
+    }
+    serviceid_number FrightenedAzureBlake2 {
+    }
+    hidden_boolean KeenGrayHanni {
+    }
+    serviceid_number MutualLimeKimberli2 {
+    }
+    number SportingSilverRuthi3 {
+    }
+    string TiredBeigeBritni2 {
+    }
+    serviceid ShyTomatoSue5 {
+    }
+    serviceid_number MuddyTurquoiseTheodosia2 {
+    }
+    number LivingGrayHenrie3 {
+    }
+    hidden_boolean CreativeJadeKania3 {
+    }
+    number AggressiveMaroonLilias3 {
+    }
+    number HungryAzureBlisse {
+    }
+    boolean EerieAzureBianca3 {
+    }
+    serviceid_number SlimRoseOlva3 {
+    }
+    hidden_boolean SoundRoseOlga5 {
+    }
+    json NosyWhiteVickie4 {
+    }
+  }
+  InsufficientPurpleNeely3 = true
+  ContemporaryFuchsiaGeorgiana2 = 637
+  FrightenedAzureBlake2 = 333
+  MutualLimeKimberli2 = 342
+  SportingSilverRuthi3 = 477
+  TiredBeigeBritni2 = "Dad Im hungry  Hi hungry Im dad"
+  ShyTomatoSue5 = "To be Frank, I'd have to change my name."
+  MuddyTurquoiseTheodosia2 = 175
+  LivingGrayHenrie3 = 50
+  AggressiveMaroonLilias3 = 638
+  HungryAzureBlisse = 952
+  EerieAzureBianca3 = true
+  SlimRoseOlva3 = 246
+  NosyWhiteVickie4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+}

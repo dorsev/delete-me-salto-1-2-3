@@ -1,0 +1,92 @@
+type dummy.OutsideGrayHelena {
+  annotations {
+    string WearyBeigeBrooks2 {
+    }
+    string StrangeTurquoiseTimmie2 {
+    }
+    dummy.DEFAULT TallAmaranthAgna {
+    }
+    boolean PanickyAzureBren3 {
+    }
+    string OrthodoxSapphireRebecka {
+    }
+    serviceid JitteryVioletValerie2 {
+    }
+    string VariedRedNoreen2 {
+    }
+  }
+  string AppallingTanSelene {
+    _hidden_value = true
+  }
+  serviceid_number CombinedOliveMaighdiln3 {
+    _hidden_value = true
+  }
+  serviceid_number GreenVioletUlrica2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SurroundingOrangeMarget {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricGreenIngeborg {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean UnsightlyTurquoiseTish {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT TheoreticalIndigoJeniffer {
+    _hidden_value = true
+  }
+  serviceid AccusedSilverSallyann {
+    _hidden_value = true
+  }
+  json ProtestantScarletRobin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TestyYellowYolande2 {
+    _hidden_value = true
+  }
+  json AbundantAmethystAndi2 {
+    _hidden_value = true
+  }
+  serviceid_number FunctionalMaroonLexis2 {
+    _hidden_value = true
+  }
+  json FineBrownCourtnay {
+    _hidden_value = true
+  }
+  string LexicalSilverSacha2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SocialBlueCharo2 {
+    _hidden_value = true
+  }
+  serviceid GoverningTanSelle2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImplicitSapphireReyna {
+    _hidden_value = true
+  }
+  number CleanCyanFernanda2 {
+    _hidden_value = true
+  }
+  serviceid PricklyAquaAurie {
+    _hidden_value = true
+  }
+  json MobilePurpleMorissa {
+    _hidden_value = true
+  }
+  WearyBeigeBrooks2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  StrangeTurquoiseTimmie2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TallAmaranthAgna = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  PanickyAzureBren3 = false
+  OrthodoxSapphireRebecka = "To be Frank, I'd have to change my name."
+  JitteryVioletValerie2 = "What do you call two barracuda fish?  A Pairacuda!"
+  VariedRedNoreen2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

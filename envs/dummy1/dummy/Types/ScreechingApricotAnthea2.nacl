@@ -1,0 +1,51 @@
+type dummy.ScreechingApricotAnthea2 {
+  annotations {
+    string PoorTealSteffie2 {
+    }
+    string SurprisedEmeraldFrederica3 {
+    }
+    serviceid ProperCoralElinore3 {
+    }
+    boolean WorriedGrayHarmony2 {
+    }
+    number AlternativeEmeraldFionna {
+    }
+    number ExistingCoffeeDeva {
+    }
+    boolean SingleBronzeCorabelle2 {
+    }
+  }
+  hidden_boolean WidespreadHarlequinJacqui2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DangerousCrimsonEsta {
+    _hidden_value = true
+  }
+  serviceid ScrawnyYellowWilly {
+    _hidden_value = true
+  }
+  hidden_boolean GrievingAzureBlakelee3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number WorthyRoseOfelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StiffPeachMarya {
+    _hidden_value = true
+  }
+  serviceid UnwillingTanShelby {
+    _hidden_value = true
+  }
+  PoorTealSteffie2 = "A steak pun is a rare medium well done."
+  SurprisedEmeraldFrederica3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ProperCoralElinore3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WorriedGrayHarmony2 = true
+  AlternativeEmeraldFionna = 163
+  ExistingCoffeeDeva = 998
+  SingleBronzeCorabelle2 = false
+  _hidden_value = true
+}

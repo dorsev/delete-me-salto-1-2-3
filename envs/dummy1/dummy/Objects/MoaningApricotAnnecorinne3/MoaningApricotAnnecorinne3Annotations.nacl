@@ -1,0 +1,41 @@
+type dummy.MoaningApricotAnnecorinne3 {
+  annotations {
+    json ComplexCopperDrucie2 {
+    }
+    json BindingSalmonPet4 {
+    }
+    number YoungBlueChere4 {
+    }
+    dummy.HorizontalSalmonPru ManualRosePaolina4 {
+    }
+    boolean ColouredMaroonLivia5 {
+    }
+    string DiplomaticMagentaLenna5 {
+    }
+    hidden_boolean ConceptualTanShela2 {
+    }
+    string BlindIvoryJuanita4 {
+    }
+    boolean HungryMaroonLisabeth8 {
+    }
+    string DarkChocolateDeanne3 {
+    }
+    serviceid_number SurprisingGreenHynda4 {
+    }
+    boolean GothicSapphireRalina {
+    }
+    serviceid_number SharpFuchsiaGeorgine4 {
+    }
+  }
+  ComplexCopperDrucie2 = "I'll tell you what often gets over looked... garden fences."
+  BindingSalmonPet4 = "To be Frank, I'd have to change my name."
+  YoungBlueChere4 = 122
+  ColouredMaroonLivia5 = false
+  DiplomaticMagentaLenna5 = "Slept like a log last night  woke up in the fireplace."
+  BlindIvoryJuanita4 = "Slept like a log last night  woke up in the fireplace."
+  HungryMaroonLisabeth8 = true
+  DarkChocolateDeanne3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SurprisingGreenHynda4 = 938
+  GothicSapphireRalina = true
+  SharpFuchsiaGeorgine4 = 975
+}

@@ -1,0 +1,52 @@
+type dummy.MagentaWhiteVelma4 {
+  annotations {
+    string MonetaryIvoryJoey2 {
+    }
+    string StupidTomatoSula {
+    }
+    dummy.ImperialJadeKaterina2 CompatibleSapphireRennie5 {
+    }
+    json SmilingBlueCati {
+    }
+    json BrainyTealSherye4 {
+    }
+    dummy.ElectricalLavenderKerrill HolyIndigoJelene4 {
+    }
+    json OverwhelmingPurpleMyrta4 {
+    }
+    serviceid_number AbundantAmethystAndi4 {
+    }
+    dummy.CatholicHarlequinJammie ConservativeCoralEllette {
+    }
+    string FewAmethystAndria4 {
+    }
+    number ShallowPinkMeggie2 {
+    }
+    serviceid_number JointCoralElisha2 {
+    }
+    json BewilderedAquamarineBernita4 {
+    }
+    string ScientificCrimsonErena2 {
+    }
+    boolean JollyVioletValina2 {
+    }
+    hidden_boolean FantasticBlackCarlota5 {
+    }
+    boolean StupidTomatoSusan4 {
+    }
+  }
+  MonetaryIvoryJoey2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  StupidTomatoSula = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SmilingBlueCati = "How come the stadium got hot after the game? Because all of the fans left."
+  BrainyTealSherye4 = "I'll tell you what often gets over looked... garden fences."
+  HolyIndigoJelene4 = true
+  OverwhelmingPurpleMyrta4 = "Why was it called the dark ages? Because of all the knights. "
+  AbundantAmethystAndi4 = 123
+  FewAmethystAndria4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ShallowPinkMeggie2 = 585
+  JointCoralElisha2 = 835
+  BewilderedAquamarineBernita4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ScientificCrimsonErena2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  JollyVioletValina2 = true
+  StupidTomatoSusan4 = false
+}

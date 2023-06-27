@@ -1,0 +1,48 @@
+type dummy.ImaginativeTanSella {
+  annotations {
+    dummy.VerbalPinkMaxie WideBronzeCorie {
+    }
+    dummy.DEFAULT OkSapphireRhianon {
+    }
+    serviceid MeltedAquaAurea2 {
+    }
+    string RoughGreenIdelle {
+    }
+    serviceid_number MajorBlushClaire {
+    }
+    serviceid OverallCrimsonEmmalyn {
+    }
+  }
+  dummy.DisappointedMagentaLaurice AbundantAmethystAndi {
+    RightBlushCherin = 795
+    PoorBronzeCorella = 520
+    CarefulCyanFern = true
+    UnevenAquamarineBeilul = true
+    FantasticSapphireReggie = 435
+    ContinentalOliveMaggee = "Im only familiar with 25 letters in the English language. I dont know why."
+    FinancialBronzeCorette = 963
+    HumanBronzeConstantina = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    EnergeticBlackCaril = 364
+    _hidden_value = true
+  }
+  number SimilarBronzeConstance {
+    _hidden_value = true
+  }
+  number OverwhelmingPurpleMyrna {
+    _hidden_value = true
+  }
+  serviceid FastEmeraldFleurette2 {
+    _hidden_value = true
+  }
+  WideBronzeCorie = true
+  OkSapphireRhianon = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  MeltedAquaAurea2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RoughGreenIdelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MajorBlushClaire = 818
+  OverallCrimsonEmmalyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

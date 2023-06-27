@@ -1,0 +1,80 @@
+type dummy.SupportingSilverSam {
+  annotations {
+    serviceid SevereEmeraldGaby {
+    }
+    string MarvellousMoccasinLorna2 {
+    }
+    number InquisitiveTealStafani {
+    }
+    hidden_boolean GoverningTanSelle {
+    }
+    boolean LexicalSilverSadella {
+    }
+    serviceid_number FrequentLavenderKati {
+    }
+  }
+  number DominantIndigoJen {
+    _hidden_value = true
+  }
+  json DangerousAzureBethina {
+    _hidden_value = true
+  }
+  number SocialBlueCharmine {
+    _hidden_value = true
+  }
+  boolean StraightforwardMaroonLexy {
+    _hidden_value = true
+  }
+  hidden_boolean OptimisticSalmonPegeen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LexicalSilverSacha {
+    _hidden_value = true
+  }
+  hidden_boolean DevotedRosePaulette2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string DiverseRedNicky2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FunnyBlackCarmelina {
+    _hidden_value = true
+  }
+  json EntireEmeraldFrancyne {
+    _hidden_value = true
+  }
+  number CorrectCrimsonErin {
+    _hidden_value = true
+  }
+  number GiganticVioletUlrikaumeko {
+    _hidden_value = true
+  }
+  number UsedFuchsiaGeorgeanna {
+    _hidden_value = true
+  }
+  number DominantIndigoJena3 {
+    _hidden_value = true
+  }
+  "Map<string>" DisappointedMagentaLaurice2 {
+    _hidden_value = true
+  }
+  boolean EmbarrassedAzureBibbye {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorrey {
+    _hidden_value = true
+  }
+  serviceid_number TallAmaranthAggie {
+    _hidden_value = true
+  }
+  SevereEmeraldGaby = "Why did the kid cross the playground? To get to the other slide."
+  MarvellousMoccasinLorna2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  InquisitiveTealStafani = 398
+  LexicalSilverSadella = false
+  FrequentLavenderKati = 211
+  _hidden_value = true
+}

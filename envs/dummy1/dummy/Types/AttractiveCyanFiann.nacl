@@ -1,0 +1,23 @@
+type dummy.AttractiveCyanFiann is boolean {
+  annotations {
+    dummy.DEFAULT LargeAmaranthAdeline {
+    }
+    serviceid_number TrickyYellowYolanthe {
+    }
+    hidden_boolean WorriedBeigeBrynn {
+    }
+    number LuckyBlackCassaundra {
+    }
+    boolean OccasionalIvoryJuliette {
+    }
+    string FrailVioletTrude {
+    }
+  }
+  LargeAmaranthAdeline = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  TrickyYellowYolanthe = 238
+  LuckyBlackCassaundra = 902
+  OccasionalIvoryJuliette = true
+  FrailVioletTrude = "Why was it called the dark ages? Because of all the knights. "
+}

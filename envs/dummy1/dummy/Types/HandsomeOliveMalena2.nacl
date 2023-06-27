@@ -1,0 +1,126 @@
+type dummy.HandsomeOliveMalena2 {
+  annotations {
+    hidden_boolean CrazyTealSibley3 {
+    }
+    string ArtisticPeachMathilda {
+    }
+    string MarvellousMoccasinLorita {
+    }
+    number BriefEmeraldFlory2 {
+    }
+    number TastyAquaAshlie {
+    }
+  }
+  dummy.PowerfulCopperDruci RedWhiteWenda {
+    WorryingSilverRozalin = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RelevantCoffeeDoralia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SecretGrayHetty = 244
+    VulnerableJadeKarole = false
+    ElectoralLimeKristina = "I'll tell you what often gets over looked... garden fences."
+    ChristianCoralElva = false
+    SmallBlueCharla = 530
+    WorryingSilverRozamond = true
+    VerticalOliveLynsey = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RespectiveSalmonPersis = 29
+    GladGoldGlyn = 72
+    _hidden_value = true
+  }
+  serviceid ColouredMaroonLivvie4 {
+    _hidden_value = true
+  }
+  json CleanCyanFernandina4 {
+    _hidden_value = true
+  }
+  hidden_boolean UglyPlumMicky {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WanderingTomatoSuzanne {
+    _hidden_value = true
+  }
+  number BlackVioletTonye2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" AssociatedMaroonLindsey4 {
+    _hidden_value = true
+  }
+  boolean SoundAmethystAngelina4 {
+    _hidden_value = true
+  }
+  boolean HighBlueCharissa4 {
+    _hidden_value = true
+  }
+  serviceid_number SpatialSalmonPerle2 {
+    _hidden_value = true
+  }
+  json ProposedGoldGwendolin5 {
+    _hidden_value = true
+  }
+  serviceid_number CrowdedTomatoTanhya3 {
+    _hidden_value = true
+  }
+  serviceid LegalBrownDagmar2 {
+    _hidden_value = true
+  }
+  boolean DustyAmberAlexina4 {
+    _hidden_value = true
+  }
+  hidden_boolean InherentRedNoami3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json GothicSapphireRamona3 {
+    _hidden_value = true
+  }
+  serviceid NearFuchsiaGeri {
+    _hidden_value = true
+  }
+  serviceid RoundIvoryJohnath3 {
+    _hidden_value = true
+  }
+  number WorkingCrimsonEmmaline2 {
+    _hidden_value = true
+  }
+  serviceid_number MightyWhiteVerena2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExoticScarletRisa3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ViolentIvoryJolene {
+    _hidden_value = true
+  }
+  json SuperPeachMarthena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ManualRosePaolina2 {
+    _hidden_value = true
+  }
+  json EconomicBlushClare3 {
+    _hidden_value = true
+  }
+  serviceid_number CharmingBeigeCallie2 {
+    _hidden_value = true
+  }
+  number StraightforwardMaroonLeyla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WelshGrayHayley {
+    _hidden_value = true
+  }
+  number RedBrownDallas5 {
+    _hidden_value = true
+  }
+  number NervousHarlequinJanot5 {
+    _hidden_value = true
+  }
+  ArtisticPeachMathilda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MarvellousMoccasinLorita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BriefEmeraldFlory2 = 672
+  TastyAquaAshlie = 914
+  _hidden_value = true
+}

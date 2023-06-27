@@ -1,0 +1,64 @@
+type dummy.DyingScarletRoch3 {
+  annotations {
+    dummy.ToughYellowYsabel RobustWhiteWenonah2 {
+    }
+    string MarriedCyanFania {
+    }
+    dummy.TypicalEmeraldFrancesca3 DesirableMagentaLanny3 {
+    }
+    serviceid ConcernedTealSibella3 {
+    }
+    number PremierOrangeMari3 {
+    }
+    serviceid_number InternalCoralEdyth5 {
+    }
+    hidden_boolean PossibleBlushCheslie2 {
+    }
+    json ComfortableBeigeCamel4 {
+    }
+    hidden_boolean PresentBrownCristi5 {
+    }
+    string GloriousScarletRose2 {
+    }
+    string RainyAquaAuroora2 {
+    }
+    boolean EagerPlumMilzie2 {
+    }
+    serviceid_number EverydayLimeKym5 {
+    }
+    boolean IndianGrayHarlie2 {
+    }
+    hidden_boolean ObjectiveOrangeMamie4 {
+    }
+    boolean RedundantSalmonPhilippe5 {
+    }
+    number ViolentIvoryJoletta2 {
+    }
+    serviceid_number CheerfulSapphireRhodie4 {
+    }
+    hidden_boolean SubtleMoccasinLucienne3 {
+    }
+    dummy.ArtificialMagentaLenee ChangingJadeKassi2 {
+    }
+    serviceid WastefulYellowZia {
+    }
+    number CorrespondingPlumMinta4 {
+    }
+  }
+  RobustWhiteWenonah2 = false
+  MarriedCyanFania = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConcernedTealSibella3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PremierOrangeMari3 = 141
+  InternalCoralEdyth5 = 235
+  ComfortableBeigeCamel4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GloriousScarletRose2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  RainyAquaAuroora2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EagerPlumMilzie2 = false
+  EverydayLimeKym5 = 148
+  IndianGrayHarlie2 = false
+  RedundantSalmonPhilippe5 = false
+  ViolentIvoryJoletta2 = 601
+  CheerfulSapphireRhodie4 = 653
+  WastefulYellowZia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CorrespondingPlumMinta4 = 393
+}

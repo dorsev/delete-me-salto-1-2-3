@@ -1,0 +1,73 @@
+type dummy.GreenVioletUla3 {
+  annotations {
+    number EthicalScarletRobenia {
+    }
+    serviceid_number ImpressiveIndigoJessa {
+    }
+    serviceid_number QuickCoralEleonora {
+    }
+    json PrimaryCoffeeDoll {
+    }
+    string ManagerialPurpleNerita2 {
+    }
+    string RawJadeKarlen {
+    }
+  }
+  hidden_boolean HandsomeVioletUta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number QuickestWhiteVyky2 {
+    _hidden_value = true
+  }
+  serviceid ParticularBlushClaudetta {
+    _hidden_value = true
+  }
+  hidden_boolean BreakableTealShirlee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean VeryCoralElfrida {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ArrogantAquamarineBernadene2 {
+    _hidden_value = true
+  }
+  json DeadBrownDaphne2 {
+    _hidden_value = true
+  }
+  string MagnificentWhiteVeda5 {
+    _hidden_value = true
+  }
+  hidden_boolean GiantAmaranthAdah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json DepressedPinkMelanie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ClearBlushCinnamon {
+    _hidden_value = true
+  }
+  boolean OrangePurpleMuffin {
+    _hidden_value = true
+  }
+  json UglyYellowZahara4 {
+    _hidden_value = true
+  }
+  serviceid_number TeenageScarletRobinett3 {
+    _hidden_value = true
+  }
+  EthicalScarletRobenia = 111
+  ImpressiveIndigoJessa = 777
+  QuickCoralEleonora = 265
+  PrimaryCoffeeDoll = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ManagerialPurpleNerita2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RawJadeKarlen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,25 @@
+type dummy.GreenChocolateDeborah2 {
+  annotations {
+    string SteadyJadeKailey {
+    }
+    boolean ConvincingSalmonPegeen {
+    }
+    string MarriedCyanFanechka {
+    }
+    serviceid_number CriminalFuchsiaGeorgette2 {
+    }
+    serviceid LiveIndigoJody2 {
+    }
+    hidden_boolean ProfessionalChocolateDawna2 {
+    }
+  }
+  dummy.DEFAULT ForwardSapphireRici2 {
+    _hidden_value = true
+  }
+  SteadyJadeKailey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ConvincingSalmonPegeen = true
+  MarriedCyanFanechka = "Did you know that protons have mass? I didn't even know they were catholic."
+  CriminalFuchsiaGeorgette2 = 273
+  LiveIndigoJody2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

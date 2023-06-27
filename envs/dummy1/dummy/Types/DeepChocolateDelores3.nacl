@@ -1,0 +1,150 @@
+type dummy.DeepChocolateDelores3 {
+  annotations {
+    number ProfessionalChocolateDawna3 {
+    }
+    dummy.DEFAULT PremierOrangeMaria3 {
+    }
+  }
+  dummy.NoisyApricotAnnetta TrickyYellowYoshiko2 {
+    InterimOrangeMalvina = 993
+    JudicialJadeKarla = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    WhisperingApricotArdelle = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    LabourBrownDaffi = 834
+    InjuredScarletRosalie = "Slept like a log last night  woke up in the fireplace."
+    ThoughtfulBlueCaty = 772
+    ArmedGrayHelaina = true
+    DelightfulSilverRowe = true
+    ExperiencedMagentaLaural = false
+    ToryGreenIndira = true
+    ShortAmethystAnabella = 194
+    BrilliantGreenIlse = "Why did the kid cross the playground? To get to the other slide."
+    ColossalAmaranthAbbie = true
+    ArtificialMagentaLena = "How come the stadium got hot after the game? Because all of the fans left."
+    ExtraCoffeeDiane = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    EconomicBlushClarabelle = 490
+    OrangePurpleMuire = "A steak pun is a rare medium well done."
+    SillyIvoryJoell = "Im only familiar with 25 letters in the English language. I dont know why."
+    ContinuousIvoryJoye = true
+    SuperiorMaroonLian = "Why didnt the skeleton cross the road? Because he had no guts."
+    GeneralBlushChristen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AmusedBeigeCahra = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    _hidden_value = true
+  }
+  dummy.CorrespondingPlumMiquela DeliberateRedNoella2 {
+    DelightedIvoryJulianna = 937
+    FrightenedMagentaLaverne = false
+    VariousBrownCorry = false
+    MolecularRedNertie = false
+    ExtensiveGoldGloriane = 868
+    _hidden_value = true
+  }
+  number WetAmberAlidia {
+    _hidden_value = true
+  }
+  number StandardCopperDrusie {
+    _hidden_value = true
+  }
+  "List<boolean>" VictorianJadeKalli2 {
+    _hidden_value = true
+  }
+  string IcyAquaAudy3 {
+    _hidden_value = true
+  }
+  serviceid DevelopedPinkMeris {
+    _hidden_value = true
+  }
+  json ShallowPinkMeggy {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPlumMillie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OverallCrimsonEmmalynn {
+    _hidden_value = true
+  }
+  hidden_boolean MiniatureAmaranthAdrianna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json QuietCoralElaina2 {
+    _hidden_value = true
+  }
+  number NearFuchsiaGerianna {
+    _hidden_value = true
+  }
+  string WillingGoldGusti2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DomesticCopperEba {
+    _hidden_value = true
+  }
+  json HilariousBlackCaroljean {
+    _hidden_value = true
+  }
+  hidden_boolean PreciseIndigoJobie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CurrentBrownDacey2 {
+    _hidden_value = true
+  }
+  boolean AnnualCoffeeDonny2 {
+    _hidden_value = true
+  }
+  json NiceBrownCybil2 {
+    _hidden_value = true
+  }
+  hidden_boolean LightAmethystAnetta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SlowAmethystAnaliese2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConfusedAquamarineBerty {
+    _hidden_value = true
+  }
+  serviceid_number RandomMoccasinLorena2 {
+    _hidden_value = true
+  }
+  hidden_boolean EquivalentJadeKaleena3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ExtraordinaryIndigoJessie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VastYellowZaria {
+    _hidden_value = true
+  }
+  string ComparativePlumMitzi2 {
+    _hidden_value = true
+  }
+  hidden_boolean OpenTealStarlin {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json DifficultTealSimonette {
+    _hidden_value = true
+  }
+  ProfessionalChocolateDawna3 = 985
+  PremierOrangeMaria3 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  _hidden_value = true
+}

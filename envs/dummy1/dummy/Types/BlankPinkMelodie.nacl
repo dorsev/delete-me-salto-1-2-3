@@ -1,0 +1,131 @@
+type dummy.BlankPinkMelodie {
+  annotations {
+    dummy.DEFAULT LivelyBlackCasie {
+    }
+    dummy.ColdChocolateDebby JollyBlackCarri {
+    }
+    string AllegedOliveLynn {
+    }
+    string AccusedSilverSallyanne {
+    }
+    json WesternChocolateDehlia {
+    }
+    serviceid_number LoudApricotAnnabella {
+    }
+  }
+  dummy.ModernAmethystAmelie GenerousLavenderKayle {
+    MinisterialTanSheela = true
+    WelcomeIvoryJosie = "Slept like a log last night  woke up in the fireplace."
+    WarmCopperDulcinea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    QualifiedPinkMelli = 788
+    _hidden_value = true
+  }
+  number RationalLavenderKay {
+    _hidden_value = true
+  }
+  hidden_boolean PreciousOrangeMariele {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PremierOrangeMari2 {
+    _hidden_value = true
+  }
+  serviceid_number UniversalJadeKacey {
+    _hidden_value = true
+  }
+  hidden_boolean WildTomatoSuzette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string MammothAmaranthAdora {
+    _hidden_value = true
+  }
+  string LightAmethystAnet {
+    _hidden_value = true
+  }
+  serviceid DeterminedOrangeMarin2 {
+    _hidden_value = true
+  }
+  hidden_boolean SensitiveGrayHendrika {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UnfairMaroonLilian {
+    _hidden_value = true
+  }
+  serviceid CreativeJadeKanya {
+    _hidden_value = true
+  }
+  hidden_boolean EvilAzureBilli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NosyWhiteVida {
+    _hidden_value = true
+  }
+  serviceid ResultingPurpleNada {
+    _hidden_value = true
+  }
+  boolean AutomaticLavenderKiah {
+    _hidden_value = true
+  }
+  serviceid_number SaltyApricotArleen {
+    _hidden_value = true
+  }
+  serviceid PreciousOrangeMarielle {
+    _hidden_value = true
+  }
+  json OkSapphireRhodia {
+    _hidden_value = true
+  }
+  string SorryBrownDanyelle {
+    _hidden_value = true
+  }
+  number ModernBrownDacy {
+    _hidden_value = true
+  }
+  json HorribleVioletValene {
+    _hidden_value = true
+  }
+  json ElectoralLimeKristien {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" TechnologicalOrangeMarianne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SimpleBronzeCorliss {
+    _hidden_value = true
+  }
+  hidden_boolean StickyAquaArlyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PreliminaryOliveLyndsey {
+    _hidden_value = true
+  }
+  boolean CalmPurpleNancie {
+    _hidden_value = true
+  }
+  json PurpleWhiteViviana {
+    _hidden_value = true
+  }
+  number SquealingApricotArabel2 {
+    _hidden_value = true
+  }
+  LivelyBlackCasie = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  JollyBlackCarri = 17
+  AllegedOliveLynn = "To be Frank, I'd have to change my name."
+  AccusedSilverSallyanne = "Whoever invented the knock-knock joke should get a no bell prize."
+  WesternChocolateDehlia = "Why do birds fly south for the winter? Because it's too far to walk."
+  LoudApricotAnnabella = 393
+  _hidden_value = true
+}

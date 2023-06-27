@@ -1,0 +1,22 @@
+type dummy.VictorianJadeKalli3 {
+  annotations {
+    string InlandSalmonPrudy2 {
+    }
+    hidden_boolean SouthernCyanEvita {
+    }
+    serviceid_number BigAmaranthAbbe3 {
+    }
+    boolean ItalianGoldGrayce2 {
+    }
+    json VariedRedNorah {
+    }
+  }
+  boolean DominantIndigoJen4 {
+    _hidden_value = true
+  }
+  InlandSalmonPrudy2 = "Why did the kid cross the playground? To get to the other slide."
+  BigAmaranthAbbe3 = 654
+  ItalianGoldGrayce2 = true
+  VariedRedNorah = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

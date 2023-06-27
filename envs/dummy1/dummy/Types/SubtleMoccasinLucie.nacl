@@ -1,0 +1,21 @@
+type dummy.SubtleMoccasinLucie {
+  annotations {
+    hidden_boolean SurprisingGreenIbbie {
+    }
+    boolean RoyalBrownCristine {
+    }
+    number ModestLavenderKelsey2 {
+    }
+    serviceid_number MonthlyMaroonLinnea3 {
+    }
+    hidden_boolean AliveTealSherline {
+    }
+  }
+  boolean EncouragingLimeLacey {
+    _hidden_value = true
+  }
+  RoyalBrownCristine = false
+  ModestLavenderKelsey2 = 310
+  MonthlyMaroonLinnea3 = 933
+  _hidden_value = true
+}

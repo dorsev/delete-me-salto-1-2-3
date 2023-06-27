@@ -1,0 +1,60 @@
+type dummy.UnchangedSilverRozella2 {
+  annotations {
+    number DemocraticCrimsonEmyle {
+    }
+    dummy.LightCopperDulciana GorgeousVioletUrsala3 {
+    }
+    json FineBlackCarlyn2 {
+    }
+    hidden_boolean ParticularBlushClaudelle2 {
+    }
+    serviceid_number PregnantLimeKizzie {
+    }
+    boolean ItchyVioletValera {
+    }
+  }
+  hidden_boolean MelodicApricotAnnalee2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NoisySilverSal2 {
+    _hidden_value = true
+  }
+  number PetiteAmaranthAdrianna {
+    _hidden_value = true
+  }
+  string HolyIndigoJehanna2 {
+    _hidden_value = true
+  }
+  serviceid EvilPeachMaurine {
+    _hidden_value = true
+  }
+  number LovelyCoralEllissa {
+    _hidden_value = true
+  }
+  serviceid_number FreeBronzeCodie3 {
+    _hidden_value = true
+  }
+  string IntellectualJadeKalie {
+    _hidden_value = true
+  }
+  string UnpleasantRedNonnah {
+    _hidden_value = true
+  }
+  serviceid_number FinalBrownDalenna {
+    _hidden_value = true
+  }
+  boolean RareEmeraldFlorentia {
+    _hidden_value = true
+  }
+  boolean ConstitutionalHarlequinJaymee {
+    _hidden_value = true
+  }
+  DemocraticCrimsonEmyle = 527
+  GorgeousVioletUrsala3 = 554
+  FineBlackCarlyn2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PregnantLimeKizzie = 792
+  ItchyVioletValera = true
+  _hidden_value = true
+}

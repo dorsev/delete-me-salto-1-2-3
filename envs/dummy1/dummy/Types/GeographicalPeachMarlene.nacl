@@ -1,0 +1,27 @@
+type dummy.GeographicalPeachMarlene {
+  annotations {
+    dummy.DEFAULT ZanyBlueCelie4 {
+    }
+    hidden_boolean GrubbyAquaAubry2 {
+    }
+    boolean ResultingPurpleNada3 {
+    }
+    json PurringApricotAnnice {
+    }
+    boolean SeriousBrownDanella3 {
+    }
+  }
+  serviceid_number FreshCopperDyanna2 {
+    _hidden_value = true
+  }
+  number CombinedOliveMair2 {
+    _hidden_value = true
+  }
+  ZanyBlueCelie4 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ResultingPurpleNada3 = true
+  PurringApricotAnnice = "Did you know that protons have mass? I didn't even know they were catholic."
+  SeriousBrownDanella3 = true
+  _hidden_value = true
+}

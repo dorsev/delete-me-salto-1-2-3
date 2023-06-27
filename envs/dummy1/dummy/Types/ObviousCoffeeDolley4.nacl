@@ -1,0 +1,26 @@
+type dummy.ObviousCoffeeDolley4 {
+  annotations {
+    number ParentalRedNicholle {
+    }
+    boolean OldAmethystAmii {
+    }
+    json PainfulMaroonLilllie2 {
+    }
+    boolean StrikingOliveMagdaia2 {
+    }
+    json RedBrownDaloris2 {
+    }
+    json CrazyVioletTresa3 {
+    }
+  }
+  string RoughAquaAustine {
+    _hidden_value = true
+  }
+  ParentalRedNicholle = 827
+  OldAmethystAmii = false
+  PainfulMaroonLilllie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  StrikingOliveMagdaia2 = true
+  RedBrownDaloris2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CrazyVioletTresa3 = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

@@ -1,0 +1,56 @@
+type dummy.GiantAmaranthAdaline2 {
+  annotations {
+    serviceid WoodenAquamarineBellina3 {
+    }
+    number ComprehensiveGreenHyacintha4 {
+    }
+    serviceid RelevantCoffeeDoralia2 {
+    }
+    serviceid CrazyTealSibley5 {
+    }
+    json DirtyAmberAlethea4 {
+    }
+    string LonelyAzureBobine2 {
+    }
+    dummy.DutchLavenderKenna PrimaryCoffeeDody4 {
+    }
+    boolean ClinicalIndigoJenny6 {
+    }
+    hidden_boolean DisappointedMagentaLauryn3 {
+    }
+    boolean MinorEmeraldGabie5 {
+    }
+    string OtherBlueCelisse2 {
+    }
+    json ProbableSalmonPhyllida {
+    }
+    hidden_boolean InadequateLavenderKeeley2 {
+    }
+    boolean ManagingLimeKittie {
+    }
+    json FrightenedAzureBlake3 {
+    }
+    serviceid_number GastricMagentaLayla2 {
+    }
+    boolean ArabLimeKirsteni5 {
+    }
+    hidden_boolean WorldwideTanShanna2 {
+    }
+    hidden_boolean LowBlushChristine4 {
+    }
+  }
+  WoodenAquamarineBellina3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ComprehensiveGreenHyacintha4 = 671
+  RelevantCoffeeDoralia2 = "To be Frank, I'd have to change my name."
+  CrazyTealSibley5 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DirtyAmberAlethea4 = "Why is Peter Pan always flying? Because he Neverlands."
+  LonelyAzureBobine2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ClinicalIndigoJenny6 = true
+  MinorEmeraldGabie5 = false
+  OtherBlueCelisse2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ProbableSalmonPhyllida = "What do you call two barracuda fish?  A Pairacuda!"
+  ManagingLimeKittie = false
+  FrightenedAzureBlake3 = "What do you call two barracuda fish?  A Pairacuda!"
+  GastricMagentaLayla2 = 963
+  ArabLimeKirsteni5 = true
+}

@@ -1,0 +1,61 @@
+type dummy.OrangeWhiteViola3 {
+  annotations {
+    hidden_boolean ArtificialMagentaLenette3 {
+    }
+    hidden_boolean BusyCyanFayina3 {
+    }
+    serviceid_number ExoticSapphireRiki2 {
+    }
+  }
+  dummy.ElectricalLavenderKerrill ImmenseAmaranthAdele3 {
+    FinalBrownDale = true
+    DirtyAmberAleta = "Why was it called the dark ages? Because of all the knights. "
+    UnchangedSilverRubetta = false
+    ElectronicGreenInga = false
+    GreenChocolateDebra = "Dad Im hungry  Hi hungry Im dad"
+    WeirdSilverRozele = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    UglyTurquoiseTiphani = false
+    EuropeanBronzeConcettina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MaleCoffeeDianne = 223
+    AverageAmaranthAaren = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FrailVioletTrixy = "Why didnt the skeleton cross the road? Because he had no guts."
+    FineBlackCarlyn = 822
+    ComplicatedIndigoJoanie = "Im only familiar with 25 letters in the English language. I dont know why."
+    UpperCyanFaustine = true
+    WonderfulYellowZitella = "Why did the kid cross the playground? To get to the other slide."
+    ObligedOrangeMarcellina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    JitteryVioletValerie = "Dad Im hungry  Hi hungry Im dad"
+    BreezyAmaranthAidan = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  number LargeBlueCharlotte2 {
+    _hidden_value = true
+  }
+  json IllegalJadeKaroline2 {
+    _hidden_value = true
+  }
+  serviceid_number RegularCopperDorthy4 {
+    _hidden_value = true
+  }
+  string WittyBlueCele4 {
+    _hidden_value = true
+  }
+  hidden_boolean KeyCopperDorothy3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ConfidentHarlequinJada3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AttractiveCyanFey3 {
+    _hidden_value = true
+  }
+  boolean ExceptionalOliveMadge {
+    _hidden_value = true
+  }
+  ExoticSapphireRiki2 = 298
+  _hidden_value = true
+}
