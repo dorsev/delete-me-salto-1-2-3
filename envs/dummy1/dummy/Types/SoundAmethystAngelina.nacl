@@ -1,0 +1,15 @@
+type dummy.SoundAmethystAngelina is string {
+  annotations {
+    serviceid IslamicRoseOlympie {
+    }
+    string FlutteringAquaAthene {
+    }
+    dummy.DEFAULT PassivePurpleMyrah {
+    }
+  }
+  IslamicRoseOlympie = "What do you call two barracuda fish?  A Pairacuda!"
+  FlutteringAquaAthene = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PassivePurpleMyrah = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+}

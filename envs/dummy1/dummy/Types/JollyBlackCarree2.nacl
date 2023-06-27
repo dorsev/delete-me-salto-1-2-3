@@ -1,0 +1,63 @@
+type dummy.JollyBlackCarree2 {
+  annotations {
+    hidden_boolean HeadPinkMeggi {
+    }
+    serviceid_number InlandSalmonPrue4 {
+    }
+    json DeliciousScarletRodie3 {
+    }
+    serviceid_number AngryFuchsiaGill {
+    }
+    number AwfulHarlequinJaquith2 {
+    }
+    number ZanyBlueCelia {
+    }
+  }
+  dummy.SplendidBlueCati AnxiousAquamarineBenoite {
+    ObviousCoffeeDolley = true
+    AestheticSapphireReba = "Why do birds fly south for the winter? Because it's too far to walk."
+    DueCopperDot = 813
+    AggressiveMaroonLilith = 917
+    RelativeGoldGuillemette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SpecificChocolateDarcee = 889
+    QuickAmethystAmity = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    PsychologicalIvoryJojo = false
+    DirtyAmberAleta2 = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    UglyTurquoiseTina = "What creature is smarter than a talking parrot? A spelling bee."
+    ChillyAmaranthAilina = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    RoastedWhiteWendye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    KnownMaroonLexi = 11
+    LongBlueChelsey = 261
+    MightyWhiteVeriee = "What creature is smarter than a talking parrot? A spelling bee."
+    UncertainMagentaLeland = 17
+    CooingAmethystAngeline = true
+    SupposedCyanFarra = 681
+    WetAquamarineBella = "Why didnt the skeleton cross the road? Because he had no guts."
+    LoudApricotAnnadiana = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  serviceid HandicappedTanShantee {
+    _hidden_value = true
+  }
+  string GastricMagentaLavinia {
+    _hidden_value = true
+  }
+  serviceid DiverseRedNicola2 {
+    _hidden_value = true
+  }
+  boolean SafeCopperDorette {
+    _hidden_value = true
+  }
+  InlandSalmonPrue4 = 172
+  DeliciousScarletRodie3 = "What do you call two barracuda fish?  A Pairacuda!"
+  AngryFuchsiaGill = 270
+  AwfulHarlequinJaquith2 = 744
+  ZanyBlueCelia = 932
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.SpicyAquaArliene3 {
+  annotations {
+    serviceid EncouragingBlackCaresse2 {
+    }
+    dummy.GoodBlackCarmita ReligiousCoralEleen2 {
+    }
+    hidden_boolean GrimScarletRonnica {
+    }
+    hidden_boolean TinyCyanEunice2 {
+    }
+    json UndergroundScarletRomonda {
+    }
+    number AsianMaroonLinda2 {
+    }
+  }
+  "List<hidden_boolean>" ObligedOrangeMarcellina3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT RequiredMaroonLethia2 {
+    _hidden_value = true
+  }
+  hidden_boolean SharedPinkMelicent {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UniqueFuchsiaGerta2 {
+    _hidden_value = true
+  }
+  serviceid EldestTanSharlene2 {
+    _hidden_value = true
+  }
+  serviceid ClassicJadeKaitlynn2 {
+    _hidden_value = true
+  }
+  json CleverJadeKari2 {
+    _hidden_value = true
+  }
+  hidden_boolean EnchantingBlackCaresa4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HurtAzureBlythe2 {
+    _hidden_value = true
+  }
+  EncouragingBlackCaresse2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ReligiousCoralEleen2 = false
+  UndergroundScarletRomonda = "Why didnt the skeleton cross the road? Because he had no guts."
+  AsianMaroonLinda2 = 708
+  _hidden_value = true
+}

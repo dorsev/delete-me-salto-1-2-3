@@ -1,0 +1,128 @@
+type dummy.WholeBronzeCloe3 {
+  dummy.AttractiveCyanFiann DominantIndigoJenda {
+    LargeAmaranthAdeline = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    TrickyYellowYolanthe = 391
+    LuckyBlackCassaundra = 794
+    OccasionalIvoryJuliette = true
+    FrailVioletTrude = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  dummy.LittleAmaranthAdey ObviousCoffeeDolley5 {
+    WetGrayHedvige5 = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LargeAmaranthAdeline2 = 536
+    BigVioletTonie2 = file("EvilAzureBidget5.txt")
+    ScrawnyYellowWilly2 = true
+    KoreanSapphireRaquela2 = false
+  }
+  dummy.NoisyApricotAnnetta ChristianCoralElvina {
+    InterimOrangeMalvina = 277
+    JudicialJadeKarla = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    WhisperingApricotArdelle = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    LabourBrownDaffi = 586
+    InjuredScarletRosalie = "Did you know that protons have mass? I didn't even know they were catholic."
+    ThoughtfulBlueCaty = 925
+    ArmedGrayHelaina = false
+    DelightfulSilverRowe = false
+    ExperiencedMagentaLaural = false
+    ToryGreenIndira = false
+    ShortAmethystAnabella = 779
+    BrilliantGreenIlse = "Why did the tomato blush? Because it saw the salad dressing."
+    ColossalAmaranthAbbie = false
+    ArtificialMagentaLena = "Why did the tomato blush? Because it saw the salad dressing."
+    ExtraCoffeeDiane = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    EconomicBlushClarabelle = 494
+    OrangePurpleMuire = "What do you call two barracuda fish?  A Pairacuda!"
+    SillyIvoryJoell = "Why did the kid cross the playground? To get to the other slide."
+    ContinuousIvoryJoye = false
+    SuperiorMaroonLian = "What creature is smarter than a talking parrot? A spelling bee."
+    GeneralBlushChristen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AmusedBeigeCahra = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+  }
+  dummy.WellFuchsiaGisele BrightVioletTove4 {
+    FriendlyVioletTrudy2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ShortAmethystAnabal3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RealisticMoccasinLona3 = 436
+    NearbyLimeKora = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  boolean CrazyVioletTresa7 {
+  }
+  json SkilledMoccasinLuci {
+  }
+  serviceid MassiveAmaranthAdrea3 {
+  }
+  boolean DizzyVioletTrescha4 {
+  }
+  dummy.MidPinkMelisent ConvenientMagentaLeesa4 {
+    AshamedScarletRosamond = "Why do birds fly south for the winter? Because it's too far to walk."
+    SuccessfulBlueCatlee = false
+    CruelPlumMichaelina2 = "What do you call two barracuda fish?  A Pairacuda!"
+    CommercialCopperDoretta2 = true
+    AcuteLavenderKenna3 = "What do you call two barracuda fish?  A Pairacuda!"
+    ScreechingApricotAnthiathia3 = file("PreciousOrangeMariellen6.txt")
+  }
+  serviceid CuteTomatoTansy3 {
+  }
+  "Map<string>" AlliedPlumMissy3 {
+  }
+  hidden_boolean ConservativeCoralEllen4 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number ExperiencedMagentaLauralee {
+  }
+  json WonderfulBlueCelestia2 {
+  }
+  string FriendlyBlackCarma2 {
+  }
+  serviceid_number InvolvedCoffeeDeni {
+  }
+  number PreparedCyanFelicdad2 {
+  }
+  serviceid SpotlessTurquoiseTillie3 {
+  }
+  "List<serviceid>" UsefulChocolateDedra3 {
+  }
+  serviceid_number HolyIndigoJelene3 {
+  }
+  boolean BitterApricotArdene5 {
+  }
+  serviceid ClearTomatoTammie {
+  }
+  string SweetGreenHolly2 {
+  }
+  json YellowYellowZonnya2 {
+  }
+  serviceid AnxiousAquamarineBenoite3 {
+  }
+  hidden_boolean ConventionalGoldGusella2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean BreezyAmaranthAida4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WesternChocolateDeerdre5 {
+  }
+  json PatientPurpleNani2 {
+  }
+  "List<hidden_boolean>" RussianCyanFelicle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid ImmediateCrimsonEmeline4 {
+  }
+}

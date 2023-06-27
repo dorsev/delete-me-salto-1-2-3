@@ -1,0 +1,42 @@
+type dummy.ConservativeCoralEllene5 {
+  boolean InstitutionalMaroonLeshia3 {
+  }
+  hidden_boolean MaturePeachMatty {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ImmensePlumMirilla2 {
+  }
+  json FunctionalMaroonLexie2 {
+  }
+  hidden_boolean ProspectiveRedNetti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SmallBlueCharlean2 ComplicatedIndigoJoann5 {
+    RacialPlumMichell2 = 432
+    EntitledIvoryJuliann = 645
+    MinimumIndigoJeri = 884
+    OldBlueChandra = 529
+  }
+  string BalancedSilverRosita2 {
+  }
+  json CivilianSapphireRandi {
+  }
+  serviceid_number DistinctHarlequinJanella2 {
+  }
+  dummy.SpicyAquaArlette JealousAzureBobbye3 {
+    GenuineGreenIsis3 = 440
+    JapaneseEmeraldFidelity4 = 401
+    CleverJadeKarena4 = 156
+    PrivateBronzeCordy2 = false
+  }
+  number SleepyTomatoSula {
+  }
+  boolean BasicChocolateDarleen2 {
+  }
+  serviceid_number AfraidCrimsonEmmy3 {
+  }
+}

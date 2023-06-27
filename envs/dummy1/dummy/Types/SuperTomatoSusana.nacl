@@ -1,0 +1,33 @@
+type dummy.SuperTomatoSusana {
+  annotations {
+    serviceid MobilePurpleMoria {
+    }
+    json JollyBlackCarri3 {
+    }
+    json AsianMaroonLindi2 {
+    }
+    dummy.DEFAULT CrookedAmberAlisha {
+    }
+  }
+  dummy.DisappointedMagentaLaurice PresidentialLimeKrystle2 {
+    RightBlushCherin = 827
+    PoorBronzeCorella = 871
+    CarefulCyanFern = false
+    UnevenAquamarineBeilul = false
+    FantasticSapphireReggie = 781
+    ContinentalOliveMaggee = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FinancialBronzeCorette = 264
+    HumanBronzeConstantina = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    EnergeticBlackCaril = 367
+    _hidden_value = true
+  }
+  MobilePurpleMoria = "To be Frank, I'd have to change my name."
+  JollyBlackCarri3 = "What creature is smarter than a talking parrot? A spelling bee."
+  AsianMaroonLindi2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  CrookedAmberAlisha = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  _hidden_value = true
+}

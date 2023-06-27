@@ -1,0 +1,96 @@
+type dummy.NormalBrownDamita {
+  annotations {
+    boolean ContentPeachMatilde3 {
+    }
+    boolean TameTomatoSusannah {
+    }
+    serviceid RetailMaroonLeora3 {
+    }
+  }
+  serviceid AfricanFuchsiaGiacinta {
+    _hidden_value = true
+  }
+  string DelightfulSilverRowena {
+    _hidden_value = true
+  }
+  boolean NuttyWhiteVikky3 {
+    _hidden_value = true
+  }
+  number RemoteIndigoJenica2 {
+    _hidden_value = true
+  }
+  boolean AmericanBronzeCorrie2 {
+    _hidden_value = true
+  }
+  serviceid_number LtdCoralElnore {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UpsetOliveMabel3 {
+    _hidden_value = true
+  }
+  number ClinicalIndigoJennine2 {
+    _hidden_value = true
+  }
+  boolean SubstantialCoralElsinore3 {
+    _hidden_value = true
+  }
+  serviceid_number PriorRosePaulina3 {
+    _hidden_value = true
+  }
+  serviceid_number EmptyCyanFancie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ObjectiveOrangeManda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MagnificentWhiteVanya3 {
+    _hidden_value = true
+  }
+  hidden_boolean GrowingCrimsonEnrika2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CrucialFuchsiaGenni2 {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeTurquoiseTimmie4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number RelatedIndigoJessalin2 {
+    _hidden_value = true
+  }
+  json AmusedBeigeCahra3 {
+    _hidden_value = true
+  }
+  "List<boolean>" ContinentalOliveMagdalene3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StripedYellowWinona2 {
+    _hidden_value = true
+  }
+  hidden_boolean ImportantTealSophi4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json DecentMoccasinLonnie {
+    _hidden_value = true
+  }
+  hidden_boolean ComparableMoccasinLizzy5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FascinatingOrangeMargarete {
+    _hidden_value = true
+  }
+  ContentPeachMatilde3 = true
+  TameTomatoSusannah = false
+  RetailMaroonLeora3 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

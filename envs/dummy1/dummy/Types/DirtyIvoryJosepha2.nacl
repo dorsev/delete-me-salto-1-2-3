@@ -1,0 +1,33 @@
+type dummy.DirtyIvoryJosepha2 {
+  annotations {
+    serviceid_number DifferentTealSilvie3 {
+    }
+    number PremierOrangeMarguerite2 {
+    }
+    boolean ComparableMoccasinLizzy3 {
+    }
+    json StuckRoseOra {
+    }
+    dummy.DEFAULT CompetitiveGrayHedwiga {
+    }
+    dummy.GoodBlackCarmita HomelyTurquoiseTessi2 {
+    }
+    dummy.DEFAULT RepulsiveBeigeBrenda3 {
+    }
+  }
+  serviceid_number FunnyBlackCarmelina4 {
+    _hidden_value = true
+  }
+  DifferentTealSilvie3 = 636
+  PremierOrangeMarguerite2 = 970
+  ComparableMoccasinLizzy3 = false
+  StuckRoseOra = "Dad Im hungry  Hi hungry Im dad"
+  CompetitiveGrayHedwiga = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  HomelyTurquoiseTessi2 = false
+  RepulsiveBeigeBrenda3 = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  _hidden_value = true
+}

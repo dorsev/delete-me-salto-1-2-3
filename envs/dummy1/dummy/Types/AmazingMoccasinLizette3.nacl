@@ -1,0 +1,46 @@
+type dummy.AmazingMoccasinLizette3 {
+  annotations {
+    hidden_boolean OrthodoxSapphireRebe2 {
+    }
+    number SoreBeigeBrietta3 {
+    }
+    hidden_boolean SmartPeachMarja2 {
+    }
+    serviceid_number TroubledBeigeBrittani2 {
+    }
+  }
+  string BiologicalMaroonLetizia {
+    _hidden_value = true
+  }
+  number SupremeGreenIsabel {
+    _hidden_value = true
+  }
+  serviceid InquisitiveTealStacia2 {
+    _hidden_value = true
+  }
+  string ChubbyAmberAline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SeriousBrownDanella2 {
+    _hidden_value = true
+  }
+  hidden_boolean PurringApricotAnnette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BrokenAmaranthAile3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UnknownFuchsiaGigi3 {
+    _hidden_value = true
+  }
+  number AestheticSapphireRayshell {
+    _hidden_value = true
+  }
+  SoreBeigeBrietta3 = 244
+  TroubledBeigeBrittani2 = 228
+  _hidden_value = true
+}

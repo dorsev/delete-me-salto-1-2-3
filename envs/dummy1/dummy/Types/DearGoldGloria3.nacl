@@ -1,0 +1,26 @@
+type dummy.DearGoldGloria3 {
+  annotations {
+    number SupposedCyanFarrah {
+    }
+    string ConsciousHarlequinJeanelle {
+    }
+    serviceid ApplicablePlumMireille3 {
+    }
+    serviceid_number BroadAmberAlikee5 {
+    }
+    boolean ExplicitMaroonLisette {
+    }
+    json AliveFuchsiaGilligan {
+    }
+  }
+  "List<boolean>" CertainBronzeClementine2 {
+    _hidden_value = true
+  }
+  SupposedCyanFarrah = 561
+  ConsciousHarlequinJeanelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ApplicablePlumMireille3 = "To be Frank, I'd have to change my name."
+  BroadAmberAlikee5 = 754
+  ExplicitMaroonLisette = true
+  AliveFuchsiaGilligan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

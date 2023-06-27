@@ -1,0 +1,37 @@
+type dummy.EstablishedMagentaLeigha2 {
+  annotations {
+    serviceid CommercialCopperDorena {
+    }
+    string LexicalSilverSada2 {
+    }
+    dummy.DEFAULT ImmediateCrimsonEmeline {
+    }
+    string RelievedBlueCathie {
+    }
+  }
+  serviceid MinorEmeraldGabriel {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpottyYellowWrennie {
+    _hidden_value = true
+  }
+  boolean UninterestedTomatoSusie2 {
+    _hidden_value = true
+  }
+  json DampAmberAlejandrina3 {
+    _hidden_value = true
+  }
+  json RidiculousMoccasinLiz3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NumerousAmethystAngelia2 {
+    _hidden_value = true
+  }
+  CommercialCopperDorena = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LexicalSilverSada2 = "A steak pun is a rare medium well done."
+  ImmediateCrimsonEmeline = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  RelievedBlueCathie = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

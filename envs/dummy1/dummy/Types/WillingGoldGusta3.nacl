@@ -1,0 +1,22 @@
+type dummy.WillingGoldGusta3 {
+  annotations {
+    boolean CatholicHarlequinJammie2 {
+    }
+    json UnusualTurquoiseTobi3 {
+    }
+    hidden_boolean DomesticCopperEartha {
+    }
+    serviceid_number ScornfulBeigeBrianna2 {
+    }
+    json FaithfulTanShayne3 {
+    }
+  }
+  serviceid SelectSalmonPhilipa3 {
+    _hidden_value = true
+  }
+  CatholicHarlequinJammie2 = true
+  UnusualTurquoiseTobi3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ScornfulBeigeBrianna2 = 733
+  FaithfulTanShayne3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

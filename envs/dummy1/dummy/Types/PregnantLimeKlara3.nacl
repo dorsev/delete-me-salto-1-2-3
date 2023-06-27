@@ -1,0 +1,20 @@
+type dummy.PregnantLimeKlara3 {
+  annotations {
+    boolean SlimyAquaBarb {
+    }
+    dummy.PowerfulCopperDruci UnsightlyTurquoiseTiphany {
+    }
+    string ReliableLavenderKim {
+    }
+    string InstantSapphireRanee {
+    }
+  }
+  serviceid SilkyAquaBambi {
+    _hidden_value = true
+  }
+  SlimyAquaBarb = false
+  UnsightlyTurquoiseTiphany = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ReliableLavenderKim = "Im only familiar with 25 letters in the English language. I dont know why."
+  InstantSapphireRanee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

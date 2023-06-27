@@ -1,0 +1,69 @@
+type dummy.ResidentSalmonRaeann2 {
+  annotations {
+    number UnusualGoldGizela3 {
+    }
+    serviceid_number FierceOliveMaitilde {
+    }
+    boolean ParallelMoccasinLudovika {
+    }
+    serviceid YellowGoldGiulietta {
+    }
+    number CausalSapphireRenate2 {
+    }
+    number ComfortableBeigeCamella2 {
+    }
+  }
+  serviceid ChillyAmaranthAilyn {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" PregnantLimeKlara4 {
+    _hidden_value = true
+  }
+  number SecondaryFuchsiaGertrud4 {
+    _hidden_value = true
+  }
+  hidden_boolean AngryAquamarineBenedetta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string CombativeAquamarineBerta4 {
+    _hidden_value = true
+  }
+  serviceid_number ConcernedBronzeCorrena {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarrilee2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json UnevenAquamarineBeitris2 {
+    _hidden_value = true
+  }
+  json WastefulYellowZilvia2 {
+    _hidden_value = true
+  }
+  json InitialCoralElset {
+    _hidden_value = true
+  }
+  string RichTomatoStoddard {
+    _hidden_value = true
+  }
+  serviceid ContinuousIvoryJsandye4 {
+    _hidden_value = true
+  }
+  serviceid_number PlainIndigoJessy4 {
+    _hidden_value = true
+  }
+  boolean UpperCyanFaunie3 {
+    _hidden_value = true
+  }
+  UnusualGoldGizela3 = 317
+  FierceOliveMaitilde = 423
+  ParallelMoccasinLudovika = false
+  YellowGoldGiulietta = "Why did the tomato blush? Because it saw the salad dressing."
+  CausalSapphireRenate2 = 923
+  ComfortableBeigeCamella2 = 240
+  _hidden_value = true
+}

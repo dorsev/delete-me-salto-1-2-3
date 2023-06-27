@@ -1,0 +1,97 @@
+type dummy.IntermediateRoseOla {
+  annotations {
+    json ConceptualTanShelbi {
+    }
+    hidden_boolean LooseAquaAugustine2 {
+    }
+    dummy.ObedientBlackCassy ExcitingGreenIssi {
+    }
+    serviceid_number SteepMoccasinLulita3 {
+    }
+  }
+  serviceid_number BeautifulTomatoTabby {
+    _hidden_value = true
+  }
+  serviceid AgriculturalGoldGoldi3 {
+    _hidden_value = true
+  }
+  string ImpossibleCopperDulcia2 {
+    _hidden_value = true
+  }
+  number BigAmaranthAbbey4 {
+    _hidden_value = true
+  }
+  number BriefAmethystAmalia2 {
+    _hidden_value = true
+  }
+  string OccasionalIvoryJuline3 {
+    _hidden_value = true
+  }
+  boolean AbstractMaroonLina2 {
+    _hidden_value = true
+  }
+  serviceid SexualCopperEachelle2 {
+    _hidden_value = true
+  }
+  number HungryMaroonLira {
+    _hidden_value = true
+  }
+  serviceid_number RuralCoralElse5 {
+    _hidden_value = true
+  }
+  json MagneticPeachMavra {
+    _hidden_value = true
+  }
+  string SacredRedNorine2 {
+    _hidden_value = true
+  }
+  number TiredGoldGretel2 {
+    _hidden_value = true
+  }
+  string VoluntaryGoldGwenette3 {
+    _hidden_value = true
+  }
+  hidden_boolean PleasedEmeraldGabriell5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerry {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WhisperingApricotArdelle2 {
+    _hidden_value = true
+  }
+  json MedicalCoffeeDevonna {
+    _hidden_value = true
+  }
+  number PurringApricotAnni4 {
+    _hidden_value = true
+  }
+  boolean ExtremeHarlequinJacki {
+    _hidden_value = true
+  }
+  json ProfoundPinkMerlina3 {
+    _hidden_value = true
+  }
+  "List<number>" ProspectiveRedNettie {
+    _hidden_value = true
+  }
+  hidden_boolean DangerousAzureBetsey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AmateurSalmonPhylys2 {
+    _hidden_value = true
+  }
+  string NosyWhiteVickie3 {
+    _hidden_value = true
+  }
+  ConceptualTanShelbi = "Slept like a log last night  woke up in the fireplace."
+  ExcitingGreenIssi = "Why did the kid cross the playground? To get to the other slide."
+  SteepMoccasinLulita3 = 874
+  _hidden_value = true
+}

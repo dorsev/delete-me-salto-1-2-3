@@ -1,0 +1,73 @@
+type dummy.MidPinkMelisent3 {
+  annotations {
+    serviceid_number UsedFuchsiaGeorgeta {
+    }
+    string SensibleIvoryJordanna2 {
+    }
+    json ShortAmaranthAg4 {
+    }
+  }
+  hidden_boolean IntegratedOliveMaegan2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT TechnologicalOrangeMarianna2 {
+    _hidden_value = true
+  }
+  serviceid_number PoisedTurquoiseThomasa2 {
+    _hidden_value = true
+  }
+  string AgreedTanSelia4 {
+    _hidden_value = true
+  }
+  serviceid_number TeenageScarletRobinia {
+    _hidden_value = true
+  }
+  hidden_boolean BadVioletToinette4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json JuicyApricotAretha4 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SillyIvoryJoelie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ComplicatedIndigoJoanna3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT LikelyBlushClarey {
+    _hidden_value = true
+  }
+  json IntegralSalmonPhillis3 {
+    _hidden_value = true
+  }
+  hidden_boolean AbsoluteGreenImogene3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean JealousAzureBobby3 {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousMoccasinLorne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SovietChocolateDarelle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  UsedFuchsiaGeorgeta = 309
+  SensibleIvoryJordanna2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ShortAmaranthAg4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.RespectiveSalmonPersis2 {
+  annotations {
+    serviceid AgreedTanSelie {
+    }
+    serviceid_number SharedPinkMelesa {
+    }
+    dummy.ElectricalLavenderKerrill VaguePinkMeghann2 {
+    }
+    serviceid_number SwiftAmethystAnastasia2 {
+    }
+    string MarxistSapphireRaina {
+    }
+  }
+  hidden_boolean ObjectiveOrangeMalynda3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PlainTurquoiseTheressa {
+    _hidden_value = true
+  }
+  string ColouredMoccasinLivvy {
+    _hidden_value = true
+  }
+  serviceid VulnerableJadeKarna4 {
+    _hidden_value = true
+  }
+  boolean HolyIndigoJemima3 {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFloria {
+    _hidden_value = true
+  }
+  serviceid_number AttractiveCyanFey2 {
+    _hidden_value = true
+  }
+  serviceid_number TroubledBeigeBritta {
+    _hidden_value = true
+  }
+  serviceid RespectableRosePavla2 {
+    _hidden_value = true
+  }
+  hidden_boolean HistoricalCyanEvangelin2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  AgreedTanSelie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SharedPinkMelesa = 734
+  VaguePinkMeghann2 = false
+  SwiftAmethystAnastasia2 = 917
+  MarxistSapphireRaina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

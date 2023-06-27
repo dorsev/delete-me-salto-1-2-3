@@ -1,0 +1,77 @@
+type dummy.IncCrimsonErmengarde {
+  annotations {
+    string DeepAmberAlleen {
+    }
+    string DutchLavenderKenna2 {
+    }
+    hidden_boolean ComparableMoccasinLizzy2 {
+    }
+    serviceid_number ArchitecturalRosePatrica {
+    }
+    number CrazyTealSibyl4 {
+    }
+    number AbstractMaroonLilyan3 {
+    }
+    dummy.ConfusedMaroonLila MutualLimeKimberly2 {
+    }
+  }
+  serviceid AwakeRedNola {
+    _hidden_value = true
+  }
+  number AutonomousScarletRonnie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DelightfulBeigeCammie2 {
+    _hidden_value = true
+  }
+  json DemocraticCrimsonEngracia2 {
+    _hidden_value = true
+  }
+  serviceid_number PleasantBlueCathe {
+    _hidden_value = true
+  }
+  string WorryingSilverRozalin2 {
+    _hidden_value = true
+  }
+  json UnconsciousSapphireRay4 {
+    _hidden_value = true
+  }
+  json ImperialLavenderKaterine3 {
+    _hidden_value = true
+  }
+  boolean AfricanFuchsiaGiana2 {
+    _hidden_value = true
+  }
+  number SuccessiveMoccasinLola2 {
+    _hidden_value = true
+  }
+  hidden_boolean ParentalRedNicki3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DarkChocolateDeanna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ObnoxiousAzureBrandie2 {
+    _hidden_value = true
+  }
+  number GeneralBlushChristean2 {
+    _hidden_value = true
+  }
+  boolean SteadyAquamarineBatsheva {
+    _hidden_value = true
+  }
+  number PleasedEmeraldGabriell4 {
+    _hidden_value = true
+  }
+  DeepAmberAlleen = "Dad Im hungry  Hi hungry Im dad"
+  DutchLavenderKenna2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ArchitecturalRosePatrica = 87
+  CrazyTealSibyl4 = 526
+  AbstractMaroonLilyan3 = 688
+  MutualLimeKimberly2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

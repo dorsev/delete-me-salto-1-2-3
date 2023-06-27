@@ -1,0 +1,34 @@
+type dummy.ConfusedMaroonLiesa5 {
+  annotations {
+    hidden_boolean SurprisedEmeraldFredelia6 {
+    }
+    serviceid OfficialCopperDorise2 {
+    }
+    serviceid NuttyWhiteViki {
+    }
+    serviceid_number NecessaryBronzeCookie2 {
+    }
+    number ConstantEmeraldFrannie3 {
+    }
+  }
+  boolean FastAmethystAmara3 {
+    _hidden_value = true
+  }
+  number ForwardSapphireRici4 {
+    _hidden_value = true
+  }
+  string FlatGrayHannie2 {
+    _hidden_value = true
+  }
+  string TerritorialSalmonPris2 {
+    _hidden_value = true
+  }
+  json CleverJadeKari3 {
+    _hidden_value = true
+  }
+  OfficialCopperDorise2 = "To be Frank, I'd have to change my name."
+  NuttyWhiteViki = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NecessaryBronzeCookie2 = 959
+  ConstantEmeraldFrannie3 = 299
+  _hidden_value = true
+}

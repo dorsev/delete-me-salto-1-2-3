@@ -1,0 +1,75 @@
+type dummy.IdeologicalOrangeMargarethe {
+  annotations {
+    boolean RemainingGoldGnni {
+    }
+    boolean ExperimentalLavenderKatleen {
+    }
+    json AwareChocolateDasha2 {
+    }
+    json FirmGrayHeddie {
+    }
+    number UnchangedSilverRozella {
+    }
+    serviceid_number DamagedAmberAleece {
+    }
+  }
+  dummy.GoodBlackCarmita UninterestedTomatoSusie {
+    TastelessAquaAshlee2 = "Why is Peter Pan always flying? Because he Neverlands."
+    RequiredMaroonLeticia = true
+    ObjectiveOrangeMamie = 133
+    InappropriateRoseOttilie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  string DoubtfulTealSioux {
+    _hidden_value = true
+  }
+  string WealthyPeachMaryellen {
+    _hidden_value = true
+  }
+  hidden_boolean ClassicJadeKaitlyn2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean EldestTanSharla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UrgentLimeKristine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ProudHarlequinJana {
+    _hidden_value = true
+  }
+  json DiverseRedNicola {
+    _hidden_value = true
+  }
+  string SelectedPlumMilli {
+    _hidden_value = true
+  }
+  string WetGrayHedvige2 {
+    _hidden_value = true
+  }
+  boolean VastYellowZea {
+    _hidden_value = true
+  }
+  number WorldwideTanShanna {
+    _hidden_value = true
+  }
+  string UnusualGoldGizela {
+    _hidden_value = true
+  }
+  boolean BeneficialPlumMonica {
+    _hidden_value = true
+  }
+  RemainingGoldGnni = true
+  ExperimentalLavenderKatleen = false
+  AwareChocolateDasha2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  FirmGrayHeddie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnchangedSilverRozella = 923
+  DamagedAmberAleece = 183
+  _hidden_value = true
+}

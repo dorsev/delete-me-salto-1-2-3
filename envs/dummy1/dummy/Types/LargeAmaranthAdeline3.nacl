@@ -1,0 +1,22 @@
+type dummy.LargeAmaranthAdeline3 {
+  annotations {
+    serviceid MultipleLimeKip2 {
+    }
+    dummy.DEFAULT EssentialCoffeeDione {
+    }
+    string UnitedCopperEddy {
+    }
+    string ActualCopperEbonee3 {
+    }
+  }
+  number StrikingOliveMag {
+    _hidden_value = true
+  }
+  MultipleLimeKip2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EssentialCoffeeDione = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  UnitedCopperEddy = "Did you know that protons have mass? I didn't even know they were catholic."
+  ActualCopperEbonee3 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

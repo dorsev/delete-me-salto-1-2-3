@@ -1,0 +1,64 @@
+type dummy.VivaciousBlueCecilla3 {
+  annotations {
+    dummy.DEFAULT ElatedBlackCaren {
+    }
+    serviceid_number EconomicBlushClara {
+    }
+    json ManualRosePapagena3 {
+    }
+    number TheoreticalIndigoJenilee5 {
+    }
+    number InteriorPurpleNatividad2 {
+    }
+    string NavalPinkMelamie2 {
+    }
+    string EasyTealSioux {
+    }
+  }
+  boolean YellowGoldGizela2 {
+    _hidden_value = true
+  }
+  serviceid_number ColdAmaranthAime2 {
+    _hidden_value = true
+  }
+  dummy.StraightAmethystAlysia SportingSilverRuthie {
+    _hidden_value = true
+  }
+  serviceid SmoggyTurquoiseTiffanie {
+    _hidden_value = true
+  }
+  serviceid_number SickFuchsiaGeraldine2 {
+    _hidden_value = true
+  }
+  serviceid FastEmeraldFleurette3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SuspiciousPurpleMyranda {
+    _hidden_value = true
+  }
+  number ExperiencedMagentaLaural2 {
+    _hidden_value = true
+  }
+  boolean ComplexCopperDrucy2 {
+    _hidden_value = true
+  }
+  number BeautifulTomatoTabitha2 {
+    _hidden_value = true
+  }
+  number MaximumGreenIlyssa3 {
+    _hidden_value = true
+  }
+  json HonChocolateDaune3 {
+    _hidden_value = true
+  }
+  ElatedBlackCaren = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  EconomicBlushClara = 400
+  ManualRosePapagena3 = "Slept like a log last night  woke up in the fireplace."
+  TheoreticalIndigoJenilee5 = 88
+  InteriorPurpleNatividad2 = 901
+  NavalPinkMelamie2 = "What do you call two barracuda fish?  A Pairacuda!"
+  EasyTealSioux = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

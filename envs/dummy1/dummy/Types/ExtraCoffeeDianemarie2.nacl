@@ -1,0 +1,30 @@
+type dummy.ExtraCoffeeDianemarie2 {
+  annotations {
+    hidden_boolean PriorRosePaulina {
+    }
+    json OpenTealStefa3 {
+    }
+    number WonderfulYellowZoe {
+    }
+    string DistinctTurquoiseTatiana4 {
+    }
+    boolean VariedRedNoreen4 {
+    }
+    string HappyBlackCarolan2 {
+    }
+  }
+  serviceid WorldwideTanShannon {
+    _hidden_value = true
+  }
+  hidden_boolean EfficientGoldGretta2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  OpenTealStefa3 = "I'll tell you what often gets over looked... garden fences."
+  WonderfulYellowZoe = 676
+  DistinctTurquoiseTatiana4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  VariedRedNoreen4 = false
+  HappyBlackCarolan2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

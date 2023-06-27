@@ -1,0 +1,35 @@
+type dummy.DisappointedMagentaLaurice is number {
+  annotations {
+    serviceid_number RightBlushCherin {
+    }
+    serviceid_number PoorBronzeCorella {
+    }
+    boolean CarefulCyanFern {
+    }
+    boolean UnevenAquamarineBeilul {
+    }
+    number FantasticSapphireReggie {
+    }
+    json ContinentalOliveMaggee {
+    }
+    number FinancialBronzeCorette {
+    }
+    dummy.DEFAULT HumanBronzeConstantina {
+    }
+    number EnergeticBlackCaril {
+    }
+    hidden_boolean RepresentativePinkMerline {
+    }
+  }
+  RightBlushCherin = 891
+  PoorBronzeCorella = 438
+  CarefulCyanFern = true
+  UnevenAquamarineBeilul = false
+  FantasticSapphireReggie = 908
+  ContinentalOliveMaggee = "What creature is smarter than a talking parrot? A spelling bee."
+  FinancialBronzeCorette = 138
+  HumanBronzeConstantina = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  EnergeticBlackCaril = 942
+}

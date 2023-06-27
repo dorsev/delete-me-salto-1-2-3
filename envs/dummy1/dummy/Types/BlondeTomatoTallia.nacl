@@ -1,0 +1,62 @@
+type dummy.BlondeTomatoTallia {
+  annotations {
+    json FascinatingOrangeMargareta2 {
+    }
+    serviceid ConservationPlumMoira {
+    }
+    json MarineMagentaLeonanie {
+    }
+    number SourApricotArlena {
+    }
+    string BlondeTomatoTaffy {
+    }
+    hidden_boolean SafeCopperDorey2 {
+    }
+    string ResidentialIndigoJesselyn {
+    }
+  }
+  hidden_boolean OpenBronzeCleo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json EasternCrimsonErin {
+    _hidden_value = true
+  }
+  dummy.ObedientBlackCassy CourageousBeigeCamilla2 {
+    _hidden_value = true
+  }
+  dummy.ModernTealStar PartialOliveLyndell {
+    _hidden_value = true
+  }
+  json SpareMaroonLillian2 {
+    _hidden_value = true
+  }
+  number ZealousBlueCelestyn {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" MarineMagentaLeone {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DustyAmberAlexia {
+    _hidden_value = true
+  }
+  json DeadTealSigrid {
+    _hidden_value = true
+  }
+  string ContemporaryFuchsiaGeorgianne {
+    _hidden_value = true
+  }
+  string MeanIvoryJuli2 {
+    _hidden_value = true
+  }
+  FascinatingOrangeMargareta2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConservationPlumMoira = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MarineMagentaLeonanie = "Why didnt the skeleton cross the road? Because he had no guts."
+  SourApricotArlena = 505
+  BlondeTomatoTaffy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ResidentialIndigoJesselyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

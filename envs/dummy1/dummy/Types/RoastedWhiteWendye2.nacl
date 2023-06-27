@@ -1,0 +1,24 @@
+type dummy.RoastedWhiteWendye2 {
+  annotations {
+    dummy.DEFAULT PleasedEmeraldGabriell3 {
+    }
+    hidden_boolean ExcitedBlackCarissa2 {
+    }
+    string ConstantEmeraldFranny {
+    }
+    serviceid_number QuaintTurquoiseThomasine {
+    }
+    string TiredBeigeBritta2 {
+    }
+  }
+  serviceid_number SurvivingSapphireRicki4 {
+    _hidden_value = true
+  }
+  PleasedEmeraldGabriell3 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ConstantEmeraldFranny = "What do you call two barracuda fish?  A Pairacuda!"
+  QuaintTurquoiseThomasine = 13
+  TiredBeigeBritta2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

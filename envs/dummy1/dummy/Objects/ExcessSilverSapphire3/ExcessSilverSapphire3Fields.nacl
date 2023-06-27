@@ -1,0 +1,48 @@
+type dummy.ExcessSilverSapphire3 {
+  hidden_boolean OrangePurpleMuire2 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean PromisingRedNonie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string StillIndigoJinny2 {
+  }
+  hidden_boolean MedicalCoffeeDevondra4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json EducationalCrimsonEsma3 {
+  }
+  boolean CloudyTomatoTammy {
+  }
+  json ExclusiveMagentaLatrena {
+  }
+  serviceid_number AgriculturalGoldGoldie2 {
+  }
+  hidden_boolean OperationalOrangeMariann {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string NuclearCoffeeDonielle4 {
+  }
+  string WildCyanEyde2 {
+  }
+  serviceid_number CharmingPlumMoreen {
+  }
+  serviceid_number PriorRosePaulina5 {
+  }
+  json RomanticMagentaLeanna {
+  }
+  serviceid_number RawJadeKarlen3 {
+  }
+  string MightyWhiteVerene2 {
+  }
+  boolean GoldenGrayHalette3 {
+  }
+}

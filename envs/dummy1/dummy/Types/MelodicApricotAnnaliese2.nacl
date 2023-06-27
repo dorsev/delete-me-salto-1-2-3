@@ -1,0 +1,20 @@
+type dummy.MelodicApricotAnnaliese2 {
+  annotations {
+    json JealousAzureBobbie2 {
+    }
+    serviceid MinorEmeraldGabi {
+    }
+    string AverageAmaranthAarika {
+    }
+    serviceid EnergeticBlackCarie2 {
+    }
+  }
+  boolean ResidentialIndigoJesselyn3 {
+    _hidden_value = true
+  }
+  JealousAzureBobbie2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MinorEmeraldGabi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AverageAmaranthAarika = "How come the stadium got hot after the game? Because all of the fans left."
+  EnergeticBlackCarie2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

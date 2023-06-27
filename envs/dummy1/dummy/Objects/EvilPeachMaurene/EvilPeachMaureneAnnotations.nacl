@@ -1,0 +1,55 @@
+type dummy.EvilPeachMaurene {
+  annotations {
+    serviceid_number ArtificialMagentaLenette4 {
+    }
+    json UniformScarletRosalyn3 {
+    }
+    string ArbitrarySilverRoxane2 {
+    }
+    string CircularRoseOrly2 {
+    }
+    serviceid SoreBeigeBrigid2 {
+    }
+    number JollyVioletValida3 {
+    }
+    serviceid_number UrgentLimeKristyn2 {
+    }
+    serviceid_number RespectiveSalmonPerrine {
+    }
+    hidden_boolean NoisyApricotAnnette3 {
+    }
+    serviceid SovietChocolateDari3 {
+    }
+    hidden_boolean SharpFuchsiaGeorgie3 {
+    }
+    boolean OccasionalIvoryJuline4 {
+    }
+    boolean FavouriteHarlequinJacquelin4 {
+    }
+    string ObjectiveOrangeMame {
+    }
+    dummy.RapidGrayHilda TallAmaranthAgna4 {
+    }
+    string PrimaryCoffeeDoll2 {
+    }
+    json MedicalCoffeeDevondra2 {
+    }
+    serviceid NiceBrownCybil5 {
+    }
+  }
+  ArtificialMagentaLenette4 = 334
+  UniformScarletRosalyn3 = "Why was it called the dark ages? Because of all the knights. "
+  ArbitrarySilverRoxane2 = "Why is Peter Pan always flying? Because he Neverlands."
+  CircularRoseOrly2 = "Slept like a log last night  woke up in the fireplace."
+  SoreBeigeBrigid2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  JollyVioletValida3 = 342
+  UrgentLimeKristyn2 = 85
+  RespectiveSalmonPerrine = 988
+  SovietChocolateDari3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  OccasionalIvoryJuline4 = true
+  FavouriteHarlequinJacquelin4 = false
+  ObjectiveOrangeMame = "To be Frank, I'd have to change my name."
+  PrimaryCoffeeDoll2 = "A steak pun is a rare medium well done."
+  MedicalCoffeeDevondra2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NiceBrownCybil5 = "What do you call two barracuda fish?  A Pairacuda!"
+}

@@ -1,0 +1,57 @@
+type dummy.LimitedCoralElla {
+  dummy.BreakableTealShir SafeCopperDorette4 {
+    DistinguishedPurpleNathalia2 = 616
+    SensibleIvoryJordain = 788
+    GivenHarlequinJania3 = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    CondemnedAquamarineBertha = 369
+  }
+  serviceid_number ExcitedOrangeMarion2 {
+  }
+  boolean FatIvoryJoellen2 {
+  }
+  hidden_boolean VitalEmeraldFifi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  dummy.CompleteCoffeeDevon2 UndergroundScarletRomonda3 {
+    EconomicBlushClarabelle2 = false
+    DustyAmberAlexina2 = 694
+    UglyPlumMidge = false
+  }
+  boolean RetiredSilverSarah {
+  }
+  dummy.IdeologicalOrangeMargarethe MassGreenIlise2 {
+    RemainingGoldGnni = true
+    ExperimentalLavenderKatleen = false
+    AwareChocolateDasha2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FirmGrayHeddie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UnchangedSilverRozella = 312
+    DamagedAmberAleece = 104
+  }
+  number FantasticBlackCarlotta {
+  }
+  "List<string>" PlainTurquoiseTheresita5 {
+  }
+  boolean RealisticMoccasinLona4 {
+  }
+  boolean DeepAmberAlleen3 {
+  }
+  string HorribleOrangeMareah {
+  }
+  string ZanyYellowZuzana7 {
+  }
+  json CourageousBeigeCamille3 {
+  }
+  json ThunderingApricotArabelle3 {
+  }
+  "List<serviceid_number>" AngryAquamarineBenedicta3 {
+  }
+  hidden_boolean ResonantApricotAnsley4 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

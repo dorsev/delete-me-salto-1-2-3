@@ -1,0 +1,67 @@
+type dummy.ImmediateCrimsonEmeline2 {
+  annotations {
+    string FuriousRedNicoline3 {
+    }
+    serviceid_number FewAmethystAndria3 {
+    }
+    serviceid SympatheticPinkMead6 {
+    }
+    hidden_boolean ExcitedOrangeMariquilla2 {
+    }
+    string NumerousHarlequinJandy2 {
+    }
+    number ActualCopperEbba {
+    }
+  }
+  dummy.ToughYellowYsabel GrandEmeraldFran {
+    GrubbyAquaAubry = 216
+    _hidden_value = true
+  }
+  boolean MedievalJadeKaren2 {
+    _hidden_value = true
+  }
+  serviceid_number DecisiveSalmonPennie {
+    _hidden_value = true
+  }
+  serviceid_number TeenageScarletRobinette2 {
+    _hidden_value = true
+  }
+  string ComplicatedIndigoJoanne3 {
+    _hidden_value = true
+  }
+  boolean BroadAmberAlikee6 {
+    _hidden_value = true
+  }
+  number RollingSilverRubia {
+    _hidden_value = true
+  }
+  hidden_boolean OkayOliveMaggi4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ImpossibleTealStace2 {
+    _hidden_value = true
+  }
+  boolean AlertTomatoTabatha4 {
+    _hidden_value = true
+  }
+  serviceid EnchantingBlackCarena3 {
+    _hidden_value = true
+  }
+  boolean CorrespondingPlumMinta2 {
+    _hidden_value = true
+  }
+  number PregnantLimeKizzie3 {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLishe {
+    _hidden_value = true
+  }
+  FuriousRedNicoline3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FewAmethystAndria3 = 517
+  SympatheticPinkMead6 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NumerousHarlequinJandy2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ActualCopperEbba = 293
+  _hidden_value = true
+}

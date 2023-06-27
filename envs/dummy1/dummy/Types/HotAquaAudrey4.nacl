@@ -1,0 +1,23 @@
+type dummy.HotAquaAudrey4 {
+  annotations {
+    hidden_boolean RequiredMaroonLetisha {
+    }
+    json TroubledBeigeBrittaney2 {
+    }
+    string AsianMaroonLind {
+    }
+    hidden_boolean TallYellowXenia {
+    }
+    serviceid_number PunyAmaranthAeriel2 {
+    }
+  }
+  hidden_boolean CollectiveLavenderKathy2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  TroubledBeigeBrittaney2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  AsianMaroonLind = "How come the stadium got hot after the game? Because all of the fans left."
+  PunyAmaranthAeriel2 = 279
+  _hidden_value = true
+}

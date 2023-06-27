@@ -1,0 +1,62 @@
+type dummy.EvidentIvoryJulissa2 {
+  annotations {
+    string HeavyAmethystAndy3 {
+    }
+    number GrievingAzureBlakelee2 {
+    }
+    string FollowingBrownCyndy {
+    }
+  }
+  dummy.AliveTealSherilyn EvolutionarySilverRuperta {
+    GreekIndigoJoane = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AppropriateChocolateDarcey = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    GradualSilverSallee = true
+    ScornfulBeigeBrianne = false
+    StingyYellowWinnah = 959
+    _hidden_value = true
+  }
+  string TinyAmaranthAgnes2 {
+    _hidden_value = true
+  }
+  string DivineRoseOpaline2 {
+    _hidden_value = true
+  }
+  serviceid_number PurpleWhiteVivia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NervousAzureBrandea {
+    _hidden_value = true
+  }
+  json AgreeableBeigeBunni2 {
+    _hidden_value = true
+  }
+  json SpecificChocolateDarby {
+    _hidden_value = true
+  }
+  json UrgentLimeKrysta {
+    _hidden_value = true
+  }
+  boolean FancyTurquoiseTedra2 {
+    _hidden_value = true
+  }
+  hidden_boolean SwiftAmethystAnastasie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DryAmberAlexandra {
+    _hidden_value = true
+  }
+  string WickedScarletRoseanna2 {
+    _hidden_value = true
+  }
+  string StrongBronzeColline {
+    _hidden_value = true
+  }
+  HeavyAmethystAndy3 = "To be Frank, I'd have to change my name."
+  GrievingAzureBlakelee2 = 505
+  FollowingBrownCyndy = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

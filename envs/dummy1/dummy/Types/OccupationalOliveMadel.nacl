@@ -1,0 +1,40 @@
+type dummy.OccupationalOliveMadel {
+  annotations {
+    serviceid KindVioletValma {
+    }
+    hidden_boolean AshamedAquamarineBernadette {
+    }
+    hidden_boolean AcuteLavenderKenna {
+    }
+    hidden_boolean QuietCoralElaina {
+    }
+  }
+  string ExclusiveMagentaLatisha2 {
+    _hidden_value = true
+  }
+  serviceid_number MereGreenIdette2 {
+    _hidden_value = true
+  }
+  serviceid WillingGoldGussy {
+    _hidden_value = true
+  }
+  hidden_boolean RidiculousMoccasinLivvyy2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ComplicatedIndigoJoanie2 {
+    _hidden_value = true
+  }
+  json CleanCyanFernande2 {
+    _hidden_value = true
+  }
+  json SufficientCrimsonEolanda {
+    _hidden_value = true
+  }
+  boolean FantasticSapphireRegina {
+    _hidden_value = true
+  }
+  KindVioletValma = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

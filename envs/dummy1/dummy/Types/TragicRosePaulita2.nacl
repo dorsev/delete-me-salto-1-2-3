@@ -1,0 +1,66 @@
+type dummy.TragicRosePaulita2 {
+  annotations {
+    serviceid_number VictoriousBlueCecil3 {
+    }
+    json GradualSilverSalaidh {
+    }
+    hidden_boolean BlackBlushClarisse {
+    }
+    serviceid ArtisticPeachMasha {
+    }
+  }
+  boolean ShortAmaranthAg2 {
+    _hidden_value = true
+  }
+  number NumerousAmethystAngele {
+    _hidden_value = true
+  }
+  string UnfortunatePeachMarsha {
+    _hidden_value = true
+  }
+  number RareWhiteWandie {
+    _hidden_value = true
+  }
+  string HelplessAzureBlanche {
+    _hidden_value = true
+  }
+  string MoaningApricotAnne2 {
+    _hidden_value = true
+  }
+  number AustralianJadeKassie2 {
+    _hidden_value = true
+  }
+  serviceid VoluntaryGoldGwenette {
+    _hidden_value = true
+  }
+  serviceid DoubtfulRosePandora3 {
+    _hidden_value = true
+  }
+  hidden_boolean ExcitingGreenIvett2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntegralSalmonPhillis2 {
+    _hidden_value = true
+  }
+  number ToxicSalmonPhaidra2 {
+    _hidden_value = true
+  }
+  boolean FirmGrayHedda {
+    _hidden_value = true
+  }
+  number EntireEmeraldFrancoise {
+    _hidden_value = true
+  }
+  serviceid_number SlowCyanEugenia {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFlorida {
+    _hidden_value = true
+  }
+  VictoriousBlueCecil3 = 218
+  GradualSilverSalaidh = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ArtisticPeachMasha = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

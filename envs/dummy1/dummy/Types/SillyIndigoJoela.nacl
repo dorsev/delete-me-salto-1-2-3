@@ -1,0 +1,48 @@
+type dummy.SillyIndigoJoela {
+  annotations {
+    dummy.ToxicSalmonPhelia StraightAmethystAlyson {
+    }
+    serviceid_number SportingSilverRyann {
+    }
+    hidden_boolean CompatibleSapphireRennie2 {
+    }
+    string ImpossibleCopperDulce {
+    }
+    serviceid ExtendedPlumMilicent {
+    }
+  }
+  dummy.ConfusedMaroonLila MonetaryIvoryJoey {
+    _hidden_value = true
+  }
+  string SpatialSalmonPerle {
+    _hidden_value = true
+  }
+  string HostileOrangeMariejeanne2 {
+    _hidden_value = true
+  }
+  number SuccessfulBlueCatlaina {
+    _hidden_value = true
+  }
+  serviceid_number EndlessPeachMarjorie {
+    _hidden_value = true
+  }
+  serviceid EasternCrimsonEricka {
+    _hidden_value = true
+  }
+  json CrowdedTomatoTanhya2 {
+    _hidden_value = true
+  }
+  number BeautifulVioletToni {
+    _hidden_value = true
+  }
+  hidden_boolean UrbanCyanFanchette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  StraightAmethystAlyson = "A steak pun is a rare medium well done."
+  SportingSilverRyann = 90
+  ImpossibleCopperDulce = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExtendedPlumMilicent = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

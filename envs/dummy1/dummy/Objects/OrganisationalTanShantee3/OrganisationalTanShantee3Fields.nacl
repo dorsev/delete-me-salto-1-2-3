@@ -1,0 +1,53 @@
+type dummy.OrganisationalTanShantee3 {
+  dummy.VerbalPinkMaxie FineBlackCarly4 {
+    EfficientGoldGretta = 570
+    VisualGreenIngeberg = true
+    JudicialJadeKarita = 380
+    SeriousBrownDanell = 712
+    FilthyAmberAlexis = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    EncouragingLimeLacy = "Whoever invented the knock-knock joke should get a no bell prize."
+    WealthyPeachMarybeth = 125
+    BroadCoralElisabeth = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SuperbMagentaLaurena = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AbstractMaroonLilyan = "Why did the tomato blush? Because it saw the salad dressing."
+    FriendlyGoldGuinna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  number BrightTomatoTamarah {
+  }
+  number WeirdSilverRoze2 {
+  }
+  json AdvancedHarlequinJacintha2 {
+  }
+  hidden_boolean CanadianPlumMindy2 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean RepresentativePinkMerna5 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string FilthyAmberAlexis4 {
+  }
+  boolean DifficultTealSimona3 {
+  }
+  hidden_boolean HappyBrownDaisey3 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean ImpressiveIndigoJessa3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string LocalBlueCharmian5 {
+  }
+  serviceid BlackVioletTootsie3 {
+  }
+  serviceid ExperimentalLavenderKatinka2 {
+  }
+}

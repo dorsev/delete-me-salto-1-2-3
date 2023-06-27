@@ -1,0 +1,87 @@
+type dummy.CheerfulSapphireRhodie {
+  annotations {
+    serviceid_number SurprisedEmeraldFrederica2 {
+    }
+    serviceid_number RelaxedPlumMinni {
+    }
+    dummy.FlutteringAquaAthena ImpossibleTealStace {
+    }
+    string AutomaticLavenderKiah3 {
+    }
+    serviceid GayOrangeMarietta2 {
+    }
+    number HandicappedTanShannon {
+    }
+  }
+  string ConcernedTealSibilla {
+    _hidden_value = true
+  }
+  string ConservationPlumMoll {
+    _hidden_value = true
+  }
+  serviceid NiceBrownCymbre2 {
+    _hidden_value = true
+  }
+  json UnitedCopperEddi {
+    _hidden_value = true
+  }
+  json LargeBlueCharlotta {
+    _hidden_value = true
+  }
+  "List<string>" PhysicalCoffeeDenna2 {
+    _hidden_value = true
+  }
+  serviceid ScreechingApricotAnthe {
+    _hidden_value = true
+  }
+  boolean ShortAmaranthAg3 {
+    _hidden_value = true
+  }
+  serviceid_number SadYellowWillamina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EfficientGoldGrethel2 {
+    _hidden_value = true
+  }
+  serviceid SteepMoccasinLulita {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarrissa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean GrimScarletRonnie2 {
+    _hidden_value = true
+  }
+  hidden_boolean HighAmberAllis {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TerribleBeigeBrina2 {
+    _hidden_value = true
+  }
+  json IdealEmeraldFredi3 {
+    _hidden_value = true
+  }
+  json InstantSapphireRandy2 {
+    _hidden_value = true
+  }
+  "List<boolean>" SecondaryFuchsiaGertrud {
+    _hidden_value = true
+  }
+  number PrettyIndigoJennifer3 {
+    _hidden_value = true
+  }
+  serviceid_number DivineRoseOpal {
+    _hidden_value = true
+  }
+  SurprisedEmeraldFrederica2 = 111
+  RelaxedPlumMinni = 955
+  ImpossibleTealStace = true
+  AutomaticLavenderKiah3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  GayOrangeMarietta2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  HandicappedTanShannon = 638
+  _hidden_value = true
+}

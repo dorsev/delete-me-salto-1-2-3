@@ -1,0 +1,84 @@
+type dummy.ActiveCopperDre2 {
+  annotations {
+    dummy.DEFAULT NotablePeachMartina {
+    }
+    serviceid LargeAmaranthAdelind {
+    }
+    dummy.DEFAULT RenewedSilverSandra2 {
+    }
+    number GratefulIvoryJorie {
+    }
+  }
+  dummy.MaximumGreenIlyssa RapidGrayHildagarde2 {
+    _hidden_value = true
+  }
+  serviceid_number MutualLimeKimberli {
+    _hidden_value = true
+  }
+  serviceid AnnualCoffeeDonnie4 {
+    _hidden_value = true
+  }
+  boolean ConvenientMagentaLegra {
+    _hidden_value = true
+  }
+  json DisappointedMagentaLaurice5 {
+    _hidden_value = true
+  }
+  serviceid SheerMagentaLauri2 {
+    _hidden_value = true
+  }
+  number FederalGrayHalli3 {
+    _hidden_value = true
+  }
+  string ShallowAmberAloisia4 {
+    _hidden_value = true
+  }
+  hidden_boolean CriticalCrimsonEstel3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string TenderRedOdella {
+    _hidden_value = true
+  }
+  "List<boolean>" HealthyBlackCarolee {
+    _hidden_value = true
+  }
+  json NoisySilverSal3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConcreteOliveLynette {
+    _hidden_value = true
+  }
+  number VocationalTanShaina4 {
+    _hidden_value = true
+  }
+  json RelievedBlueCathi {
+    _hidden_value = true
+  }
+  hidden_boolean MechanicalMagentaLeonora2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT FairBlackCarley3 {
+    _hidden_value = true
+  }
+  boolean UnnecessaryMoccasinLoralee2 {
+    _hidden_value = true
+  }
+  hidden_boolean RealBlushClarie3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  NotablePeachMartina = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  LargeAmaranthAdelind = "Dad Im hungry  Hi hungry Im dad"
+  RenewedSilverSandra2 = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  GratefulIvoryJorie = 251
+  _hidden_value = true
+}

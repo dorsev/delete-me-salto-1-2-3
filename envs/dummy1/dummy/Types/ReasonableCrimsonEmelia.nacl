@@ -1,0 +1,21 @@
+type dummy.ReasonableCrimsonEmelia {
+  annotations {
+    boolean EnthusiasticBlackCarin {
+    }
+    hidden_boolean AutonomousScarletRonny2 {
+    }
+    json EarlyBlushCherri2 {
+    }
+    dummy.DEFAULT NaturalBrownCristy {
+    }
+  }
+  serviceid OkayOliveMaggy2 {
+    _hidden_value = true
+  }
+  EnthusiasticBlackCarin = true
+  EarlyBlushCherri2 = "I'll tell you what often gets over looked... garden fences."
+  NaturalBrownCristy = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,29 @@
+type dummy.LivelyBlackCasie2 {
+  annotations {
+    dummy.DEFAULT UglyYellowZahara {
+    }
+    hidden_boolean DangerousCrimsonEssie2 {
+    }
+    serviceid_number HappyVioletVale {
+    }
+    serviceid FairBlackCarley {
+    }
+    boolean ManagerialPurpleNerissa2 {
+    }
+    serviceid_number EagerPlumMilly {
+    }
+    hidden_boolean OrangeWhiteViola {
+    }
+  }
+  serviceid_number SubjectiveSapphireRhonda {
+    _hidden_value = true
+  }
+  UglyYellowZahara = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  HappyVioletVale = 648
+  FairBlackCarley = "Why did the kid cross the playground? To get to the other slide."
+  ManagerialPurpleNerissa2 = false
+  EagerPlumMilly = 11
+  _hidden_value = true
+}

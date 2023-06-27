@@ -1,0 +1,55 @@
+type dummy.QuaintWhiteVivien {
+  annotations {
+    boolean JollyBlackCarree {
+    }
+    number OverallCrimsonEmmalynne {
+    }
+    string HolyIndigoJemima {
+    }
+    boolean RelievedSalmonPetrina {
+    }
+  }
+  serviceid ExcitingGreenIssy {
+    _hidden_value = true
+  }
+  boolean WetAmberAlida {
+    _hidden_value = true
+  }
+  hidden_boolean IntenseLavenderKattie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number VastYellowZarla {
+    _hidden_value = true
+  }
+  number SlimRoseOlly {
+    _hidden_value = true
+  }
+  number SeniorCoffeeDonella {
+    _hidden_value = true
+  }
+  string PremierOrangeMargy {
+    _hidden_value = true
+  }
+  json ShakyAquaBab {
+    _hidden_value = true
+  }
+  number CreepyAmberAlaine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AustralianJadeKassia2 {
+    _hidden_value = true
+  }
+  string GothicSapphireRamonda {
+    _hidden_value = true
+  }
+  string MelodicApricotAnnalee {
+    _hidden_value = true
+  }
+  JollyBlackCarree = true
+  OverallCrimsonEmmalynne = 687
+  HolyIndigoJemima = "Slept like a log last night  woke up in the fireplace."
+  RelievedSalmonPetrina = true
+  _hidden_value = true
+}

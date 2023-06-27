@@ -1,0 +1,73 @@
+type dummy.JointCoralElissa {
+  annotations {
+    serviceid IdealEmeraldFredi {
+    }
+    json FlyingMoccasinLorelei {
+    }
+    serviceid_number PrettyIndigoJennifer2 {
+    }
+    hidden_boolean EerieAzureBevvy {
+    }
+    string GracefulTurquoiseTerrie {
+    }
+    boolean FoolishSapphireReine {
+    }
+    json IntactRosePatrice {
+    }
+  }
+  string SuitableCrimsonEmilee3 {
+    _hidden_value = true
+  }
+  serviceid_number MaleCoffeeDiannne3 {
+    _hidden_value = true
+  }
+  hidden_boolean GrossLavenderKetti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RichCoffeeDorella {
+    _hidden_value = true
+  }
+  serviceid_number RomanticMagentaLeann {
+    _hidden_value = true
+  }
+  number ModernAmethystAmelina {
+    _hidden_value = true
+  }
+  number PuzzledTanShani {
+    _hidden_value = true
+  }
+  boolean GuiltyFuchsiaGinelle {
+    _hidden_value = true
+  }
+  string FascinatingOrangeMargareta {
+    _hidden_value = true
+  }
+  json BoilingAmaranthAgneta {
+    _hidden_value = true
+  }
+  boolean AustralianJadeKata {
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordanna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HelpfulTealSonnie2 {
+    _hidden_value = true
+  }
+  hidden_boolean RetiredSilverSaraann {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  IdealEmeraldFredi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FlyingMoccasinLorelei = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PrettyIndigoJennifer2 = 673
+  GracefulTurquoiseTerrie = "Why did the tomato blush? Because it saw the salad dressing."
+  FoolishSapphireReine = true
+  IntactRosePatrice = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,19 @@
+type dummy.FitHarlequinJacky {
+  annotations {
+    string CreepyAquamarineBeryle3 {
+    }
+    string CurvedAmberAlix {
+    }
+    number ChemicalGreenIsahella {
+    }
+  }
+  hidden_boolean PinkIndigoJennica3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CreepyAquamarineBeryle3 = "A steak pun is a rare medium well done."
+  CurvedAmberAlix = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ChemicalGreenIsahella = 788
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.OptimisticSalmonPegeen2 {
+  annotations {
+    dummy.DEFAULT KindVioletVally2 {
+    }
+    number QuietApricotAnnmaria3 {
+    }
+    json UrbanCyanFanchette3 {
+    }
+    number DetailedCrimsonEmlynn2 {
+    }
+    string PinkIndigoJenni2 {
+    }
+    serviceid_number DeterminedBeigeCandide {
+    }
+  }
+  number MiserableSalmonQuintina2 {
+    _hidden_value = true
+  }
+  KindVioletVally2 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  QuietApricotAnnmaria3 = 402
+  UrbanCyanFanchette3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DetailedCrimsonEmlynn2 = 906
+  PinkIndigoJenni2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DeterminedBeigeCandide = 735
+  _hidden_value = true
+}

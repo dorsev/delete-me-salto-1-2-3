@@ -1,0 +1,36 @@
+type dummy.PresidentialLimeKrystyna {
+  annotations {
+    serviceid_number DearGoldGlori {
+    }
+    boolean RoundAmberAlmira {
+    }
+    serviceid_number FinancialBronzeCorey3 {
+    }
+    number UrbanCyanFallon2 {
+    }
+    json OutdoorSilverSascha {
+    }
+    serviceid ProvincialPeachMaritsa {
+    }
+  }
+  dummy.WonderfulEmeraldFlossy CompetentSalmonPepita2 {
+    SoundRoseOlenka = 294
+    HorizontalSalmonPrudi = "Why did the kid cross the playground? To get to the other slide."
+    SlipperyAquamarineBarbaraanne = 176
+    AgriculturalGoldGoldia = 946
+    ClumsyVioletTracie = 735
+    MixedMaroonLesly = true
+    RigidPinkMerrill = 564
+    PureGrayHenryetta = 90
+    UnemployedIvoryJolie = "How come the stadium got hot after the game? Because all of the fans left."
+    GratefulIvoryJorrie = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  DearGoldGlori = 275
+  RoundAmberAlmira = true
+  FinancialBronzeCorey3 = 677
+  UrbanCyanFallon2 = 920
+  OutdoorSilverSascha = "To be Frank, I'd have to change my name."
+  ProvincialPeachMaritsa = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

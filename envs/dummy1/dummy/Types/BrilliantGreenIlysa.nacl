@@ -1,0 +1,33 @@
+type dummy.BrilliantGreenIlysa {
+  annotations {
+    serviceid_number AccessibleOrangeMarilee {
+    }
+    dummy.DEFAULT GlamorousTurquoiseTeresina2 {
+    }
+    json SureBlushCinderella {
+    }
+    serviceid_number EducationalCrimsonEsma {
+    }
+    hidden_boolean HushedApricotAnnadiane {
+    }
+  }
+  boolean YoungBlueCherey {
+    _hidden_value = true
+  }
+  number SadGrayHestia {
+    _hidden_value = true
+  }
+  boolean EmbarrassedAzureBibbye2 {
+    _hidden_value = true
+  }
+  boolean ArbitrarySilverRoxana {
+    _hidden_value = true
+  }
+  AccessibleOrangeMarilee = 584
+  GlamorousTurquoiseTeresina2 = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  SureBlushCinderella = "What do you call two barracuda fish?  A Pairacuda!"
+  EducationalCrimsonEsma = 515
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.HappyBlackCarola2 {
+  annotations {
+    serviceid EmptyCyanFanchon {
+    }
+    serviceid AverageTomatoTabbitha {
+    }
+    dummy.LightCopperDulciana SilkyAquaBabs {
+    }
+    string ChillyAmaranthAilis {
+    }
+    json BadBlushCicely {
+    }
+    dummy.DEFAULT HungryAzureBlithe {
+    }
+  }
+  string WhisperingApricotArdella {
+    _hidden_value = true
+  }
+  EmptyCyanFanchon = "Why was it called the dark ages? Because of all the knights. "
+  AverageTomatoTabbitha = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SilkyAquaBabs = 217
+  ChillyAmaranthAilis = "Slept like a log last night  woke up in the fireplace."
+  BadBlushCicely = "Why did the kid cross the playground? To get to the other slide."
+  HungryAzureBlithe = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  _hidden_value = true
+}

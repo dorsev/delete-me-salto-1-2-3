@@ -1,0 +1,26 @@
+type dummy.CleverJadeKarena3 {
+  annotations {
+    string FavouriteHarlequinJacquelin2 {
+    }
+    json CorrectCrimsonErina {
+    }
+    serviceid MobilePurpleMoselle {
+    }
+    json PastCoffeeDianemarie4 {
+    }
+    boolean UnableCoralElonore2 {
+    }
+    json RelaxedPlumMinnie3 {
+    }
+  }
+  boolean FierceOliveMaisie3 {
+    _hidden_value = true
+  }
+  FavouriteHarlequinJacquelin2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CorrectCrimsonErina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MobilePurpleMoselle = "Why did the kid cross the playground? To get to the other slide."
+  PastCoffeeDianemarie4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UnableCoralElonore2 = false
+  RelaxedPlumMinnie3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

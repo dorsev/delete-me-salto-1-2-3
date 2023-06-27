@@ -1,0 +1,54 @@
+type dummy.SimilarBronzeConstancy2 is boolean {
+  annotations {
+    serviceid SillyIndigoJoeann {
+    }
+    string GreenVioletUlrica {
+    }
+    serviceid_number FaithfulBlackCarlina {
+    }
+    serviceid FineBlackCarly {
+    }
+    boolean AgriculturalGoldGoldie {
+    }
+    serviceid TastelessAquaAshlee {
+    }
+    boolean EssentialCoffeeDionne {
+    }
+    boolean EvilPeachMaurita {
+    }
+    boolean GoldenGrayHaleigh {
+    }
+    number ElectronicGreenInez {
+    }
+    string NastyMaroonLisette2 {
+    }
+    number ClinicalIndigoJenny {
+    }
+    hidden_boolean IraqiOliveMadella {
+    }
+    boolean AmbitiousPeachMaureene {
+    }
+    boolean ResidentSalmonRaf {
+    }
+    boolean MaleCoffeeDiannne {
+    }
+    serviceid_number BusyTealShirley {
+    }
+  }
+  SillyIndigoJoeann = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GreenVioletUlrica = "Whoever invented the knock-knock joke should get a no bell prize."
+  FaithfulBlackCarlina = 788
+  FineBlackCarly = "I'll tell you what often gets over looked... garden fences."
+  AgriculturalGoldGoldie = false
+  TastelessAquaAshlee = "Slept like a log last night  woke up in the fireplace."
+  EssentialCoffeeDionne = true
+  EvilPeachMaurita = true
+  GoldenGrayHaleigh = false
+  ElectronicGreenInez = 671
+  NastyMaroonLisette2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ClinicalIndigoJenny = 126
+  AmbitiousPeachMaureene = false
+  ResidentSalmonRaf = true
+  MaleCoffeeDiannne = false
+  BusyTealShirley = 395
+}

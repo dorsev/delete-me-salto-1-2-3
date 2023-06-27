@@ -1,0 +1,70 @@
+type dummy.WittyBlueCele {
+  annotations {
+    serviceid_number JoyousBlackCarroll {
+    }
+    json TerritorialSalmonPris {
+    }
+    dummy.PowerfulCopperDruci SorryBrownDanyette {
+    }
+    json DifficultBronzeClementia {
+    }
+    boolean CooperativeBeigeCami2 {
+    }
+    hidden_boolean OlympicRedNessa2 {
+    }
+  }
+  hidden_boolean BurningRedNikki {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string StraightforwardMaroonLezlie {
+    _hidden_value = true
+  }
+  string RelievedBlueCatherine {
+    _hidden_value = true
+  }
+  serviceid_number ForeignBronzeCorinne {
+    _hidden_value = true
+  }
+  dummy.PhilosophicalRedNoell CleanTomatoTamma {
+    ExcitedBlackCarita = "I'll tell you what often gets over looked... garden fences."
+    SignificantBrownDanni = "To be Frank, I'd have to change my name."
+    HilariousBlackCarolyn = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    WonderfulBlueCeleste = "Slept like a log last night  woke up in the fireplace."
+    OutrageousAzureBreanne = 142
+    SoftCoralElayne = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  hidden_boolean BeautifulCoffeeDix {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number TallAmaranthAggie2 {
+    _hidden_value = true
+  }
+  number SoleLimeKirsti {
+    _hidden_value = true
+  }
+  string ScaredSapphireRaina {
+    _hidden_value = true
+  }
+  number NosyWhiteVictoria {
+    _hidden_value = true
+  }
+  string DarkChocolateDeb {
+    _hidden_value = true
+  }
+  serviceid_number EmotionalGrayHermione {
+    _hidden_value = true
+  }
+  JoyousBlackCarroll = 355
+  TerritorialSalmonPris = "Why did the kid cross the playground? To get to the other slide."
+  SorryBrownDanyette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DifficultBronzeClementia = "Slept like a log last night  woke up in the fireplace."
+  CooperativeBeigeCami2 = true
+  _hidden_value = true
+}

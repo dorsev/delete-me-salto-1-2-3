@@ -1,0 +1,29 @@
+type dummy.EnchantingBlackCarena {
+  annotations {
+    dummy.DEFAULT DiverseRedNicol2 {
+    }
+    hidden_boolean RipeApricotAriela {
+    }
+    string SelectedPlumMilli2 {
+    }
+    serviceid_number SurprisedEmeraldFredelia3 {
+    }
+    boolean ResultingPurpleNadeen {
+    }
+    boolean FormidableSilverSabine {
+    }
+  }
+  hidden_boolean HappyBrownDaisie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  DiverseRedNicol2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  SelectedPlumMilli2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SurprisedEmeraldFredelia3 = 152
+  ResultingPurpleNadeen = false
+  FormidableSilverSabine = true
+  _hidden_value = true
+}

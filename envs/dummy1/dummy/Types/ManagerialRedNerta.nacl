@@ -1,0 +1,123 @@
+type dummy.ManagerialRedNerta {
+  annotations {
+    number CondemnedAquamarineBertha2 {
+    }
+    number SuperiorMaroonLiana {
+    }
+    string GothicSapphireRamonda2 {
+    }
+    json CrudePlumMil {
+    }
+    hidden_boolean DeafIvoryJourdan {
+    }
+  }
+  dummy.SupremeGreenIsabella ElectoralLimeKristina2 {
+    ExcellentCoralEilis = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UpsetBeigeBritte = 234
+    _hidden_value = true
+  }
+  boolean ResultingPurpleNadeen3 {
+    _hidden_value = true
+  }
+  json DependentGrayHeda2 {
+    _hidden_value = true
+  }
+  serviceid_number ContinuousIvoryJoye2 {
+    _hidden_value = true
+  }
+  serviceid_number NaughtyAzureBonnie2 {
+    _hidden_value = true
+  }
+  json EmbarrassedAzureBianka {
+    _hidden_value = true
+  }
+  "List<number>" CoastalPlumMichal {
+    _hidden_value = true
+  }
+  boolean PriorRosePaulie3 {
+    _hidden_value = true
+  }
+  boolean FederalGrayHalli2 {
+    _hidden_value = true
+  }
+  serviceid ImpressiveIndigoJerry {
+    _hidden_value = true
+  }
+  boolean AnnoyedAquamarineBennie2 {
+    _hidden_value = true
+  }
+  serviceid_number SurvivingSapphireRicki3 {
+    _hidden_value = true
+  }
+  boolean NosyWhiteVicky3 {
+    _hidden_value = true
+  }
+  serviceid RelativeGoldGuillema2 {
+    _hidden_value = true
+  }
+  json ControlledTanShel {
+    _hidden_value = true
+  }
+  boolean InnerFuchsiaGeorge2 {
+    _hidden_value = true
+  }
+  boolean UnemployedIvoryJoli {
+    _hidden_value = true
+  }
+  hidden_boolean MereGreenIdette4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PermanentFuchsiaGaye {
+    _hidden_value = true
+  }
+  hidden_boolean MinimalPlumMorganne2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OddWhiteVinita4 {
+    _hidden_value = true
+  }
+  string DeafIvoryJoya {
+    _hidden_value = true
+  }
+  number DomesticCopperEbba {
+    _hidden_value = true
+  }
+  serviceid SorryBrownDanyette4 {
+    _hidden_value = true
+  }
+  string SoundRoseOla {
+    _hidden_value = true
+  }
+  json PsychiatricSilverRoz2 {
+    _hidden_value = true
+  }
+  serviceid InherentRedNoami2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImportantTealSophie2 {
+    _hidden_value = true
+  }
+  string ImportantBlueChelsea {
+    _hidden_value = true
+  }
+  string MaleCoffeeDidi2 {
+    _hidden_value = true
+  }
+  string DeafIvoryJoy {
+    _hidden_value = true
+  }
+  hidden_boolean GenuineGreenIsis2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  CondemnedAquamarineBertha2 = 446
+  SuperiorMaroonLiana = 379
+  GothicSapphireRamonda2 = "Why was it called the dark ages? Because of all the knights. "
+  CrudePlumMil = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

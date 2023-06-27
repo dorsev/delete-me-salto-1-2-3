@@ -1,0 +1,10 @@
+type dummy.OkSapphireRhoda is string {
+  annotations {
+    serviceid MathematicalRoseOthelia {
+    }
+    number ShallowAmberAloise {
+    }
+  }
+  MathematicalRoseOthelia = "Why did the tomato blush? Because it saw the salad dressing."
+  ShallowAmberAloise = 36
+}

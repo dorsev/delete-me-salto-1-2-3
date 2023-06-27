@@ -1,0 +1,49 @@
+type dummy.DefinitePeachMartguerita2 {
+  annotations {
+    serviceid ColdChocolateDebby3 {
+    }
+    number ExplicitMaroonLisetta {
+    }
+    hidden_boolean DistinctTurquoiseTatiana5 {
+    }
+    serviceid_number EquivalentJadeKaja2 {
+    }
+  }
+  hidden_boolean LongAmethystAmelia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SquareJadeKai2 {
+    _hidden_value = true
+  }
+  json BriefEmeraldFlorrie {
+    _hidden_value = true
+  }
+  boolean CompetentSalmonPeri2 {
+    _hidden_value = true
+  }
+  json OpenBronzeClerissa3 {
+    _hidden_value = true
+  }
+  boolean StrongBronzeCollie3 {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAlfy3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticPinkMead4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number QuaintWhiteVivianne {
+    _hidden_value = true
+  }
+  ColdChocolateDebby3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExplicitMaroonLisetta = 496
+  EquivalentJadeKaja2 = 709
+  _hidden_value = true
+}

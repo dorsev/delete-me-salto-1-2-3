@@ -1,0 +1,23 @@
+type dummy.CompetentSalmonPeri {
+  annotations {
+    dummy.OkSapphireRhoda FiscalRedNiki {
+    }
+    string WittyBlueCele2 {
+    }
+    serviceid_number MinisterialTanSheba {
+    }
+    serviceid VocationalTanShalne {
+    }
+    boolean RelaxedPlumMinnie {
+    }
+  }
+  serviceid SexualCopperEachelle {
+    _hidden_value = true
+  }
+  FiscalRedNiki = "How come the stadium got hot after the game? Because all of the fans left."
+  WittyBlueCele2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MinisterialTanSheba = 162
+  VocationalTanShalne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RelaxedPlumMinnie = true
+  _hidden_value = true
+}

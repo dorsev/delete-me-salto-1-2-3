@@ -1,0 +1,39 @@
+type dummy.PowerfulCopperDruci is string {
+  annotations {
+    serviceid WorryingSilverRozalin {
+    }
+    serviceid RelevantCoffeeDoralia {
+    }
+    number SecretGrayHetty {
+    }
+    boolean VulnerableJadeKarole {
+    }
+    json ElectoralLimeKristina {
+    }
+    boolean ChristianCoralElva {
+    }
+    hidden_boolean TypicalEmeraldFrancesca {
+    }
+    serviceid_number SmallBlueCharla {
+    }
+    boolean WorryingSilverRozamond {
+    }
+    string VerticalOliveLynsey {
+    }
+    number RespectiveSalmonPersis {
+    }
+    number GladGoldGlyn {
+    }
+  }
+  WorryingSilverRozalin = "Why was it called the dark ages? Because of all the knights. "
+  RelevantCoffeeDoralia = "Im only familiar with 25 letters in the English language. I dont know why."
+  SecretGrayHetty = 963
+  VulnerableJadeKarole = false
+  ElectoralLimeKristina = "Why did the tomato blush? Because it saw the salad dressing."
+  ChristianCoralElva = false
+  SmallBlueCharla = 454
+  WorryingSilverRozamond = true
+  VerticalOliveLynsey = "Dad Im hungry  Hi hungry Im dad"
+  RespectiveSalmonPersis = 760
+  GladGoldGlyn = 825
+}

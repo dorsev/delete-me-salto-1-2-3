@@ -1,0 +1,34 @@
+type dummy.IntelligentMaroonLinzy3 {
+  dummy.ConfusedMaroonLila ShinyTurquoiseTiff {
+  }
+  boolean GiantAmaranthAbra2 {
+  }
+  serviceid_number AwkwardPeachMaryjane3 {
+  }
+  hidden_boolean MuddyTurquoiseTheresa3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AwfulHarlequinJaquenetta2 {
+  }
+  serviceid CleanCyanFernande4 {
+  }
+  serviceid CrazyMoccasinLorrie5 {
+  }
+  json ProperCoralElisabet4 {
+  }
+  serviceid_number NorthernCoralEleanora3 {
+  }
+  json SurprisedEmeraldFrederica4 {
+  }
+  hidden_boolean QuaintTurquoiseThomasine2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number GivenHarlequinJaneva2 {
+  }
+  string FairBlackCarlen4 {
+  }
+}

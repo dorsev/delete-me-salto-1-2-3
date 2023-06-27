@@ -1,0 +1,33 @@
+type dummy.BalancedSilverRoslyn {
+  annotations {
+    json OppositeHarlequinJaneczka {
+    }
+    serviceid_number CharacteristicOliveMalia3 {
+    }
+    serviceid_number DyingScarletRoch2 {
+    }
+    json AfricanFuchsiaGianina {
+    }
+    serviceid_number PricklyWhiteVivi {
+    }
+    serviceid IcyAquaAudrye {
+    }
+    hidden_boolean SoftAquamarineBari {
+    }
+    dummy.DEFAULT ShockedPinkMelisande {
+    }
+  }
+  string AliveTealSherri3 {
+    _hidden_value = true
+  }
+  OppositeHarlequinJaneczka = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CharacteristicOliveMalia3 = 710
+  DyingScarletRoch2 = 48
+  AfricanFuchsiaGianina = "I'll tell you what often gets over looked... garden fences."
+  PricklyWhiteVivi = 311
+  IcyAquaAudrye = "Why did the kid cross the playground? To get to the other slide."
+  ShockedPinkMelisande = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  _hidden_value = true
+}

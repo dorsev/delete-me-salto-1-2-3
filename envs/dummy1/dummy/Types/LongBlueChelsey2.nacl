@@ -1,0 +1,26 @@
+type dummy.LongBlueChelsey2 {
+  annotations {
+    dummy.AdjacentSilverRoxi AlliedPlumMissie {
+    }
+    serviceid BrainyTealSheryl {
+    }
+    string FrontCopperEadie {
+    }
+    boolean PurringApricotAnni5 {
+    }
+    serviceid_number DailyCyanEveline2 {
+    }
+    serviceid_number TallAmaranthAggy3 {
+    }
+  }
+  string InnocentTealStacey2 {
+    _hidden_value = true
+  }
+  AlliedPlumMissie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BrainyTealSheryl = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FrontCopperEadie = "Why did the tomato blush? Because it saw the salad dressing."
+  PurringApricotAnni5 = true
+  DailyCyanEveline2 = 167
+  TallAmaranthAggy3 = 748
+  _hidden_value = true
+}

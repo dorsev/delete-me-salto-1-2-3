@@ -1,0 +1,59 @@
+type dummy.RapidGrayHilde2 {
+  annotations {
+    json MaleCoffeeDiannne4 {
+    }
+    boolean ScottishChocolateDela {
+    }
+    serviceid_number NewBlueChandra {
+    }
+    boolean WrongBrownCrista {
+    }
+    serviceid_number ReadyChocolateDebera {
+    }
+  }
+  serviceid_number TinyCyanEunice {
+    _hidden_value = true
+  }
+  string AlternativeEmeraldFiorenze3 {
+    _hidden_value = true
+  }
+  hidden_boolean CharmingBeigeCallida {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WellFuchsiaGisela {
+    _hidden_value = true
+  }
+  serviceid SadYellowWilletta2 {
+    _hidden_value = true
+  }
+  json ConcreteOliveLynea {
+    _hidden_value = true
+  }
+  string BrilliantGreenIlse2 {
+    _hidden_value = true
+  }
+  hidden_boolean NativeJadeKatalin3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SaltyApricotArlee {
+    _hidden_value = true
+  }
+  hidden_boolean CommunistGoldGisella {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string RubberSilverSarene4 {
+    _hidden_value = true
+  }
+  MaleCoffeeDiannne4 = "Dad Im hungry  Hi hungry Im dad"
+  ScottishChocolateDela = false
+  NewBlueChandra = 428
+  WrongBrownCrista = true
+  ReadyChocolateDebera = 985
+  _hidden_value = true
+}

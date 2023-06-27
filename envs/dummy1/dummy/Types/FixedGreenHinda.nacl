@@ -1,0 +1,60 @@
+type dummy.FixedGreenHinda {
+  annotations {
+    string StraightHarlequinJami {
+    }
+    boolean ConventionalGoldGus {
+    }
+    serviceid BroadCoralElisabetta {
+    }
+    json SickFuchsiaGeraldine {
+    }
+    serviceid_number DoubtfulRosePandora4 {
+    }
+  }
+  "List<dummy.ConfusedMaroonLila>" RearPurpleMuriel2 {
+    _hidden_value = true
+  }
+  boolean GrandEmeraldFrances2 {
+    _hidden_value = true
+  }
+  number VulnerableJadeKarna2 {
+    _hidden_value = true
+  }
+  string CausalSapphireRene {
+    _hidden_value = true
+  }
+  serviceid_number ImmensePlumMisha {
+    _hidden_value = true
+  }
+  hidden_boolean MelodicApricotAnnaliese {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CrudePlumMikaela {
+    _hidden_value = true
+  }
+  hidden_boolean PleasedEmeraldGabrielle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MysteriousPurpleNelle {
+    _hidden_value = true
+  }
+  json BritishBlushCherilyn2 {
+    _hidden_value = true
+  }
+  dummy.GoodBlackCaro MagnificentMagentaLeelah {
+    _hidden_value = true
+  }
+  number EmbarrassedAzureBibbie2 {
+    _hidden_value = true
+  }
+  StraightHarlequinJami = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConventionalGoldGus = true
+  BroadCoralElisabetta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SickFuchsiaGeraldine = "Did you know that protons have mass? I didn't even know they were catholic."
+  DoubtfulRosePandora4 = 629
+  _hidden_value = true
+}

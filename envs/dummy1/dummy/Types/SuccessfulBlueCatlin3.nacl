@@ -1,0 +1,64 @@
+type dummy.SuccessfulBlueCatlin3 {
+  annotations {
+    dummy.OddFuchsiaGenna GiganticAmaranthAdda2 {
+    }
+    json HotAquaAudry4 {
+    }
+    json ImmenseAmaranthAdelice {
+    }
+    serviceid_number FierceOliveMaisie4 {
+    }
+    json AdequateGrayHildegaard {
+    }
+    serviceid_number PreferredTanScarlett2 {
+    }
+  }
+  number SingleBronzeCoralie {
+    _hidden_value = true
+  }
+  json AccurateIndigoJilli {
+    _hidden_value = true
+  }
+  serviceid SignificantBrownDanita3 {
+    _hidden_value = true
+  }
+  string RainyWhiteWally {
+    _hidden_value = true
+  }
+  serviceid_number SpatialSalmonPerla {
+    _hidden_value = true
+  }
+  string FaithfulTanShayna {
+    _hidden_value = true
+  }
+  boolean SemanticRedNissa2 {
+    _hidden_value = true
+  }
+  string WidespreadHarlequinJacquetta2 {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMargeaux {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UptightBeigeBrook2 {
+    _hidden_value = true
+  }
+  json ScaredSalmonRafaelita {
+    _hidden_value = true
+  }
+  json NovelScarletRosie {
+    _hidden_value = true
+  }
+  serviceid_number MightyTanShandy {
+    _hidden_value = true
+  }
+  GiganticAmaranthAdda2 = 163
+  HotAquaAudry4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ImmenseAmaranthAdelice = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FierceOliveMaisie4 = 254
+  AdequateGrayHildegaard = "Why is Peter Pan always flying? Because he Neverlands."
+  PreferredTanScarlett2 = 845
+  _hidden_value = true
+}

@@ -1,0 +1,31 @@
+type dummy.SplendidOrangeMandie {
+  annotations {
+    dummy.DEFAULT UnableCoralElonore3 {
+    }
+    serviceid AttractiveCyanFiann2 {
+    }
+    serviceid ImmensePlumMirilla {
+    }
+    boolean UniformScarletRosaline2 {
+    }
+    serviceid IslamicRoseOlympia {
+    }
+    serviceid_number ShortBronzeColene {
+    }
+    string BeautifulCoffeeDita2 {
+    }
+  }
+  boolean HungryAzureBlondell2 {
+    _hidden_value = true
+  }
+  UnableCoralElonore3 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  AttractiveCyanFiann2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ImmensePlumMirilla = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UniformScarletRosaline2 = false
+  IslamicRoseOlympia = "Did you know that protons have mass? I didn't even know they were catholic."
+  ShortBronzeColene = 970
+  BeautifulCoffeeDita2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

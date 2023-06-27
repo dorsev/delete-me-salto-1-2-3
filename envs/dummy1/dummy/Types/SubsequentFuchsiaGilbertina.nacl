@@ -1,0 +1,36 @@
+type dummy.SubsequentFuchsiaGilbertina {
+  annotations {
+    number FancyTurquoiseTedi {
+    }
+    serviceid_number PotentialCoralElbertine2 {
+    }
+    hidden_boolean ExperiencedMagentaLaural3 {
+    }
+    hidden_boolean UpperCyanFaustine3 {
+    }
+    dummy.DEFAULT OuterJadeKaron2 {
+    }
+    number ExtremeHarlequinJacki2 {
+    }
+    hidden_boolean TopChocolateDarda {
+    }
+  }
+  dummy.DEFAULT ClearBlushCindy {
+    _hidden_value = true
+  }
+  hidden_boolean BlueVioletTori2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  FancyTurquoiseTedi = 522
+  PotentialCoralElbertine2 = 977
+  OuterJadeKaron2 = {
+    legit = '''
+Slept like a log last night  woke up in the fireplace.
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+'''
+  }
+  ExtremeHarlequinJacki2 = 361
+  _hidden_value = true
+}

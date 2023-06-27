@@ -1,0 +1,26 @@
+type dummy.MidPinkMelisent {
+  annotations {
+    string AshamedScarletRosamond {
+    }
+    boolean SuccessfulBlueCatlee {
+    }
+    string CruelPlumMichaelina2 {
+    }
+    boolean CommercialCopperDoretta2 {
+    }
+    string AcuteLavenderKenna3 {
+    }
+    dummy.OkSapphireRhoda ScreechingApricotAnthiathia3 {
+    }
+  }
+  json RealisticMoccasinLolita3 {
+    _hidden_value = true
+  }
+  AshamedScarletRosamond = "Why do birds fly south for the winter? Because it's too far to walk."
+  SuccessfulBlueCatlee = true
+  CruelPlumMichaelina2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CommercialCopperDoretta2 = true
+  AcuteLavenderKenna3 = "Why is Peter Pan always flying? Because he Neverlands."
+  ScreechingApricotAnthiathia3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

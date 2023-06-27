@@ -1,0 +1,58 @@
+type dummy.WholeBronzeCloe3 {
+  annotations {
+    dummy.IndianGrayHarmonia ShyTomatoStormi {
+    }
+    json VocationalTanShaine {
+    }
+    boolean FitHarlequinJaclyn2 {
+    }
+    string GiantMoccasinLotte2 {
+    }
+    string FunnyVioletTuesday2 {
+    }
+    dummy.OkSapphireRhoda MightyWhiteVerena3 {
+    }
+    string DizzyVioletTrescha3 {
+    }
+    dummy.EmotionalGrayHerta2 StrongBronzeColline2 {
+    }
+    serviceid_number SacredRedNorine3 {
+    }
+    boolean CurvedAmberAlix2 {
+    }
+    dummy.DefinitePeachMartguerita2 OverwhelmingPurpleMyrlene3 {
+    }
+    boolean PoorBronzeCoretta {
+    }
+    serviceid_number MoralCyanFelita {
+    }
+    string AbundantAmethystAnderea3 {
+    }
+    number StaticSapphireRebekah2 {
+    }
+    dummy.ConfusedMaroonLila ProtectiveRoseOlimpia3 {
+    }
+    json GreatAmaranthAddia2 {
+    }
+    string GreyEmeraldFrankie {
+    }
+    serviceid_number ChemicalGreenIsidora {
+    }
+  }
+  VocationalTanShaine = "Why was it called the dark ages? Because of all the knights. "
+  FitHarlequinJaclyn2 = true
+  GiantMoccasinLotte2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FunnyVioletTuesday2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MightyWhiteVerena3 = file("FluffyAmberAlice3.txt")
+  DizzyVioletTrescha3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  SacredRedNorine3 = 451
+  CurvedAmberAlix2 = false
+  PoorBronzeCoretta = false
+  MoralCyanFelita = 661
+  AbundantAmethystAnderea3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  StaticSapphireRebekah2 = 825
+  ProtectiveRoseOlimpia3 = file("ControversialLimeKyla4.txt")
+  GreatAmaranthAddia2 = "Why was it called the dark ages? Because of all the knights. "
+  GreyEmeraldFrankie = "Why didnt the skeleton cross the road? Because he had no guts."
+  ChemicalGreenIsidora = 622
+}

@@ -1,0 +1,19 @@
+type dummy.CentralBronzeConnie {
+  annotations {
+    boolean RemainingGoldGolda4 {
+    }
+    hidden_boolean CooingAmethystAngie {
+    }
+    number InnovativeTanSheelah3 {
+    }
+    json GreekIndigoJoanne2 {
+    }
+  }
+  serviceid_number SureBlushCindi2 {
+    _hidden_value = true
+  }
+  RemainingGoldGolda4 = true
+  InnovativeTanSheelah3 = 804
+  GreekIndigoJoanne2 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

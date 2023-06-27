@@ -1,0 +1,53 @@
+type dummy.RomanFuchsiaGermaine2 {
+  annotations {
+    number SophisticatedJadeKarlotte4 {
+    }
+    serviceid_number WearyBeigeBrooks4 {
+    }
+    number IntegralSalmonPhillie {
+    }
+    serviceid_number MisleadingRoseOrella {
+    }
+    hidden_boolean RacialPlumMickie {
+    }
+  }
+  dummy.ModernTealStar LonelyOliveLynda2 {
+    _hidden_value = true
+  }
+  serviceid LateBlushChristabel3 {
+    _hidden_value = true
+  }
+  boolean NecessaryBronzeCookie {
+    _hidden_value = true
+  }
+  string HonestIndigoJerry {
+    _hidden_value = true
+  }
+  string RoundIvoryJohnath {
+    _hidden_value = true
+  }
+  hidden_boolean SteepAmberAlyce4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AmericanBronzeCorri2 {
+    _hidden_value = true
+  }
+  boolean BlushingTomatoTalya2 {
+    _hidden_value = true
+  }
+  string AccusedSilverSallie {
+    _hidden_value = true
+  }
+  hidden_boolean ResponsibleCoffeeDevin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  SophisticatedJadeKarlotte4 = 337
+  WearyBeigeBrooks4 = 993
+  IntegralSalmonPhillie = 528
+  MisleadingRoseOrella = 154
+  _hidden_value = true
+}

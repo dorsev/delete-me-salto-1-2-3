@@ -1,0 +1,23 @@
+type dummy.CuriousLimeKira2 {
+  annotations {
+    boolean AdjacentSilverRoxi6 {
+    }
+    boolean EnchantingBlackCarena2 {
+    }
+    boolean SensitiveGrayHenka3 {
+    }
+    number DullVioletTrisha2 {
+    }
+    serviceid_number FundamentalFuchsiaGenevieve {
+    }
+  }
+  number ReligiousCoralElene2 {
+    _hidden_value = true
+  }
+  AdjacentSilverRoxi6 = false
+  EnchantingBlackCarena2 = true
+  SensitiveGrayHenka3 = false
+  DullVioletTrisha2 = 518
+  FundamentalFuchsiaGenevieve = 37
+  _hidden_value = true
+}

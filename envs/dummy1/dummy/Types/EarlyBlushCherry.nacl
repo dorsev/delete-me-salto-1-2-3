@@ -1,0 +1,49 @@
+type dummy.EarlyBlushCherry {
+  annotations {
+    serviceid CalmPurpleNancee {
+    }
+    boolean RubberSilverSaree3 {
+    }
+    string CrookedAmberAlissa {
+    }
+    dummy.MistyTurquoiseThea MereGreenIdette5 {
+    }
+    string LongVioletVanda4 {
+    }
+    json SuccessfulBlueCatlin {
+    }
+  }
+  number NervousAzureBrandais2 {
+    _hidden_value = true
+  }
+  hidden_boolean ChubbyAmberAlisa2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string LabourBrownDaffy4 {
+    _hidden_value = true
+  }
+  serviceid YummyYellowZorina {
+    _hidden_value = true
+  }
+  serviceid_number FilthyAmberAlfi {
+    _hidden_value = true
+  }
+  serviceid_number ProudHarlequinJan2 {
+    _hidden_value = true
+  }
+  json UnusualTurquoiseToby5 {
+    _hidden_value = true
+  }
+  boolean FragileTealSondra2 {
+    _hidden_value = true
+  }
+  CalmPurpleNancee = "Im only familiar with 25 letters in the English language. I dont know why."
+  RubberSilverSaree3 = true
+  CrookedAmberAlissa = "Slept like a log last night  woke up in the fireplace."
+  MereGreenIdette5 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LongVioletVanda4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SuccessfulBlueCatlin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,23 @@
+type dummy.ComfortableBeigeCamala {
+  annotations {
+    serviceid_number MiserableSalmonRachele {
+    }
+    serviceid ContinuousIvoryJoye3 {
+    }
+    serviceid UglyPlumMignon2 {
+    }
+    boolean GrowingCrimsonEnrica4 {
+    }
+    json IntermediateRoseOfella2 {
+    }
+  }
+  number EarlyBlushCherri3 {
+    _hidden_value = true
+  }
+  MiserableSalmonRachele = 126
+  ContinuousIvoryJoye3 = "Why did the tomato blush? Because it saw the salad dressing."
+  UglyPlumMignon2 = "I'll tell you what often gets over looked... garden fences."
+  GrowingCrimsonEnrica4 = false
+  IntermediateRoseOfella2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

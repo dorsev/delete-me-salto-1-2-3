@@ -1,0 +1,22 @@
+type dummy.ConsciousHarlequinJeanie2 {
+  annotations {
+    json ArbitrarySilverRoxana3 {
+    }
+    number IntimateSilverRuthe {
+    }
+    hidden_boolean CombativeAquamarineBerte {
+    }
+    serviceid LongVioletVanda3 {
+    }
+    serviceid_number CoolAmaranthAinslee {
+    }
+  }
+  boolean ColossalAmaranthAbbye3 {
+    _hidden_value = true
+  }
+  ArbitrarySilverRoxana3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  IntimateSilverRuthe = 716
+  LongVioletVanda3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CoolAmaranthAinslee = 552
+  _hidden_value = true
+}

@@ -1,0 +1,22 @@
+type dummy.YellowYellowZondra2 {
+  annotations {
+    serviceid PayableOrangeMarcie {
+    }
+    serviceid StatisticalMagentaLanni3 {
+    }
+    number SupposedCyanFarrand2 {
+    }
+    number SilentApricotAntonia2 {
+    }
+  }
+  hidden_boolean PlannedPlumMirabelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  PayableOrangeMarcie = "Why do birds fly south for the winter? Because it's too far to walk."
+  StatisticalMagentaLanni3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SupposedCyanFarrand2 = 878
+  SilentApricotAntonia2 = 881
+  _hidden_value = true
+}

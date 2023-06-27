@@ -1,0 +1,77 @@
+type dummy.VividTanShawna2 {
+  annotations {
+    json RelativeGoldGui {
+    }
+    hidden_boolean ClassicJadeKaitlyn4 {
+    }
+    serviceid_number AwfulHarlequinJaquenette {
+    }
+    hidden_boolean RapidGrayHildagard {
+    }
+    serviceid_number CurlyAmberAlbertine {
+    }
+    serviceid ShortBronzeColene2 {
+    }
+  }
+  json ParentalRedNicholle3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SacredRedNorma2 {
+    _hidden_value = true
+  }
+  serviceid_number DetailedCrimsonEmily2 {
+    _hidden_value = true
+  }
+  number PotentialCoralElbertine {
+    _hidden_value = true
+  }
+  serviceid DeliberateRedNoellyn {
+    _hidden_value = true
+  }
+  serviceid_number CapitalistMagentaLayne3 {
+    _hidden_value = true
+  }
+  number TheoreticalIndigoJenilee6 {
+    _hidden_value = true
+  }
+  number RemainingGoldGlynnis {
+    _hidden_value = true
+  }
+  serviceid_number UncertainMagentaLeland3 {
+    _hidden_value = true
+  }
+  json AccurateIndigoJillene {
+    _hidden_value = true
+  }
+  number DueCopperDot3 {
+    _hidden_value = true
+  }
+  json UnhappyMaroonLida {
+    _hidden_value = true
+  }
+  hidden_boolean CooperativeBeigeCamile {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ObviousCoffeeDollie {
+    _hidden_value = true
+  }
+  string ComplicatedIndigoJoanna {
+    _hidden_value = true
+  }
+  boolean PrivateBronzeCordy {
+    _hidden_value = true
+  }
+  number DoubtfulTealSindee5 {
+    _hidden_value = true
+  }
+  serviceid_number CompactPurpleNanni3 {
+    _hidden_value = true
+  }
+  RelativeGoldGui = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AwfulHarlequinJaquenette = 509
+  CurlyAmberAlbertine = 510
+  ShortBronzeColene2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,75 @@
+type dummy.OddWhiteVinita {
+  annotations {
+    dummy.VictorianJadeKalli EndlessPeachMarjie {
+    }
+    json DefensiveRoseOneida3 {
+    }
+    json AverageCoralElysha {
+    }
+    serviceid_number ImpossibleTealSorcha {
+    }
+    hidden_boolean PlannedPlumMiranda2 {
+    }
+    json DelightfulBeigeCandace {
+    }
+  }
+  serviceid ScaryYellowWillie2 {
+    _hidden_value = true
+  }
+  dummy.LightCopperDulciana ImmensePlumMirna {
+    _hidden_value = true
+  }
+  boolean CulturalCoralElinor {
+    _hidden_value = true
+  }
+  hidden_boolean ReadyChocolateDebi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number OddWhiteVinnie {
+    _hidden_value = true
+  }
+  serviceid SafeCopperDorey {
+    _hidden_value = true
+  }
+  serviceid_number SlimRoseOlympe {
+    _hidden_value = true
+  }
+  serviceid_number FrozenScarletRos {
+    _hidden_value = true
+  }
+  serviceid DreadfulPinkMerrile {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VocationalTanShaina {
+    _hidden_value = true
+  }
+  boolean ExtensiveGoldGlyn {
+    _hidden_value = true
+  }
+  string PastCoffeeDianemarie2 {
+    _hidden_value = true
+  }
+  number JuicyApricotAretha {
+    _hidden_value = true
+  }
+  string UpperCyanFaustine2 {
+    _hidden_value = true
+  }
+  boolean PaleGrayHarriette {
+    _hidden_value = true
+  }
+  serviceid_number LegislativeMaroonLindy {
+    _hidden_value = true
+  }
+  serviceid_number SacredRedNorina4 {
+    _hidden_value = true
+  }
+  EndlessPeachMarjie = "What do you call two barracuda fish?  A Pairacuda!"
+  DefensiveRoseOneida3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AverageCoralElysha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ImpossibleTealSorcha = 113
+  DelightfulBeigeCandace = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

@@ -1,0 +1,19 @@
+type dummy.StiffPeachMaryanne {
+  annotations {
+    number RisingScarletRoselle2 {
+    }
+    hidden_boolean RenewedSilverSandra3 {
+    }
+    boolean LonelyAzureBobine {
+    }
+    boolean RegularCopperDorthea2 {
+    }
+  }
+  string GrotesqueTurquoiseTersina2 {
+    _hidden_value = true
+  }
+  RisingScarletRoselle2 = 349
+  LonelyAzureBobine = false
+  RegularCopperDorthea2 = false
+  _hidden_value = true
+}

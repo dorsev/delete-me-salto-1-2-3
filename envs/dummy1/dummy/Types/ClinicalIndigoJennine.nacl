@@ -1,0 +1,25 @@
+type dummy.ClinicalIndigoJennine {
+  annotations {
+    serviceid_number ForwardSapphireRicca {
+    }
+    hidden_boolean BizarreTanSeana2 {
+    }
+    serviceid_number DifficultTealSimonne {
+    }
+    serviceid CrazyMoccasinLorrayne2 {
+    }
+    serviceid_number BurningRedNikkie2 {
+    }
+    json SmilingBlueCathy {
+    }
+  }
+  boolean ImpressedPeachMariska2 {
+    _hidden_value = true
+  }
+  ForwardSapphireRicca = 28
+  DifficultTealSimonne = 539
+  CrazyMoccasinLorrayne2 = "I'll tell you what often gets over looked... garden fences."
+  BurningRedNikkie2 = 586
+  SmilingBlueCathy = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

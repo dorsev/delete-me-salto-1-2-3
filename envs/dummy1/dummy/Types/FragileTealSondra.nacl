@@ -1,0 +1,83 @@
+type dummy.FragileTealSondra {
+  annotations {
+    number UnexpectedMagentaLauree {
+    }
+    serviceid_number ChangingJadeKassey {
+    }
+    string LightTurquoiseThalia2 {
+    }
+    serviceid_number InnovativeTanSheena {
+    }
+    hidden_boolean DiverseRedNickie2 {
+    }
+    number NarrowCyanFanya {
+    }
+  }
+  serviceid_number MagnificentMagentaLeena {
+    _hidden_value = true
+  }
+  boolean RomanFuchsiaGermaine {
+    _hidden_value = true
+  }
+  string PermanentFuchsiaGay {
+    _hidden_value = true
+  }
+  serviceid_number BrilliantGreenIlsa2 {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalRosePatience2 {
+    _hidden_value = true
+  }
+  serviceid AshamedScarletRosamund {
+    _hidden_value = true
+  }
+  json ExcitedBlackCariotta2 {
+    _hidden_value = true
+  }
+  boolean WesternChocolateDeena {
+    _hidden_value = true
+  }
+  "List<boolean>" DifferentBlueCharlena {
+    _hidden_value = true
+  }
+  string HelpfulTealSonja3 {
+    _hidden_value = true
+  }
+  json PolishPinkMeredith3 {
+    _hidden_value = true
+  }
+  string CarefulTealShirline {
+    _hidden_value = true
+  }
+  string ThunderingApricotArabele {
+    _hidden_value = true
+  }
+  string DeepChocolateDelores2 {
+    _hidden_value = true
+  }
+  hidden_boolean PresentBrownCristie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SeniorCoffeeDonetta {
+    _hidden_value = true
+  }
+  serviceid_number CorrespondingPlumMiquela3 {
+    _hidden_value = true
+  }
+  json CuddlyAmberAlberta {
+    _hidden_value = true
+  }
+  hidden_boolean ConsciousHarlequinJeanie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  UnexpectedMagentaLauree = 109
+  ChangingJadeKassey = 540
+  LightTurquoiseThalia2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  InnovativeTanSheena = 569
+  NarrowCyanFanya = 863
+  _hidden_value = true
+}

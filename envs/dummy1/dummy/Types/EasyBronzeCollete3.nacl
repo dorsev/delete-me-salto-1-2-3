@@ -1,0 +1,89 @@
+type dummy.EasyBronzeCollete3 {
+  annotations {
+    json FlutteringAquaAstrix2 {
+    }
+    dummy.DelightedIvoryJulianne FierceOliveMaisie2 {
+    }
+    string ExcessiveOliveMadelena2 {
+    }
+    json ConstitutionalHarlequinJayme2 {
+    }
+    string RivalPurpleNari2 {
+    }
+  }
+  number MelodicApricotAnnamaria {
+    _hidden_value = true
+  }
+  hidden_boolean PoisedTurquoiseThomasa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ValuableGoldGwyn3 {
+    _hidden_value = true
+  }
+  serviceid PracticalCopperDorisa2 {
+    _hidden_value = true
+  }
+  serviceid ColdChocolateDebby2 {
+    _hidden_value = true
+  }
+  serviceid_number ShyTomatoSue3 {
+    _hidden_value = true
+  }
+  serviceid MassGreenIlla2 {
+    _hidden_value = true
+  }
+  hidden_boolean RandomMoccasinLorelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ContemporaryFuchsiaGeorgiana {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" AddedPinkMelinde {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NeutralPeachMaryrose2 {
+    _hidden_value = true
+  }
+  string VocationalTanShalna2 {
+    _hidden_value = true
+  }
+  string BadVioletToma2 {
+    _hidden_value = true
+  }
+  number SwissPlumMiguela2 {
+    _hidden_value = true
+  }
+  json CleverTealSibel {
+    _hidden_value = true
+  }
+  hidden_boolean RigidPinkMerry {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json WeeSapphireRetha3 {
+    _hidden_value = true
+  }
+  json CurrentBrownCynthia {
+    _hidden_value = true
+  }
+  boolean PermanentFuchsiaGayel2 {
+    _hidden_value = true
+  }
+  string AbleBlushChrissy5 {
+    _hidden_value = true
+  }
+  boolean LegalBrownDagmar {
+    _hidden_value = true
+  }
+  FlutteringAquaAstrix2 = "What do you call two barracuda fish?  A Pairacuda!"
+  FierceOliveMaisie2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExcessiveOliveMadelena2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ConstitutionalHarlequinJayme2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RivalPurpleNari2 = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,63 @@
+type dummy.HelplessAzureBlanche3 {
+  annotations {
+    boolean ElegantMoccasinLucilia {
+    }
+    number LogicalLavenderKellen3 {
+    }
+    serviceid FatIvoryJoella3 {
+    }
+    json ExoticScarletRikki3 {
+    }
+    number BrightCoralElvira3 {
+    }
+    boolean HonChocolateDatha2 {
+    }
+    boolean TallAmaranthAggy6 {
+    }
+    serviceid MassiveFuchsiaGerrie2 {
+    }
+    serviceid MiniatureAmaranthAdrian {
+    }
+    serviceid_number SmoggyTurquoiseTiffany2 {
+    }
+    boolean BeneficialPlumMona3 {
+    }
+    number PreferredTanScarlett4 {
+    }
+    string SeniorCoffeeDonelle3 {
+    }
+    serviceid_number MinimalPlumMorganne4 {
+    }
+    serviceid LengthySapphireRani3 {
+    }
+    dummy.AdjacentSilverRoxi AwfulHarlequinJaquenetta3 {
+    }
+    number ValuableGoldGwynne4 {
+    }
+    dummy.WonderfulEmeraldFlossie DefensiveRoseOona5 {
+    }
+    string SpecifiedSalmonPoppy {
+    }
+    hidden_boolean ClumsyVioletTracee2 {
+    }
+  }
+  ElegantMoccasinLucilia = true
+  LogicalLavenderKellen3 = 874
+  FatIvoryJoella3 = "A steak pun is a rare medium well done."
+  ExoticScarletRikki3 = "A steak pun is a rare medium well done."
+  BrightCoralElvira3 = 45
+  HonChocolateDatha2 = false
+  TallAmaranthAggy6 = true
+  MassiveFuchsiaGerrie2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MiniatureAmaranthAdrian = "Why did the tomato blush? Because it saw the salad dressing."
+  SmoggyTurquoiseTiffany2 = 724
+  BeneficialPlumMona3 = false
+  PreferredTanScarlett4 = 868
+  SeniorCoffeeDonelle3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MinimalPlumMorganne4 = 19
+  LengthySapphireRani3 = "I'll tell you what often gets over looked... garden fences."
+  AwfulHarlequinJaquenetta3 = file("RelativeGoldGuillema4.txt")
+  ValuableGoldGwynne4 = 184
+  DefensiveRoseOona5 = 165
+  SpecifiedSalmonPoppy = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

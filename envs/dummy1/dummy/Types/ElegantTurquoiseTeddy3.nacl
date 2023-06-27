@@ -1,0 +1,101 @@
+type dummy.ElegantTurquoiseTeddy3 {
+  annotations {
+    number TallCyanFaye2 {
+    }
+    serviceid VisitingScarletRoanne2 {
+    }
+    serviceid ColdAmaranthAilyn {
+    }
+    json LikelyBlushClarice2 {
+    }
+    serviceid_number CalmBeigeCalida2 {
+    }
+  }
+  string ExtraCoffeeDiana2 {
+    _hidden_value = true
+  }
+  serviceid_number StrangeTurquoiseTina {
+    _hidden_value = true
+  }
+  string StormyTurquoiseTim3 {
+    _hidden_value = true
+  }
+  serviceid FineBrownCourtnay3 {
+    _hidden_value = true
+  }
+  hidden_boolean HeavyAmethystAndy6 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ImplicitSapphireRheba {
+    _hidden_value = true
+  }
+  string DefeatedAzureBetteann {
+    _hidden_value = true
+  }
+  boolean NarrowAmberAlmeda2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" JollyVioletValida {
+    _hidden_value = true
+  }
+  serviceid_number BusyTealShirleen2 {
+    _hidden_value = true
+  }
+  serviceid_number FirmGrayHedda2 {
+    _hidden_value = true
+  }
+  string MuddyTurquoiseTheresina2 {
+    _hidden_value = true
+  }
+  serviceid PuzzledTanShane2 {
+    _hidden_value = true
+  }
+  boolean DivineRoseOphelia {
+    _hidden_value = true
+  }
+  hidden_boolean SoundRoseOlga2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean LoudApricotAnnadiane2 {
+    _hidden_value = true
+  }
+  string BoilingAmaranthAgretha2 {
+    _hidden_value = true
+  }
+  boolean ProfoundPinkMerle {
+    _hidden_value = true
+  }
+  string StiffPeachMaryanna3 {
+    _hidden_value = true
+  }
+  serviceid_number ForeignBronzeCorinne4 {
+    _hidden_value = true
+  }
+  serviceid_number StrangeCoralEdwina2 {
+    _hidden_value = true
+  }
+  number LimitedCoralElke {
+    _hidden_value = true
+  }
+  hidden_boolean WesternChocolateDeerdre3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number NiceBrownCybil3 {
+    _hidden_value = true
+  }
+  boolean ComingSilverSandie2 {
+    _hidden_value = true
+  }
+  TallCyanFaye2 = 129
+  VisitingScarletRoanne2 = "To be Frank, I'd have to change my name."
+  ColdAmaranthAilyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LikelyBlushClarice2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CalmBeigeCalida2 = 491
+  _hidden_value = true
+}

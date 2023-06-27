@@ -1,0 +1,27 @@
+type dummy.BindingSalmonPet2 {
+  annotations {
+    dummy.DEFAULT BreezyAmaranthAidan3 {
+    }
+    serviceid_number FranticAzureBirgit3 {
+    }
+    string TropicalOliveLydie {
+    }
+    hidden_boolean InfluentialMoccasinLoretta3 {
+    }
+    number FairCoffeeDinah2 {
+    }
+    json RudeTanShaylah {
+    }
+  }
+  dummy.DEFAULT WonderfulEmeraldFlossy2 {
+    _hidden_value = true
+  }
+  BreezyAmaranthAidan3 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  FranticAzureBirgit3 = 126
+  TropicalOliveLydie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FairCoffeeDinah2 = 672
+  RudeTanShaylah = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

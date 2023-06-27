@@ -1,0 +1,20 @@
+type dummy.WanderingTomatoSuzann2 {
+  annotations {
+    json PrettyWhiteVirginia {
+    }
+    number TestyYellowYolanda2 {
+    }
+    json ResponsibleCoffeeDevin2 {
+    }
+    serviceid OrdinaryWhiteViolette2 {
+    }
+  }
+  json UnableCoralEloisa {
+    _hidden_value = true
+  }
+  PrettyWhiteVirginia = "Why is Peter Pan always flying? Because he Neverlands."
+  TestyYellowYolanda2 = 13
+  ResponsibleCoffeeDevin2 = "What creature is smarter than a talking parrot? A spelling bee."
+  OrdinaryWhiteViolette2 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

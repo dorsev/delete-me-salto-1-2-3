@@ -1,0 +1,54 @@
+type dummy.WonderfulYellowZonda {
+  annotations {
+    hidden_boolean NastyMaroonLishe2 {
+    }
+    string IdeologicalOrangeMargarethe3 {
+    }
+    serviceid_number OverwhelmingPurpleMyrlene4 {
+    }
+    boolean AngryFuchsiaGillan2 {
+    }
+    string CruelPlumMichaeline {
+    }
+    hidden_boolean MarxistSapphireRaine5 {
+    }
+    number CapableEmeraldFlorinda3 {
+    }
+    serviceid_number QuietCoralEirena3 {
+    }
+    dummy.RequiredMaroonLetisha2 FullBlushChristian2 {
+    }
+    serviceid_number MightyWhiteVerena4 {
+    }
+    json InformalLavenderKathie2 {
+    }
+    string DisabledHarlequinJanina3 {
+    }
+    number PreciseIndigoJobina {
+    }
+    dummy.EnglishBrownCrin2 RoundIvoryJohna4 {
+    }
+    boolean DelightfulBeigeCandace4 {
+    }
+    boolean PureGrayHephzibah3 {
+    }
+    number LonelyOliveLynda3 {
+    }
+    string EmotionalGrayHertha4 {
+    }
+  }
+  IdeologicalOrangeMargarethe3 = "What do you call two barracuda fish?  A Pairacuda!"
+  OverwhelmingPurpleMyrlene4 = 245
+  AngryFuchsiaGillan2 = false
+  CruelPlumMichaeline = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CapableEmeraldFlorinda3 = 694
+  QuietCoralEirena3 = 231
+  MightyWhiteVerena4 = 453
+  InformalLavenderKathie2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DisabledHarlequinJanina3 = "Slept like a log last night  woke up in the fireplace."
+  PreciseIndigoJobina = 416
+  DelightfulBeigeCandace4 = true
+  PureGrayHephzibah3 = true
+  LonelyOliveLynda3 = 110
+  EmotionalGrayHertha4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

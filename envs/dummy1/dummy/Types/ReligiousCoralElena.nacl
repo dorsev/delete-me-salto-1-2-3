@@ -1,0 +1,28 @@
+type dummy.ReligiousCoralElena {
+  annotations {
+    number DutchLavenderKendra {
+    }
+    dummy.FlatGrayHannis InfluentialMoccasinLorenza2 {
+    }
+    serviceid UnhappyMaroonLibby {
+    }
+    string CostlySapphireReeva {
+    }
+    dummy.DEFAULT OutstandingTealSteffane {
+    }
+    boolean ShortBronzeColetta {
+    }
+  }
+  serviceid_number ImperialLavenderKaterine2 {
+    _hidden_value = true
+  }
+  DutchLavenderKendra = 851
+  InfluentialMoccasinLorenza2 = 314
+  UnhappyMaroonLibby = "A steak pun is a rare medium well done."
+  CostlySapphireReeva = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OutstandingTealSteffane = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  ShortBronzeColetta = true
+  _hidden_value = true
+}

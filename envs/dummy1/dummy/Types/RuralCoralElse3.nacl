@@ -1,0 +1,23 @@
+type dummy.RuralCoralElse3 {
+  annotations {
+    serviceid SufficientCrimsonEolande {
+    }
+    number EverydayLimeKynthia {
+    }
+    serviceid ThenSalmonPhylis2 {
+    }
+    string ValidLavenderKerry {
+    }
+    number LexicalSilverSada {
+    }
+  }
+  json PerfectCyanEtty {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolande = "Why is Peter Pan always flying? Because he Neverlands."
+  EverydayLimeKynthia = 641
+  ThenSalmonPhylis2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ValidLavenderKerry = "What do you call two barracuda fish?  A Pairacuda!"
+  LexicalSilverSada = 361
+  _hidden_value = true
+}

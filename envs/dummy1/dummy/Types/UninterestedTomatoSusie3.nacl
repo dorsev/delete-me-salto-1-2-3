@@ -1,0 +1,54 @@
+type dummy.UninterestedTomatoSusie3 {
+  annotations {
+    hidden_boolean AdequateGrayHildegarde {
+    }
+    serviceid NormalBrownDamaris4 {
+    }
+    serviceid_number ToryGreenInes2 {
+    }
+    number JustMaroonLissi2 {
+    }
+    string UglyPlumMignon4 {
+    }
+    serviceid_number MiniatureAmaranthAdriana {
+    }
+  }
+  number MammothAmaranthAdora2 {
+    _hidden_value = true
+  }
+  json RedWhiteWendeline2 {
+    _hidden_value = true
+  }
+  serviceid SubsequentFuchsiaGilemette4 {
+    _hidden_value = true
+  }
+  serviceid_number DeliciousApricotArdis {
+    _hidden_value = true
+  }
+  json MistyTurquoiseThekla {
+    _hidden_value = true
+  }
+  serviceid CalmBeigeCal2 {
+    _hidden_value = true
+  }
+  string HotCoffeeDeonne {
+    _hidden_value = true
+  }
+  boolean BigVioletTonia3 {
+    _hidden_value = true
+  }
+  hidden_boolean OrganisationalTanShara5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string BusyTealShirlee2 {
+    _hidden_value = true
+  }
+  NormalBrownDamaris4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ToryGreenInes2 = 245
+  JustMaroonLissi2 = 659
+  UglyPlumMignon4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MiniatureAmaranthAdriana = 350
+  _hidden_value = true
+}

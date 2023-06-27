@@ -1,0 +1,62 @@
+type dummy.PuzzledTanShani5 {
+  annotations {
+    dummy.RuralCoralElsbeth ExactLimeKorella {
+    }
+    dummy.HotAquaAudrey CurlyAmberAlecia2 {
+    }
+    json ColdAmaranthAimee4 {
+    }
+    hidden_boolean FlutteringAquaAthena3 {
+    }
+    serviceid_number ExternalEmeraldFloria2 {
+    }
+    serviceid_number PlainTurquoiseTherine3 {
+    }
+    string UnhappyMaroonLibby4 {
+    }
+    string ExclusiveMagentaLatia4 {
+    }
+    hidden_boolean NecessaryBronzeCorabel {
+    }
+    dummy.WanderingTomatoSuzann2 DirtyAmberAleta4 {
+    }
+    serviceid MagnificentMagentaLeela3 {
+    }
+    hidden_boolean SplendidOrangeMandie3 {
+    }
+    serviceid AestheticSapphireReba3 {
+    }
+    boolean SickFuchsiaGeraldine3 {
+    }
+    number LuckyBlackCassandry2 {
+    }
+    json DoubtfulRosePammy2 {
+    }
+    number ExplicitMaroonLisbeth3 {
+    }
+    dummy.LegitimatePinkMaybelle EndlessPeachMarjory2 {
+    }
+    number ContinentalOliveMagdalena4 {
+    }
+    hidden_boolean UglyTurquoiseTine2 {
+    }
+    hidden_boolean VocationalTanShaine2 {
+    }
+    boolean OkSapphireRhoda4 {
+    }
+  }
+  CurlyAmberAlecia2 = file("BlindIvoryJudie4.txt")
+  ColdAmaranthAimee4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExternalEmeraldFloria2 = 34
+  PlainTurquoiseTherine3 = 82
+  UnhappyMaroonLibby4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExclusiveMagentaLatia4 = "Dad Im hungry  Hi hungry Im dad"
+  MagnificentMagentaLeela3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AestheticSapphireReba3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SickFuchsiaGeraldine3 = true
+  LuckyBlackCassandry2 = 849
+  DoubtfulRosePammy2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExplicitMaroonLisbeth3 = 842
+  ContinentalOliveMagdalena4 = 469
+  OkSapphireRhoda4 = false
+}

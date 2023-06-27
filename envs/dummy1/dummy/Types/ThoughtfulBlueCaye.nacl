@@ -1,0 +1,74 @@
+type dummy.ThoughtfulBlueCaye {
+  annotations {
+    hidden_boolean WideBronzeCorina {
+    }
+    boolean RussianCyanFelisha {
+    }
+    serviceid ProudBlueCatherin {
+    }
+    string ArrogantAquamarineBerna {
+    }
+  }
+  serviceid_number CombativeAquamarineBert {
+    _hidden_value = true
+  }
+  serviceid TenderYellowYnez2 {
+    _hidden_value = true
+  }
+  boolean QuickestWhiteVyky3 {
+    _hidden_value = true
+  }
+  string ModestLavenderKellyann3 {
+    _hidden_value = true
+  }
+  json IsraeliPinkMeriel4 {
+    _hidden_value = true
+  }
+  json DampAmberAlena {
+    _hidden_value = true
+  }
+  serviceid_number CleanTomatoTamma2 {
+    _hidden_value = true
+  }
+  serviceid AwfulAquamarineBernardine2 {
+    _hidden_value = true
+  }
+  serviceid_number SheerMagentaLaurianne {
+    _hidden_value = true
+  }
+  string SubjectiveSapphireRiannon2 {
+    _hidden_value = true
+  }
+  number PlainTurquoiseTheresita3 {
+    _hidden_value = true
+  }
+  serviceid_number BlackVioletTonya {
+    _hidden_value = true
+  }
+  hidden_boolean HarshOliveMaia2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PsychologicalIvoryJoice {
+    _hidden_value = true
+  }
+  string QuickAmethystAmil3 {
+    _hidden_value = true
+  }
+  boolean PatientPurpleNanice2 {
+    _hidden_value = true
+  }
+  serviceid_number TestyYellowYolanda4 {
+    _hidden_value = true
+  }
+  hidden_boolean ComingSilverSande3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  RussianCyanFelisha = false
+  ProudBlueCatherin = "Whoever invented the knock-knock joke should get a no bell prize."
+  ArrogantAquamarineBerna = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

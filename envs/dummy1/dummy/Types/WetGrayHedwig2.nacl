@@ -1,0 +1,56 @@
+type dummy.WetGrayHedwig2 {
+  annotations {
+    boolean RoundYellowWilie {
+    }
+    json OtherBlueCelinka {
+    }
+    serviceid_number FemaleCrimsonEmmie {
+    }
+    number AggregateScarletRobbin {
+    }
+  }
+  dummy.DEFAULT PreferredTanSayre2 {
+    _hidden_value = true
+  }
+  json AliveTealSherri {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WetGrayHedvige4 {
+    _hidden_value = true
+  }
+  number OrganicLimeLadonna {
+    _hidden_value = true
+  }
+  hidden_boolean ProperCoralElinore {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json NewWhiteVeronique {
+    _hidden_value = true
+  }
+  serviceid_number OutsideGrayHelenka2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoilingAmaranthAgretha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WanderingTomatoSuzanna4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string InternationalBlushClaudie {
+    _hidden_value = true
+  }
+  number ManyWhiteVeradis {
+    _hidden_value = true
+  }
+  RoundYellowWilie = true
+  OtherBlueCelinka = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FemaleCrimsonEmmie = 968
+  AggregateScarletRobbin = 785
+  _hidden_value = true
+}

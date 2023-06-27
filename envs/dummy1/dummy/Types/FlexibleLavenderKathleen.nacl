@@ -1,0 +1,46 @@
+type dummy.FlexibleLavenderKathleen {
+  annotations {
+    serviceid_number DevelopingHarlequinJeanine6 {
+    }
+    number PeacefulOrangeMargo {
+    }
+    json FeministPlumMin {
+    }
+    string IllegalJadeKaroline {
+    }
+    hidden_boolean SoreBeigeBrietta4 {
+    }
+    serviceid CuriousTealSidonia2 {
+    }
+  }
+  json RedWhiteWendie2 {
+    _hidden_value = true
+  }
+  string IllAzureBobbee {
+    _hidden_value = true
+  }
+  serviceid FuriousRedNicoline {
+    _hidden_value = true
+  }
+  serviceid ElectricGreenIngunna {
+    _hidden_value = true
+  }
+  serviceid IllegalJadeKaroly {
+    _hidden_value = true
+  }
+  serviceid_number NationalBlueCherice {
+    _hidden_value = true
+  }
+  number WorldwideTanShannah2 {
+    _hidden_value = true
+  }
+  boolean HonestIndigoJerrine3 {
+    _hidden_value = true
+  }
+  DevelopingHarlequinJeanine6 = 286
+  PeacefulOrangeMargo = 80
+  FeministPlumMin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  IllegalJadeKaroline = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CuriousTealSidonia2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

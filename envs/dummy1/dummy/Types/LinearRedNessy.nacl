@@ -1,0 +1,36 @@
+type dummy.LinearRedNessy {
+  annotations {
+    string MildOliveMadalyn {
+    }
+    json HotCoffeeDenyse {
+    }
+    serviceid_number HelpfulHarlequinJanette {
+    }
+    json IdealEmeraldFrederique {
+    }
+    hidden_boolean ClassicJadeKaitlyn {
+    }
+    number ActualCopperEbonee {
+    }
+  }
+  hidden_boolean EnviousAzureBiddie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SwiftAmethystAnastasie {
+    _hidden_value = true
+  }
+  json GrotesqueTurquoiseTerrye {
+    _hidden_value = true
+  }
+  boolean WrongTomatoSybila {
+    _hidden_value = true
+  }
+  MildOliveMadalyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HotCoffeeDenyse = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HelpfulHarlequinJanette = 371
+  IdealEmeraldFrederique = "What creature is smarter than a talking parrot? A spelling bee."
+  ActualCopperEbonee = 427
+  _hidden_value = true
+}

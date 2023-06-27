@@ -1,0 +1,19 @@
+type dummy.ExtensiveGoldGloriane2 {
+  annotations {
+    string SteadyAquamarineBea {
+    }
+    hidden_boolean DistantIndigoJillie {
+    }
+    boolean RegulatorySalmonQuinta {
+    }
+    boolean UnknownFuchsiaGilberta {
+    }
+  }
+  string MissingPinkMelloney {
+    _hidden_value = true
+  }
+  SteadyAquamarineBea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RegulatorySalmonQuinta = true
+  UnknownFuchsiaGilberta = false
+  _hidden_value = true
+}

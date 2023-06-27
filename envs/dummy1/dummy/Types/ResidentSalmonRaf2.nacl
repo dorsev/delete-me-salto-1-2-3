@@ -1,0 +1,39 @@
+type dummy.ResidentSalmonRaf2 {
+  annotations {
+    boolean ShiveringAquaBabita4 {
+    }
+    number VitalEmeraldFifine {
+    }
+    number ThoroughScarletRonalda {
+    }
+    boolean ScatteredAquaAvie {
+    }
+    boolean LiableLimeKimmi2 {
+    }
+  }
+  serviceid_number ForeignBronzeCorinne5 {
+    _hidden_value = true
+  }
+  string BackMoccasinLoni2 {
+    _hidden_value = true
+  }
+  serviceid_number CloseBrownCortney2 {
+    _hidden_value = true
+  }
+  hidden_boolean NiceBrownCyb {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EfficientGoldGretna3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ShiveringAquaBabita4 = true
+  VitalEmeraldFifine = 711
+  ThoroughScarletRonalda = 347
+  ScatteredAquaAvie = true
+  LiableLimeKimmi2 = false
+  _hidden_value = true
+}

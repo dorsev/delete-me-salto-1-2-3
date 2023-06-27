@@ -1,0 +1,59 @@
+type dummy.FoolishAzureBillye2 {
+  annotations {
+    serviceid LightCopperDulciana2 {
+    }
+    number IntellectualJadeKalila4 {
+    }
+    dummy.PhilosophicalRedNoell MysteriousAzureBonnee3 {
+    }
+    string UniversalJadeKacey2 {
+    }
+    boolean RelevantCoffeeDonny {
+    }
+    serviceid ExoticScarletRikki2 {
+    }
+    serviceid_number TerritorialSalmonPriscilla3 {
+    }
+    json ElectronicGreenIngaberg3 {
+    }
+    hidden_boolean DangerousCrimsonEssy4 {
+    }
+    dummy.DampMoccasinLotta InevitableIvoryJolynn2 {
+    }
+    dummy.ModernTealStar ShaggyAquaAviva5 {
+    }
+    hidden_boolean PrimaryCoffeeDoll3 {
+    }
+    json SolarRosePammi4 {
+    }
+    hidden_boolean FuzzyAquaAuberta2 {
+    }
+    boolean WeakFuchsiaGayla3 {
+    }
+    serviceid_number ExtensiveGoldGloriane3 {
+    }
+    serviceid CausalSapphireRenell {
+    }
+    number VastEmeraldFreddie2 {
+    }
+    hidden_boolean HotAquaAudrye {
+    }
+    serviceid_number ContentPeachMatti {
+    }
+  }
+  LightCopperDulciana2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  IntellectualJadeKalila4 = 218
+  MysteriousAzureBonnee3 = file("FantasticSapphireRegina4.txt")
+  UniversalJadeKacey2 = "What do you call two barracuda fish?  A Pairacuda!"
+  RelevantCoffeeDonny = false
+  ExoticScarletRikki2 = "Why did the tomato blush? Because it saw the salad dressing."
+  TerritorialSalmonPriscilla3 = 820
+  ElectronicGreenIngaberg3 = "Why did the kid cross the playground? To get to the other slide."
+  ShaggyAquaAviva5 = file("RevolutionaryJadeKarylin3.txt")
+  SolarRosePammi4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  WeakFuchsiaGayla3 = true
+  ExtensiveGoldGloriane3 = 726
+  CausalSapphireRenell = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VastEmeraldFreddie2 = 20
+  ContentPeachMatti = 355
+}

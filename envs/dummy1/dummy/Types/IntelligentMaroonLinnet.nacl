@@ -1,0 +1,85 @@
+type dummy.IntelligentMaroonLinnet {
+  annotations {
+    json WideBronzeCorilla {
+    }
+    boolean JollyBlackCarrie {
+    }
+    number ComprehensiveGreenHyacinthie {
+    }
+    serviceid ItalianGoldGrayce {
+    }
+  }
+  number CrazyTealSibyl {
+    _hidden_value = true
+  }
+  json EvidentIvoryJune {
+    _hidden_value = true
+  }
+  string ScaryYellowWillie {
+    _hidden_value = true
+  }
+  serviceid FairCoffeeDinny {
+    _hidden_value = true
+  }
+  serviceid_number FellowIvoryJunina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NewBlueChad {
+    _hidden_value = true
+  }
+  serviceid MisleadingRoseOrelle {
+    _hidden_value = true
+  }
+  string JealousAzureBobbi {
+    _hidden_value = true
+  }
+  number AbstractMaroonLind {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UglyTurquoiseTiphani2 {
+    _hidden_value = true
+  }
+  serviceid_number PleasedEmeraldGabriell {
+    _hidden_value = true
+  }
+  boolean BlankPinkMelodie2 {
+    _hidden_value = true
+  }
+  number CrucialFuchsiaGennie {
+    _hidden_value = true
+  }
+  serviceid SensitiveGrayHenka {
+    _hidden_value = true
+  }
+  boolean NetGoldGleda {
+    _hidden_value = true
+  }
+  hidden_boolean MidPinkMelisenda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number LivelyBlackCasandra2 {
+    _hidden_value = true
+  }
+  serviceid_number TanYellowYettie {
+    _hidden_value = true
+  }
+  boolean FriendlyBlackCarlynne2 {
+    _hidden_value = true
+  }
+  number WeeklyLavenderKeslie {
+    _hidden_value = true
+  }
+  serviceid_number SharpFuchsiaGeralda {
+    _hidden_value = true
+  }
+  number AlertTomatoSylvia {
+    _hidden_value = true
+  }
+  WideBronzeCorilla = "Why did the kid cross the playground? To get to the other slide."
+  JollyBlackCarrie = true
+  ComprehensiveGreenHyacinthie = 148
+  ItalianGoldGrayce = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

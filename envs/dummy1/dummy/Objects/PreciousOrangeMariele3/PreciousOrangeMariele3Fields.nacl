@@ -1,0 +1,7 @@
+type dummy.PreciousOrangeMariele3 {
+  hidden_boolean ExceptionalOliveMadonna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+}

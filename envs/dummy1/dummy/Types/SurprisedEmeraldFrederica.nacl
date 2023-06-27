@@ -1,0 +1,25 @@
+type dummy.SurprisedEmeraldFrederica {
+  annotations {
+    json SufficientCrimsonEolande2 {
+    }
+    serviceid GorgeousVioletUrsala2 {
+    }
+    json TameYellowYasmeen {
+    }
+    json ChubbyAmberAlis {
+    }
+    hidden_boolean AsleepJadeKarly {
+    }
+  }
+  serviceid_number GreenChocolateDeborah {
+    _hidden_value = true
+  }
+  boolean HungryMaroonLisabeth {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolande2 = "A steak pun is a rare medium well done."
+  GorgeousVioletUrsala2 = "What creature is smarter than a talking parrot? A spelling bee."
+  TameYellowYasmeen = "What do you call two barracuda fish?  A Pairacuda!"
+  ChubbyAmberAlis = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

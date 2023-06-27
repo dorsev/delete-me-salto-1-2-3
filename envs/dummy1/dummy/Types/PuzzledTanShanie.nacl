@@ -1,0 +1,24 @@
+type dummy.PuzzledTanShanie {
+  annotations {
+    json AbundantAmethystAndie {
+    }
+    number GreekIndigoJoan2 {
+    }
+    string StrongBronzeColly {
+    }
+    hidden_boolean MeanIvoryJuieta {
+    }
+    hidden_boolean NosyWhiteVictoria2 {
+    }
+    number QuaintWhiteVivie2 {
+    }
+  }
+  dummy.DEFAULT EmpiricalPinkMechelle {
+    _hidden_value = true
+  }
+  AbundantAmethystAndie = "Why did the kid cross the playground? To get to the other slide."
+  GreekIndigoJoan2 = 663
+  StrongBronzeColly = "Slept like a log last night  woke up in the fireplace."
+  QuaintWhiteVivie2 = 955
+  _hidden_value = true
+}

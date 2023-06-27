@@ -1,0 +1,50 @@
+type dummy.UniformScarletRosaline3 {
+  annotations {
+    boolean FundamentalFuchsiaGena {
+    }
+    boolean RegionalCopperDorice {
+    }
+    serviceid_number SupportingSilverSamara {
+    }
+    hidden_boolean StrikingOliveMagdaia3 {
+    }
+    dummy.MistyTurquoiseThea LoudApricotAnnabella3 {
+    }
+    number FellowJadeJustine4 {
+    }
+    hidden_boolean SwiftAmethystAnallise2 {
+    }
+    string SteadyJadeKaile2 {
+    }
+    dummy.CapitalistMagentaLayne2 HorribleVioletValene4 {
+    }
+    serviceid_number ObjectiveOrangeMalynda5 {
+    }
+    serviceid ColdChocolateDebbie2 {
+    }
+    number RedWhiteWendeline4 {
+    }
+    string DizzyVioletTrescha6 {
+    }
+    hidden_boolean SorryBrownDanyelle6 {
+    }
+    serviceid_number GreatBlueCharis {
+    }
+    hidden_boolean ScaryYellowWillow5 {
+    }
+    serviceid_number ObnoxiousAzureBrandea2 {
+    }
+  }
+  FundamentalFuchsiaGena = false
+  RegionalCopperDorice = false
+  SupportingSilverSamara = 168
+  LoudApricotAnnabella3 = file("OccupationalOliveMaddy4.txt")
+  FellowJadeJustine4 = 274
+  SteadyJadeKaile2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ObjectiveOrangeMalynda5 = 94
+  ColdChocolateDebbie2 = "A steak pun is a rare medium well done."
+  RedWhiteWendeline4 = 761
+  DizzyVioletTrescha6 = "Why was it called the dark ages? Because of all the knights. "
+  GreatBlueCharis = 514
+  ObnoxiousAzureBrandea2 = 637
+}

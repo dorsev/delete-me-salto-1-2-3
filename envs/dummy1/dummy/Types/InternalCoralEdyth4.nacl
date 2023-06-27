@@ -1,0 +1,55 @@
+type dummy.InternalCoralEdyth4 {
+  annotations {
+    json PleasedEmeraldGabriella {
+    }
+    serviceid_number PlainTurquoiseTheressa2 {
+    }
+    boolean FairBlackCarleen {
+    }
+    serviceid_number UselessRedNinetta3 {
+    }
+    string MentalCrimsonEssa2 {
+    }
+    json RoundIvoryJohna3 {
+    }
+    number TameTomatoSusanne2 {
+    }
+  }
+  serviceid_number CommonBronzeConsuela4 {
+    _hidden_value = true
+  }
+  json DizzyVioletTressa2 {
+    _hidden_value = true
+  }
+  serviceid_number EarlyAmethystAmalle2 {
+    _hidden_value = true
+  }
+  json HelpfulHarlequinJaneva {
+    _hidden_value = true
+  }
+  string ScreechingApricotAnthe2 {
+    _hidden_value = true
+  }
+  hidden_boolean RawJadeKarlen2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WorthwhilePinkMelita3 {
+    _hidden_value = true
+  }
+  string BeautifulTomatoTabitha3 {
+    _hidden_value = true
+  }
+  number LateBlushChristabel4 {
+    _hidden_value = true
+  }
+  PleasedEmeraldGabriella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PlainTurquoiseTheressa2 = 724
+  FairBlackCarleen = true
+  UselessRedNinetta3 = 419
+  MentalCrimsonEssa2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  RoundIvoryJohna3 = "What do you call two barracuda fish?  A Pairacuda!"
+  TameTomatoSusanne2 = 465
+  _hidden_value = true
+}

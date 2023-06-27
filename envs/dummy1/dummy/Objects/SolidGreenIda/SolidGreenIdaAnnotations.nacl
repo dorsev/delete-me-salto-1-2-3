@@ -1,0 +1,62 @@
+type dummy.SolidGreenIda {
+  annotations {
+    dummy.SoundAmethystAngelina RearPurpleMuriel4 {
+    }
+    json ImmenseAmaranthAdelaide5 {
+    }
+    serviceid OptimisticRosePearline3 {
+    }
+    string YellowYellowZondra5 {
+    }
+    boolean CertainBronzeClementine4 {
+    }
+    number LivelyBlackCasi3 {
+    }
+    boolean DecentMoccasinLonnie2 {
+    }
+    json BadVioletToinette5 {
+    }
+    dummy.ToughYellowYsabel ExtraCoffeeDiane5 {
+    }
+    string SolarRosePammi5 {
+    }
+    string ConservationPlumMolli {
+    }
+    boolean InterimOrangeMalory3 {
+    }
+    serviceid_number GrimScarletRonni2 {
+    }
+    serviceid MagentaWhiteVenita5 {
+    }
+    string MainBlushCindee2 {
+    }
+    dummy.PrincipalGoldGreer NegativeFuchsiaGates {
+    }
+    string OrangeWhiteVinny {
+    }
+    dummy.DullMoccasinLoria4 RespectableRosePearl3 {
+    }
+    dummy.DisappointedMagentaLaurice SensibleIvoryJordana3 {
+    }
+    serviceid_number AshamedAquamarineBernadette3 {
+    }
+  }
+  RearPurpleMuriel4 = file("UncertainMagentaLelah2.txt")
+  ImmenseAmaranthAdelaide5 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OptimisticRosePearline3 = "Why was it called the dark ages? Because of all the knights. "
+  YellowYellowZondra5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CertainBronzeClementine4 = false
+  LivelyBlackCasi3 = 593
+  DecentMoccasinLonnie2 = false
+  BadVioletToinette5 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ExtraCoffeeDiane5 = true
+  SolarRosePammi5 = "Why is Peter Pan always flying? Because he Neverlands."
+  ConservationPlumMolli = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InterimOrangeMalory3 = false
+  GrimScarletRonni2 = 926
+  MagentaWhiteVenita5 = "Why didnt the skeleton cross the road? Because he had no guts."
+  MainBlushCindee2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  OrangeWhiteVinny = "Im only familiar with 25 letters in the English language. I dont know why."
+  SensibleIvoryJordana3 = 695
+  AshamedAquamarineBernadette3 = 37
+}

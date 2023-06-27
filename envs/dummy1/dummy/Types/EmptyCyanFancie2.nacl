@@ -1,0 +1,22 @@
+type dummy.EmptyCyanFancie2 {
+  annotations {
+    number AdditionalCopperDottie2 {
+    }
+    string DisappointedMagentaLauryn {
+    }
+    hidden_boolean EncouragingLimeLacie2 {
+    }
+    boolean ImmensePlumMiriam2 {
+    }
+    serviceid_number EmbarrassedAzureBibby {
+    }
+  }
+  serviceid_number HungryMaroonLisabeth3 {
+    _hidden_value = true
+  }
+  AdditionalCopperDottie2 = 360
+  DisappointedMagentaLauryn = "A steak pun is a rare medium well done."
+  ImmensePlumMiriam2 = true
+  EmbarrassedAzureBibby = 230
+  _hidden_value = true
+}

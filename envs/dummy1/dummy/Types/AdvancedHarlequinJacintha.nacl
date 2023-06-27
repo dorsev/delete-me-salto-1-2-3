@@ -1,0 +1,48 @@
+type dummy.AdvancedHarlequinJacintha {
+  annotations {
+    serviceid_number UnlikelyCrimsonEthelda {
+    }
+    json DryCyanEuphemia {
+    }
+    serviceid_number LightAmethystAnestassia {
+    }
+    hidden_boolean IndustrialBrownDannie {
+    }
+    boolean BriefAmethystAmaleta {
+    }
+  }
+  boolean PreciousOrangeMarietta {
+    _hidden_value = true
+  }
+  serviceid_number DiplomaticMagentaLenore {
+    _hidden_value = true
+  }
+  number MisleadingRoseOriana {
+    _hidden_value = true
+  }
+  number GleamingTurquoiseTeri3 {
+    _hidden_value = true
+  }
+  serviceid_number DistinguishedPurpleNatassia {
+    _hidden_value = true
+  }
+  json InclinedRedNydia {
+    _hidden_value = true
+  }
+  boolean PlainTurquoiseTherine {
+    _hidden_value = true
+  }
+  boolean ThenSalmonPhylis {
+    _hidden_value = true
+  }
+  hidden_boolean BeautifulVioletTommie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UnlikelyCrimsonEthelda = 776
+  DryCyanEuphemia = "A steak pun is a rare medium well done."
+  LightAmethystAnestassia = 947
+  BriefAmethystAmaleta = true
+  _hidden_value = true
+}

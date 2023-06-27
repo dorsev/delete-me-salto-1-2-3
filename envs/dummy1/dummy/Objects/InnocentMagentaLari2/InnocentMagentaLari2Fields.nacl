@@ -1,0 +1,22 @@
+type dummy.InnocentMagentaLari2 {
+  json GentleBlackCarmelita {
+  }
+  serviceid_number StrictLavenderKatharine {
+  }
+  hidden_boolean MarineMagentaLeoline2 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  number IntegralSalmonPhillis4 {
+  }
+  "List<hidden_boolean>" SexualCopperEachelle5 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  "List<json>" CapitalistMagentaLayne4 {
+  }
+  string ParliamentaryFuchsiaGiacinta {
+  }
+}

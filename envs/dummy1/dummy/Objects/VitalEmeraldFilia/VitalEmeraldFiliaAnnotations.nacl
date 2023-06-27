@@ -1,0 +1,59 @@
+type dummy.VitalEmeraldFilia {
+  annotations {
+    dummy.SweetGreenHollie2 SillyYellowWini2 {
+    }
+    boolean EventualTanSharon {
+    }
+    dummy.ConservationPlumMollee StuckRoseOphelie2 {
+    }
+    hidden_boolean FormalCoralElizabet2 {
+    }
+    hidden_boolean StuckRoseOra2 {
+    }
+    string GivenHarlequinJaneva3 {
+    }
+    serviceid_number OkSapphireRhianon4 {
+    }
+    number SacredRedNorene2 {
+    }
+    number EagerPlumMilly3 {
+    }
+    boolean FlyingMoccasinLoree4 {
+    }
+    number IntimateSilverRuthi {
+    }
+    json SwiftAmethystAnallese {
+    }
+    serviceid_number TemporaryGrayHalie {
+    }
+    number MeanIvoryJulee2 {
+    }
+    serviceid_number DefensiveRoseOona3 {
+    }
+    json UglyYellowZabrina4 {
+    }
+    string CreepyAmberAlaine5 {
+    }
+    hidden_boolean RealisticMoccasinLolly2 {
+    }
+    serviceid BrilliantGreenIlse4 {
+    }
+    dummy.SupportingSilverSam MadHarlequinJanenna3 {
+    }
+  }
+  EventualTanSharon = true
+  StuckRoseOphelie2 = file("MagneticPeachMavra3.txt")
+  GivenHarlequinJaneva3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  OkSapphireRhianon4 = 589
+  SacredRedNorene2 = 74
+  EagerPlumMilly3 = 75
+  FlyingMoccasinLoree4 = false
+  IntimateSilverRuthi = 628
+  SwiftAmethystAnallese = "I'll tell you what often gets over looked... garden fences."
+  TemporaryGrayHalie = 539
+  MeanIvoryJulee2 = 541
+  DefensiveRoseOona3 = 676
+  UglyYellowZabrina4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CreepyAmberAlaine5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  BrilliantGreenIlse4 = "A steak pun is a rare medium well done."
+}

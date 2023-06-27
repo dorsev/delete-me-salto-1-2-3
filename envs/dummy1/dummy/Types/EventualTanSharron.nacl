@@ -1,0 +1,133 @@
+type dummy.EventualTanSharron {
+  annotations {
+    json AbsoluteGreenImogene {
+    }
+    serviceid CasualOliveLurleen {
+    }
+    serviceid AnxiousHarlequinJannelle2 {
+    }
+    hidden_boolean ObviousCoffeeDolley2 {
+    }
+    boolean LateBlushChristal2 {
+    }
+    serviceid ProtectiveRoseOlive {
+    }
+    string SmartPeachMarji2 {
+    }
+  }
+  dummy.VerbalPinkMaxie NormalBrownDamaris2 {
+    EfficientGoldGretta = 737
+    VisualGreenIngeberg = false
+    JudicialJadeKarita = 554
+    SeriousBrownDanell = 209
+    FilthyAmberAlexis = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    EncouragingLimeLacy = "I'll tell you what often gets over looked... garden fences."
+    WealthyPeachMarybeth = 915
+    BroadCoralElisabeth = "Why didnt the skeleton cross the road? Because he had no guts."
+    SuperbMagentaLaurena = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AbstractMaroonLilyan = "Slept like a log last night  woke up in the fireplace."
+    FriendlyGoldGuinna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  serviceid RobustYellowWileen2 {
+    _hidden_value = true
+  }
+  boolean HomelyTurquoiseTessa2 {
+    _hidden_value = true
+  }
+  hidden_boolean EnglishBrownCourtney2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NumerousHarlequinJanean2 {
+    _hidden_value = true
+  }
+  number QuaintTurquoiseTiena2 {
+    _hidden_value = true
+  }
+  serviceid_number IncreasingCyanEvvie {
+    _hidden_value = true
+  }
+  string SubjectiveSapphireRiane {
+    _hidden_value = true
+  }
+  boolean ProductivePlumMommy {
+    _hidden_value = true
+  }
+  json QuickestWhiteVyky {
+    _hidden_value = true
+  }
+  serviceid AloneCyanFae2 {
+    _hidden_value = true
+  }
+  serviceid_number SwissPlumMiguela {
+    _hidden_value = true
+  }
+  number WeeSapphireRevkah {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" IraqiOliveMadelle2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ApparentCyanFawnia2 {
+    _hidden_value = true
+  }
+  json RisingScarletRosemary {
+    _hidden_value = true
+  }
+  number HardBronzeCordi {
+    _hidden_value = true
+  }
+  serviceid RoughGreenIdell {
+    _hidden_value = true
+  }
+  number SolarRosePammi {
+    _hidden_value = true
+  }
+  boolean VocationalTanShalne2 {
+    _hidden_value = true
+  }
+  hidden_boolean TightAquamarineBee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FamousTealSissie {
+    _hidden_value = true
+  }
+  boolean WonderfulBlueCeleste3 {
+    _hidden_value = true
+  }
+  boolean IncredibleRosePattie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VivaciousBlueCeciley {
+    _hidden_value = true
+  }
+  serviceid_number AmericanBronzeCorrianne {
+    _hidden_value = true
+  }
+  hidden_boolean NervousHarlequinJanot {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ImprovedMagentaLarissa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FamousCoralElianora {
+    _hidden_value = true
+  }
+  AbsoluteGreenImogene = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CasualOliveLurleen = "Did you know that protons have mass? I didn't even know they were catholic."
+  AnxiousHarlequinJannelle2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LateBlushChristal2 = true
+  ProtectiveRoseOlive = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SmartPeachMarji2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

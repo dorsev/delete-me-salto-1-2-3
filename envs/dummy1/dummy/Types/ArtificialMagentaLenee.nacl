@@ -1,0 +1,53 @@
+type dummy.ArtificialMagentaLenee {
+  annotations {
+    number DiplomaticMagentaLenna3 {
+    }
+    dummy.DEFAULT PleasantIvoryJorrie {
+    }
+    serviceid_number RawJadeKarlee2 {
+    }
+    serviceid DoubleCrimsonEthelyn3 {
+    }
+  }
+  serviceid LateBlushChristalle {
+    _hidden_value = true
+  }
+  serviceid PrimitiveOrangeMargalo {
+    _hidden_value = true
+  }
+  string BadAquamarineBernette3 {
+    _hidden_value = true
+  }
+  hidden_boolean ContinentalOliveMagdalene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FunOrangeMarcy2 {
+    _hidden_value = true
+  }
+  serviceid_number FamousTealSissie2 {
+    _hidden_value = true
+  }
+  dummy.FlutteringAquaAthena StrongBronzeCollie2 {
+    ManyAmethystAnette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    StrongBronzeCollie = "I'll tell you what often gets over looked... garden fences."
+    LooseAquaAugustina = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    ContentPeachMatilde = true
+    MonetaryIvoryJohannah = 702
+    DiplomaticMagentaLenka = 666
+    OkayOliveMaggy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ToxicSalmonPhaidra = true
+    StillIndigoJo = 736
+    _hidden_value = true
+  }
+  DiplomaticMagentaLenna3 = 379
+  PleasantIvoryJorrie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  RawJadeKarlee2 = 876
+  DoubleCrimsonEthelyn3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

@@ -1,0 +1,55 @@
+type dummy.FutureCoffeeDolores3 {
+  annotations {
+    serviceid ForthcomingPeachMarris3 {
+    }
+    hidden_boolean ArrogantAquamarineBernadene4 {
+    }
+    boolean HugeCoffeeDore2 {
+    }
+    hidden_boolean ExtremeHarlequinJacinthe3 {
+    }
+    string InnovativeTanSheena2 {
+    }
+    string DifferentTealSilvie4 {
+    }
+  }
+  serviceid_number HugeAmaranthAdelaida3 {
+    _hidden_value = true
+  }
+  serviceid PoisedTurquoiseThomasina {
+    _hidden_value = true
+  }
+  number DelightedIvoryJulianne2 {
+    _hidden_value = true
+  }
+  serviceid CruelPlumMichaela2 {
+    _hidden_value = true
+  }
+  serviceid_number FrenchBrownCyndia3 {
+    _hidden_value = true
+  }
+  boolean SplendidOrangeMandy2 {
+    _hidden_value = true
+  }
+  serviceid_number FlyingMoccasinLoree3 {
+    _hidden_value = true
+  }
+  hidden_boolean EldestTanSharline4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json PreviousBrownDani {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvana2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ForthcomingPeachMarris3 = "Why is Peter Pan always flying? Because he Neverlands."
+  HugeCoffeeDore2 = true
+  InnovativeTanSheena2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DifferentTealSilvie4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

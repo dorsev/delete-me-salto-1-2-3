@@ -1,0 +1,26 @@
+type dummy.EmotionalGrayHerta {
+  annotations {
+    number UrbanCyanFallon {
+    }
+    string ExtraCoffeeDiandra {
+    }
+    serviceid SupposedCyanFaun {
+    }
+    boolean EntireEmeraldFrancyne2 {
+    }
+    serviceid_number WanderingTomatoSuzanna3 {
+    }
+    serviceid_number SharpFuchsiaGeorgie {
+    }
+  }
+  boolean ResponsibleCoffeeDevan {
+    _hidden_value = true
+  }
+  UrbanCyanFallon = 534
+  ExtraCoffeeDiandra = "I'll tell you what often gets over looked... garden fences."
+  SupposedCyanFaun = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EntireEmeraldFrancyne2 = true
+  WanderingTomatoSuzanna3 = 95
+  SharpFuchsiaGeorgie = 247
+  _hidden_value = true
+}

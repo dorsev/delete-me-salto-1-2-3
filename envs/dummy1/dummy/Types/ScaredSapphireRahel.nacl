@@ -1,0 +1,52 @@
+type dummy.ScaredSapphireRahel {
+  annotations {
+    string NeatMoccasinLorita {
+    }
+    serviceid SatisfactoryLimeKrista {
+    }
+    hidden_boolean MagnificentMagentaLeena2 {
+    }
+    string TopChocolateDarcie {
+    }
+    dummy.PowerfulCopperDruci DefinitePeachMartguerita {
+    }
+    dummy.DEFAULT SelectSalmonPhilipa2 {
+    }
+  }
+  dummy.HotAquaAudrey RipeApricotAridatha3 {
+    ObedientBlackCassondra = "My first time using an elevator was an uplifting experience. The second time let me down."
+    MaleCoffeeDiannne2 = 696
+    FeministPlumMina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    HeavyAmethystAndy = 600
+    _hidden_value = true
+  }
+  serviceid_number ProbableSalmonPhylys3 {
+    _hidden_value = true
+  }
+  string AdvancedHarlequinJacinta {
+    _hidden_value = true
+  }
+  number InnerFuchsiaGenvieve {
+    _hidden_value = true
+  }
+  boolean DefinitePeachMartelle {
+    _hidden_value = true
+  }
+  serviceid SpecialBronzeClem3 {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGwendolin2 {
+    _hidden_value = true
+  }
+  serviceid QuietCoralEkaterina2 {
+    _hidden_value = true
+  }
+  NeatMoccasinLorita = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SatisfactoryLimeKrista = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  TopChocolateDarcie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DefinitePeachMartguerita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SelectSalmonPhilipa2 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  _hidden_value = true
+}

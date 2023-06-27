@@ -1,0 +1,57 @@
+type dummy.TanYellowYetty3 {
+  annotations {
+    json EasyBronzeCollette {
+    }
+    serviceid_number NuclearCoffeeDonielle3 {
+    }
+    string AsianMaroonLind2 {
+    }
+    dummy.MarxistSapphireRaine2 PrettyWhiteVirginia4 {
+    }
+    boolean StatisticalMagentaLanita2 {
+    }
+    dummy.ScaryBeigeBrenna SpectacularMaroonLibbey2 {
+    }
+    hidden_boolean GeneticMoccasinLorilyn2 {
+    }
+    hidden_boolean FreshCopperDyann2 {
+    }
+    hidden_boolean EnormousFuchsiaGiorgia {
+    }
+    json EldestTanSharlene4 {
+    }
+    json MultipleLimeKinna {
+    }
+    string TallAmaranthAggy4 {
+    }
+    serviceid_number DisappointedMagentaLauryn2 {
+    }
+    number EvilPeachMaurine2 {
+    }
+    serviceid_number DevelopedPinkMerissa3 {
+    }
+    json TallAmaranthAggy5 {
+    }
+    hidden_boolean OrganisationalTanShari2 {
+    }
+    hidden_boolean IntenseLavenderKattie7 {
+    }
+    string ColouredMaroonLivia4 {
+    }
+    dummy.ElectricalLavenderKerrill ProudBlueCathe {
+    }
+  }
+  EasyBronzeCollette = "What creature is smarter than a talking parrot? A spelling bee."
+  NuclearCoffeeDonielle3 = 358
+  AsianMaroonLind2 = "Why was it called the dark ages? Because of all the knights. "
+  StatisticalMagentaLanita2 = false
+  EldestTanSharlene4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MultipleLimeKinna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TallAmaranthAggy4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DisappointedMagentaLauryn2 = 224
+  EvilPeachMaurine2 = 892
+  DevelopedPinkMerissa3 = 411
+  TallAmaranthAggy5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ColouredMaroonLivia4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ProudBlueCathe = true
+}

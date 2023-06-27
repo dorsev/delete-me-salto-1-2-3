@@ -1,0 +1,26 @@
+type dummy.DeliciousScarletRodie4 {
+  annotations {
+    number DrivingRoseOralie {
+    }
+    number AliveTealSherri2 {
+    }
+    serviceid DistinguishedPurpleNatassia2 {
+    }
+    number RobustYellowWileen {
+    }
+    serviceid_number EnergeticBlackCaril2 {
+    }
+    json ExistingCoffeeDesirae {
+    }
+  }
+  dummy.DEFAULT NativeJadeKaterina {
+    _hidden_value = true
+  }
+  DrivingRoseOralie = 828
+  AliveTealSherri2 = 473
+  DistinguishedPurpleNatassia2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  RobustYellowWileen = 788
+  EnergeticBlackCaril2 = 328
+  ExistingCoffeeDesirae = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

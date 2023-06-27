@@ -1,0 +1,62 @@
+type dummy.PotentialCoralElberta2 {
+  dummy.ToughYellowYsabel BoredAquamarineBerrie3 {
+    GrubbyAquaAubry = 133
+  }
+  string VerticalOliveLynnette {
+  }
+  serviceid_number MagnificentMagentaLeena4 {
+  }
+  hidden_boolean InstantSapphireRanee3 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid LesserMoccasinLucky4 {
+  }
+  dummy.YellowYellowZondra2 NutritiousWhiteVilhelmina3 {
+    PayableOrangeMarcie = "Why do birds fly south for the winter? Because it's too far to walk."
+    StatisticalMagentaLanni3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SupposedCyanFarrand2 = 398
+    SilentApricotAntonia2 = 274
+  }
+  hidden_boolean StaticSapphireRebeka2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SplendidBlueCati3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid CompetentSalmonPeria2 {
+  }
+  serviceid_number MedievalJadeKaree4 {
+  }
+  string TropicalOliveLydia2 {
+  }
+  json FoolishSapphireReine2 {
+  }
+  dummy.ForthcomingPeachMarris OppositeHarlequinJanel2 {
+    EnergeticBlackCarilyn = "Why do birds fly south for the winter? Because it's too far to walk."
+    AmateurSalmonPierrette = true
+    RealisticMoccasinLona2 = "How come the stadium got hot after the game? Because all of the fans left."
+    AcceptableGrayHeloise = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    AngryAquamarineBenedicta = false
+  }
+  number FiscalRedNike {
+  }
+  json ComingSilverSandi2 {
+  }
+  hidden_boolean ExplicitMaroonLisetta2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AdvisoryOrangeMaridel3 {
+  }
+  boolean RemarkableGreenHortensia9 {
+  }
+}

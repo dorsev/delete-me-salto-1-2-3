@@ -1,0 +1,93 @@
+type dummy.ToryGreenInes {
+  annotations {
+    json StillIndigoJoann {
+    }
+    serviceid CreepyAquamarineBessie {
+    }
+    number NiceBrownCybil {
+    }
+    number FatIvoryJoelle {
+    }
+  }
+  dummy.ModernAmethystAmelie SlimyAquamarineBarbabra {
+    MinisterialTanSheela = false
+    WelcomeIvoryJosie = "Slept like a log last night  woke up in the fireplace."
+    WarmCopperDulcinea = "My first time using an elevator was an uplifting experience. The second time let me down."
+    QualifiedPinkMelli = 904
+    _hidden_value = true
+  }
+  dummy.DelightedIvoryJulianne DominantIndigoJena4 {
+    _hidden_value = true
+  }
+  json DynamicPeachMarlyn {
+    _hidden_value = true
+  }
+  serviceid BigBlushChicky {
+    _hidden_value = true
+  }
+  boolean NecessaryBronzeCora {
+    _hidden_value = true
+  }
+  json SpecialBronzeClem {
+    _hidden_value = true
+  }
+  json ContemporaryFuchsiaGeorgie {
+    _hidden_value = true
+  }
+  hidden_boolean AccessibleOrangeMarilin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number DeafeningAmethystAngil {
+    _hidden_value = true
+  }
+  string TenderRedOdelinda2 {
+    _hidden_value = true
+  }
+  serviceid HomelessAzureBlinnie {
+    _hidden_value = true
+  }
+  serviceid EncouragingLimeLacie {
+    _hidden_value = true
+  }
+  hidden_boolean ComingSilverSande {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ConventionalGoldGussie {
+    _hidden_value = true
+  }
+  serviceid PowerfulTomatoStephani {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" LiteraryGreenIrena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LiveIndigoJodi {
+    _hidden_value = true
+  }
+  number TerribleBeigeBriney2 {
+    _hidden_value = true
+  }
+  serviceid_number SuccessfulChocolateDaryn {
+    _hidden_value = true
+  }
+  json StrategicHarlequinJeanne {
+    _hidden_value = true
+  }
+  json PopularChocolateDaveta {
+    _hidden_value = true
+  }
+  serviceid LiableLimeKimbra {
+    _hidden_value = true
+  }
+  StillIndigoJoann = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CreepyAquamarineBessie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NiceBrownCybil = 406
+  FatIvoryJoelle = 195
+  _hidden_value = true
+}

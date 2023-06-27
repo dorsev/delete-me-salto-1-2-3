@@ -1,0 +1,24 @@
+type dummy.BreakableTealShir {
+  annotations {
+    serviceid_number DistinguishedPurpleNathalia2 {
+    }
+    hidden_boolean CrudePlumMildrid {
+    }
+    number SensibleIvoryJordain {
+    }
+    dummy.DEFAULT GivenHarlequinJania3 {
+    }
+    number CondemnedAquamarineBertha {
+    }
+  }
+  serviceid_number NuttyWhiteVilhelmina {
+    _hidden_value = true
+  }
+  DistinguishedPurpleNathalia2 = 770
+  SensibleIvoryJordain = 80
+  GivenHarlequinJania3 = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  CondemnedAquamarineBertha = 216
+  _hidden_value = true
+}

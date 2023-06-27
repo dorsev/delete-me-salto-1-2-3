@@ -1,0 +1,31 @@
+type dummy.RedBrownDaloris3 {
+  dummy.ToughYellowYsabel FineBrownCourtenay3 {
+    GrubbyAquaAubry = 169
+  }
+  boolean LeadingCrimsonEm {
+  }
+  boolean FederalGrayHalli5 {
+  }
+  hidden_boolean DefiantAzureBetteann4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  number SupposedCyanFarrand5 {
+  }
+  boolean UglyTurquoiseTina4 {
+  }
+  serviceid AustralianJadeKassia4 {
+  }
+  number ElegantTurquoiseTeddie5 {
+  }
+  number SemanticRedNinnette2 {
+  }
+  serviceid ShallowPinkMeggi2 {
+  }
+  hidden_boolean CreativeJadeKara2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

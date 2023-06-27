@@ -1,0 +1,56 @@
+type dummy.CompulsoryOliveMallissa {
+  annotations {
+    dummy.DEFAULT ProgressiveOliveMadella {
+    }
+    number GoodBlueCesya {
+    }
+    dummy.VerbalPinkMaxie MassiveFuchsiaGerrie {
+    }
+    number DisgustedAzureBettye {
+    }
+  }
+  serviceid_number HushedApricotAnnabal {
+    _hidden_value = true
+  }
+  boolean PreviousBrownDanice {
+    _hidden_value = true
+  }
+  boolean FirmGrayHeddie3 {
+    _hidden_value = true
+  }
+  json CurvedAmberAlisun4 {
+    _hidden_value = true
+  }
+  boolean PhysicalCoffeeDenna {
+    _hidden_value = true
+  }
+  boolean ProfoundPinkMerla {
+    _hidden_value = true
+  }
+  boolean HealthyGoldGrata2 {
+    _hidden_value = true
+  }
+  hidden_boolean DistinctHarlequinJanela {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LogicalLavenderKellen {
+    _hidden_value = true
+  }
+  json SpottyYellowWynne {
+    _hidden_value = true
+  }
+  hidden_boolean SacredRedNorina5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ProgressiveOliveMadella = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  GoodBlueCesya = 171
+  MassiveFuchsiaGerrie = false
+  DisgustedAzureBettye = 32
+  _hidden_value = true
+}

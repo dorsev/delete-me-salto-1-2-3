@@ -1,0 +1,109 @@
+type dummy.YummyYellowZorana {
+  annotations {
+    json NetGoldGlenda2 {
+    }
+    number UnpleasantRedNora4 {
+    }
+    json LogicalLavenderKelila3 {
+    }
+    number SocialBlueCharmion3 {
+    }
+    serviceid_number MereGreenIleane3 {
+    }
+    boolean MightyTanShandra2 {
+    }
+  }
+  string InquisitiveTealStacie4 {
+    _hidden_value = true
+  }
+  boolean FoolishSapphireRemy3 {
+    _hidden_value = true
+  }
+  serviceid_number ShockedPinkMelisande2 {
+    _hidden_value = true
+  }
+  serviceid_number AcademicEmeraldGabbey2 {
+    _hidden_value = true
+  }
+  boolean FunctionalMaroonLexis3 {
+    _hidden_value = true
+  }
+  hidden_boolean OutsideGrayHelga {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ProbableSalmonPhyllis {
+    _hidden_value = true
+  }
+  serviceid_number AbsoluteGreenImojean4 {
+    _hidden_value = true
+  }
+  hidden_boolean QuietWhiteVivien2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AggregateScarletRobby2 {
+    _hidden_value = true
+  }
+  serviceid MiddleCopperDyane {
+    _hidden_value = true
+  }
+  hidden_boolean DryAmberAlex2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DisappointedMagentaLaurianne2 {
+    _hidden_value = true
+  }
+  string FreshApricotArdra {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalRedNoell5 {
+    _hidden_value = true
+  }
+  string IndividualBrownCyb {
+    _hidden_value = true
+  }
+  number DistantIndigoJillian2 {
+    _hidden_value = true
+  }
+  serviceid LongAmaranthAdina3 {
+    _hidden_value = true
+  }
+  json BoringPeachMarquita {
+    _hidden_value = true
+  }
+  number RearPurpleMuriel3 {
+    _hidden_value = true
+  }
+  serviceid_number HappyBrownDaisey2 {
+    _hidden_value = true
+  }
+  boolean JealousAzureBobbye2 {
+    _hidden_value = true
+  }
+  string IllAzureBobbe {
+    _hidden_value = true
+  }
+  serviceid_number AmusedBeigeCacilia {
+    _hidden_value = true
+  }
+  boolean NearFuchsiaGerianna2 {
+    _hidden_value = true
+  }
+  hidden_boolean TiredGoldGretchen3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  NetGoldGlenda2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  UnpleasantRedNora4 = 175
+  LogicalLavenderKelila3 = "Why did the kid cross the playground? To get to the other slide."
+  SocialBlueCharmion3 = 610
+  MereGreenIleane3 = 168
+  MightyTanShandra2 = true
+  _hidden_value = true
+}

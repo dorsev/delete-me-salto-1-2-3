@@ -1,0 +1,149 @@
+type dummy.FrozenScarletRosabella {
+  annotations {
+    number ChristianCoralElva3 {
+    }
+    serviceid_number BetterVioletTommi {
+    }
+    serviceid NumerousAmethystAngela2 {
+    }
+    dummy.OddFuchsiaGenna TypicalEmeraldFranciska {
+    }
+    boolean WeirdSilverRozanne {
+    }
+  }
+  dummy.SimilarBronzeConstancy2 HarshApricotAnjela {
+    SillyIndigoJoeann = "Whoever invented the knock-knock joke should get a no bell prize."
+    GreenVioletUlrica = "Whoever invented the knock-knock joke should get a no bell prize."
+    FaithfulBlackCarlina = 812
+    FineBlackCarly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AgriculturalGoldGoldie = false
+    TastelessAquaAshlee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EssentialCoffeeDionne = true
+    EvilPeachMaurita = false
+    GoldenGrayHaleigh = true
+    ElectronicGreenInez = 683
+    NastyMaroonLisette2 = "I'll tell you what often gets over looked... garden fences."
+    ClinicalIndigoJenny = 591
+    AmbitiousPeachMaureene = true
+    ResidentSalmonRaf = true
+    MaleCoffeeDiannne = false
+    BusyTealShirley = 524
+    _hidden_value = true
+  }
+  dummy.OddFuchsiaGenna FollowingBrownCyndy3 {
+    OccasionalIvoryJulina = 193
+    MarxistSapphireRakel = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RedBrownDallas = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    SacredRedNorina = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    NavalPinkMel = "What creature is smarter than a talking parrot? A spelling bee."
+    RelatedIndigoJessamyn = false
+    MinimalPlumMorganica = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    _hidden_value = true
+  }
+  boolean WorthwhilePinkMelitta2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" RedWhiteWendi {
+    _hidden_value = true
+  }
+  serviceid SeparateCopperDorolisa {
+    _hidden_value = true
+  }
+  hidden_boolean FormidableSilverSabrina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SoundAmethystAngelina DangerousCrimsonEssy {
+    IslamicRoseOlympie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FlutteringAquaAthene = "Why didnt the skeleton cross the road? Because he had no guts."
+    PassivePurpleMyrah = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    _hidden_value = true
+  }
+  json FluffyAmberAlicea {
+    _hidden_value = true
+  }
+  json FancyTurquoiseTeena {
+    _hidden_value = true
+  }
+  json EnergeticBlackCarilyn2 {
+    _hidden_value = true
+  }
+  boolean CanadianPlumMinetta {
+    _hidden_value = true
+  }
+  boolean PuzzledTanShane {
+    _hidden_value = true
+  }
+  serviceid BraveBeigeCaitrin2 {
+    _hidden_value = true
+  }
+  hidden_boolean JapaneseEmeraldFidelia2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean JudicialJadeKarla2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BadAquamarineBernette2 {
+    _hidden_value = true
+  }
+  number ThunderingApricotArabella3 {
+    _hidden_value = true
+  }
+  hidden_boolean FinalBrownDalenna2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CalmPurpleNanci {
+    _hidden_value = true
+  }
+  serviceid SexualCopperEada {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SexualCopperDynah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number AmazingMoccasinLiza {
+    _hidden_value = true
+  }
+  hidden_boolean MaleCoffeeDidi3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LuckyBlackCassandry {
+    _hidden_value = true
+  }
+  serviceid_number ConcernedTealSibella2 {
+    _hidden_value = true
+  }
+  hidden_boolean HardAquaAudie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json MonthlyMaroonLinnea {
+    _hidden_value = true
+  }
+  ChristianCoralElva3 = 140
+  BetterVioletTommi = 382
+  NumerousAmethystAngela2 = "Why did the kid cross the playground? To get to the other slide."
+  TypicalEmeraldFranciska = 624
+  WeirdSilverRozanne = true
+  _hidden_value = true
+}

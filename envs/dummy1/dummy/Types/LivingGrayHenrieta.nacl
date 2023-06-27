@@ -1,0 +1,94 @@
+type dummy.LivingGrayHenrieta {
+  annotations {
+    boolean WickedBeigeBrunhilde {
+    }
+    dummy.DEFAULT DampMoccasinLorry2 {
+    }
+    string MadHarlequinJanet3 {
+    }
+    json KeenGrayHannah2 {
+    }
+    boolean CommercialCopperDorelle {
+    }
+  }
+  dummy.CompactPurpleNanny FavouriteHarlequinJaclyn2 {
+    ControlledTanSheilakathryn = "How come the stadium got hot after the game? Because all of the fans left."
+    CleanCyanFernande = 861
+    JoyousBlackCarry = 747
+    ColorfulTomatoTandie = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    SophisticatedJadeKarlene = 175
+    CuriousLimeKira = 372
+    MentalCrimsonEsme = 204
+    MeltedAquaAura = "Why did the kid cross the playground? To get to the other slide."
+    ShiveringAquaBabbie = "A steak pun is a rare medium well done."
+    ProgressiveOliveMadelin = 307
+    WillingGoldGustie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FrontCopperEadith = 341
+    CreepyAquamarineBeryle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  dummy.DeadTealSileas IndividualBrownCrystal {
+    StandardCopperDrusy = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    TypicalEmeraldFrancisca = 481
+    PublicBlushChrysler = "How come the stadium got hot after the game? Because all of the fans left."
+    DominantIndigoJena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AssistantOliveLynnet = false
+    LoyalPurpleNatala = 199
+    PaleGrayHarriet = 781
+    _hidden_value = true
+  }
+  dummy.GoodBlackCarmita CompulsoryOrangeMalorie {
+    TastelessAquaAshlee2 = "Why didnt the skeleton cross the road? Because he had no guts."
+    RequiredMaroonLeticia = false
+    ObjectiveOrangeMamie = 532
+    InappropriateRoseOttilie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  "List<number>" LongVioletVanessa3 {
+    _hidden_value = true
+  }
+  boolean ExcitedBlackCariotta3 {
+    _hidden_value = true
+  }
+  boolean SupportingSilverSamantha4 {
+    _hidden_value = true
+  }
+  boolean UnwillingTanShelbi {
+    _hidden_value = true
+  }
+  json IntelligentMaroonLinnell2 {
+    _hidden_value = true
+  }
+  hidden_boolean ShyTomatoStormy3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrictLavenderKatharina {
+    _hidden_value = true
+  }
+  json SadYellowWilletta3 {
+    _hidden_value = true
+  }
+  dummy.ModernTealStar AllegedOliveLynne {
+    _hidden_value = true
+  }
+  boolean KindOrangeMaribeth {
+    _hidden_value = true
+  }
+  json SophisticatedJadeKarlene2 {
+    _hidden_value = true
+  }
+  WickedBeigeBrunhilde = false
+  DampMoccasinLorry2 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  MadHarlequinJanet3 = "Why was it called the dark ages? Because of all the knights. "
+  KeenGrayHannah2 = "I'll tell you what often gets over looked... garden fences."
+  CommercialCopperDorelle = true
+  _hidden_value = true
+}

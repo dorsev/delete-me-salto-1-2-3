@@ -1,0 +1,130 @@
+type dummy.SoundRoseOlga4 {
+  annotations {
+    number NiceBrownCymbre4 {
+    }
+    serviceid EagerBeigeCandra {
+    }
+    number FranticAzureBirgit4 {
+    }
+    json KeenGrayHana3 {
+    }
+  }
+  boolean GiganticAmaranthAddi {
+    _hidden_value = true
+  }
+  json ElegantTurquoiseTeddi4 {
+    _hidden_value = true
+  }
+  string AsleepJadeKarmen2 {
+    _hidden_value = true
+  }
+  hidden_boolean WeirdSilverRozele4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColossalAmaranthAbbi {
+    _hidden_value = true
+  }
+  hidden_boolean GenerousLavenderKaylil {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TameTomatoSusannah2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RegularCopperDorthy5 {
+    _hidden_value = true
+  }
+  hidden_boolean MysteriousPurpleNell {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AustralianJadeKat2 {
+    _hidden_value = true
+  }
+  hidden_boolean WeeSapphireRevkah4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RegularCopperDorris4 {
+    _hidden_value = true
+  }
+  hidden_boolean CruelAquamarineBethanne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" RigidPinkMerrily2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json OkayOliveMaggie2 {
+    _hidden_value = true
+  }
+  serviceid_number OccupationalOliveMaddie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BewilderedAquamarineBernie3 {
+    _hidden_value = true
+  }
+  serviceid_number BrightVioletTova2 {
+    _hidden_value = true
+  }
+  serviceid MereGreenIlene {
+    _hidden_value = true
+  }
+  number KindOrangeMaribelle2 {
+    _hidden_value = true
+  }
+  json JapaneseCyanFidela4 {
+    _hidden_value = true
+  }
+  number SlowAmethystAnaliese6 {
+    _hidden_value = true
+  }
+  number SoleLimeKissee3 {
+    _hidden_value = true
+  }
+  serviceid_number SuperbMagentaLaurene5 {
+    _hidden_value = true
+  }
+  serviceid_number UrbanCyanFaith {
+    _hidden_value = true
+  }
+  string LabourBrownDaffi2 {
+    _hidden_value = true
+  }
+  number NearbyLimeKora2 {
+    _hidden_value = true
+  }
+  json InternalCoralEffie {
+    _hidden_value = true
+  }
+  serviceid_number ShortAmaranthAg5 {
+    _hidden_value = true
+  }
+  string ImaginativeTanSella2 {
+    _hidden_value = true
+  }
+  hidden_boolean CrudePlumMil4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WorldwideTanShannen {
+    _hidden_value = true
+  }
+  serviceid AboveIvoryJoyann3 {
+    _hidden_value = true
+  }
+  NiceBrownCymbre4 = 229
+  EagerBeigeCandra = "Im only familiar with 25 letters in the English language. I dont know why."
+  FranticAzureBirgit4 = 948
+  KeenGrayHana3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,123 @@
+type dummy.HugeAmaranthAdela {
+  annotations {
+    hidden_boolean SorryBrownDanyelle2 {
+    }
+    boolean ContinentalOliveMaggee3 {
+    }
+    hidden_boolean VictoriousBlueCecil2 {
+    }
+    number UpsetBeigeBritte2 {
+    }
+    boolean LostJadeKaralee2 {
+    }
+    json RareEmeraldFlorette3 {
+    }
+  }
+  number EthnicLavenderKaycee {
+    _hidden_value = true
+  }
+  hidden_boolean GladGoldGlynda3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string BlackVioletTonye {
+    _hidden_value = true
+  }
+  number AverageCrimsonElysia {
+    _hidden_value = true
+  }
+  boolean TraditionalChocolateDeidre {
+    _hidden_value = true
+  }
+  boolean NosyWhiteVickie2 {
+    _hidden_value = true
+  }
+  serviceid DullMoccasinLoria2 {
+    _hidden_value = true
+  }
+  serviceid_number PresentBrownCristi2 {
+    _hidden_value = true
+  }
+  json LoudApricotAnnabelle {
+    _hidden_value = true
+  }
+  boolean MereGreenIdette3 {
+    _hidden_value = true
+  }
+  serviceid InternationalBlushClaudette {
+    _hidden_value = true
+  }
+  json BlackVioletTootsie {
+    _hidden_value = true
+  }
+  serviceid_number LikelyBlushClarice {
+    _hidden_value = true
+  }
+  serviceid CommercialCopperDoretta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbleBlushChrissy4 {
+    _hidden_value = true
+  }
+  string BetterVioletTomi {
+    _hidden_value = true
+  }
+  hidden_boolean GrandEmeraldFrances {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean LowAmberAlly {
+    _hidden_value = true
+  }
+  serviceid_number BalancedSilverRosmunda {
+    _hidden_value = true
+  }
+  boolean GeographicalPeachMarlena {
+    _hidden_value = true
+  }
+  serviceid_number ObnoxiousAzureBrandie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PersistentRosePam {
+    _hidden_value = true
+  }
+  json AustralianJadeKassie {
+    _hidden_value = true
+  }
+  hidden_boolean SocialBlueCharmion2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.GoodBlackCaro SurvivingSapphireRicki2 {
+    _hidden_value = true
+  }
+  serviceid GracefulTurquoiseTerra {
+    _hidden_value = true
+  }
+  string SacredRedNorri {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AgriculturalGoldGoldi {
+    _hidden_value = true
+  }
+  number ManyWhiteVeradis2 {
+    _hidden_value = true
+  }
+  number TameYellowYasmeen2 {
+    _hidden_value = true
+  }
+  boolean GreekIndigoJoana2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PreciousOrangeMariellen2 {
+    _hidden_value = true
+  }
+  ContinentalOliveMaggee3 = false
+  UpsetBeigeBritte2 = 651
+  LostJadeKaralee2 = false
+  RareEmeraldFlorette3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

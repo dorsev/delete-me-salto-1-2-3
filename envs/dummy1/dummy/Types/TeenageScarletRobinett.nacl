@@ -1,0 +1,30 @@
+type dummy.TeenageScarletRobinett {
+  annotations {
+    hidden_boolean ParentalRedNicki {
+    }
+    boolean SoleLimeKissee2 {
+    }
+    dummy.DEFAULT FlakyAmberAlfy {
+    }
+    number BeautifulCoffeeDixie {
+    }
+    json SystematicOrangeMarcela2 {
+    }
+    boolean MeanIvoryJuli {
+    }
+    serviceid ConcernedTealSibelle {
+    }
+  }
+  dummy.DEFAULT BeautifulTomatoTabina {
+    _hidden_value = true
+  }
+  SoleLimeKissee2 = true
+  FlakyAmberAlfy = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  BeautifulCoffeeDixie = 166
+  SystematicOrangeMarcela2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MeanIvoryJuli = true
+  ConcernedTealSibelle = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

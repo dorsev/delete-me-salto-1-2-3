@@ -1,0 +1,90 @@
+type dummy.GrowingCrimsonEnrica2 {
+  annotations {
+    boolean FunOrangeMarcile {
+    }
+    serviceid_number GuiltyFuchsiaGinelle2 {
+    }
+    json GrimScarletRonnie {
+    }
+    serviceid_number ResidentialIndigoJesselyn2 {
+    }
+    serviceid RubberSilverSaree {
+    }
+    serviceid_number AngryFuchsiaGillian {
+    }
+  }
+  dummy.DominantIndigoJena2 MedicalCoffeeDevonne {
+    ExtensiveGoldGloriana = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    OralLimeKylila = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    EldestTanSharline = 7
+    EvilAzureBidget = "I'll tell you what often gets over looked... garden fences."
+    SoreBeigeBrigid = 558
+    CreepyAmberAlameda = 747
+    HarshOliveMahalia = false
+    DirectChocolateDeane = true
+    WetGrayHedwig = "My first time using an elevator was an uplifting experience. The second time let me down."
+    DamagedAmberAleen = 578
+    BoringPeachMarni = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DiverseRedNicky = 122
+    ModeratePurpleNatalya = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HarshOliveMaible = 97
+    ChemicalGreenIsadora = 944
+    _hidden_value = true
+  }
+  dummy.DisappointedMagentaLaurice BitterJadeKaryn {
+    RightBlushCherin = 206
+    PoorBronzeCorella = 2
+    CarefulCyanFern = false
+    UnevenAquamarineBeilul = true
+    FantasticSapphireReggie = 677
+    ContinentalOliveMaggee = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FinancialBronzeCorette = 368
+    HumanBronzeConstantina = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    EnergeticBlackCaril = 899
+    _hidden_value = true
+  }
+  hidden_boolean ManyWhiteVera {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MentalCrimsonEsmeralda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DreadfulPinkMerrile3 {
+    _hidden_value = true
+  }
+  number SelectSalmonPhilippa {
+    _hidden_value = true
+  }
+  string PoliticalBlushChloette {
+    _hidden_value = true
+  }
+  hidden_boolean SelfishBeigeBridgette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string CleanCyanFernanda {
+    _hidden_value = true
+  }
+  json SignificantBrownDanna {
+    _hidden_value = true
+  }
+  boolean ScornfulBeigeBrianna {
+    _hidden_value = true
+  }
+  FunOrangeMarcile = true
+  GuiltyFuchsiaGinelle2 = 629
+  GrimScarletRonnie = "Why do birds fly south for the winter? Because it's too far to walk."
+  ResidentialIndigoJesselyn2 = 184
+  RubberSilverSaree = "Why did the tomato blush? Because it saw the salad dressing."
+  AngryFuchsiaGillian = 814
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.ImpossibleTealSorcha4 {
+  annotations {
+    hidden_boolean ImaginativeTanSella3 {
+    }
+    string SupremeGreenIsabella4 {
+    }
+    boolean TopChocolateDareen2 {
+    }
+    json BigAmaranthAbbi3 {
+    }
+    boolean IncredibleRosePatty3 {
+    }
+    serviceid DigitalMaroonLianne5 {
+    }
+    hidden_boolean LittleBlushChlo {
+    }
+    serviceid GrandEmeraldFrances4 {
+    }
+    serviceid_number MeanIvoryJulee {
+    }
+    serviceid_number SubstantialCoralElsie2 {
+    }
+    number ProperCoralElinor2 {
+    }
+    string PleasantBlackCatharine4 {
+    }
+    number ProtestantScarletRobin4 {
+    }
+    boolean EmptyCyanFancy3 {
+    }
+    number UnchangedSilverRubetta3 {
+    }
+    dummy.ModernTealStar LightAmethystAnestassia4 {
+    }
+    hidden_boolean SquealingApricotArabel4 {
+    }
+    dummy.SplendidOrangeMandie SharedPinkMelessa2 {
+    }
+  }
+  SupremeGreenIsabella4 = "Why did the kid cross the playground? To get to the other slide."
+  TopChocolateDareen2 = true
+  BigAmaranthAbbi3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IncredibleRosePatty3 = true
+  DigitalMaroonLianne5 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GrandEmeraldFrances4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MeanIvoryJulee = 415
+  SubstantialCoralElsie2 = 655
+  ProperCoralElinor2 = 146
+  PleasantBlackCatharine4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ProtestantScarletRobin4 = 75
+  EmptyCyanFancy3 = false
+  UnchangedSilverRubetta3 = 877
+  LightAmethystAnestassia4 = file("ChubbyAmberAlis3.txt")
+}
