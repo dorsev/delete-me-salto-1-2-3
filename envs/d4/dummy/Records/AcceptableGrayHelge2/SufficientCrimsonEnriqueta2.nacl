@@ -1,3 +1,75 @@
 dummy.AcceptableGrayHelge2 SufficientCrimsonEnriqueta2 {
   _parent = dummy.BrownFuchsiaGaynor2
 }
+
+type dummy.AcceptableGrayHelge2 {
+  annotations {
+    boolean CheerfulSapphireRhona {
+    }
+    json ChemicalGreenIseabal {
+    }
+    dummy.TameTomatoSusannah DefinitePeachMartguerita2 {
+    }
+    serviceid DistinctHarlequinJanela3 {
+    }
+    hidden_boolean EnglishBrownCrin5 {
+    }
+    boolean EvilAzureBili2 {
+    }
+    string FollowingBrownCynthea5 {
+    }
+    number FreshApricotArdyce3 {
+    }
+    serviceid_number FutureCoffeeDolores3 {
+    }
+    serviceid_number GreatAmaranthAddi3 {
+    }
+    string IslamicRoseOndrea2 {
+    }
+    serviceid_number KindBlackCaryn3 {
+    }
+    json MeaningfulTealSheree5 {
+    }
+    json NaturalBrownCrysta4 {
+    }
+    number PrimeBrownDanila3 {
+    }
+    boolean ProminentLavenderKelcey4 {
+    }
+    hidden_boolean SeniorCoffeeDonelle2 {
+    }
+    serviceid_number SmoothIndigoJemmie2 {
+    }
+    dummy.FierceAzureBillye SophisticatedJadeKarlotta4 {
+    }
+    serviceid TartYellowWynny2 {
+    }
+    boolean UnconsciousSapphireRaven4 {
+    }
+  }
+  dummy.CombativeAquamarineBerte2 WhisperingApricotArdelis3 {
+    HelpfulTealSonni = 104
+    HotAquaAudry3 = 145
+    PrimaryCoffeeDoll = true
+    SaltyApricotArleen3 = "Why did the tomato blush? Because it saw the salad dressing."
+    SilentApricotAntonia2 = 946
+  }
+  CheerfulSapphireRhona = false
+  ChemicalGreenIseabal = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DefinitePeachMartguerita2 = false
+  DistinctHarlequinJanela3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EvilAzureBili2 = false
+  FollowingBrownCynthea5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FreshApricotArdyce3 = 726
+  FutureCoffeeDolores3 = 400
+  GreatAmaranthAddi3 = 11
+  IslamicRoseOndrea2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  KindBlackCaryn3 = 278
+  MeaningfulTealSheree5 = "Why is Peter Pan always flying? Because he Neverlands."
+  NaturalBrownCrysta4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  PrimeBrownDanila3 = 409
+  ProminentLavenderKelcey4 = true
+  SmoothIndigoJemmie2 = 833
+  TartYellowWynny2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnconsciousSapphireRaven4 = false
+}
